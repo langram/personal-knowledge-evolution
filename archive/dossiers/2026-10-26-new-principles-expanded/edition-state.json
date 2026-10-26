@@ -1,0 +1,894 @@
+{
+  "schema": "new-principles-expanded.editorial-state@1",
+  "updated_at": "2026-10-26T08:16:18.700841+00:00",
+  "status": "full-expanded-editorial-draft; author-review-pending",
+  "baseline_edition": "../2026-10-26-new-principles/01-new-principles.md",
+  "requested_work": "全面扩充，作者原话为主，独立成篇，逐章连续修订",
+  "complete_chapters": 24,
+  "planned_chapters": 24,
+  "plan": [
+    {
+      "chapter": "00",
+      "title": "前言：为什么要重新考察数学、科学与文明",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "01",
+      "title": "极限、悖论与认识的边界",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "02",
+      "title": "存在、变化与可构造性",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "03",
+      "title": "不动点、最小化、最大化与涌现",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "04",
+      "title": "物理世界与层层构造的自然",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "05",
+      "title": "意识、信息与自我驱动的智能",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "06",
+      "title": "合作、冲突与社会结构的形成",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "07",
+      "title": "机器、人工智能与平等的物质条件",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "08",
+      "title": "语言、公共知识与文明的共同记忆",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "09",
+      "title": "个人知识的语义空间与时间线",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "10",
+      "title": "从反复思考到可以复用的能力",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "11",
+      "title": "新语言、Structoken 与 FPM",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "12",
+      "title": "MerkleVM 与可以生长的软件种子",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "13",
+      "title": "人和 AI 怎样共同研究与构造",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "14",
+      "title": "具有感官与行动能力的文明智能",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "15",
+      "title": "动态权重的社会神经网络",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "16",
+      "title": "个人需求与集体资源的两种分配",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "17",
+      "title": "产品、组织与决策的全面开放",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "18",
+      "title": "个人数据主权、隐私与公共知识",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "19",
+      "title": "从一个人的云存储开始",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "20",
+      "title": "自由区的生长与制度的和平演化",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "21",
+      "title": "自我实现的科幻与文化建设",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "22",
+      "title": "科学、教育与文明的持续创造",
+      "status": "expanded-copyedited"
+    },
+    {
+      "chapter": "23",
+      "title": "后记：让每一个人都成为创造者",
+      "status": "expanded-copyedited"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": "00",
+      "title": "前言：为什么要重新考察数学、科学与文明",
+      "file": "chapters/00.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 4999,
+      "body_characters": 5464,
+      "source_adapted_characters": 4328,
+      "literal_source_characters": 3777,
+      "literal_retention_ratio": 0.6913,
+      "source_blocks": 19,
+      "review": {
+        "central_question": "为什么从数学与科学的关系追问到文明组织",
+        "reasoning": "测量与数学表达→双向映射→局部最优与重构→范畴结构→知识与组织→个人实践",
+        "examples": [
+          "3米和3秒",
+          "棋局弃子",
+          "牛顿理论的适用范围",
+          "山峦鸟瞰",
+          "个人工具作为交互接口"
+        ],
+        "objections": [
+          "反常识本身不能证明新理论",
+          "抽象相似不能代替具体机制"
+        ],
+        "voice": "正文以指定底稿为主，删除自我贬抑和追述原稿；开篇与主体直接陈述",
+        "status": "已逐段核对选材与主要改动，仍随全书统稿修订",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅",
+        "repetition_edit": "范畴论的对象态射例子与苏轼山峦类比保留于第一章，前言不重复展开。"
+      }
+    },
+    {
+      "chapter": "01",
+      "title": "极限、悖论与认识的边界",
+      "file": "chapters/01.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3299,
+      "body_characters": 3768,
+      "source_adapted_characters": 1614,
+      "literal_source_characters": 1072,
+      "literal_retention_ratio": 0.2845,
+      "source_blocks": 8,
+      "review": {
+        "reasoning": "变换的共同结构→运动的分段与极限→等价关系的条件→自指的构造边界→动态扩展→有限构造能力",
+        "examples": [
+          "道路连接",
+          "二分行走与时间",
+          "0.999…",
+          "泥杯与圆环",
+          "罗素集合",
+          "十个元素的幂集"
+        ],
+        "objections": [
+          "有无穷分段为何能到达",
+          "等价是否任意",
+          "动态扩展是否推翻不完备性",
+          "有限空间为何称无穷"
+        ],
+        "voice": "原始底稿为骨架，保留后续作者自指与相对尺度设想；错误数学等同作明确实质改写",
+        "status": "初校；实质修订保留原文差异，未声称作者已经批准全部技术订正",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "02",
+      "title": "存在、变化与可构造性",
+      "file": "chapters/02.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3320,
+      "body_characters": 3717,
+      "source_adapted_characters": 2635,
+      "literal_source_characters": 1789,
+      "literal_retention_ratio": 0.4813,
+      "source_blocks": 8,
+      "review": {
+        "reasoning": "可识别的存在→可探测的变化→组合的稳定→对偶体研究动机→内部实现与外部关系→层级与差异→未定过程的边界",
+        "examples": [
+          "持续变化的人",
+          "积木连接",
+          "程序保存与执行",
+          "原子细胞人与程序的角色差异",
+          "候选模块接口"
+        ],
+        "objections": [
+          "改名是否等于新数学",
+          "抽象是否抹掉学科差异",
+          "容纳未定是否允许任意矛盾"
+        ],
+        "voice": "大量保留作者 Gemini 逐段论证及原始 Dualoid 结构，严格区分嵌入 AI 回复",
+        "status": "初校；形式化仍为研究设想，具体改动可追溯",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "03",
+      "title": "不动点、最小化、最大化与涌现",
+      "file": "chapters/03.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3972,
+      "body_characters": 4470,
+      "source_adapted_characters": 2923,
+      "literal_source_characters": 2214,
+      "literal_retention_ratio": 0.4953,
+      "source_blocks": 10,
+      "review": {
+        "reasoning": "学科层级→相对变换的不动点→维持成本与外部联系→耦合且变化的评价→描述复杂度与构造成本→具体实现检验",
+        "examples": [
+          "工厂与原子清单",
+          "反复排序",
+          "轻便而多用的工具",
+          "全零字符串与无规律字符串",
+          "短程序穷举与长程序复用",
+          "Hotpath实验"
+        ],
+        "objections": [
+          "物理基础能否替代高层学科",
+          "连接是否越多越好",
+          "最短是否最快",
+          "一个领域成功能否证明全部"
+        ],
+        "voice": "主要沿作者最小化最大化论述及复杂度长段展开，框架名称保留，定理地位作待形式化处理",
+        "status": "初校；理论假设与技术结果边界分别保留",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "04",
+      "title": "物理世界与层层构造的自然",
+      "file": "chapters/04.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3096,
+      "body_characters": 3348,
+      "source_adapted_characters": 1793,
+      "literal_source_characters": 1397,
+      "literal_retention_ratio": 0.4173,
+      "source_blocks": 8,
+      "review": {
+        "reasoning": "构造能力本身的来历→层级基本构件→共同基础与多样性→非平衡稳定→并行探索与积累→可研究的物理问题",
+        "examples": [
+          "乐高与小球思想模型",
+          "碳硅构造问题",
+          "共同软件接口",
+          "火焰的持续交换",
+          "多样化并行探索"
+        ],
+        "objections": [
+          "复杂描述证明存在更小粒子吗",
+          "局部有序违反熵增吗",
+          "物理类比能够直接证明制度吗",
+          "结构越复杂必然越好吗"
+        ],
+        "voice": "保留作者关于物理层级与构造的提问；不沿用其已明确承认有误的开放弦闭合弦粒子映射",
+        "status": "初校；数学与物理猜想未冒充实验证实",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "05",
+      "title": "意识、信息与自我驱动的智能",
+      "file": "chapters/05.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3524,
+      "body_characters": 4143,
+      "source_adapted_characters": 2433,
+      "literal_source_characters": 1752,
+      "literal_retention_ratio": 0.4229,
+      "source_blocks": 9,
+      "review": {
+        "reasoning": "区分→测量与行动→层级反应→内外边界与观察者→抽象压缩→持续自我对话→外部反馈→共同智能",
+        "examples": [
+          "恒温装置",
+          "麦克斯韦妖",
+          "运动信号组合",
+          "杯子概念",
+          "阅读中未解决的问题"
+        ],
+        "objections": [
+          "分类器是否等于意识",
+          "自我对话是否证明主观体验",
+          "压缩越小是否越聪明",
+          "内部循环如何避免强化错误"
+        ],
+        "voice": "保留作者完整自我对话设想、智能压缩论述和细胞层级展开；未计入AI回复",
+        "status": "初校；分类器形式术语修正，自我意识机制仍为假说",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "06",
+      "title": "合作、冲突与社会结构的形成",
+      "file": "chapters/06.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 5826,
+      "body_characters": 6414,
+      "source_adapted_characters": 4130,
+      "literal_source_characters": 3371,
+      "literal_retention_ratio": 0.5256,
+      "source_blocks": 16,
+      "review": {
+        "central_question": "个体差异怎样通过反复互动形成稳定社会结构，又怎样改进这种过程",
+        "reasoning": "合作困难→稳定与共同利益的区别→反应光谱→个体与环境交互→成本归属和反馈放大→多样性→研究冲突机制",
+        "examples": [
+          "化学键",
+          "重复合作",
+          "颜色与波长",
+          "相同反应倾向在不同环境中的表现",
+          "压制者与受影响者的成本",
+          "旧无线电在特殊条件下的价值"
+        ],
+        "objections": [
+          "模型没有基因即基因无关",
+          "基因决定制度",
+          "稳定即合理最优",
+          "更优即淘汰全部旧路径",
+          "解释犯罪即纵容或强制医疗"
+        ],
+        "voice": "以作者在Claude和ChatGPT中的逐层回应为主；AI的鹰鸽模型结论不冒充作者文字",
+        "status": "已核对混合对话角色；具体医学与历史强断言不作为事实引用，实质改动在来源差异中可查",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "07",
+      "title": "机器、人工智能与平等的物质条件",
+      "file": "chapters/07.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 2975,
+      "body_characters": 3214,
+      "source_adapted_characters": 1815,
+      "literal_source_characters": 1366,
+      "literal_retention_ratio": 0.425,
+      "source_blocks": 7,
+      "review": {
+        "reasoning": "工具缩小生理差异→使用条件决定收益→智力成果可复制→共同基础保留差异→生产关系调整→劳动与创造→公共知识",
+        "examples": [
+          "农业机械",
+          "导航地图",
+          "工匠与机器",
+          "专家经验变成可检验工具",
+          "个人电影创作"
+        ],
+        "objections": [
+          "强工具自动带来平等吗",
+          "平等是否抹去多样性",
+          "AI能回答即能负责吗",
+          "岗位减少是否等于创造终结"
+        ],
+        "voice": "保留作者2024年工具平等论述与2026年智力劳动、知识DNA、生产关系论述",
+        "status": "初校；未来充足供应表述为方向，不当作已实现事实",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "08",
+      "title": "语言、公共知识与文明的共同记忆",
+      "file": "chapters/08.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 2971,
+      "body_characters": 3243,
+      "source_adapted_characters": 1935,
+      "literal_source_characters": 1509,
+      "literal_retention_ratio": 0.4653,
+      "source_blocks": 9,
+      "review": {
+        "reasoning": "编码与重建→命名未知→共同知道→内容身份与位置→知识细粒度关联→共同构造",
+        "examples": [
+          "给未知现象命名",
+          "一起搬家具",
+          "旧实验版本与新结论",
+          "网页与段落级依赖"
+        ],
+        "objections": [
+          "文件公开即共同知识吗",
+          "哈希能证明事实吗",
+          "知道CID必然能下载吗",
+          "统一是否抹平不同表达"
+        ],
+        "voice": "保留作者通信、命名、公共知识与Web细粒度化论述；修正哈希签名混同",
+        "status": "初校；生物语言优劣的无根据倍数未纳入正文，原材料保留",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "09",
+      "title": "个人知识的语义空间与时间线",
+      "file": "chapters/09.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3011,
+      "body_characters": 3370,
+      "source_adapted_characters": 1619,
+      "literal_source_characters": 1401,
+      "literal_retention_ratio": 0.4157,
+      "source_blocks": 5,
+      "review": {
+        "reasoning": "跨平台想法→静态关系与演化路径→树视图与多重依赖→原话与提炼区分→转引事件与内容去重→原始归档与提取→当前表达与历史保留",
+        "examples": [
+          "动态权重跨章节",
+          "误引共同知识论述",
+          "一段文字五次转引",
+          "文章导入时间与创作时间"
+        ],
+        "objections": [
+          "总结足以替代原话吗",
+          "所有知识必然无环吗",
+          "用户粘贴即作者赞同吗",
+          "记录历史会不会冻结个人"
+        ],
+        "voice": "保留最初个人知识库需求与理论演化空间的长篇作者论述，技术衔接单独标记",
+        "status": "初校；时间线、归属、关系均不得仅由相似度推断为事实",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "10",
+      "title": "从反复思考到可以复用的能力",
+      "file": "chapters/10.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3229,
+      "body_characters": 3682,
+      "source_adapted_characters": 2168,
+      "literal_source_characters": 1789,
+      "literal_retention_ratio": 0.4859,
+      "source_blocks": 6,
+      "review": {
+        "reasoning": "熟练化→冷路径探索与热路径复用→适用条件→宏微观任务→共享能力→界面与语义分离→完整成本负结果→动态改进",
+        "examples": [
+          "驾驶技能",
+          "照片整理",
+          "表达式与列表排序",
+          "电影观看前后界面",
+          "4096点跨进程负结果"
+        ],
+        "objections": [
+          "录制一次就能通用吗",
+          "聊天框等于智能界面吗",
+          "C实现必然快吗",
+          "静态评估能证明运行吗"
+        ],
+        "evidence_refs": [
+          "R54235",
+          "HOTPATH-REPORT"
+        ],
+        "voice": "Quick Launcher与KiwiClaw长段保留；研究结果用有来源的编辑叙述，不计为作者原话",
+        "status": "初校；未声称本轮重跑历史实验或当前产品状态",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "11",
+      "title": "新语言、Structoken 与 FPM",
+      "file": "chapters/11.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3924,
+      "body_characters": 4646,
+      "source_adapted_characters": 2886,
+      "literal_source_characters": 2299,
+      "literal_retention_ratio": 0.4948,
+      "source_blocks": 7,
+      "review": {
+        "reasoning": "乐谱类比→输入输出与内部表示→语义约定与实现→哈希距离问题→多层结构表示→类型化不确定性→FPM与前端→模型间知识共享",
+        "examples": [
+          "乐谱",
+          "文件参数的结构化传递",
+          "工具箱分类",
+          "图关系干预",
+          "缺参数与竞争解释",
+          "共享资料导致相关误差"
+        ],
+        "objections": [
+          "哈希词表等于理解吗",
+          "CID相同等于语义相同吗",
+          "静态探测失败能否证明无结构",
+          "节点误差能否直接相乘",
+          "模型内部表示能否直接互换"
+        ],
+        "evidence_refs": [
+          "STRUCTOKEN",
+          "R54935"
+        ],
+        "voice": "大部分沿作者语义分层、命名空间、不确定性和FPM原话展开；项目材料不计作作者原话",
+        "status": "初校；拟议内部结构与已验证实验严格分开",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "12",
+      "title": "MerkleVM 与可以生长的软件种子",
+      "file": "chapters/12.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3267,
+      "body_characters": 3651,
+      "source_adapted_characters": 2419,
+      "literal_source_characters": 1855,
+      "literal_retention_ratio": 0.5081,
+      "source_blocks": 8,
+      "review": {
+        "reasoning": "以个人为中心的虚拟空间→跨设备任务→公共与私有内容→包装旧生态→渐进替换→授权边界→自举",
+        "examples": [
+          "手机发起远端下载",
+          "文件跨本地局域网云访问",
+          "公共程序内容共享",
+          "逐层包装电脑应用任务",
+          "资料副本试验",
+          "鸡生蛋与蛋生鸡"
+        ],
+        "objections": [
+          "虚拟空间忽视物理约束吗",
+          "内容去重等于权限共享吗",
+          "任何电脑登录都安全吗",
+          "自举是否自行扩大权限"
+        ],
+        "voice": "长段保留作者口述设备愿景、软件种子与沙箱方案；清理口述重复并修正无条件安全和当前实现断言",
+        "status": "初校；愿景与已部署能力不混写",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "13",
+      "title": "人和 AI 怎样共同研究与构造",
+      "file": "chapters/13.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 2877,
+      "body_characters": 3199,
+      "source_adapted_characters": 1257,
+      "literal_source_characters": 950,
+      "literal_retention_ratio": 0.297,
+      "source_blocks": 6,
+      "review": {
+        "reasoning": "四角色分工→分布式研究→独立证据与重复转引→构造候选→临时验证→动态权重有限实验→目标选择→失败成本记录→自举",
+        "examples": [
+          "研究规划开发评判",
+          "两台电脑合作",
+          "通用包装与短路径与验证优先",
+          "历史反馈预测",
+          "跨领域损失排序"
+        ],
+        "objections": [
+          "模型多就是独立共识吗",
+          "没有验证器是否不能开始",
+          "平均改善是否处处改善",
+          "排序是否决定正当性"
+        ],
+        "evidence_refs": [
+          "E002",
+          "T033"
+        ],
+        "voice": "保留四角色、分布式研发与构造代码的作者论述；明确采纳的AI提炼不冒充最初原创",
+        "status": "初校；只读已有研究，不恢复任何暂停实验",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "14",
+      "title": "具有感官与行动能力的文明智能",
+      "file": "chapters/14.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3847,
+      "body_characters": 4186,
+      "source_adapted_characters": 2535,
+      "literal_source_characters": 2096,
+      "literal_retention_ratio": 0.5007,
+      "source_blocks": 9,
+      "review": {
+        "central_question": "AGI为什么需要由感知、知识、计算、行动与反馈构成完整网络",
+        "reasoning": "机器突破身体限制→仅增加人数的局限→现实闭环→共同中枢与局部分工→能力增长和合作条件→成熟技术与信任",
+        "examples": [
+          "多人抬物与精密加工",
+          "城市供水",
+          "机场与行李车",
+          "共同机器与独占机器",
+          "汽车与飞机"
+        ],
+        "objections": [
+          "超级模型等同于AGI",
+          "共同中枢等同于最高个人",
+          "技术成熟自动消除所有利益问题"
+        ],
+        "voice": "使用作者机器、缸中大脑、星球智能与技术信任论述；场景和连接段为编辑增补",
+        "status": "已核对来源；远景以设想和条件展开，未写成已实现能力",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "15",
+      "title": "动态权重的社会神经网络",
+      "file": "chapters/15.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 5161,
+      "body_characters": 5624,
+      "source_adapted_characters": 3397,
+      "literal_source_characters": 2709,
+      "literal_retention_ratio": 0.4817,
+      "source_blocks": 13,
+      "review": {
+        "central_question": "动态权重如何把基层知识、共同规则、个人AI与反馈连接起来",
+        "reasoning": "知识与职位错位→去除固定身份绑定→领域判断和反馈→个人代理使参与可持续→局部自动调节与整体协调→权重规则自身的修正→两种分配",
+        "examples": [
+          "维修预算与现场故障",
+          "垃圾邮件线索",
+          "三种故障判断",
+          "日常代理与重大选择",
+          "铁路长期规划"
+        ],
+        "objections": [
+          "算法选出最高领导",
+          "一次正确产生终身特权",
+          "每人对每事开会",
+          "评分者不受评分",
+          "权重持有人隐藏错误"
+        ],
+        "voice": "保留作者定义、公共模型与个人模型、调节机制及角色互换；补充例子与递进解释",
+        "status": "已核对选材；计分细节作为展开建议，未冒称作者已定算法",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "16",
+      "title": "个人需求与集体资源的两种分配",
+      "file": "chapters/16.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 4489,
+      "body_characters": 4817,
+      "source_adapted_characters": 2727,
+      "literal_source_characters": 2416,
+      "literal_retention_ratio": 0.5016,
+      "source_blocks": 11,
+      "review": {
+        "central_question": "为什么必须分开个人生活需要和共同生产资源的支配",
+        "reasoning": "用途区别→需要的差异与适量→共同资源的外部影响→不对等累积→优势者的长期收益→生活保障与真实反馈",
+        "examples": [
+          "个人饭食与城市储备",
+          "工程师与电网",
+          "营养及精神需要",
+          "铁路与沿线生活",
+          "首富与长寿技术的思想实验",
+          "数学家创业者游戏作者的信息保密"
+        ],
+        "objections": [
+          "按需等于平均或无限索取",
+          "公共效率可以忽略个体",
+          "贡献多必须获得永久支配权",
+          "优势者没有参与理由"
+        ],
+        "voice": "长篇保留两类资源、复利分化及长期利益的原话；思想实验数值保留但不冒充技术预测",
+        "status": "已逐段初校；正态分布改成待测分布及差异直觉，不作强制分配公式",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "17",
+      "title": "产品、组织与决策的全面开放",
+      "file": "chapters/17.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3595,
+      "body_characters": 3936,
+      "source_adapted_characters": 2713,
+      "literal_source_characters": 2222,
+      "literal_retention_ratio": 0.5645,
+      "source_blocks": 9,
+      "review": {
+        "central_question": "为什么产品开源还不足以完成组织关系的改变",
+        "reasoning": "服务控制权→广泛参与→贡献记录与评价分离→功能组合→规模增长与共同控制→个人主权",
+        "examples": [
+          "能读代码但不能决定服务",
+          "报告故障和语言贡献",
+          "一行修复与千行冗余",
+          "手机功能模块"
+        ],
+        "objections": [
+          "开源代码即开放治理",
+          "不写代码就不生产",
+          "提交数量等于贡献价值",
+          "扩大规模必然产生原式垄断"
+        ],
+        "voice": "保留作者全面开源、消费者生产者、贡献追踪、手机与从一人开始的论述",
+        "status": "已初校；具体组织制度继续通过实践章节展开",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "18",
+      "title": "个人数据主权、隐私与公共知识",
+      "file": "chapters/18.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3734,
+      "body_characters": 4184,
+      "source_adapted_characters": 2376,
+      "literal_source_characters": 1917,
+      "literal_retention_ratio": 0.4582,
+      "source_blocks": 8,
+      "review": {
+        "central_question": "数据主权为什么与隐私、平等和共同知识同时相关",
+        "reasoning": "服务权力差→个人数字空间→隐私的关系条件→记录与披露分离→内容身份和权限→持续改变与迁移",
+        "examples": [
+          "跨平台历史讨论",
+          "员工向管理者提供数据",
+          "私人日记与公开研究",
+          "服务故障复现与私人通信"
+        ],
+        "objections": [
+          "记录天然等于监控",
+          "充分共享等于强制公开全部",
+          "计算哈希就完成隐私保护",
+          "保留过去等于冻结现在"
+        ],
+        "voice": "保留作者REA、人生记录、隐私关系及两类资源论述；对强断言保留理论条件并列入实质改动核对",
+        "status": "需全书终校：核对隐私命题条件化是否忠实，绝不将此改写标成作者已批准的新立场",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "19",
+      "title": "从一个人的云存储开始",
+      "file": "chapters/19.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 2553,
+      "body_characters": 2717,
+      "source_adapted_characters": 620,
+      "literal_source_characters": 476,
+      "literal_retention_ratio": 0.1752,
+      "source_blocks": 5,
+      "review": {
+        "reasoning": "一个人的真实需要→可恢复的资料空间→原始层与提炼层→本地云副本→多人边界与账→共享处理能力→按需要扩展计算",
+        "examples": [
+          "聊天作品导入",
+          "跨环境恢复",
+          "服务器代码反馈三种贡献",
+          "第二位参与者",
+          "检索与转码带来计算需求"
+        ],
+        "objections": [
+          "只有一人能开始吗",
+          "只上传成功是否证明可恢复",
+          "贡献可否简单换成统一分数",
+          "初期能否承诺全部社会保障"
+        ],
+        "voice": "作者起点与参与方式原话保留；具体MVP实施链为本轮补写，逐段明示编辑属性",
+        "status": "初校；不涉及实际采购、定价承诺或部署",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "20",
+      "title": "自由区的生长与制度的和平演化",
+      "file": "chapters/20.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3233,
+      "body_characters": 3438,
+      "source_adapted_characters": 1912,
+      "literal_source_characters": 1630,
+      "literal_retention_ratio": 0.4741,
+      "source_blocks": 7,
+      "review": {
+        "reasoning": "共同知识形成自由区→兼容旧生活→租买设计制造的条件→内部组织持续开放→局部优势与迁移成本→加入退出→规模与控制→公共职能和平迁移",
+        "examples": [
+          "个人服务到共同组织",
+          "存储带来计算需求",
+          "找资料与恢复数据的具体收益",
+          "大型团队成为贡献者"
+        ],
+        "objections": [
+          "理想全实现前能否开始",
+          "有一点优势是否自动迁移",
+          "扩大是否重演垄断",
+          "替代组织是否抛弃公共职能"
+        ],
+        "voice": "保留自由区、资源成长、非暴力渐进及兼容退出的多时期作者原话；不把吸引力写成物理必然",
+        "status": "初校；不包含强迫加入或现实政治行动指令",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "21",
+      "title": "自我实现的科幻与文化建设",
+      "file": "chapters/21.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 3254,
+      "body_characters": 3461,
+      "source_adapted_characters": 2018,
+      "literal_source_characters": 1768,
+      "literal_retention_ratio": 0.5108,
+      "source_blocks": 6,
+      "review": {
+        "reasoning": "制度进入生活经验→自我实现科幻设定→未来生命条件→创作者建设者同群→短篇系列→多媒体→游戏与真实任务",
+        "examples": [
+          "阿尔法贝塔地球文明设定",
+          "长寿与多样生命",
+          "取回多年作品的首篇故事",
+          "故事内失败与修正",
+          "游戏连接真实工作"
+        ],
+        "objections": [
+          "幻想能否替代现实证据",
+          "外来先进者是否重新成为独裁者",
+          "读者是否必须全身投入",
+          "游戏如何区分真实作用"
+        ],
+        "voice": "主要世界观保留作者原话；首篇故事具体情节为新增建议，侧录明确标记",
+        "status": "初校；外星文明、生物转换与长寿明确属于作品设定",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "22",
+      "title": "科学、教育与文明的持续创造",
+      "file": "chapters/22.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 2591,
+      "body_characters": 2803,
+      "source_adapted_characters": 1318,
+      "literal_source_characters": 930,
+      "literal_retention_ratio": 0.3318,
+      "source_blocks": 7,
+      "review": {
+        "reasoning": "学习与创造相接→师生角色互换→经验进入公共知识→数学发现与构造→理论创造的训练问题→跨载体智能的条件性探索",
+        "examples": [
+          "照护者与工程人员共同改进辅助工具",
+          "完整推理过程与结论材料的比较",
+          "互联身体与分离副本的区别"
+        ],
+        "objections": [
+          "人人参与是否取消专业知识",
+          "数学创造是否意味着结论任意",
+          "短文本是否必然表示更好理论",
+          "未来设想是否可直接当成现有能力"
+        ],
+        "voice": "保留作者的问题、角色关系和远未来设想；教育例子及研究比较方案属于编辑补写",
+        "status": "初校；跨载体意识与理论训练均为待研究设想",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    },
+    {
+      "chapter": "23",
+      "title": "后记：让每一个人都成为创造者",
+      "file": "chapters/23.md",
+      "status": "expanded-copyedited",
+      "cjk_characters": 1027,
+      "body_characters": 1119,
+      "source_adapted_characters": 516,
+      "literal_source_characters": 361,
+      "literal_retention_ratio": 0.3226,
+      "source_blocks": 3,
+      "review": {
+        "reasoning": "统一框架的抱负→把效率与和平作为研究目标→足够小且方向明确的种子→参与者共同创造",
+        "examples": [
+          "个人数据与知识空间",
+          "真实服务的共同维护",
+          "不同意见的参与"
+        ],
+        "objections": [
+          "是否等所有问题解决才能开始",
+          "参与是否要求先接受全部结论"
+        ],
+        "voice": "底稿与作者原话承担核心收束；起步串联和最后段落为编辑补写",
+        "status": "初校；不宣称宏观理论已证明",
+        "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+      }
+    }
+  ],
+  "total_cjk_characters": 83789,
+  "manuscript_sha256": "5bf4a465f5a4ef146c785719c4f8f96e9af5e9bc2a8f728bb63c3bbf5493bcf3",
+  "coverage_note": "literal_source_characters is a literal alignment count, not a semantic fidelity or sole-authorship proof; mixed transcript selections were manually bounded."
+}

@@ -1,0 +1,20 @@
+{
+  "manuscript_cjk_characters": 83789,
+  "body_unicode_characters_excluding_headings": 92614,
+  "source_adapted_unicode_characters": 54087,
+  "literal_aligned_source_characters": 43066,
+  "editorial_added_characters": 38527,
+  "source_units": 204,
+  "editorial_units": 156,
+  "manuscript_sources": 82,
+  "all_selected_sources": 89,
+  "source_platforms": {
+    "file": 7,
+    "chatgpt": 30,
+    "claude-ai": 15,
+    "gemini": 9,
+    "codex-local": 19,
+    "claude-code": 2
+  },
+  "literal_count_boundary": "Alignment includes punctuation and whitespace; repeated uses count again; not a proof of original authorship, author approval, or fidelity."
+}
