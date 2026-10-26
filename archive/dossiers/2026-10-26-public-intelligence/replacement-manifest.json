@@ -1,0 +1,19 @@
+{
+  "schema": "public-intelligence.chapter-replacement@1",
+  "baseline_file": "dossiers\\2026-10-26-mathematics-and-contribution\\02-new-principles.md",
+  "baseline_sha256": "0d6ed5767acdf2449ef3d4045b8854c1880a6aa4b31172945aadc40f79eca8d2",
+  "previous_chapter_file": "dossiers\\2026-10-26-mathematics-and-contribution\\01-chapter.md",
+  "previous_chapter_sha256": "02d2cf4f249f9d552740aee1d4a5d0f574138451c4fe2e6554a61df03d9f4d06",
+  "replace_at_utf8_byte": 275122,
+  "replace_at_codepoint": 95066,
+  "removed_bytes": 26852,
+  "removed_characters": 9294,
+  "inserted_bytes": 38431,
+  "inserted_characters": 13357,
+  "chapter_file": "01-chapter.md",
+  "combined_file": "02-new-principles.md",
+  "chapter_sha256": "8c2015afa80e633a54077adfc873e807eccfd48ea2507672c73197eade5b7e4d",
+  "combined_sha256": "53c2039966899dbc02854141d8627d2f9a2358f88a49a8908aff2941fa8ee062",
+  "outside_chapter_byte_preserved": true,
+  "author_acceptance": "positive prior reading feedback is recorded; not interpreted as approval of this new draft"
+}
