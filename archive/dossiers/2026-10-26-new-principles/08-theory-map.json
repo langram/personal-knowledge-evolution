@@ -1,0 +1,1281 @@
+{
+  "nodes": [
+    {
+      "id": "C01",
+      "label": "数学与科学的双向连接",
+      "chapters": [
+        "ch00",
+        "ch02",
+        "ch03"
+      ],
+      "sources": [
+        "PREFACE-2024",
+        "R48861",
+        "R54910"
+      ],
+      "definition": "研究形式结构与现实对象之间的解释和构造路径。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C02",
+      "label": "极限、自指与动态层级",
+      "chapters": [
+        "ch01",
+        "ch02",
+        "ch03"
+      ],
+      "sources": [
+        "ORIGINAL",
+        "OLD-INFINITY",
+        "OLD-DYNAMIC",
+        "R49500"
+      ],
+      "definition": "保留相对无穷、悖论与层级扩展的研究问题；不把不同数学概念直接等同。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C03",
+      "label": "对偶体与可构造性",
+      "chapters": [
+        "ch02",
+        "ch04"
+      ],
+      "sources": [
+        "ORIGINAL",
+        "R48527",
+        "R48840"
+      ],
+      "definition": "以存在、变化和稳定组合为共同结构设想，保留其尚待形式化的性质。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C04",
+      "label": "不动点、极值与涌现",
+      "chapters": [
+        "ch03",
+        "ch04",
+        "ch13"
+      ],
+      "sources": [
+        "META-ahm4vm",
+        "META-urxaqe",
+        "META-p4r66m",
+        "REEC"
+      ],
+      "definition": "把时间、尺度和自指稳定分开，寻找能够支持后续生成的结构。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C05",
+      "label": "描述、计算与能量成本",
+      "chapters": [
+        "ch03",
+        "ch11",
+        "ch13"
+      ],
+      "sources": [
+        "R49423",
+        "R55111",
+        "R49083"
+      ],
+      "definition": "区分最短描述、实际构造资源和获得的新能力，成本收益需要具体比较。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C06",
+      "label": "物理、生命与生成结构",
+      "chapters": [
+        "ch04"
+      ],
+      "sources": [
+        "R48527",
+        "META-THEORY",
+        "R48731"
+      ],
+      "definition": "从早期物理对偶子猜想转向对稳定结构生成能力的研究；具体弦论对应已受明确批评。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C07",
+      "label": "观察者、自身与环境",
+      "chapters": [
+        "ch05"
+      ],
+      "sources": [
+        "ORIGINAL",
+        "R48751",
+        "R49500"
+      ],
+      "definition": "研究探测、记忆、行动和反馈；分类器比喻不等同于已证明的意识机制。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C08",
+      "label": "持续自我上下文与自举",
+      "chapters": [
+        "ch05",
+        "ch13"
+      ],
+      "sources": [
+        "R49196",
+        "R49083",
+        "R49234"
+      ],
+      "definition": "连接局部对话、外部记忆和主动研究，检验系统能否支持自身改进。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C09",
+      "label": "工具增强与能力平等",
+      "chapters": [
+        "ch07",
+        "ch14",
+        "ch22"
+      ],
+      "sources": [
+        "R49135",
+        "R54910",
+        "SEED-R16-0"
+      ],
+      "definition": "通过个人可支配的工具和知识降低参与障碍，同时保留个体与功能多样性。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C10",
+      "label": "合作、惩罚与制度条件",
+      "chapters": [
+        "ch06"
+      ],
+      "sources": [
+        "ORIGINAL",
+        "R48849",
+        "R54910",
+        "META-THEORY"
+      ],
+      "definition": "把温和与严厉反馈作为环境相关的研究线索；保留多因素因果链，避免基因决定政治。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C11",
+      "label": "多样性与和平演化",
+      "chapters": [
+        "ch06",
+        "ch20"
+      ],
+      "sources": [
+        "SEED-H1-0",
+        "SEED-H4-0",
+        "R48849"
+      ],
+      "definition": "保留不同实现和选择，以自愿合作、竞争和修正推进演化。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C12",
+      "label": "公共知识与文明 DNA",
+      "chapters": [
+        "ch08",
+        "ch22"
+      ],
+      "sources": [
+        "R49135",
+        "R54910",
+        "R54886"
+      ],
+      "definition": "知识、规则和生成过程可共享可继承，公共可见不等于所有人已经知道。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C13",
+      "label": "内容身份与语义关系",
+      "chapters": [
+        "ch08",
+        "ch09",
+        "ch11"
+      ],
+      "sources": [
+        "ORIGINAL",
+        "R54803",
+        "R55180",
+        "STRUCTOKEN"
+      ],
+      "definition": "CID固定具体内容，语义等价和因果关系另需范围与证据。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C14",
+      "label": "个人知识时空档案",
+      "chapters": [
+        "ch09"
+      ],
+      "sources": [
+        "ARCHIVE",
+        "LATEST-WRITING"
+      ],
+      "definition": "保存原话、原生来源、语义多重关系与双时间，而不覆盖历史。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C15",
+      "label": "冷路径转热路径",
+      "chapters": [
+        "ch10"
+      ],
+      "sources": [
+        "R49187",
+        "R54910",
+        "HOTPATH-REPORT"
+      ],
+      "definition": "把经过检查的工作固化为可复用能力，同时保留适用条件。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C16",
+      "label": "语义契约与新语言",
+      "chapters": [
+        "ch08",
+        "ch11"
+      ],
+      "sources": [
+        "R54803",
+        "R55370",
+        "R48755"
+      ],
+      "definition": "区分能力定义、语义契约、具体实现及人机表现层。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C17",
+      "label": "Structoken 与 FPM",
+      "chapters": [
+        "ch11"
+      ],
+      "sources": [
+        "R48623",
+        "STRUCTOKEN",
+        "R55084",
+        "R55469"
+      ],
+      "definition": "利用结构、层级与领域信息研究模型表示及共享，尚不是通用模型已成。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C18",
+      "label": "有类型的不确定性",
+      "chapters": [
+        "ch11"
+      ],
+      "sources": [
+        "R55180"
+      ],
+      "definition": "在确定程序与开放推理之间按问题结构选择方法，组合时保留相关性条件。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C19",
+      "label": "个人数字空间与 MerkleVM",
+      "chapters": [
+        "ch12",
+        "ch18"
+      ],
+      "sources": [
+        "R54800",
+        "R48769",
+        "SEED-H2-0"
+      ],
+      "definition": "把可支配的数据、代码和设备组织成跨设备空间，物理部署动态选择。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C20",
+      "label": "种子包装与递归迁移",
+      "chapters": [
+        "ch12",
+        "ch20"
+      ],
+      "sources": [
+        "R55647",
+        "R54477"
+      ],
+      "definition": "先为可支配旧对象提供共同接口，再逐步替换内部实现。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C21",
+      "label": "构造优先与协作研发",
+      "chapters": [
+        "ch13"
+      ],
+      "sources": [
+        "R49083",
+        "R49560",
+        "CONSTRUCTION-INSTRUCTIONS"
+      ],
+      "definition": "以可比较行为和完整成本选择构造，保留负结果与可恢复版本。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C22",
+      "label": "具身的社会共同智能",
+      "chapters": [
+        "ch14"
+      ],
+      "sources": [
+        "R54910",
+        "SEED-R16-0",
+        "SEED-H2-0"
+      ],
+      "definition": "AGI被设想为人、AI、机器人、传感器与环境反馈共同组成的网络。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C23",
+      "label": "动态领域权重",
+      "chapters": [
+        "ch15"
+      ],
+      "sources": [
+        "R49135",
+        "R54886",
+        "E002"
+      ],
+      "definition": "意见影响力随领域和反馈改变，算法选择受反馈条件与环境变化制约。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C24",
+      "label": "判断、目标与权利的区别",
+      "chapters": [
+        "ch15",
+        "ch16"
+      ],
+      "sources": [
+        "R54949",
+        "E002",
+        "T033"
+      ],
+      "definition": "预测准确性、目标选择、公共决策参与和当前执行权分别处理。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C25",
+      "label": "个人需要与集体资源分离",
+      "chapters": [
+        "ch16"
+      ],
+      "sources": [
+        "SEED-H3-0",
+        "R54886",
+        "SEED-R14-0"
+      ],
+      "definition": "个人生活按实际需要保障，公共资源由参与者通过共同机制支配。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C26",
+      "label": "开放组织与共同生产",
+      "chapters": [
+        "ch17"
+      ],
+      "sources": [
+        "R54910",
+        "R54629",
+        "SEED-R14-0"
+      ],
+      "definition": "产品、生产设计运营、分配与决策机制一起开放，分工与共同控制同时发展。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C27",
+      "label": "数据主权与 REA",
+      "chapters": [
+        "ch18"
+      ],
+      "sources": [
+        "R54477",
+        "SEED-R10-0",
+        "SEED-R14-0"
+      ],
+      "definition": "以兼容和迁移恢复个人对数据与服务的持续控制。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C28",
+      "label": "个人云存储最小起点",
+      "chapters": [
+        "ch19"
+      ],
+      "sources": [
+        "SEED-R14-0",
+        "SEED-R18-0",
+        "ARCHIVE"
+      ],
+      "definition": "从个人导入、检索、恢复和可迁出服务开始，再邀请少量共同使用者。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C29",
+      "label": "从租赁到生产的成长路线",
+      "chapters": [
+        "ch20"
+      ],
+      "sources": [
+        "SEED-R14-0",
+        "R55647",
+        "SEED-H4-0"
+      ],
+      "definition": "随真实需要从存储到计算，从租赁购买到设计制造，并扩展组织范围。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C30",
+      "label": "自我实现的科幻与游戏",
+      "chapters": [
+        "ch21"
+      ],
+      "sources": [
+        "R55042",
+        "SEED-R18-0",
+        "SEED-H5-0"
+      ],
+      "definition": "故事、多媒体、游戏与现实项目形成相互启发的文化和经济路径。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C31",
+      "label": "教育、科研与思想增量",
+      "chapters": [
+        "ch22"
+      ],
+      "sources": [
+        "R54886",
+        "R55084",
+        "R49135"
+      ],
+      "definition": "微小创意通过可追溯协作变成共同知识，使教育与实践连通。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C32",
+      "label": "平等条件下的信息共享愿景",
+      "chapters": [
+        "ch18"
+      ],
+      "sources": [
+        "R54886",
+        "SEED-R14-0"
+      ],
+      "definition": "保留用户关于隐私与权力关系的强假设，同时保留起步时个人数据自主选择。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C33",
+      "label": "跨载体与生命形式的远期设想",
+      "chapters": [
+        "ch05",
+        "ch21"
+      ],
+      "sources": [
+        "R49196",
+        "R55042"
+      ],
+      "definition": "记忆技能迁移与科幻中的长期生命、水平遗传分别保留性质和证据等级。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    },
+    {
+      "id": "C34",
+      "label": "反例、评价目标与完整成本",
+      "chapters": [
+        "ch03",
+        "ch13",
+        "ch15"
+      ],
+      "sources": [
+        "R49083",
+        "E002",
+        "T033"
+      ],
+      "definition": "局部成功保留条件，方法比较不替代目标正当性和实际成本测量。",
+      "authorship": "Codex editorial interpretation; not user-adopted proposition"
+    }
+  ],
+  "relations": [
+    {
+      "from": "C02",
+      "to": "C03",
+      "predicate": "explains",
+      "scope": "原稿以自指和存在变化关系启发对偶体；解释假说，不是定理",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C04",
+      "to": "C03",
+      "predicate": "derived-from",
+      "scope": "后期以不动点及生成结构继续研究对偶体问题；非同义合并",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C03",
+      "to": "C06",
+      "predicate": "applies-to",
+      "scope": "早期物理应用假说，具体对应受批评",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C04",
+      "to": "C05",
+      "predicate": "depends-on",
+      "scope": "极值研究需要明确代价和观察范围",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C04",
+      "to": "C08",
+      "predicate": "analogous-to",
+      "scope": "稳定自我改进循环与不动点的研究类比",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C07",
+      "to": "C08",
+      "predicate": "explains",
+      "scope": "观察与自我上下文构成后续智能架构的讨论背景",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C07",
+      "to": "C22",
+      "predicate": "part-of",
+      "scope": "环境反馈是共同智能设计组成部分",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C10",
+      "to": "C11",
+      "predicate": "explains",
+      "scope": "惩罚和纠错方式可能影响多样性与合作",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C09",
+      "to": "C22",
+      "predicate": "part-of",
+      "scope": "个人与工具共同构成网络节点",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C09",
+      "to": "C26",
+      "predicate": "depends-on",
+      "scope": "能力的平等可及需要组织和资源条件",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C12",
+      "to": "C13",
+      "predicate": "depends-on",
+      "scope": "共同知识需要可指认内容及可解释关系",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C14",
+      "to": "C12",
+      "predicate": "instance-of",
+      "scope": "个人档案是共同知识方法的个人实践",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C14",
+      "to": "C27",
+      "predicate": "depends-on",
+      "scope": "整理需要持续取得和支配自己的记录",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C15",
+      "to": "C16",
+      "predicate": "applies-to",
+      "scope": "可复用能力推动语义契约分离",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C16",
+      "to": "C13",
+      "predicate": "depends-on",
+      "scope": "语义对象依赖稳定版本身份，但不由身份自动获得正确性",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C17",
+      "to": "C16",
+      "predicate": "applies-to",
+      "scope": "结构化语言向模型表达延伸",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C18",
+      "to": "C17",
+      "predicate": "specializes",
+      "scope": "按类型和尺度安排不确定推理",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C19",
+      "to": "C13",
+      "predicate": "depends-on",
+      "scope": "跨设备空间需要明确对象身份",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C19",
+      "to": "C15",
+      "predicate": "depends-on",
+      "scope": "个人空间调用可运行能力",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C20",
+      "to": "C19",
+      "predicate": "applies-to",
+      "scope": "种子为旧设备与应用提供渐进进入方式",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C21",
+      "to": "C08",
+      "predicate": "applies-to",
+      "scope": "研发流程是持续自我改进的一种具体尝试",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C21",
+      "to": "C34",
+      "predicate": "depends-on",
+      "scope": "构造选择需要行为与成本比较",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C22",
+      "to": "C12",
+      "predicate": "depends-on",
+      "scope": "共同智能需要共享和继承的知识",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C23",
+      "to": "C22",
+      "predicate": "part-of",
+      "scope": "共同网络内的决策反馈机制；此边仅为设计结构",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C23",
+      "to": "C24",
+      "predicate": "depends-on",
+      "scope": "计算意见影响力时保留目标和权利区别",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C23",
+      "to": "C34",
+      "predicate": "depends-on",
+      "scope": "动态方法需要反例与条件",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C25",
+      "to": "C26",
+      "predicate": "part-of",
+      "scope": "两类资源分配是开放组织的组成",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C23",
+      "to": "C26",
+      "predicate": "part-of",
+      "scope": "动态决策是开放组织的组成",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C27",
+      "to": "C26",
+      "predicate": "part-of",
+      "scope": "数据主权是服务组织必须提供的能力",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C28",
+      "to": "C27",
+      "predicate": "instance-of",
+      "scope": "个人数据与云存储作为首个可用场景",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C28",
+      "to": "C29",
+      "predicate": "part-of",
+      "scope": "从个人起步向更广范围扩展",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C20",
+      "to": "C29",
+      "predicate": "applies-to",
+      "scope": "兼容包装支持旧环境中的逐步替换",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C29",
+      "to": "C26",
+      "predicate": "depends-on",
+      "scope": "扩展时需要共同组织能力同时增长",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C30",
+      "to": "C29",
+      "predicate": "supports",
+      "scope": "作品吸引参与与现实生产相互支持，这是路线设想",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C29",
+      "to": "C30",
+      "predicate": "supports",
+      "scope": "现实经验和资源支持文化创作，语义图允许反馈环",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C31",
+      "to": "C12",
+      "predicate": "part-of",
+      "scope": "科研教育是公共知识生成与传播过程",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C31",
+      "to": "C26",
+      "predicate": "depends-on",
+      "scope": "协作条件影响思想增量的实现",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C32",
+      "to": "C27",
+      "predicate": "contrasts-with",
+      "scope": "远期充分共享设想与当前个人控制要求存在需明确的适用条件",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C33",
+      "to": "C30",
+      "predicate": "part-of",
+      "scope": "长期生命与水平遗传属于科幻设定",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C33",
+      "to": "C07",
+      "predicate": "analogous-to",
+      "scope": "跨载体问题与认识自身的理论问题有关，未证明可迁移",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C11",
+      "to": "C29",
+      "predicate": "constrains",
+      "scope": "多样性与逐步替代目标同时保留，不以一方删除另一方",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C01",
+      "to": "C03",
+      "predicate": "explains",
+      "scope": "从共同结构理解数学与科学的总体研究动机",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C05",
+      "to": "C15",
+      "predicate": "applies-to",
+      "scope": "复用降低重复构造成本的工程假设",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    },
+    {
+      "from": "C34",
+      "to": "C04",
+      "predicate": "counterexample-to",
+      "scope": "任意稳定必然极小化或动态方法必然更优的无条件推广不成立",
+      "basis": "inferred",
+      "asserted_by": "codex-editor",
+      "evidence_rule": "source material grounds this interpretation, not empirical proof of the proposed causal effect"
+    }
+  ],
+  "timeline": [
+    {
+      "source": "PREFACE-2024",
+      "event_time_original": "1710916982.319531",
+      "display_utc": "2024-03-20T06:43:02.319+00:00",
+      "event": "数学与科学相互联系的早期前言",
+      "boundary": "早期原文；不是完整《新原理》的精确写作日"
+    },
+    {
+      "source": "R49135",
+      "event_time_original": "2024-11-07T08:31:20.362319Z",
+      "display_utc": "2024-11-07T08:31:20.362319Z",
+      "event": "哈希知识系统、个人增强、动态权重与社会神经网络",
+      "boundary": "这一整合构想在 2024 年记录中已出现，不能倒记为本次新提出"
+    },
+    {
+      "source": "R48527",
+      "event_time_original": "2025-07-31T02:25:00.842Z",
+      "display_utc": "2025-07-31T02:25:00.842Z",
+      "event": "存在、变化、稳定构造与物理对偶子",
+      "boundary": "物理猜想；后续批评与修正另存"
+    },
+    {
+      "source": "R48731",
+      "event_time_original": "2025-08-10T10:35:23.544Z",
+      "display_utc": "2025-08-10T10:35:23.544Z",
+      "event": "范畴结构、能量、组合能力与多样性的交叉讨论",
+      "boundary": "Gemini 中粘贴的多方对话；不整体归为用户原创"
+    },
+    {
+      "source": "R49423",
+      "event_time_original": "2025-09-03T21:32:43.380687Z",
+      "display_utc": "2025-09-03T21:32:43.380687Z",
+      "event": "描述复杂度、计算复杂度与能量的联系",
+      "boundary": "研究提问含过强表述；正文作有记录的技术收窄"
+    },
+    {
+      "source": "R48861",
+      "event_time_original": "2025-09-12T08:52:03.499Z",
+      "display_utc": "2025-09-12T08:52:03.499Z",
+      "event": "《新原理》的标题和统一数学科学的写作方向",
+      "boundary": "原生 Gemini 用户通道"
+    },
+    {
+      "source": "OLD-INFINITY",
+      "event_time_original": "2025-09-28T14:36:16.653Z",
+      "display_utc": "2025-09-28T14:36:16.653Z",
+      "event": "相对无穷与层级生成",
+      "boundary": "保留为探索术语，不改写成标准集合论结论"
+    },
+    {
+      "source": "R48641",
+      "event_time_original": "2025-10-23T14:59:30.794Z",
+      "display_utc": "2025-10-23T14:59:30.794Z",
+      "event": "不同层级中的构造与还原",
+      "boundary": "原生消息显式说“修正一下”；具体数学等同仍需检查"
+    },
+    {
+      "source": "R48840",
+      "event_time_original": "2025-12-04T07:53:50.590Z",
+      "display_utc": "2025-12-04T07:53:50.590Z",
+      "event": "模块内部结构与外部功能的双重视角",
+      "boundary": "从抽象范畴进入计算机模块"
+    },
+    {
+      "source": "R48623",
+      "event_time_original": "2026-02-02T09:00:58.726Z",
+      "display_utc": "2026-02-02T09:00:58.726Z",
+      "event": "哈希词元爆炸与上下文层级约束",
+      "boundary": "已经明确意识到哈希数值不携带语义距离"
+    },
+    {
+      "source": "R48849",
+      "event_time_original": "2026-04-06T04:16:29.389Z",
+      "display_utc": "2026-04-06T04:16:29.389Z",
+      "event": "温和反馈、多样性与虚拟博弈",
+      "boundary": "保留理论方向，历史地区概括没有作为既定事实写入新稿"
+    },
+    {
+      "source": "R49196",
+      "event_time_original": "2026-04-24T12:48:47.742111Z",
+      "display_utc": "2026-04-24T12:48:47.742111Z",
+      "event": "自我对话、跨上下文记忆与主动性",
+      "boundary": "智能架构设想；不等于已证明意识"
+    },
+    {
+      "source": "OLD-DYNAMIC",
+      "event_time_original": "2026-05-10T06:56:00.273745Z",
+      "display_utc": "2026-05-10T06:56:00.273745Z",
+      "event": "动态高阶演化范畴研究提问",
+      "boundary": "与相对无穷线索并存，不宣称已建成理论"
+    },
+    {
+      "source": "R49187",
+      "event_time_original": "2026-05-12T06:15:05.423263Z",
+      "display_utc": "2026-05-12T06:15:05.423263Z",
+      "event": "Quick Launcher 的本地起步与共享热路径",
+      "boundary": "使用已可支配数据，先兼容后替换"
+    },
+    {
+      "source": "R54910",
+      "event_time_original": "1778753508.108",
+      "display_utc": "2026-05-14T10:11:48.108+00:00",
+      "event": "明确各软件项目都是同一文明愿景的拼图",
+      "boundary": "用户同时承认早期简单化断言；是全文扩写的重要授权和自述"
+    },
+    {
+      "source": "META-ahm4vm",
+      "event_time_original": "1779013048.834",
+      "display_utc": "2026-05-17T10:17:28.834+00:00",
+      "event": "跨学科不动点、极值、涌现的形式化任务",
+      "boundary": "用户要求构造，不是已经完成的定理"
+    },
+    {
+      "source": "META-urxaqe",
+      "event_time_original": "1779018619.32",
+      "display_utc": "2026-05-17T11:50:19.320+00:00",
+      "event": "能力对称不排斥功能多样性",
+      "boundary": "明确保留约束与自由之间的关系"
+    },
+    {
+      "source": "META-jacqha",
+      "event_time_original": "1779027901.958",
+      "display_utc": "2026-05-17T14:25:01.958+00:00",
+      "event": "要求保存修正后的阶段性元理论",
+      "boundary": "阶段性整理指令不等于采纳每一条 AI 推论"
+    },
+    {
+      "source": "R54949",
+      "event_time_original": "1779593533.453",
+      "display_utc": "2026-05-24T03:32:13.453+00:00",
+      "event": "身份、权限与多用户网络进入设计",
+      "boundary": "主动权与数据、代码一同需要表达"
+    },
+    {
+      "source": "R54629",
+      "event_time_original": "1779594366.997",
+      "display_utc": "2026-05-24T03:46:06.997+00:00",
+      "event": "开放机制下传统组织的改造和自举",
+      "boundary": "组织与产品一起改变"
+    },
+    {
+      "source": "R49083",
+      "event_time_original": "2026-05-25T07:57:18.056649Z",
+      "display_utc": "2026-05-25T07:57:18.056649Z",
+      "event": "工程比较、共同构造与自举作为检查方向",
+      "boundary": "将理论连接到能够测量的具体项目"
+    },
+    {
+      "source": "R49234",
+      "event_time_original": "2026-06-14T14:53:10.087841Z",
+      "display_utc": "2026-06-14T14:53:10.087841Z",
+      "event": "从现有模型与环境培育新的智能构件",
+      "boundary": "鸡与蛋的自举比喻；不是孤立模型种子已经实现"
+    },
+    {
+      "source": "R49500",
+      "event_time_original": "2026-07-05T01:30:54.317976Z",
+      "display_utc": "2026-07-05T01:30:54.317976Z",
+      "event": "观察者、事实与自指的进一步探索",
+      "boundary": "原文自称胡思乱想，保留探索性质"
+    },
+    {
+      "source": "R54803",
+      "event_time_original": "1788848143.378",
+      "display_utc": "2026-09-08T06:15:43.378+00:00",
+      "event": "新语言的统一标识与依赖问题",
+      "boundary": "查表简化是提问，不是全部编译优化已成立"
+    },
+    {
+      "source": "R55084",
+      "event_time_original": "1789455117.519",
+      "display_utc": "2026-09-15T06:51:57.519+00:00",
+      "event": "结构化知识、分层模型与认知前端",
+      "boundary": "提出模型表达与人机界面的分工"
+    },
+    {
+      "source": "R55180",
+      "event_time_original": "1789752725.854",
+      "display_utc": "2026-09-18T17:32:05.854+00:00",
+      "event": "有类型的不确定性",
+      "boundary": "模型能力配置与问题结构相联系"
+    },
+    {
+      "source": "R55469",
+      "event_time_original": "1789957114.915",
+      "display_utc": "2026-09-21T02:18:34.915+00:00",
+      "event": "让模型训练的中间知识进入共享框架",
+      "boundary": "仍为研究设想"
+    },
+    {
+      "source": "R55647",
+      "event_time_original": "1791098849.389",
+      "display_utc": "2026-10-04T07:27:29.389+00:00",
+      "event": "种子包装、旧生态迁移与开放生产",
+      "boundary": "统一接口先进入，内部逐步替换"
+    },
+    {
+      "source": "R54800",
+      "event_time_original": "1791501928.931981",
+      "display_utc": "2026-10-08T23:25:28.931+00:00",
+      "event": "把可支配资源组织为个人跨设备虚拟空间",
+      "boundary": "口述转写的 Morco 等拼写，正文按项目上下文校正"
+    },
+    {
+      "source": "R54477",
+      "event_time_original": "1792293520.0814471",
+      "display_utc": "2026-10-18T03:18:40.081+00:00",
+      "event": "REA、两类分配与非暴力过渡",
+      "boundary": "原文明确和平渐进路径"
+    },
+    {
+      "source": "R55042",
+      "event_time_original": "1792625297.842993",
+      "display_utc": "2026-10-21T23:28:17.842+00:00",
+      "event": "自我实现的科幻及文明代际传播",
+      "boundary": "长期生命与水平遗传是虚构设定"
+    },
+    {
+      "source": "R54886",
+      "event_time_original": "1792736378.655",
+      "display_utc": "2026-10-23T06:19:38.655+00:00",
+      "event": "两类资源、群体理智、共享与权力关系",
+      "boundary": "用户录音转写加补充；保留激进共享假设和思想实验"
+    },
+    {
+      "source": "SEED-R10-0",
+      "event_time_original": "2026-10-24T11:23:22.086Z",
+      "display_utc": "2026-10-24T11:23:22.086Z",
+      "event": "从导出经历明确个人资源空间与数据主权",
+      "boundary": "对动机的批评保存原文；正文聚焦可观察的控制关系"
+    },
+    {
+      "source": "SEED-R14-0",
+      "event_time_original": "2026-10-25T02:41:24.216Z",
+      "display_utc": "2026-10-25T02:41:24.216Z",
+      "event": "明确要求产品及组织机制同时开放",
+      "boundary": "纠正助手把设想收窄为数据可携带；不是用户这一天才有全部思想"
+    },
+    {
+      "source": "SEED-R16-0",
+      "event_time_original": "2026-10-25T03:27:02.662Z",
+      "display_utc": "2026-10-25T03:27:02.662Z",
+      "event": "明确 AGI 为人与 AI、设备和环境组成的整体",
+      "boundary": "修正助手沿孤立大模型思考的解释"
+    },
+    {
+      "source": "SEED-R18-0",
+      "event_time_original": "2026-10-25T06:40:58.841Z",
+      "display_utc": "2026-10-25T06:40:58.841Z",
+      "event": "经济、文化与政治组织演化并行路线",
+      "boundary": "提出正文、宣传、多媒体、小说和游戏等不同产物"
+    },
+    {
+      "source": "LATEST-IMPORT",
+      "event_time_original": "2026-10-26T02:45:57.456Z",
+      "display_utc": "2026-10-26T02:45:57.456Z",
+      "event": "ChatGPT 导出进入整合",
+      "boundary": "采集进展，不是思想产生时间"
+    },
+    {
+      "source": "LATEST-WRITING",
+      "event_time_original": "2026-10-26T04:01:39.792Z",
+      "display_utc": "2026-10-26T04:01:39.792Z",
+      "event": "回到《新原理》原稿结构，保留原话，扩展实践",
+      "boundary": "本稿编写要求，未替用户写入审定或采纳"
+    }
+  ],
+  "baseline": {
+    "report": "report-20261026-chatgpt-v1.json",
+    "snapshot": "bafyreifbjnesua4r3p536pwuubztstc7oueaoodxubmzm4o5ipcddiuime",
+    "database": "contributions\\codex\\catalog\\.private\\20261026-chatgpt-v1\\catalog.sqlite"
+  },
+  "coverage": "All 21 previously cataloged concepts mapped; 34 new editorial themes from selected major lines. Not an exhaustive claim-by-claim reading of every archived occurrence.",
+  "prior_concept_map": [
+    {
+      "cid": "bafyreia2svtnlam5injrzajujzjn7oeap3ypnjf25y3n4dwn53cwcqgkrm",
+      "label": "hotpath 项目审查",
+      "to": "C15"
+    },
+    {
+      "cid": "bafyreiadttjzpk55ph6qwxngm6ip3hj7iry657msjgp27mu2tqoo3giqbq",
+      "label": "数学研究纲领的验证与收敛",
+      "to": "C04"
+    },
+    {
+      "cid": "bafyreiapav3vizafqxp4cnkjgscxso2rzxmoqng436xp463eav3zejekxy",
+      "label": "个人知识发展的时空记录",
+      "to": "C14"
+    },
+    {
+      "cid": "bafyreib4qo5diwehoinwon5bmrneipw2hk7bn6evlv22nq6hz4glfp4hxi",
+      "label": "扩张效果",
+      "to": "C29"
+    },
+    {
+      "cid": "bafyreibh7t2rgl2xays3xrt5qbn7jrjiybfc3g245mb56cnyaf7rsaay44",
+      "label": "组成单元与组合能力",
+      "to": "C03"
+    },
+    {
+      "cid": "bafyreibxha5qxnbglpnesuugqjh4akreodjcqqam7n7t3hevyxolvul4ze",
+      "label": "个人起步",
+      "to": "C28"
+    },
+    {
+      "cid": "bafyreichqradjyffe55lac4v2cmvq6fhholrnfo36rnhnq3rvimmliiuca",
+      "label": "不动点、最小化与 AI 模型框架",
+      "to": "C17"
+    },
+    {
+      "cid": "bafyreicod27an34qcx4snq5jeskruj7rjnptyt525vorusi6wvwrn6fx3u",
+      "label": "文化与现实协作",
+      "to": "C30"
+    },
+    {
+      "cid": "bafyreictejfp7ybjex4et7g4mzqbjij32nyzzyg2dcafhd2f3luncgcpmm",
+      "label": "数据主权",
+      "to": "C27"
+    },
+    {
+      "cid": "bafyreidab6oe435bpzgqfqcbagbmr3uorfw2vkwbcwdc2zp6c4k456toyu",
+      "label": "动态权重决策",
+      "to": "C23"
+    },
+    {
+      "cid": "bafyreids245cv7ogiqmx6dgqbkgbxaw5gzxqtjwsbldbwbjtmww7t4ximm",
+      "label": "AI 资源成本与用途（个人实务请求）",
+      "to": "C05"
+    },
+    {
+      "cid": "bafyreie2h7wgem55f2lpwbnmwnogx4fxeerca33ypboo37dowat65dvrdy",
+      "label": "REA 迁移",
+      "to": "C27"
+    },
+    {
+      "cid": "bafyreie2sunxiptg5u767luxzaliedcbjflkte4myfx6wobbxoae2wwwwu",
+      "label": "具身共同智能",
+      "to": "C22"
+    },
+    {
+      "cid": "bafyreiefv72hljjjvl6gobb2dtzxu3qpcwuxtkx7v7ebouenksfz3towme",
+      "label": "动态范畴与相对无穷的设想",
+      "to": "C02"
+    },
+    {
+      "cid": "bafyreiekmcvzahu3yzrprfvmqiebkbkwpce3ry27mh6ccwqd2yml5z4oie",
+      "label": "多样性",
+      "to": "C11"
+    },
+    {
+      "cid": "bafyreieueslolbhg5naw3jng3shamk5f62ghi3tiyalpyvlvpl5wzul3qq",
+      "label": "组织机制开放",
+      "to": "C26"
+    },
+    {
+      "cid": "bafyreif74tft4ry5gqj3kwtiy2gvkljkaxkivu6grdzulvlyrz3bm5c4zi",
+      "label": "两类分配",
+      "to": "C25"
+    },
+    {
+      "cid": "bafyreifhihfyo4f2jccamxtloz67qogbgfhhe3cgujvmt2juteux6jbx2m",
+      "label": "助手理解",
+      "to": "C22"
+    },
+    {
+      "cid": "bafyreigyzh53x3c2gf4cymjzt3x3id3f3gnte4w34nxkwmu7nhlqlquh5u",
+      "label": "Merkle-DAG 白盒对象引擎",
+      "to": "C19"
+    },
+    {
+      "cid": "bafyreih2mjv62fskua2d7zdxwwxrs4zqiwu2oxfsfiu7cifui5aywub2vy",
+      "label": "和平制度演化",
+      "to": "C29"
+    },
+    {
+      "cid": "bafyreihjzb5efr55p55vhecuehcllphvlwvmggfnxbiokx5czekdl6oh4u",
+      "label": "个人资源空间",
+      "to": "C19"
+    }
+  ]
+}
