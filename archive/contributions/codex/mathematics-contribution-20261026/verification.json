@@ -1,0 +1,20 @@
+{
+  "schema": "math/archive-verification@1",
+  "status": "pass",
+  "recorded_at": "2026-10-26T09:44:50.996013+00:00",
+  "snapshot": "bafyreihmpuxt4jzjcs4b6zzwg6lc4j7pjohof7pcdqgy5tx3z26facwzyy",
+  "federated_snapshot": "bafyreihprzxzavykdnvbvc3c4thf2e6ynhladzx7wz3loskfekelg7di6e",
+  "chapter_sha256": "02d2cf4f249f9d552740aee1d4a5d0f574138451c4fe2e6554a61df03d9f4d06",
+  "combined_sha256": "0d6ed5767acdf2449ef3d4045b8854c1880a6aa4b31172945aadc40f79eca8d2",
+  "source_entries_checked": 11,
+  "source_passages_replayed": 22,
+  "all_passage_units": 48,
+  "frozen_files_checked": 9,
+  "archive_blocks_checked": 171,
+  "current_native_events": 212355,
+  "old_body_byte_preserved": true,
+  "request_retrieval_passed": true,
+  "full_reference_graph_nodes_checked_at_staging": 778604,
+  "review_scope": "Codex saved-object replay using shared codec; no Claude or author acceptance asserted",
+  "publication": false
+}

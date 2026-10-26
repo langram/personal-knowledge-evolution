@@ -1,0 +1,1831 @@
+{
+  "chapter": "22",
+  "title": "科学、教育与文明的持续创造",
+  "status": "expanded-copyedited",
+  "review": {
+    "reasoning": "学习与创造相接→师生角色互换→经验进入公共知识→数学发现与构造→理论创造的训练问题→跨载体智能的条件性探索",
+    "examples": [
+      "照护者与工程人员共同改进辅助工具",
+      "完整推理过程与结论材料的比较",
+      "互联身体与分离副本的区别"
+    ],
+    "objections": [
+      "人人参与是否取消专业知识",
+      "数学创造是否意味着结论任意",
+      "短文本是否必然表示更好理论",
+      "未来设想是否可直接当成现有能力"
+    ],
+    "voice": "保留作者的问题、角色关系和远未来设想；教育例子及研究比较方案属于编辑补写",
+    "status": "初校；跨载体意识与理论训练均为待研究设想",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "editorial-addition",
+      "text": "当一个人有了自己的知识空间，当不同人的经验可以在共同网络中发生联系，教育与科研也会改变。学习不再只是把已经整理好的结论装进一个人的头脑，科研也不再只是由少数专业人员负责、其他人等待结果的孤立活动。一个人怎样理解问题、提出疑问、尝试解决，又怎样把结果交给别人继续使用，这些过程可以连起来。\n\n这并不要求每个人都成为所有领域的专家。恰恰因为一个人无法通晓一切，我们才需要一种能使不同知识相互补充的组织形式。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 每个人既是学生，也是老师",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48220",
+      "source_span": [
+        1113,
+        1229
+      ],
+      "source_sha256": "b52c25482c98312fd70f830b4b313b05b38ee1680325e923c3e965e3de53dc68",
+      "text": "在我设想的新体制中，政治层面上，每个人都是管理者，也都是被管理者，在经济层面上，既是生产者，也是消费者，从知识教育层面上，每个人既是学生，也是老师。文明的共同知识与决策能力，来自所有人作为其中的神经元相互联系所形成的整体。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            1113,
+            1113
+          ],
+          "output_span": [
+            0,
+            1
+          ],
+          "before": "",
+          "after": "在"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1120,
+            1120
+          ],
+          "output_span": [
+            8,
+            9
+          ],
+          "before": "",
+          "after": "中"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1121,
+            1122
+          ],
+          "output_span": [
+            10,
+            10
+          ],
+          "before": "在",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1186,
+            1188
+          ],
+          "output_span": [
+            74,
+            74
+          ],
+          "before": "管理",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1190,
+            1195
+          ],
+          "output_span": [
+            76,
+            76
+          ],
+          "before": "体中所有人",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1196,
+            1196
+          ],
+          "output_span": [
+            77,
+            86
+          ],
+          "before": "",
+          "after": "共同知识与决策能力"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1197,
+            1198
+          ],
+          "output_span": [
+            87,
+            89
+          ],
+          "before": "是",
+          "after": "来自"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1206,
+            1208
+          ],
+          "output_span": [
+            97,
+            97
+          ],
+          "before": "一个",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1211,
+            1212
+          ],
+          "output_span": [
+            100,
+            104
+          ],
+          "before": "，",
+          "after": "相互联系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1216,
+            1228
+          ],
+          "output_span": [
+            108,
+            110
+          ],
+          "before": "文明大脑所产生的智慧知识",
+          "after": "整体"
+        }
+      ],
+      "retained_characters": 92,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        7546,
+        7757
+      ],
+      "source_sha256": "026dc884ed26d292a61df756f6d11720e3e9008700ace6857525c55b36b558dc",
+      "text": "我设想未来的世界，在新的体制下，每一个人都在记录自己的人生，在 AI 的帮助下，更快地理解、掌握这个世界的知识和信息。任何一个微小的思想火花，都有机会被记录、被传播，然后通过巨大的动态权重智能神经网络，和巨大的遍布全球的可以整合全人类智能的AI系统，保存并记录着已有的所有人类知识存量，并且让每一个人类和AI智能体节点的微小思想火花，在其他人的共同协作下，经过讨论、验证与协作，变成知识增量，并加入到全球AI知识库中，如此不断循环迭代，增加知识。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            7546,
+            7546
+          ],
+          "output_span": [
+            0,
+            3
+          ],
+          "before": "",
+          "after": "我设想"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7552,
+            7552
+          ],
+          "output_span": [
+            9,
+            10
+          ],
+          "before": "",
+          "after": "在"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7572,
+            7574
+          ],
+          "output_span": [
+            30,
+            30
+          ],
+          "before": "自己",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7575,
+            7575
+          ],
+          "output_span": [
+            31,
+            32
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7577,
+            7577
+          ],
+          "output_span": [
+            34,
+            35
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7578,
+            7580
+          ],
+          "output_span": [
+            36,
+            38
+          ],
+          "before": "加持",
+          "after": "帮助"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7582,
+            7582
+          ],
+          "output_span": [
+            40,
+            41
+          ],
+          "before": "",
+          "after": "更"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7583,
+            7585
+          ],
+          "output_span": [
+            42,
+            43
+          ],
+          "before": "速的",
+          "after": "地"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7587,
+            7587
+          ],
+          "output_span": [
+            45,
+            46
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7599,
+            7601
+          ],
+          "output_span": [
+            58,
+            59
+          ],
+          "before": "，的",
+          "after": "。"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7612,
+            7612
+          ],
+          "output_span": [
+            70,
+            71
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7613,
+            7613
+          ],
+          "output_span": [
+            72,
+            74
+          ],
+          "before": "",
+          "after": "有机"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7617,
+            7617
+          ],
+          "output_span": [
+            78,
+            79
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7618,
+            7620
+          ],
+          "output_span": [
+            80,
+            80
+          ],
+          "before": "发送",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7718,
+            7720
+          ],
+          "output_span": [
+            178,
+            189
+          ],
+          "before": "快速",
+          "after": "经过讨论、验证与协作，"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7740,
+            7740
+          ],
+          "output_span": [
+            209,
+            211
+          ],
+          "before": "",
+          "after": "如此"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7742,
+            7745
+          ],
+          "output_span": [
+            213,
+            213
+          ],
+          "before": "的如此",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7750,
+            7752
+          ],
+          "output_span": [
+            218,
+            218
+          ],
+          "before": "快速",
+          "after": ""
+        }
+      ],
+      "retained_characters": 194,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "例如，一个长期照护家人的人发现，某件辅助工具在设计图上看起来合理，实际使用却让病人不舒服。他不需要先取得工程师资格，才有权指出这个问题。工程人员可以帮助描述受力与尺寸，照护者说明身体感受和使用情景，其他使用者补充不同条件，AI 帮助整理记录、比较方案。这个人一方面学习了技术知识，另一方面也在教别人认识一个此前遗漏的问题。\n\n在这样的过程中，“学生”和“老师”是具体关系中的角色。懂得一种知识，不意味着在一切问题上都有资格替别人作决定；尚未学会一种理论，也不意味着自己的经验没有价值。一个人可以在这里请教别人，在那里帮助别人，随着学习与实践不断改变自己的位置。\n\n因此，公共知识系统需要同时保留结论和通向结论的路。只有标准答案，学习者往往不知道为什么想到它；只有未经整理的全部过程，又会被细节淹没。合适的入口应当能够先让人看见问题，再按需要展开例子、推理、失败尝试和证据，直到他能够自己判断，并继续提出新问题。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 数学是在发现，还是在创造",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49228",
+      "source_span": [
+        0,
+        479
+      ],
+      "source_sha256": "94d0c34ddbc1e8d18a1e3459c70d5167fa93a12f7876fefd1bdecc7ada11d946",
+      "text": "数学真的只是一门发现的科学吗？物理化学等科学可以运用其原理发明原本这个世界上并不存在的东西，而一种常见的数学观，把数学看成对宇宙抽象本质的发现，即在人类尚未存在之前，这些数学规律就已经在宇宙诞生之初就已经存在了，人类要做的就是重新发现它们。真的是这样吗？我们可以构造出许多数学结构、规律和概念，而不要求它们已经在眼前的物理世界中有一个对应的实物，反过来，许多数学结构又会被应用到现实世界当中，使得原本靠物理世界的随机演化，极难自然出现的东西，可以由人类运用数学与物理知识，改造物质结构，创造出来。这种从原本不确定性的混沌状态中涌现出新事物的过程，是一种发明，而这个发明所依据的数学结构，是否也包含了人的创造，值得进一步追问。比如二进制布尔代数系统和基于此的电子计算机硬件和软件体系，以及整个信息社会生态。再比如对量子计算结构的探索。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            47,
+            47
+          ],
+          "output_span": [
+            47,
+            52
+          ],
+          "before": "",
+          "after": "一种常见的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            49,
+            55
+          ],
+          "output_span": [
+            54,
+            61
+          ],
+          "before": "一般被认为是",
+          "after": "观，把数学看成"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            58,
+            59
+          ],
+          "output_span": [
+            64,
+            64
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            64,
+            66
+          ],
+          "output_span": [
+            69,
+            69
+          ],
+          "before": "一种",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            124,
+            143
+          ],
+          "output_span": [
+            127,
+            129
+          ],
+          "before": "如果说在抽象代数大发展之前，这个说法还",
+          "after": "我们"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            145,
+            158
+          ],
+          "output_span": [
+            131,
+            136
+          ],
+          "before": "成立，因为基本上所有发现的",
+          "after": "构造出许多"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            160,
+            160
+          ],
+          "output_span": [
+            138,
+            141
+          ],
+          "before": "",
+          "after": "结构、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            166,
+            168
+          ],
+          "output_span": [
+            147,
+            153
+          ],
+          "before": "都是",
+          "after": "而不要求它们"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            169,
+            170
+          ],
+          "output_span": [
+            154,
+            158
+          ],
+          "before": "有",
+          "after": "经在眼前"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            175,
+            177
+          ],
+          "output_span": [
+            163,
+            169
+          ],
+          "before": "运行",
+          "after": "中有一个对应"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            178,
+            187
+          ],
+          "output_span": [
+            170,
+            172
+          ],
+          "before": "法则。但是在此之后",
+          "after": "实物"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            188,
+            193
+          ],
+          "output_span": [
+            173,
+            178
+          ],
+          "before": "我们发现很",
+          "after": "反过来，许"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            194,
+            205
+          ],
+          "output_span": [
+            179,
+            179
+          ],
+          "before": "数学上的成就，所构建的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            209,
+            247
+          ],
+          "output_span": [
+            183,
+            184
+          ],
+          "before": "/规律/概念，都已经在现实世界中找不到对应的存在了，相反的很多数学上的结构却",
+          "after": "又"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            254,
+            256
+          ],
+          "output_span": [
+            191,
+            191
+          ],
+          "before": "物理",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            276,
+            276
+          ],
+          "output_span": [
+            211,
+            215
+          ],
+          "before": "",
+          "after": "极难自然"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            278,
+            308
+          ],
+          "output_span": [
+            217,
+            217
+          ],
+          "before": "的概率几乎为零，趋近于无穷小，以至于可以认为是根本不可能存在",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            312,
+            314
+          ],
+          "output_span": [
+            221,
+            224
+          ],
+          "before": "却被",
+          "after": "可以由"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            316,
+            317
+          ],
+          "output_span": [
+            226,
+            227
+          ],
+          "before": "使",
+          "after": "运"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            318,
+            321
+          ],
+          "output_span": [
+            228,
+            228
+          ],
+          "before": "高级的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            323,
+            326
+          ],
+          "output_span": [
+            230,
+            232
+          ],
+          "before": "结构原",
+          "after": "与物"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            327,
+            327
+          ],
+          "output_span": [
+            233,
+            236
+          ],
+          "before": "",
+          "after": "知识，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            329,
+            335
+          ],
+          "output_span": [
+            238,
+            238
+          ],
+          "before": "现实世界中的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            339,
+            341
+          ],
+          "output_span": [
+            242,
+            243
+          ],
+          "before": "从而",
+          "after": "，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            345,
+            350
+          ],
+          "output_span": [
+            247,
+            247
+          ],
+          "before": "了新的事物",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            395,
+            395
+          ],
+          "output_span": [
+            292,
+            295
+          ],
+          "before": "",
+          "after": "，是否"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            396,
+            407
+          ],
+          "output_span": [
+            296,
+            300
+          ],
+          "before": "可以被认为是被发明出来",
+          "after": "包含了人"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            408,
+            408
+          ],
+          "output_span": [
+            301,
+            311
+          ],
+          "before": "",
+          "after": "创造，值得进一步追问"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            452,
+            467
+          ],
+          "output_span": [
+            355,
+            356
+          ],
+          "before": "基于概率论和希尔伯特空间构造的",
+          "after": "对"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            471,
+            479
+          ],
+          "output_span": [
+            360,
+            366
+          ],
+          "before": "机及其生态等等，",
+          "after": "结构的探索。"
+        }
+      ],
+      "retained_characters": 282,
+      "author_assessment": "作者的数学哲学发问；删去未经支持的数学史概括与绝对概率断言，保留发现和构造的核心问题，改动逐项侧录"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "“发现”与“创造”在这里不必互相排斥。我们选择规则、提出定义、设计一种结构，这里有创造的活动；规则确定以后，有些关系并不依照个人愿望改变，这里又有需要发现和证明的内容。一个新的构造还可能使我们看见旧问题中没有注意到的关系。\n\n因此，学习数学若只剩下重复既有题目的求解步骤，就没有展示数学活动的全部内容。还应当让学习者看见：问题是怎样被提出的，原有的概念为什么不够用，一个新定义解决了什么，又带来了哪些新的疑问。这里所说的创造，不是允许任意宣称结论，而是鼓励把新的构造交给推理和检验。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 能不能学习创造理论的过程",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R1857",
+      "source_span": [
+        1210,
+        1324
+      ],
+      "source_sha256": "636b13532ec923acaefb2b0e406b0fe89b85864fa128d347889c62c2abf2199f",
+      "text": "求解一个已经定义好的数学问题，与提出一种数学理论，是两类不同的任务；这种区别也可以推广到其他科学问题和理论。但是考虑到人类大脑用了同一套机制来应对这两大类问题，这使我有理由进一步研究：大模型的训练和推理机制，能否也用来应对这两大类问题。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1210,
+            1214
+          ],
+          "output_span": [
+            0,
+            10
+          ],
+          "before": "3.虽然",
+          "after": "求解一个已经定义好的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1218,
+            1219
+          ],
+          "output_span": [
+            14,
+            20
+          ],
+          "before": "和",
+          "after": "，与提出一种"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1223,
+            1227
+          ],
+          "output_span": [
+            24,
+            41
+          ],
+          "before": "(进一步",
+          "after": "，是两类不同的任务；这种区别也可以"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1230,
+            1232
+          ],
+          "output_span": [
+            44,
+            46
+          ],
+          "before": "所有",
+          "after": "其他"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1237,
+            1239
+          ],
+          "output_span": [
+            51,
+            51
+          ],
+          "before": "科学",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1241,
+            1258
+          ],
+          "output_span": [
+            53,
+            54
+          ],
+          "before": "范畴)有着前面提到的第三点的不同，",
+          "after": "。"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1284,
+            1286
+          ],
+          "output_span": [
+            80,
+            82
+          ],
+          "before": "所以",
+          "after": "这使"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1288,
+            1291
+          ],
+          "output_span": [
+            84,
+            84
+          ],
+          "before": "充足的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1293,
+            1298
+          ],
+          "output_span": [
+            86,
+            92
+          ],
+          "before": "相信，当前",
+          "after": "进一步研究："
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1310,
+            1310
+          ],
+          "output_span": [
+            104,
+            106
+          ],
+          "before": "",
+          "after": "能否"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1311,
+            1313
+          ],
+          "output_span": [
+            107,
+            107
+          ],
+          "before": "能够",
+          "after": ""
+        }
+      ],
+      "retained_characters": 72,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R1857",
+      "source_span": [
+        365,
+        464
+      ],
+      "source_sha256": "8e408950a8e7bd6e414d340ff15e336d8d05e5e8f884dc06c3f30cd2e2a96bf7",
+      "text": "奥卡姆剃刀原则、牛顿的自然哲学原则与柯氏复杂度，使我想到一个关于理论评价的研究问题：在 AI 大模型时代，我们也许可以通过计算不同理论在表达同等语义时的向量空间的复杂度，以复杂度最小化来作为奖励函数？",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            372,
+            373
+          ],
+          "output_span": [
+            7,
+            8
+          ],
+          "before": "，",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            375,
+            375
+          ],
+          "output_span": [
+            10,
+            11
+          ],
+          "before": "",
+          "after": "的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            379,
+            380
+          ],
+          "output_span": [
+            15,
+            15
+          ],
+          "before": "四",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            382,
+            383
+          ],
+          "output_span": [
+            17,
+            18
+          ],
+          "before": "，",
+          "after": "与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            389,
+            392
+          ],
+          "output_span": [
+            24,
+            29
+          ],
+          "before": "就是这",
+          "after": "使我想到一"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            393,
+            397
+          ],
+          "output_span": [
+            30,
+            42
+          ],
+          "before": "奖励函数",
+          "after": "关于理论评价的研究问题："
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            398,
+            409
+          ],
+          "output_span": [
+            43,
+            44
+          ],
+          "before": "不同历史时期的名字，在",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            411,
+            411
+          ],
+          "output_span": [
+            46,
+            47
+          ],
+          "before": "",
+          "after": " "
+        }
+      ],
+      "retained_characters": 78,
+      "author_assessment": "作者提出的研究问题；不把不同历史原则认作已证明等价的同一个奖励函数"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "要研究这个问题，先要说清楚“同等语义”怎样比较。把一段说明删短，未必保留了它的条件；把许多内容藏进一个名字，也不等于减少了理解与执行所需要的工作。反过来，增加一个例子虽然使文字变长，却可能让人更快理解，并减少误用。理论表达、模型表示、证明长度、学习成本与执行成本，需要分别记录，再考察它们之间的关系。\n\n这也说明，为什么个人知识库要记录思想的演化。只看最后写出的公式，很难知道研究者为什么改变方向；把问题、尝试、反例和修订联系起来，才有可能研究创造过程中哪些动作起了作用。\n\n可以先从一个很小的比较开始：面对同一组问题，一份材料只给出最后结论，另一份材料还保留概念的形成、失败尝试与修改理由。观察学习者或 AI 是否更能理解适用条件，是否更容易发现反例，能否把方法用于不同情景。这样的结果不会一次证明整个理论，却能帮助我们决定下一步应该怎样构造知识系统。",
+      "reason": "由作者的研究问题展开的教学与研究例子；是新增方案，不是已完成实验"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 大胆想象，究竟意味着什么",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R10376",
+      "source_span": [
+        5252,
+        5414
+      ],
+      "source_sha256": "b542f9ca980289f8d90cc55ea0c585516082d0ce56236481adc6bbd739ca1d88",
+      "text": "我认为，不能把当前的社会科学框架当作未来制度可能性的终点。有些理论之间的关系，在我看来，更像是多列具有不同速度、方向和加速度的列车上的观察者，根据自己的观察创造出的不同描述；我们还需要研究，它们怎样互相转换、参照与兼容。对未来社会的推理，也应当考察其前提是否已经发生变化。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            5252,
+            5252
+          ],
+          "output_span": [
+            0,
+            4
+          ],
+          "before": "",
+          "after": "我认为，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5253,
+            5255
+          ],
+          "output_span": [
+            5,
+            7
+          ],
+          "before": "要用",
+          "after": "能把"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5257,
+            5260
+          ],
+          "output_span": [
+            9,
+            9
+          ],
+          "before": "或过时",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5267,
+            5268
+          ],
+          "output_span": [
+            16,
+            31
+          ],
+          "before": "和",
+          "after": "当作未来制度可能性的终点。有些"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5270,
+            5279
+          ],
+          "output_span": [
+            33,
+            35
+          ],
+          "before": "（这部分理论从当前",
+          "after": "之间"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5280,
+            5282
+          ],
+          "output_span": [
+            36,
+            42
+          ],
+          "before": "状态",
+          "after": "关系，在我看"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5283,
+            5284
+          ],
+          "output_span": [
+            43,
+            43
+          ],
+          "before": "看",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5285,
+            5300
+          ],
+          "output_span": [
+            44,
+            44
+          ],
+          "before": "甚至还处于前牛顿时期，不同理论",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5303,
+            5320
+          ],
+          "output_span": [
+            47,
+            47
+          ],
+          "before": "在自己的参考系坐标系中的表达，就像",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5322,
+            5322
+          ],
+          "output_span": [
+            49,
+            51
+          ],
+          "before": "",
+          "after": "具有"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5326,
+            5326
+          ],
+          "output_span": [
+            55,
+            56
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5328,
+            5328
+          ],
+          "output_span": [
+            58,
+            59
+          ],
+          "before": "",
+          "after": "和"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5339,
+            5339
+          ],
+          "output_span": [
+            70,
+            71
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5346,
+            5347
+          ],
+          "output_span": [
+            78,
+            78
+          ],
+          "before": "而",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5350,
+            5351
+          ],
+          "output_span": [
+            81,
+            81
+          ],
+          "before": "来",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5354,
+            5356
+          ],
+          "output_span": [
+            84,
+            94
+          ],
+          "before": "理论",
+          "after": "描述；我们还需要研究"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5357,
+            5380
+          ],
+          "output_span": [
+            95,
+            99
+          ],
+          "before": "这些理论之间缺乏相互转换和参照的框架和理论进行",
+          "after": "它们怎样"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5384,
+            5385
+          ],
+          "output_span": [
+            103,
+            107
+          ],
+          "before": "和",
+          "after": "、参照与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5387,
+            5391
+          ],
+          "output_span": [
+            109,
+            111
+          ],
+          "before": "）来评估",
+          "after": "。对"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5393,
+            5394
+          ],
+          "output_span": [
+            113,
+            113
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5396,
+            5399
+          ],
+          "output_span": [
+            115,
+            117
+          ],
+          "before": "科学和",
+          "after": "的推"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5400,
+            5413
+          ],
+          "output_span": [
+            118,
+            135
+          ],
+          "before": "论以及制度规则的无限可能性",
+          "after": "，也应当考察其前提是否已经发生变化"
+        }
+      ],
+      "retained_characters": 63,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R10376",
+      "source_span": [
+        5473,
+        5699
+      ],
+      "source_sha256": "b7e13c4f7843696ea78511dd90fb3c471d2ded477d89f359212a355d478d98ad",
+      "text": "例如，我设想一种远未来的可能：一个智能体的多个身体之间是通过脑机接口互联的整体，如果能够共同构成一个完整的意识对象，那么这个整体就同时具有存在于不同物理位置的分身。在这个假设中，其中一个身体感知的经验和学到的知识，能够被其他身体共同获得。假如整体的记忆与意识连续性可以在部分身体损失后保留，那么失去一个身体的意义，就可能不同于今天一个人的死亡。对这个智能体来说，就像是一个可再生的触手被切掉了，也许能够重新生长。这一过程的经历，也可能作为这个智能体的一段独一无二的人生体验和经历被保留下来。成为这个智能体学习和实践中的一个环节。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            5473,
+            5474
+          ],
+          "output_span": [
+            0,
+            3
+          ],
+          "before": "而",
+          "after": "例如，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5477,
+            5478
+          ],
+          "output_span": [
+            6,
+            9
+          ],
+          "before": "的",
+          "after": "一种远"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5480,
+            5485
+          ],
+          "output_span": [
+            11,
+            25
+          ],
+          "before": "，这些副本",
+          "after": "的可能：一个智能体的多个身体"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5500,
+            5501
+          ],
+          "output_span": [
+            40,
+            48
+          ],
+          "before": "是",
+          "after": "如果能够共同构成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5511,
+            5514
+          ],
+          "output_span": [
+            58,
+            65
+          ],
+          "before": "只不过",
+          "after": "那么这个整体就"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5530,
+            5533
+          ],
+          "output_span": [
+            81,
+            82
+          ],
+          "before": "物理存",
+          "after": "。"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5534,
+            5535
+          ],
+          "output_span": [
+            83,
+            89
+          ],
+          "before": "。",
+          "after": "这个假设中，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5537,
+            5539
+          ],
+          "output_span": [
+            91,
+            91
+          ],
+          "before": "任何",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5541,
+            5542
+          ],
+          "output_span": [
+            93,
+            94
+          ],
+          "before": "个",
+          "after": "身"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5543,
+            5551
+          ],
+          "output_span": [
+            95,
+            95
+          ],
+          "before": "在某个外部环境中",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5554,
+            5556
+          ],
+          "output_span": [
+            98,
+            100
+          ],
+          "before": "认识",
+          "after": "经验"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5563,
+            5566
+          ],
+          "output_span": [
+            107,
+            109
+          ],
+          "before": "都立即",
+          "after": "能够"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5569,
+            5572
+          ],
+          "output_span": [
+            112,
+            113
+          ],
+          "before": "所有个",
+          "after": "身"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5573,
+            5576
+          ],
+          "output_span": [
+            114,
+            144
+          ],
+          "before": "所拥有",
+          "after": "共同获得。假如整体的记忆与意识连续性可以在部分身体损失后保留"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5577,
+            5583
+          ],
+          "output_span": [
+            145,
+            149
+          ],
+          "before": "消灭其中任何",
+          "after": "那么失去"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5585,
+            5588
+          ],
+          "output_span": [
+            151,
+            152
+          ],
+          "before": "物理本",
+          "after": "身"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5589,
+            5589
+          ],
+          "output_span": [
+            153,
+            156
+          ],
+          "before": "",
+          "after": "的意义"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5590,
+            5592
+          ],
+          "output_span": [
+            157,
+            157
+          ],
+          "before": "根本",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5593,
+            5598
+          ],
+          "output_span": [
+            158,
+            168
+          ],
+          "before": "是无关紧要",
+          "after": "可能不同于今天一个人"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5599,
+            5599
+          ],
+          "output_span": [
+            169,
+            171
+          ],
+          "before": "",
+          "after": "死亡"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5625,
+            5630
+          ],
+          "output_span": [
+            197,
+            203
+          ],
+          "before": "可以随时再",
+          "after": "也许能够重新"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5631,
+            5631
+          ],
+          "output_span": [
+            204,
+            207
+          ],
+          "before": "",
+          "after": "长。这"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5632,
+            5643
+          ],
+          "output_span": [
+            208,
+            208
+          ],
+          "before": "个出来。而且这种牺牲的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5645,
+            5648
+          ],
+          "output_span": [
+            210,
+            213
+          ],
+          "before": "和意义",
+          "after": "的经历"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5650,
+            5651
+          ],
+          "output_span": [
+            215,
+            217
+          ],
+          "before": "会",
+          "after": "可能"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5674,
+            5676
+          ],
+          "output_span": [
+            240,
+            240
+          ],
+          "before": "持久",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5678,
+            5679
+          ],
+          "output_span": [
+            242,
+            242
+          ],
+          "before": "了",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5682,
+            5683
+          ],
+          "output_span": [
+            245,
+            246
+          ],
+          "before": "作",
+          "after": "成"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5684,
+            5684
+          ],
+          "output_span": [
+            247,
+            249
+          ],
+          "before": "",
+          "after": "这个"
+        }
+      ],
+      "retained_characters": 149,
+      "author_assessment": "作者跨载体共同意识设想；以明确条件句保留其区别于分离副本的要点，不宣称当下已实现或损失身体无害"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这提出的不是一个已经完成的技术结论，而是一个需要分层研究的问题：信息怎样相通，行动怎样协调，记忆怎样连续，主观经验是否以及怎样成为整体。仅仅复制资料，不能直接回答所有这些问题；反过来，也不能只按完全分离的个体来设定前提，然后宣称一切更深的连接都不可能。\n\n这样的想象与眼前的教育、科研其实共享一种方法：不要把尚未做到的事直接写成事实，也不要把尚未做到当成永远做不到。把设想拆成能够说明的条件，把条件变成可以继续研究的问题，再用每一轮结果修正下一轮构造。文明的创造能力，就在这个不断打开问题、建立联系并付诸实践的过程中增长。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

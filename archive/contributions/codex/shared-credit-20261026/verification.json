@@ -1,0 +1,22 @@
+{
+  "schema": "sc/archive-verification@1",
+  "status": "pass",
+  "recorded_at": "2026-10-26T14:52:09.316761+00:00",
+  "snapshot": "bafyreicz5gzufjy36j6tubwkizrwqsxzwbhw7mlr5bufktyy657jyi2gfq",
+  "federated_snapshot": "bafyreib6ixs2it5nxvg7j2gfhgnxrrnardp24qwg2nes6eemfr5zyl5ide",
+  "chapter_sha256": "825898cad9ec48ec6e66458409199a61995380100bd659f6db9308a6b0315b11",
+  "combined_sha256": "7f6daf93e6f9568cb944571db07b61cf252174b32588de3dcfb75b78f325465a",
+  "source_entries_checked": 13,
+  "source_units_replayed": 42,
+  "all_passage_units": 90,
+  "all_prior_passages_preserved": 79,
+  "outside_section_ten_byte_preserved": true,
+  "standalone_section_replayed": true,
+  "frozen_files_checked": 11,
+  "archive_blocks_checked": 329,
+  "current_native_events": 212357,
+  "chapter_replacement_and_inverse_passed": true,
+  "request_retrieval_passed": true,
+  "full_reference_graph_nodes_checked_at_staging": 779006,
+  "review_scope": "Codex replay of saved objects; no Claude review, publication, or blanket author acceptance"
+}

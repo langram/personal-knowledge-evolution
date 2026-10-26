@@ -1,0 +1,26 @@
+{
+  "schema": "pkst.chatgpt-export-capture@0.1",
+  "recorded_at": "2026-10-26T02:48:45.548852+00:00",
+  "platform": "chatgpt",
+  "namespace": "owner-openai-account",
+  "format": "official-openai-export-zip",
+  "original": {
+    "raw_cid": "bafkreiedta4gvcocykek4j2hwms6quxq3asnbmnubt52si37sq3gmyosfm",
+    "sha256": "8398386a89c2c288ae2747b325e852f0d824d0b1b40cfba9237f94366661d22b",
+    "bytes": 958001574
+  },
+  "member_count": 369,
+  "directory_entries": 0,
+  "captured_members": 369,
+  "failures": [],
+  "declared_expanded_bytes": 1162951426,
+  "manifest": ".private\\members-20261026T024835.586198Z-5026e3e8.jsonl",
+  "manifest_sha256": "87d320e06de41d959950de580acd0c19e1a1235ada601b0d6acfc324eb8a5b38",
+  "status": "captured",
+  "implementation_sha256": "5d41dc827de0a9eb1cfbae40975c7a63380efd51dfa44838869a789b2515509a",
+  "limitations": [
+    "Capture does not prove complete account history",
+    "No semantic extraction performed",
+    "ZIP member timestamps lack a source timezone; they are not conversation timestamps"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "snapshot": "bafyreie7qmmbqxk3i6yafgmshftn56po2xexbpozktbi4bsze23ghetdf4",
+  "tar_bytes": 9635840,
+  "tar_sha256": "c86787dc410f94d616491361859e10b1c1353183bc95a3b6839aa495419f2fb5",
+  "members_verified_against_raw": 437,
+  "source_members_verified_against_mac_manifest": 435,
+  "safe_path_and_type_checks": true,
+  "car_verification": {
+    "header": {
+      "roots": [
+        {
+          "$link": "bafyreie7qmmbqxk3i6yafgmshftn56po2xexbpozktbi4bsze23ghetdf4"
+        }
+      ],
+      "version": 1
+    },
+    "blocks": 439,
+    "external_raw_verified": 328,
+    "schemas": {
+      "pkst/snapshot@0.1": 1,
+      "pkst/activity@0.1": 438
+    },
+    "status": "all-blocks-and-reference-closure-verified"
+  },
+  "root_activities_verified": 438,
+  "occurrences": 0,
+  "member_activity_bytes_and_raw_links_verified": 437,
+  "source_path_and_exact_mtime_provenance_verified": 435,
+  "scope": "raw archive and provenance; no native conversation body in this supplement"
+}

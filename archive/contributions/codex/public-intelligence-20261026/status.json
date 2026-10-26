@@ -1,0 +1,13 @@
+{
+  "status": "activated-after-verification",
+  "recorded_at": "2026-10-26T13:54:59.803191+00:00",
+  "pointer": {
+    "report": "report-20261026-public-intelligence-v1.json",
+    "snapshot": "bafyreiaoyj3yj6t5w3qybg5obtmfwtgn3f6lohotwvmnptexwspw2rmr7e",
+    "database": "contributions\\codex\\catalog\\.private\\20261026-public-intelligence-v1\\catalog.sqlite"
+  },
+  "verification": "verification.json",
+  "text_verification": "text-verification.json",
+  "author_adoption": false,
+  "public_release": false
+}

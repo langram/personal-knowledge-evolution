@@ -1,0 +1,2522 @@
+{
+  "chapter": "02",
+  "title": "存在、变化与可构造性",
+  "status": "expanded-copyedited",
+  "review": {
+    "reasoning": "可识别的存在→可探测的变化→组合的稳定→对偶体研究动机→内部实现与外部关系→层级与差异→未定过程的边界",
+    "examples": [
+      "持续变化的人",
+      "积木连接",
+      "程序保存与执行",
+      "原子细胞人与程序的角色差异",
+      "候选模块接口"
+    ],
+    "objections": [
+      "改名是否等于新数学",
+      "抽象是否抹掉学科差异",
+      "容纳未定是否允许任意矛盾"
+    ],
+    "voice": "大量保留作者 Gemini 逐段论证及原始 Dualoid 结构，严格区分嵌入 AI 回复",
+    "status": "初校；形式化仍为研究设想，具体改动可追溯",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "editorial-addition",
+      "text": "我们说“这里有一个东西”，实际上已经隐含了两个条件：我们能够把它同周围的其他东西区别开来，而且经过一定变化之后，仍然能够认出它。这种稳定并不等于内部什么都没有发生。一个人一直在呼吸、进食、学习，身体里的物质不断更替，我们却仍然认为这是同一个人。\n\n如果没有任何可以保持的关系，就无从谈论一个对象；如果没有任何变化，也无从考察它怎样与其他对象发生作用。存在与变化，因此不是两幅互不相干的画面，而是我们理解同一个过程时的两个方向。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 存在、变化与稳定的构造",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48527",
+      "source_span": [
+        0,
+        434
+      ],
+      "source_sha256": "3552746d845c335f97d3dca7529bb0e7f73a2db3a83aae0c01a525e0f1181ab7",
+      "text": "从构造的角度考察，首先要问，一个能够稳定存在、持续演化的复杂结构，需要具备什么条件，如果没有可以识别的存在性，事物就无从定义，如果没有变化性，事物就无法发展，也无法被人类所探测，因为我们的科学体系中，我们对事物属性的认识，需要经过感知、测量和相互作用，如果一种属性从不产生可区别的影响，我们就无法通过观察区分它，比如如果光的强度和波长都始终不变，那么，人类眼睛的感光细胞就无法通过这些差别感知光的明暗与色彩变化，关于光的亮度颜色的概念也不可能在人类大脑中产生，更无法建立光的波长，频率，振幅等高级科学概念。\n\n而存在的稳定性和变化规律的稳定性，二者相结合，决定了结构的稳定性，而结构的稳定性，使简单结构有可能稳定地构成复杂结构，从而让构建的进化过程也是稳定的，而万物结构和其进化的稳定性，也为观察结果的稳定和可重现提供了条件，这些稳定和可重现的感官反馈，能够让我们的大脑同样产生稳定的概念和规律，而这些稳定的概念和规律，就是我们构建数学和科学理论的基础。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1,
+            5
+          ],
+          "output_span": [
+            1,
+            8
+          ],
+          "before": "根本上讲",
+          "after": "构造的角度考察"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6,
+            9
+          ],
+          "output_span": [
+            9,
+            14
+          ],
+          "before": "宇宙是",
+          "after": "首先要问，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            11,
+            16
+          ],
+          "output_span": [
+            16,
+            16
+          ],
+          "before": "凡事皆有可",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            17,
+            22
+          ],
+          "output_span": [
+            17,
+            20
+          ],
+          "before": "，万物皆可",
+          "after": "够稳定"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            24,
+            24
+          ],
+          "output_span": [
+            22,
+            27
+          ],
+          "before": "",
+          "after": "、持续演化"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            25,
+            52
+          ],
+          "output_span": [
+            28,
+            28
+          ],
+          "before": "环境，对偶子不可能是唯一的存在，但是它确是一个具有稳定",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            56,
+            66
+          ],
+          "output_span": [
+            32,
+            32
+          ],
+          "before": "的事物存在的必须前提",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            67,
+            67
+          ],
+          "output_span": [
+            33,
+            44
+          ],
+          "before": "",
+          "after": "需要具备什么条件，如果"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            69,
+            69
+          ],
+          "output_span": [
+            46,
+            51
+          ],
+          "before": "",
+          "after": "可以识别的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            81,
+            81
+          ],
+          "output_span": [
+            63,
+            65
+          ],
+          "before": "",
+          "after": "如果"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            116,
+            119
+          ],
+          "output_span": [
+            100,
+            103
+          ],
+          "before": "所有的",
+          "after": "我们对"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            121,
+            122
+          ],
+          "output_span": [
+            105,
+            105
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            124,
+            124
+          ],
+          "output_span": [
+            107,
+            110
+          ],
+          "before": "",
+          "after": "的认识"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            125,
+            132
+          ],
+          "output_span": [
+            111,
+            115
+          ],
+          "before": "都是建立在人类",
+          "after": "需要经过"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            134,
+            139
+          ],
+          "output_span": [
+            117,
+            125
+          ],
+          "before": "的基础上的",
+          "after": "、测量和相互作用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            142,
+            148
+          ],
+          "output_span": [
+            128,
+            142
+          ],
+          "before": "事物没有变化",
+          "after": "一种属性从不产生可区别的影响"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            149,
+            151
+          ],
+          "output_span": [
+            143,
+            145
+          ],
+          "before": "人类",
+          "after": "我们"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            153,
+            167
+          ],
+          "output_span": [
+            147,
+            155
+          ],
+          "before": "从感知变化，无从定义这个属性",
+          "after": "法通过观察区分它"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            200,
+            200
+          ],
+          "output_span": [
+            188,
+            194
+          ],
+          "before": "",
+          "after": "通过这些差别"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            206,
+            206
+          ],
+          "output_span": [
+            200,
+            201
+          ],
+          "before": "",
+          "after": "与"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            258,
+            258
+          ],
+          "output_span": [
+            253,
+            255
+          ],
+          "before": "",
+          "after": "\n\n"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            268,
+            268
+          ],
+          "output_span": [
+            265,
+            267
+          ],
+          "before": "",
+          "after": "规律"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            297,
+            300
+          ],
+          "output_span": [
+            296,
+            297
+          ],
+          "before": "决定了",
+          "after": "使"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            304,
+            304
+          ],
+          "output_span": [
+            301,
+            302
+          ],
+          "before": "",
+          "after": "有"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            305,
+            306
+          ],
+          "output_span": [
+            303,
+            304
+          ],
+          "before": "以",
+          "after": "能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            308,
+            309
+          ],
+          "output_span": [
+            306,
+            307
+          ],
+          "before": "的",
+          "after": "地"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            347,
+            355
+          ],
+          "output_span": [
+            345,
+            346
+          ],
+          "before": "决定了我们对其的",
+          "after": "为"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            359,
+            361
+          ],
+          "output_span": [
+            350,
+            351
+          ],
+          "before": "也是",
+          "after": "的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            363,
+            365
+          ],
+          "output_span": [
+            353,
+            354
+          ],
+          "before": "的，",
+          "after": "和"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            368,
+            369
+          ],
+          "output_span": [
+            357,
+            362
+          ],
+          "before": "的",
+          "after": "提供了条件"
+        }
+      ],
+      "retained_characters": 324,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        9958,
+        10142
+      ],
+      "source_sha256": "cff2706bd78326e807a82411ce9edcefc97c03cebe1805bf9529e787ec07fb30",
+      "text": "* **存在性**（可以借助对象的概念描述）：没有稳定的存在，事物就无从定义，我们就无法识别正在研究什么。  \n* **变化性**（可以借助态射描述相互作用和变化）：没有变化，结构就无法发展，也不能通过相互作用被观察者探测。  \n* **可构造性**（需要考察存在、变化与组合规则的稳定性）：没有稳定的构造规则，简单结构就无法稳定地构成复杂结构，构造过程就很难积累。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            9968,
+            9975
+          ],
+          "output_span": [
+            10,
+            14
+          ],
+          "before": "对应范畴论中的",
+          "after": "可以借助"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            9977,
+            9977
+          ],
+          "output_span": [
+            16,
+            21
+          ],
+          "before": "",
+          "after": "的概念描述"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9995,
+            10003
+          ],
+          "output_span": [
+            39,
+            52
+          ],
+          "before": "世界将是一片混沌",
+          "after": "我们就无法识别正在研究什么"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10017,
+            10024
+          ],
+          "output_span": [
+            66,
+            70
+          ],
+          "before": "对应范畴论中的",
+          "after": "可以借助"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            10026,
+            10026
+          ],
+          "output_span": [
+            72,
+            81
+          ],
+          "before": "",
+          "after": "描述相互作用和变化"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10033,
+            10042
+          ],
+          "output_span": [
+            88,
+            91
+          ],
+          "before": "世界将是一片死寂，",
+          "after": "结构就"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10048,
+            10050
+          ],
+          "output_span": [
+            97,
+            105
+          ],
+          "before": "无法",
+          "after": "不能通过相互作用"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            10051,
+            10053
+          ],
+          "output_span": [
+            106,
+            106
+          ],
+          "before": "任何",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            10056,
+            10057
+          ],
+          "output_span": [
+            109,
+            109
+          ],
+          "before": "所",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10074,
+            10075
+          ],
+          "output_span": [
+            126,
+            130
+          ],
+          "before": "即",
+          "after": "需要考察"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10077,
+            10078
+          ],
+          "output_span": [
+            132,
+            133
+          ],
+          "before": "和",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            10080,
+            10080
+          ],
+          "output_span": [
+            135,
+            140
+          ],
+          "before": "",
+          "after": "与组合规则"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            10083,
+            10097
+          ],
+          "output_span": [
+            143,
+            143
+          ],
+          "before": "性，对应恒等态射和态射的复合",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10127,
+            10141
+          ],
+          "output_span": [
+            173,
+            182
+          ],
+          "before": "宇宙将永远停留在最原始的阶段",
+          "after": "构造过程就很难积累"
+        }
+      ],
+      "retained_characters": 118,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "拿积木来想，只有一堆彼此无关的材料，还不足以造出建筑。每一块需要保持一定形状，连接时需要遵守某些关系，连接完成以后又不能立刻散掉。更进一步，已经搭好的小结构，最好还能作为整体参与下一轮组合。这样，建造者才不必每次都从最小材料重新开始。\n\n因此，可构造性关注的不仅是“这两个东西能不能碰到一起”，还包括“碰到一起以后形成什么”“形成的东西能不能保持”“它能不能继续参与新的构造”。一层层积累的条件，在这些问题里逐渐出现。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 为什么想把对象与变化放进同一个基本概念",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        8156,
+        8270
+      ],
+      "source_sha256": "b913757a62347093bcccdbb9e5606c107753231ca88fafbea8a62bdbd9483fc7",
+      "text": "沿着这个方向，我还想考察范畴论的基本概念能否换一种组织方式。通常的范畴定义，分别陈述**对象**和**态射**及其关系。我的问题是：能不能从一个同时表达存在与变化的构件出发，再说明这两种视角怎样出现。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            8156,
+            8158
+          ],
+          "output_span": [
+            0,
+            6
+          ],
+          "before": "然而",
+          "after": "沿着这个方向"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            8159,
+            8159
+          ],
+          "output_span": [
+            7,
+            12
+          ],
+          "before": "",
+          "after": "我还想考察"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            8162,
+            8164
+          ],
+          "output_span": [
+            15,
+            15
+          ],
+          "before": "自身",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8166,
+            8172
+          ],
+          "output_span": [
+            17,
+            29
+          ],
+          "before": "础也并非完美",
+          "after": "本概念能否换一种组织方式"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8173,
+            8175
+          ],
+          "output_span": [
+            30,
+            33
+          ],
+          "before": "作为",
+          "after": "通常的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            8177,
+            8189
+          ],
+          "output_span": [
+            35,
+            35
+          ],
+          "before": "论中最基本的概念，范畴的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            8191,
+            8196
+          ],
+          "output_span": [
+            37,
+            37
+          ],
+          "before": "还不够简洁",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8197,
+            8203
+          ],
+          "output_span": [
+            38,
+            42
+          ],
+          "before": "它同时定义了",
+          "after": "分别陈述"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8216,
+            8222
+          ],
+          "output_span": [
+            55,
+            59
+          ],
+          "before": "两个基本概念",
+          "after": "及其关系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8223,
+            8224
+          ],
+          "output_span": [
+            60,
+            64
+          ],
+          "before": "这",
+          "after": "我的问题"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8225,
+            8234
+          ],
+          "output_span": [
+            65,
+            70
+          ],
+          "before": "一种二元论的起点，",
+          "after": "：能不能从"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8236,
+            8240
+          ],
+          "output_span": [
+            72,
+            81
+          ],
+          "before": "终极理论",
+          "after": "同时表达存在与变化"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            8241,
+            8244
+          ],
+          "output_span": [
+            82,
+            82
+          ],
+          "before": "最基本",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8246,
+            8250
+          ],
+          "output_span": [
+            84,
+            91
+          ],
+          "before": "不应该是",
+          "after": "出发，再说明这"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8251,
+            8269
+          ],
+          "output_span": [
+            92,
+            99
+          ],
+          "before": "个，而应该是一个更简洁、更完美的实体",
+          "after": "种视角怎样出现"
+        }
+      ],
+      "retained_characters": 34,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        8272,
+        8831
+      ],
+      "source_sha256": "ec00d7fb0a519e1e5daf3d5d0ccf9a766d47f577ec28776a9f0aed204a24a007",
+      "text": "如果我们认真考察整个范畴论的理论体系，会发现一个隐藏的性质，它并没有在范畴的定义本身中体现出来，但却无处不在，这就是范畴论中的**对偶性 (Duality)**。范畴论中的任何概念（范畴、对象、态射、极限与余极限、积与余积等）都存在其对偶概念；把箭头反转，也能够形成相应的对偶表达。这种无所不在的对称性暗示着，在对象和态射这两个显性概念之下，可能隐藏着一个更深的统一性原理。对象对应着**存在**，态射对应着**变化**，而存在和变化恰恰是一对最古老的哲学对偶。\n\n基于此，我尝试在范畴论中，将对偶性从一种遍及理论结构的关系，组织为一个尝试同时描述对象与态射的新概念——**对偶体 (Dualoid)**，并在此基础上，以对偶体的对偶性来定义对象、态射和范畴等更高级的概念。这个设想，类似于从道家的“道”中生发出“阴”和“阳”两仪。\n\n作为这个构造设想的起点，我们先不预设它必须由哪一种物理材料组成。因此，我们不给出该对象的结构定义，而只给出其探测定义，即通过它与其他由它衍生出来的对象的关系来定义它，这在精神上类似于范畴论自身的米田引理——一个对象可以通过与其他对象之间成体系的关系来刻画，相关数学结论有其明确的条件。我们可以将**存在性**、**变化性**和**可构造性**（即存在和变化的稳定性）作为对偶体定义中的基本属性。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            8394,
+            8401
+          ],
+          "output_span": [
+            122,
+            128
+          ],
+          "before": "任何定理和结论",
+          "after": "把箭头反转，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8402,
+            8404
+          ],
+          "output_span": [
+            129,
+            136
+          ],
+          "before": "都是",
+          "after": "能够形成相应的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8406,
+            8407
+          ],
+          "output_span": [
+            138,
+            140
+          ],
+          "before": "的",
+          "after": "表达"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8519,
+            8522
+          ],
+          "output_span": [
+            252,
+            259
+          ],
+          "before": "个全局",
+          "after": "种遍及理论结构"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8523,
+            8532
+          ],
+          "output_span": [
+            260,
+            262
+          ],
+          "before": "不证自明的万有性质",
+          "after": "关系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8533,
+            8535
+          ],
+          "output_span": [
+            263,
+            265
+          ],
+          "before": "提升",
+          "after": "组织"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8538,
+            8543
+          ],
+          "output_span": [
+            268,
+            274
+          ],
+          "before": "明确的、比",
+          "after": "尝试同时描述"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8545,
+            8546
+          ],
+          "output_span": [
+            276,
+            277
+          ],
+          "before": "和",
+          "after": "与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            8548,
+            8551
+          ],
+          "output_span": [
+            279,
+            279
+          ],
+          "before": "更基本",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8552,
+            8554
+          ],
+          "output_span": [
+            280,
+            281
+          ],
+          "before": "实体",
+          "after": "新"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8643,
+            8644
+          ],
+          "output_span": [
+            370,
+            371
+          ],
+          "before": "一",
+          "after": "这"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8645,
+            8647
+          ],
+          "output_span": [
+            372,
+            376
+          ],
+          "before": "终极",
+          "after": "构造设想"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8648,
+            8652
+          ],
+          "output_span": [
+            377,
+            379
+          ],
+          "before": "初始概念",
+          "after": "起点"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8655,
+            8667
+          ],
+          "output_span": [
+            382,
+            386
+          ],
+          "before": "无法探究其内部结构，因为",
+          "after": "先不预设"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8668,
+            8669
+          ],
+          "output_span": [
+            387,
+            391
+          ],
+          "before": "是",
+          "after": "必须由哪"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8670,
+            8676
+          ],
+          "output_span": [
+            392,
+            399
+          ],
+          "before": "切结构的基础",
+          "after": "种物理材料组成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8752,
+            8757
+          ],
+          "output_span": [
+            475,
+            479
+          ],
+          "before": "的身份由它",
+          "after": "可以通过"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            8758,
+            8763
+          ],
+          "output_span": [
+            480,
+            480
+          ],
+          "before": "范畴中所有",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            8767,
+            8767
+          ],
+          "output_span": [
+            484,
+            489
+          ],
+          "before": "",
+          "after": "之间成体系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8770,
+            8775
+          ],
+          "output_span": [
+            492,
+            509
+          ],
+          "before": "所完全决定",
+          "after": "来刻画，相关数学结论有其明确的条件"
+        }
+      ],
+      "retained_characters": 483,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "把它称为对偶体，并不意味着换了一个名字，就已经完成了新的数学基础。这个名字要有用，必须让我们更清楚地写出：哪些构造被允许，哪些关系必须保持，怎样组合，组合以后怎样判断得到的还是同一类对象。\n\n例如，一个计算单元既可以作为保存在文件中的程序，被阅读、复制、比较，也可以在执行时接收输入、产生输出。前一种视角强调它是什么，后一种视角强调它做什么。把两者连起来之后，我们还会追问：不同的内部实现，能不能提供同一种外部功能？同一段内部结构，在不同环境中又会不会表现得不同？",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48840",
+      "source_span": [
+        0,
+        301
+      ],
+      "source_sha256": "3a1a379c322d04769a00233f099fd47b7d78970ead2cd0e9e7ac61408b48c2d6",
+      "text": "对于计算机科学来讲，无论是硬件还是软件的某个功能模块/单元，都具有其内部结构和外部功能，如果从结构与关系的角度考察这个模块，其硬件结构/程序代码数据，具有对象的性质，可以作为一个确定版本保存下来；运行中的状态变化则需要另外描述，同时这个硬件/软件的功能性在实际运行时，却体现出了态射的性质，可以完成数据变换，并在接口与条件相容时组合成更复杂的功能。范畴论、某些类型化的 lambda 演算与逻辑之间，存在值得利用的对应关系，我希望用范畴论中的概念和规则描述计算机软硬件中的那些单元模块的数据/代码二元性，进而模拟人类智慧大脑中的命题语句/和推理规则二元性。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            44,
+            48
+          ],
+          "output_span": [
+            44,
+            59
+          ],
+          "before": "而当将该",
+          "after": "如果从结构与关系的角度考察这个"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            50,
+            62
+          ],
+          "output_span": [
+            61,
+            61
+          ],
+          "before": "/单元，视作一个范畴的话",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            84,
+            95
+          ],
+          "output_span": [
+            83,
+            104
+          ],
+          "before": "是不会随着系统演算进程",
+          "after": "可以作为一个确定版本保存下来；运行中的状态"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            97,
+            112
+          ],
+          "output_span": [
+            106,
+            113
+          ],
+          "before": "的，即它具有指向自身的恒等态射",
+          "after": "则需要另外描述"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            146,
+            147
+          ],
+          "output_span": [
+            147,
+            149
+          ],
+          "before": "将",
+          "after": "完成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            149,
+            159
+          ],
+          "output_span": [
+            151,
+            153
+          ],
+          "before": "通过极限和余极限操作",
+          "after": "变换"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            160,
+            161
+          ],
+          "output_span": [
+            154,
+            166
+          ],
+          "before": "完",
+          "after": "并在接口与条件相容时组合"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            162,
+            162
+          ],
+          "output_span": [
+            167,
+            168
+          ],
+          "before": "",
+          "after": "更"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            165,
+            185
+          ],
+          "output_span": [
+            171,
+            173
+          ],
+          "before": "数据变化，可以任意组合生成复杂的数据变化",
+          "after": "功能"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            186,
+            190
+          ],
+          "output_span": [
+            174,
+            174
+          ],
+          "before": "我们知道",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            193,
+            200
+          ],
+          "output_span": [
+            177,
+            183
+          ],
+          "before": "和计算机软硬件",
+          "after": "、某些类型化"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            201,
+            205
+          ],
+          "output_span": [
+            184,
+            185
+          ],
+          "before": "底层理论",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            211,
+            211
+          ],
+          "output_span": [
+            191,
+            192
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            213,
+            221
+          ],
+          "output_span": [
+            194,
+            195
+          ],
+          "before": "，以及人类的数理",
+          "after": "与"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            225,
+            225
+          ],
+          "output_span": [
+            199,
+            200
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            227,
+            229
+          ],
+          "output_span": [
+            202,
+            206
+          ],
+          "before": "等价",
+          "after": "值得利用"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            230,
+            230
+          ],
+          "output_span": [
+            207,
+            209
+          ],
+          "before": "",
+          "after": "对应"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            233,
+            237
+          ],
+          "output_span": [
+            212,
+            215
+          ],
+          "before": "那么如何",
+          "after": "我希望"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            299,
+            301
+          ],
+          "output_span": [
+            277,
+            278
+          ],
+          "before": "呢？",
+          "after": "。"
+        }
+      ],
+      "retained_characters": 196,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 内部结构与外部联系，怎样彼此说明",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48731",
+      "source_span": [
+        1389,
+        1606
+      ],
+      "source_sha256": "072571ffd3d4450684c131a5c39bc09c382040c040c562c71e83efb1eba83c03",
+      "text": "这种构件在不同层级的物理世界中，可以由不同对象担任，比如物质结构中的原子，生物基因DNA中的基本碱基对，在生物体中的细胞，在人的大脑中的神经元，在人类社会中的人类个体，它们的共同特点都是具备稳定的状态(存在性),随时间和环境的成长演化(变化性)，演变中关系的传递性和组合性。就像康威生命游戏那样，由简单规则形成复杂的模式，我希望通过研究这些共同条件，理解复杂结构怎样层层出现。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1390,
+            1394
+          ],
+          "output_span": [
+            1,
+            4
+          ],
+          "before": "个对偶子",
+          "after": "种构件"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1406,
+            1408
+          ],
+          "output_span": [
+            16,
+            18
+          ],
+          "before": "分别",
+          "after": "可以"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1411,
+            1414
+          ],
+          "output_span": [
+            21,
+            21
+          ],
+          "before": "的物理",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1421,
+            1441
+          ],
+          "output_span": [
+            28,
+            28
+          ],
+          "before": "在超弦理论中，弦就是这个层级的对偶子，在",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1443,
+            1449
+          ],
+          "output_span": [
+            30,
+            32
+          ],
+          "before": "基本元素层次",
+          "after": "结构"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1543,
+            1547
+          ],
+          "output_span": [
+            126,
+            126
+          ],
+          "before": "个体相互",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1550,
+            1552
+          ],
+          "output_span": [
+            129,
+            129
+          ],
+          "before": "递归",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1574,
+            1575
+          ],
+          "output_span": [
+            151,
+            151
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1577,
+            1579
+          ],
+          "output_span": [
+            153,
+            155
+          ],
+          "before": "产生",
+          "after": "形成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1582,
+            1584
+          ],
+          "output_span": [
+            158,
+            160
+          ],
+          "before": "生命",
+          "after": "模式"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1585,
+            1594
+          ],
+          "output_span": [
+            161,
+            174
+          ],
+          "before": "由对偶子的对偶特性",
+          "after": "我希望通过研究这些共同条件"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1595,
+            1598
+          ],
+          "output_span": [
+            175,
+            177
+          ],
+          "before": "产生出",
+          "after": "理解"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1600,
+            1605
+          ],
+          "output_span": [
+            179,
+            187
+          ],
+          "before": "的宇宙万物",
+          "after": "结构怎样层层出现"
+        }
+      ],
+      "retained_characters": 154,
+      "author_assessment": "嵌入的用户提示段；未使用紧随其后的 AI 肯定回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这里所说的“同一种构件”，是研究角色上的共同性。一个细胞显然不等于一个人，一个人也不等于一条程序。可是，当我们考察更高一层的组织怎样建立时，可以分别研究这些构件如何保持自身，如何接收与产生影响，如何形成相对稳定的连接。\n\n如果没有这个层级区分，抽象就很容易变成一句空话：万物都有联系，所以万物都一样。真正需要展开的是，哪些联系能够组合，组合后保留了哪些性质，又出现了哪些必须在更高层研究的性质。共同语言应当使这些差别更容易表达，而不是把差别抹掉。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48731",
+      "source_span": [
+        3370,
+        3886
+      ],
+      "source_sha256": "643d12d599df3975e4f4fcf0a902cf548e0dbbba39761901711861c5490e1259",
+      "text": "如果一个动态系统能够从简单结构中不断构造出更复杂的结构，那么这个过程中，系统结构中的基本元件所具备的这些属性，也可能在演化中改变，比如有些构件变得更稳定，连接方式变得更多，组合成功的条件也可能改善；这些变化能否同时发生，需要在具体系统中考察。在真实世界中，构件的组合与复制能力，可以形成大量实例，这一点我们考察生物的繁衍进化过程，就会发现，DNA的基本结构具备这个对象特性，而 DNA 的复制、变异和重组，又为多样性和复制性提供了具体机制，从而使生物具有丰富多样的特征，并能够产生大量实例。这些具有多样性和海量性的不同结构的实例之间并发的演化，相互竞争博弈，能够在相应环境中维持和繁衍的结构，才有条件继续演化；复杂化是其中一种可能，并不意味着越复杂就必然越有优势，达尔文进化论试图从物竞天择，适者生存的角度，考察和描述生命这个耗散结构在竞争中随环境与相互作用而变化的过程。而我则试图从更基本的范畴论的角度，为整个宇宙（包括生物进化）演化的过程寻找共同的构造解释。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            3372,
+            3373
+          ],
+          "output_span": [
+            2,
+            3
+          ],
+          "before": "整",
+          "after": "一"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3376,
+            3381
+          ],
+          "output_span": [
+            6,
+            6
+          ],
+          "before": "演化的复杂",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3383,
+            3404
+          ],
+          "output_span": [
+            8,
+            10
+          ],
+          "before": "，从混沌到有序，从低效率有序到高效率有序，",
+          "after": "能够"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3407,
+            3409
+          ],
+          "output_span": [
+            13,
+            13
+          ],
+          "before": "有序",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3411,
+            3412
+          ],
+          "output_span": [
+            15,
+            22
+          ],
+          "before": "到",
+          "after": "中不断构造出更"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3414,
+            3416
+          ],
+          "output_span": [
+            24,
+            25
+          ],
+          "before": "有序",
+          "after": "的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3418,
+            3426
+          ],
+          "output_span": [
+            27,
+            27
+          ],
+          "before": "，有一个演化过程",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3455,
+            3459
+          ],
+          "output_span": [
+            56,
+            59
+          ],
+          "before": "会有一个",
+          "after": "可能在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3461,
+            3466
+          ],
+          "output_span": [
+            61,
+            64
+          ],
+          "before": "/进化过程",
+          "after": "中改变"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3469,
+            3472
+          ],
+          "output_span": [
+            67,
+            74
+          ],
+          "before": "对象的",
+          "after": "有些构件变得更"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3474,
+            3483
+          ],
+          "output_span": [
+            76,
+            90
+          ],
+          "before": "性会有一个从低到高",
+          "after": "，连接方式变得更多，组合成功"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3484,
+            3485
+          ],
+          "output_span": [
+            91,
+            102
+          ],
+          "before": "进",
+          "after": "条件也可能改善；这些变"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3486,
+            3488
+          ],
+          "output_span": [
+            103,
+            109
+          ],
+          "before": "过程",
+          "after": "能否同时发生"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3489,
+            3557
+          ],
+          "output_span": [
+            110,
+            120
+          ],
+          "before": "态射的多样性，也有一个由寡变多的过程，态射的可复合的概率也会经历一个从低到高的过程，对象推出和拉回的能力也会经历一个从不对称到对称的过程",
+          "after": "需要在具体系统中考察"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3565,
+            3574
+          ],
+          "output_span": [
+            128,
+            129
+          ],
+          "before": "这个系统中的基本元",
+          "after": "构"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3576,
+            3581
+          ],
+          "output_span": [
+            131,
+            136
+          ],
+          "before": "推出和拉回",
+          "after": "组合与复制"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3584,
+            3588
+          ],
+          "output_span": [
+            139,
+            143
+          ],
+          "before": "会构造出",
+          "after": "可以形成"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3590,
+            3591
+          ],
+          "output_span": [
+            145,
+            145
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3593,
+            3595
+          ],
+          "output_span": [
+            147,
+            147
+          ],
+          "before": "个体",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            3636,
+            3636
+          ],
+          "output_span": [
+            188,
+            189
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            3639,
+            3639
+          ],
+          "output_span": [
+            192,
+            193
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3640,
+            3646
+          ],
+          "output_span": [
+            194,
+            202
+          ],
+          "before": "推出拉回能力",
+          "after": "复制、变异和重组"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3647,
+            3654
+          ],
+          "output_span": [
+            203,
+            205
+          ],
+          "before": "构成了DNA的",
+          "after": "又为"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            3661,
+            3661
+          ],
+          "output_span": [
+            212,
+            219
+          ],
+          "before": "",
+          "after": "提供了具体机制"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3665,
+            3666
+          ],
+          "output_span": [
+            223,
+            223
+          ],
+          "before": "得",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            3668,
+            3668
+          ],
+          "output_span": [
+            225,
+            231
+          ],
+          "before": "",
+          "after": "具有丰富多样"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3671,
+            3677
+          ],
+          "output_span": [
+            234,
+            241
+          ],
+          "before": "的多样性和数",
+          "after": "，并能够产生大"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3678,
+            3682
+          ],
+          "output_span": [
+            242,
+            244
+          ],
+          "before": "的海量性",
+          "after": "实例"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3717,
+            3731
+          ],
+          "output_span": [
+            279,
+            281
+          ],
+          "before": "具有更好的对偶子特性的物种会",
+          "after": "能够"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3732,
+            3734
+          ],
+          "output_span": [
+            282,
+            286
+          ],
+          "before": "竞争",
+          "after": "相应环境"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3735,
+            3743
+          ],
+          "output_span": [
+            287,
+            292
+          ],
+          "before": "占据主动，更复杂",
+          "after": "维持和繁衍"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3746,
+            3755
+          ],
+          "output_span": [
+            295,
+            295
+          ],
+          "before": "个体占据更多的资源",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3756,
+            3769
+          ],
+          "output_span": [
+            296,
+            302
+          ],
+          "before": "繁衍更多的个体，这些个体的",
+          "after": "才有条件继续"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3771,
+            3775
+          ],
+          "output_span": [
+            304,
+            305
+          ],
+          "before": "会生成更",
+          "after": "；"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3777,
+            3780
+          ],
+          "output_span": [
+            307,
+            331
+          ],
+          "before": "的结构",
+          "after": "化是其中一种可能，并不意味着越复杂就必然越有优势"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3820,
+            3836
+          ],
+          "output_span": [
+            371,
+            382
+          ],
+          "before": "逐步从从简单到复杂，从低级到高级",
+          "after": "随环境与相互作用而变化"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3875,
+            3882
+          ],
+          "output_span": [
+            421,
+            425
+          ],
+          "before": "给出一个更基本",
+          "after": "寻找共同"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            3883,
+            3883
+          ],
+          "output_span": [
+            426,
+            428
+          ],
+          "before": "",
+          "after": "构造"
+        }
+      ],
+      "retained_characters": 263,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 容纳未定，并不需要取消已经确定的规则",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        8833,
+        9470
+      ],
+      "source_sha256": "4246ff2d08fb425ebce45fdc937d20028c125f74add4911bd17ea1192dc230ae",
+      "text": "对偶体这个概念的核心在于，它希望把自指、未定与结构形成的问题纳入研究，而不是遇到边界就停止追问。一种直观的尝试，是先考察结构怎样回应自指；要成为精确的数学定义，还需要补足相应的规则：\n\n* **能够维持的自我描述**：当它进行自我肯定时（“我存在”），如果描述与构造规则相容，就可能形成可重复识别的稳定关系。  \n* **不能在当前规则中得到稳定判定的自我描述**：当它进行自我否定时（“我不是我”），可能产生循环、矛盾或未定义。不同结果必须分别说明，不能一概当成同一种叠加态。\n\n前者使我们研究稳定关系，后者使我们研究当前规则的边界以及扩展的可能。内部尚未确定的过程，可以通过明确的边界与外部已经确定的关系区分开来。接下来需要研究的，是怎样从这些问题中构造新的层级与结构。是否能得到更强的解释与构造能力，要由具体结果说明。\n\n这个设想，是将范畴论中隐含的对偶性提升为第一性的基本概念，并通过它的定义来为本体论与认识论、还原论与涌现论之间的矛盾寻找更基本的联系，从而对范畴论进行重构，为复杂系统的分析和构建提供更强有力的手段。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            8847,
+            8852
+          ],
+          "output_span": [
+            14,
+            27
+          ],
+          "before": "将悖论背后",
+          "after": "希望把自指、未定与结构形成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8853,
+            8893
+          ],
+          "output_span": [
+            28,
+            34
+          ],
+          "before": "本质，作为整个系统得以运行、演化和涌现的根本原因和动力所在，积极地拥抱和欢迎悖论",
+          "after": "问题纳入研究"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8897,
+            8900
+          ],
+          "output_span": [
+            38,
+            47
+          ],
+          "before": "规避它",
+          "after": "遇到边界就停止追问"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8901,
+            8909
+          ],
+          "output_span": [
+            48,
+            52
+          ],
+          "before": "我们可以使用悖论",
+          "after": "一种直观"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8910,
+            8912
+          ],
+          "output_span": [
+            53,
+            55
+          ],
+          "before": "方式",
+          "after": "尝试"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8913,
+            8921
+          ],
+          "output_span": [
+            56,
+            61
+          ],
+          "before": "对对偶体这个基本",
+          "after": "是先考察结"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8922,
+            8925
+          ],
+          "output_span": [
+            62,
+            72
+          ],
+          "before": "件进行",
+          "after": "怎样回应自指；要成为"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8933,
+            8948
+          ],
+          "output_span": [
+            80,
+            87
+          ],
+          "before": "这通过它对“自指”这一终极探测",
+          "after": "还需要补足相应"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8949,
+            8954
+          ],
+          "output_span": [
+            88,
+            90
+          ],
+          "before": "回应来体现",
+          "after": "规则"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            8961,
+            8961
+          ],
+          "output_span": [
+            97,
+            102
+          ],
+          "before": "",
+          "after": "能够维持的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8963,
+            8975
+          ],
+          "output_span": [
+            104,
+            106
+          ],
+          "before": "肯定 → 永远 true",
+          "after": "描述"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8995,
+            9005
+          ],
+          "output_span": [
+            126,
+            137
+          ],
+          "before": "它会始终输出true",
+          "after": "如果描述与构造规则相容"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9006,
+            9009
+          ],
+          "output_span": [
+            138,
+            149
+          ],
+          "before": "表现出",
+          "after": "就可能形成可重复识别的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9011,
+            9035
+          ],
+          "output_span": [
+            151,
+            153
+          ],
+          "before": "的状态。这代表外延涌现确定，呈现稳定存在的同一性",
+          "after": "关系"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            9043,
+            9043
+          ],
+          "output_span": [
+            161,
+            176
+          ],
+          "before": "",
+          "after": "不能在当前规则中得到稳定判定的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9045,
+            9065
+          ],
+          "output_span": [
+            178,
+            180
+          ],
+          "before": "否定 → true/false 的叠加态",
+          "after": "描述"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9086,
+            9101
+          ],
+          "output_span": [
+            201,
+            235
+          ],
+          "before": "它会陷入true和false的",
+          "after": "可能产生循环、矛盾或未定义。不同结果必须分别说明，不能一概当成同一种"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            9104,
+            9125
+          ],
+          "output_span": [
+            238,
+            238
+          ],
+          "before": "。这代表外延涌现未定，呈现混沌未知的二相性",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9130,
+            9139
+          ],
+          "output_span": [
+            243,
+            252
+          ],
+          "before": "表现为该事物自指时",
+          "after": "使我们研究稳定关系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9140,
+            9141
+          ],
+          "output_span": [
+            253,
+            256
+          ],
+          "before": "自",
+          "after": "后者使"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9142,
+            9143
+          ],
+          "output_span": [
+            257,
+            280
+          ],
+          "before": "肯",
+          "after": "们研究当前规则的边界以及扩展的可能。内部尚未确"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9145,
+            9149
+          ],
+          "output_span": [
+            282,
+            317
+          ],
+          "before": "概念本身",
+          "after": "过程，可以通过明确的边界与外部已经确定的关系区分开来。接下来需要研究的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9151,
+            9188
+          ],
+          "output_span": [
+            319,
+            322
+          ],
+          "before": "存在的基石；后者则表现为该事物自指时，自我否定所引发的悖论，是变化的源泉。",
+          "after": "怎样从"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9189,
+            9288
+          ],
+          "output_span": [
+            323,
+            329
+          ],
+          "before": "种自指的叠加态被“封装”到该元件的内部，它并不破坏外部世界的逻辑一致性，正如一个量子比特的叠加态并不会让宏观计算机崩溃一样。相反，正是这种内部的、悖论驱动的不确定性，成为了系统“破缺对称性”、涌现出",
+          "after": "些问题中构造"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9292,
+            9293
+          ],
+          "output_span": [
+            333,
+            334
+          ],
+          "before": "和",
+          "after": "与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            9295,
+            9300
+          ],
+          "output_span": [
+            336,
+            336
+          ],
+          "before": "的动力引擎",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9301,
+            9320
+          ],
+          "output_span": [
+            337,
+            344
+          ],
+          "before": "它为整个体系的其它概念和规律提供了终极",
+          "after": "是否能得到更强"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9323,
+            9362
+          ],
+          "output_span": [
+            347,
+            350
+          ],
+          "before": "性，而它本质的内部性质是不可再进一步分析的，因为这种要求超出了范畴论框架的探测",
+          "after": "与构造"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9364,
+            9366
+          ],
+          "output_span": [
+            352,
+            361
+          ],
+          "before": "范围",
+          "after": "，要由具体结果说明"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9427,
+            9434
+          ],
+          "output_span": [
+            422,
+            427
+          ],
+          "before": "提供一个第一性",
+          "after": "寻找更基本"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9435,
+            9437
+          ],
+          "output_span": [
+            428,
+            430
+          ],
+          "before": "解释",
+          "after": "联系"
+        }
+      ],
+      "retained_characters": 217,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "可以把这一点放到研究过程里理解。一个模块内部仍然有几个候选方案，不等于外面所有调用它的工作都必须失去规则。它可以清楚说明目前已经保证什么、还有什么不知道，在已知条件下提供功能，同时让内部实现继续改进。\n\n这样，理论就有了一个值得追问的方向：稳定不是演化的结束，而是下一层构造能够开始的条件；变化也不只是破坏稳定，它还可能产生新的稳定关系。要把这个方向展开，就需要继续讨论不动点、最小化、最大化与涌现之间的联系。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

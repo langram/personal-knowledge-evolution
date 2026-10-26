@@ -1,0 +1,323 @@
+{
+  "implementation": "contributions/claude/pkst_cbor_claude.py",
+  "implementation_sha256": "697a7be406d6058046743f820ef33c591e8c18350040e2453c87f4776d761b3c",
+  "vectors": "protocol/test-vectors.json",
+  "vectors_sha256": "bb512915e09f189f52b5ce514534c1f2534f135e622fe87c2e66df3c73eadc03",
+  "python": "3.14.5",
+  "ran_at": "2026-10-24T07:05:06Z",
+  "summary": {
+    "positive_pass": "23/23",
+    "negative_rejected": "6/6",
+    "claude_extra_negative_rejected": "18/18"
+  },
+  "positive": [
+    {
+      "name": "null",
+      "cbor_hex": "f6",
+      "cid": "bafyreifqwkmiw256ojf2zws6tzjeonw6bpd5vza4i22ccpcq4hjv2ts7cm",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "true",
+      "cbor_hex": "f5",
+      "cid": "bafyreibhvppn37ufanewvxvwendgzksh3jpwhk6sxrx2dh3m7s3t5t7noa",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "false",
+      "cbor_hex": "f4",
+      "cid": "bafyreibac77tiyjzkzzkucve6zejj7jpswslcihcnehisulfnv423qxo2i",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "int23",
+      "cbor_hex": "17",
+      "cid": "bafyreiepcgyf3j4f4q7hcpido5ggxu2alwm42mbev4zu77li3ntdvi3qgq",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "int24",
+      "cbor_hex": "1818",
+      "cid": "bafyreid4mnepp2ukj2brvl7grcrfk7l2hkyl5bkjzwyzbibjsvvn5fy3cu",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "negative25",
+      "cbor_hex": "3818",
+      "cid": "bafyreig5povfiqe4auufb3joapsymcdl73jxuj224sxorcdrdtl4i26jd4",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "empty-map",
+      "cbor_hex": "a0",
+      "cid": "bafyreigbtj4x7ip5legnfznufuopl4sg4knzc2cof6duas4b3q2fy6swua",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "map-order",
+      "cbor_hex": "a261620162616102",
+      "cid": "bafyreihbaf6v4gjeo76rl6ncekrny5lwbgyjf7zdw2m7w77xsjm3xvige4",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "unicode",
+      "cbor_hex": "6be6809de683b30d0a65cc81",
+      "cid": "bafyreifbybprs5boy2cdfbzfz42tsbstmxyikdvt6necwpbvke7ncxycne",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "max-int",
+      "cbor_hex": "1b001fffffffffffff",
+      "cid": "bafyreiau6uboriydiauixhnjr3kv3hzdbsfjf3uggnqzrx3ndnhcpdz5dy",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "min-int",
+      "cbor_hex": "3b001ffffffffffffe",
+      "cid": "bafyreifyx757rmvmwx42wig6lkhgpe2hikvsfu5d7ru55fyhugqoq2leii",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "raw-link",
+      "cbor_hex": "d82a582500015512202cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+      "cid": "bafyreic4sahhddigxpvzcxl4tpftskderepne2hlgjuyufieibf6cd3a3q",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "pkst/source@0.1",
+      "cbor_hex": "a466736368656d616f706b73742f736f7572636540302e3168706c6174666f726d6973796e746865746963696e616d6573706163656a746573742d6f776e6572706e61746976655f7468726561645f6964627431",
+      "cid": "bafyreia5bau6oqk7n225q3peyo7aa6pwawlkr7sukuw5am5kqonnsrrc5q",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "pkst/content@0.1",
+      "cbor_hex": "a364746578747818e5a682e69e9c2041efbc8ce982a3e4b9882042efbc9f0d0a66736368656d6170706b73742f636f6e74656e7440302e316a6d656469615f747970657819746578742f706c61696e3b20636861727365743d7574662d38",
+      "cid": "bafyreidmt7ebbzcllgt7vt7nsj66nnpiokan57psdxahj7bwi3rj4wlegi",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "pkst/occurrence@0.1",
+      "cbor_hex": "aa66736368656d6173706b73742f6f6363757272656e636540302e3166736f75726365d82a582500017112201d0829e7415f6eb5d86de4c3be0079f60596a8fe54552dd033aa839ad94622ec67636f6e74656e7481d82a582500017112206c9fc810e44b59a7facfed927de6b5e87280defdf21dc074fc3646e29e596432676c6f6361746f72f6696e61746976655f6964626d316a6163746f725f6b696e6467756e6b6e6f776e6a6576656e745f74696d65a36576616c7565f669707265636973696f6e67756e6b6e6f776e6a7a6f6e655f6b6e6f776ef46b6e61746976655f726f6c6564757365726c70726f636573735f6b696e64646d61696e716e61746976655f706172656e745f69647380",
+      "cid": "bafyreig4mdkigvkzrnglo6d6yqbow6l5mouasatjpnggvarahttoajuu7u",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "pkst/concept@0.1",
+      "cbor_hex": "a5656c6162656c66e6b58be8af9566736368656d6170706b73742f636f6e6365707440302e316865766964656e636581d82a58250001711220dc60d48355598b4cb7787ec402eb797d63a80902697b4c6a82203ce6e02694fd6a646566696e6974696f6e6ce6b58be8af95e6a682e5bfb56b61737365727465645f6279a262696465636f646578646b696e64626169",
+      "cid": "bafyreiab3iyzcympanv7ovwltrjxjasvvmhocgxmeklbyekpjdognshr6i",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "pkst/statement@0.1",
+      "cbor_hex": "a7647465787476e5a682e69e9c2041efbc8ce982a3e4b9882042efbc9f65666f726365687175657374696f6e66686f6c646572a262696467756e6b6e6f776e646b696e6467756e6b6e6f776e66736368656d6172706b73742f73746174656d656e7440302e31676c696e65616765f66865766964656e636581d82a58250001711220dc60d48355598b4cb7787ec402eb797d63a80902697b4c6a82203ce6e02694fd6b61737365727465645f6279a262696465636f646578646b696e64626169",
+      "cid": "bafyreib3idwh7hsciniu2cmzewhcraco5wwb4xwroozrivc2shfr5e2wji",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "pkst/relation@0.1",
+      "cbor_hex": "a862746fd82a582500017112203b40ec7f9e4243514d0999258e28804eedac1e5ed173b314545a91cb1e93564a6466726f6dd82a58250001711220dc60d48355598b4cb7787ec402eb797d63a80902697b4c6a82203ce6e02694fd65626173697368696e6665727265646573636f70656e73796e746865746963206f6e6c7966736368656d6171706b73742f72656c6174696f6e40302e316865766964656e636581d82a58250001711220dc60d48355598b4cb7787ec402eb797d63a80902697b4c6a82203ce6e02694fd697072656469636174657570726f7061676174696f6e2d63616e6469646174656b61737365727465645f6279a262696465636f646578646b696e64626169",
+      "cid": "bafyreicctvr5ntmzc2fffvere2fadd7nwsi3ux4m36kydsqqqq33kaj5aa",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "pkst/change@0.1",
+      "cbor_hex": "a865626173697367756e6b6e6f776e66726561736f6e6963616e64696461746566736368656d616f706b73742f6368616e676540302e316865766964656e636581d82a58250001711220dc60d48355598b4cb7787ec402eb797d63a80902697b4c6a82203ce6e02694fd696f7065726174696f6e667265766973656b61737365727465645f6279a262696465636f646578646b696e646261696b746f5f76657273696f6e73806d66726f6d5f76657273696f6e7381d82a582500017112203b40ec7f9e4243514d0999258e28804eedac1e5ed173b314545a91cb1e93564a",
+      "cid": "bafyreigyhibk2mjrka32pw4npecx2axi5gahqitwseg57xmo477hobbqzi",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "pkst/assessment@0.1",
+      "cbor_hex": "a666736368656d6173706b73742f6173736573736d656e7440302e3166746172676574d82a582500017112203b40ec7f9e4243514d0999258e28804eedac1e5ed173b314545a91cb1e93564a6865766964656e636581d82a58250001711220dc60d48355598b4cb7787ec402eb797d63a80902697b4c6a82203ce6e02694fd686a7564676d656e7469756e6365727461696e6b61737365727465645f6279a262696465636f646578646b696e646261696b7265636f726465645f617474323032362d31302d32345430303a30303a30305a",
+      "cid": "bafyreicj2f4keisf5uefa6s3ktsqftnmoph63heprdhayxlflnjxvxthou",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "pkst/activity@0.1",
+      "cbor_hex": "a8656163746f72a262696465636f646578646b696e6462616966696e7075747381d82a58250001711220dc60d48355598b4cb7787ec402eb797d63a80902697b4c6a82203ce6e02694fd66736368656d6171706b73742f616374697669747940302e31676f75747075747381d82a582500017112203b40ec7f9e4243514d0999258e28804eedac1e5ed173b314545a91cb1e93564a68636f766572616765a1667374617475736973796e746865746963696f7065726174696f6e676f6273657276656b7265636f726465645f617474323032362d31302d32345430303a30303a30305a6e696d706c656d656e746174696f6e6766697874757265",
+      "cid": "bafyreido6kk7wyytns7sewgc2zzghkmh42sow7cfy24yewzfqyjbesrure",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "pkst/snapshot@0.1",
+      "cbor_hex": "a565726f6f747382d82a582500017112203b40ec7f9e4243514d0999258e28804eedac1e5ed173b314545a91cb1e93564ad82a58250001711220dc60d48355598b4cb7787ec402eb797d63a80902697b4c6a82203ce6e02694fd66736368656d6171706b73742f736e617073686f7440302e3167706172656e74738068636f766572616765a1667374617475736973796e7468657469636870726f746f636f6c68504b53542d302e31",
+      "cid": "bafyreicmmzfslwyictpbwovgv2fyyr4nnfskbk3yh3s77mavsj4vc72kti",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    },
+    {
+      "name": "pkst/extraction-record@0.1",
+      "cbor_hex": "a863656e640563726177d82a582500015512202cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b98246573746172740066706172736572676669787475726566736368656d61781a706b73742f65787472616374696f6e2d7265636f726440302e316a636f6f7264696e61746578186465636f6465642d6a736f6e6c2d757466382d62797465736a6f6363757272656e6365d82a58250001711220dc60d48355598b4cb7787ec402eb797d63a80902697b4c6a82203ce6e02694fd6a726f6c655f626173697367756e6b6e6f776e",
+      "cid": "bafyreiht63otox4csgoalikvdnlepy6djonxnc3jtirxt6crsvp4qrcdjy",
+      "hex_match": true,
+      "cid_match": true,
+      "decode_roundtrip": true
+    }
+  ],
+  "negative": [
+    {
+      "name": "float",
+      "rejected": true,
+      "error": "float not allowed"
+    },
+    {
+      "name": "overflow",
+      "rejected": true,
+      "error": "integer out of range"
+    },
+    {
+      "name": "surrogate",
+      "rejected": true,
+      "error": "unpaired surrogate in string"
+    },
+    {
+      "name": "invalid-link",
+      "rejected": true,
+      "error": "non-canonical base32"
+    },
+    {
+      "name": "reserved-map",
+      "rejected": true,
+      "error": "$link is reserved; map must have it as its only key"
+    },
+    {
+      "name": "json:{\"x\":1,\"x\":2}",
+      "rejected": true,
+      "error": "duplicate JSON key 'x'"
+    }
+  ],
+  "claude_extra_negative": [
+    {
+      "name": "non-minimal-int",
+      "rejected": true,
+      "error": "non-canonical encoding"
+    },
+    {
+      "name": "map-wrong-order",
+      "rejected": true,
+      "error": "non-canonical encoding"
+    },
+    {
+      "name": "dup-map-key",
+      "rejected": true,
+      "error": "duplicate map key"
+    },
+    {
+      "name": "float16",
+      "rejected": true,
+      "error": "simple/float value not allowed"
+    },
+    {
+      "name": "undefined",
+      "rejected": true,
+      "error": "simple/float value not allowed"
+    },
+    {
+      "name": "indefinite-array",
+      "rejected": true,
+      "error": "indefinite length / reserved additional info"
+    },
+    {
+      "name": "unknown-tag",
+      "rejected": true,
+      "error": "unknown tag 256"
+    },
+    {
+      "name": "bare-bytes",
+      "rejected": true,
+      "error": "bare byte strings not allowed"
+    },
+    {
+      "name": "trailing-bytes",
+      "rejected": true,
+      "error": "trailing bytes"
+    },
+    {
+      "name": "truncated",
+      "rejected": true,
+      "error": "truncated string"
+    },
+    {
+      "name": "bad-utf8",
+      "rejected": true,
+      "error": "invalid UTF-8"
+    },
+    {
+      "name": "int-overflow",
+      "rejected": true,
+      "error": "integer out of range"
+    },
+    {
+      "name": "tag42-no-prefix",
+      "rejected": true,
+      "error": "tag 42 bytes must start with 0x00"
+    },
+    {
+      "name": "tag42-bad-codec",
+      "rejected": true,
+      "error": "CID codec not allowed: 0x70"
+    },
+    {
+      "name": "cid-content-mismatch",
+      "rejected": true,
+      "error": "block bytes do not match claimed CID"
+    },
+    {
+      "name": "unsorted-set-evidence",
+      "rejected": true,
+      "error": "set field evidence not sorted/unique by CID binary"
+    },
+    {
+      "name": "uppercase-cid",
+      "rejected": true,
+      "error": "bad base32 alphabet"
+    },
+    {
+      "name": "cidv0",
+      "rejected": true,
+      "error": "CID must be multibase base32 ('b' prefix)"
+    }
+  ]
+}

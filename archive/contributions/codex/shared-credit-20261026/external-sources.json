@@ -1,0 +1,66 @@
+[
+  {
+    "id": "newton",
+    "title": "The Newton Project: Life and Work at a Glance",
+    "url": "https://www.newtonproject.ox.ac.uk/his-life-and-work-at-a-glance",
+    "claim": "Distinct Leibniz and Hooke disputes; Newton role in the 1712 committee report. Historical summary, not a verdict on personalities.",
+    "capture": {
+      "url": "https://www.newtonproject.ox.ac.uk/his-life-and-work-at-a-glance",
+      "retrieved_at": "2026-10-26T14:42:41.612236+00:00",
+      "status": "captured",
+      "http_status": 200,
+      "final_url": "https://www.newtonproject.ox.ac.uk/his-life-and-work-at-a-glance",
+      "file": "newton.html",
+      "bytes": 46830,
+      "sha256": "1bc87f27a08a1a1fb55c667b57e6b46e0c586e3febf164517b24f494b351741f"
+    },
+    "access": "web tool read full relevant passages; direct public HTML capture recorded separately"
+  },
+  {
+    "id": "darwin-wallace",
+    "title": "Darwin and Wallace 1858 joint paper, with Lyell and Hooker cover letter",
+    "url": "https://darwin-online.org.uk/content/contentblock?basepage=1&itemID=F350&hitpage=1&viewtype=text",
+    "claim": "1858 joint communication acknowledges independent intellectual contributions; does not establish perfect allocation of all subsequent credit.",
+    "capture": {
+      "url": "https://darwin-online.org.uk/content/contentblock?basepage=1&itemID=F350&hitpage=1&viewtype=text",
+      "retrieved_at": "2026-10-26T14:42:41.612717+00:00",
+      "status": "captured",
+      "http_status": 200,
+      "final_url": "https://darwin-online.org.uk/content/contentblock?basepage=1&itemID=F350&hitpage=1&viewtype=text",
+      "file": "darwin-wallace.html",
+      "bytes": 73528,
+      "sha256": "0fbd7c94179d803943692de5228748eba6856733010fe042d9829f466a3fd542"
+    },
+    "access": "web tool read full relevant passages; direct public HTML capture recorded separately"
+  },
+  {
+    "id": "perelman-2010",
+    "title": "Interfax direct interview reporting, 1 July 2010",
+    "url": "https://www.interfax.ru/russia/143587",
+    "claim": "Perelman declined the Millennium Prize; said reasons were multiple and Hamilton contribution no less than his. Not the 2006 Fields Medal explanation or a request for a 50/50 split.",
+    "capture": {
+      "url": "https://www.interfax.ru/russia/143587",
+      "retrieved_at": "2026-10-26T14:42:41.612905+00:00",
+      "status": "captured",
+      "http_status": 200,
+      "final_url": "https://www.interfax.ru/russia/143587",
+      "file": "perelman-2010.html",
+      "bytes": 62677,
+      "sha256": "d4cda27f3732cdc6be358f80235a15d6614ff4ff8af28cd783ffb34de4ef58ef"
+    },
+    "access": "web tool read full relevant passages; direct public HTML capture recorded separately"
+  },
+  {
+    "id": "fields-2006",
+    "title": "IMU Fields Medal official record",
+    "url": "https://www.mathunion.org/imu-awards/fields-medal",
+    "claim": "Perelman declined the 2006 Fields Medal. Does not establish the reason for refusal.",
+    "capture": {
+      "url": "https://www.mathunion.org/imu-awards/fields-medal",
+      "retrieved_at": "2026-10-26T14:42:41.613400+00:00",
+      "status": "failed",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+    },
+    "access": "web tool read full relevant passages; direct public HTML capture recorded separately"
+  }
+]

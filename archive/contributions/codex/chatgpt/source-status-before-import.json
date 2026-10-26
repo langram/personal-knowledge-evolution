@@ -1,0 +1,23 @@
+{
+  "schema": "pkst.source-status@0.1",
+  "recorded_at": "2026-10-24T08:01:00.391761Z",
+  "owner": "codex",
+  "platform": "chatgpt",
+  "namespace": "owner-openai-account",
+  "export": {
+    "status": "request-accepted-preparing",
+    "evidence_kind": "direct-user-report",
+    "evidence": "User identified the preparation notification as OpenAI / ChatGPT; message says a download link will be sent when ready.",
+    "notification_body_directly_inspected": false
+  },
+  "download": {
+    "status": "awaiting-ready-link",
+    "actual_archive_received": false
+  },
+  "workflow": {
+    "repeat_export_request": false,
+    "chrome_logged_in_settings_observed": true,
+    "earlier_brave_oauth_callback_failure_preserved": true
+  },
+  "coverage": "No cloud archive body received yet; not included in current knowledge evidence."
+}

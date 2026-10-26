@@ -1,0 +1,28 @@
+{
+  "ran_at": "2026-10-24T07:28:49Z",
+  "car": "windows-evidence.car",
+  "car_bytes": 189891233,
+  "car_sha256": "4b99054266dd675aefc3a55f482be774b644eb9df04a216845b27a0b435165d8",
+  "roots": [
+    "bafyreihf77xzistkxg3ai2i5tfiwpedrndgatwrrnjvfkwulbjrckiaxzu"
+  ],
+  "roots_present": true,
+  "blocks": 291692,
+  "duplicate_sections": 0,
+  "dag_cbor_blocks": 291692,
+  "raw_blocks_inside_car": 0,
+  "objects_by_schema": {
+    "pkst/source@0.1": 3004,
+    "pkst/content@0.1": 117757,
+    "pkst/occurrence@0.1": 83924,
+    "pkst/extraction-record@0.1": 83924,
+    "pkst/snapshot@0.1": 3065,
+    "pkst/opaque-block@0.1": 17,
+    "pkst/activity@0.1": 1
+  },
+  "errors": {},
+  "dangling_object_links": 0,
+  "external_raw_links_checked": 3067,
+  "external_raw_links_missing_or_bad": 0,
+  "pass": true
+}

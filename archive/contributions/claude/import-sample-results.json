@@ -1,0 +1,138 @@
+{
+  "ran_at": "2026-10-24T07:09:19Z",
+  "manifest": "_manifest-20261024T070542Z-9b144706.jsonl",
+  "parser": "claude-code-jsonl@0.1-sample",
+  "tests": {
+    "T1_reimport_idempotent": {
+      "pass": true,
+      "cases": [
+        {
+          "raw": "bafkreiavldc3nt3cvckfb3aiaabxxqhy3amcmh44g75xreogbqozwnwlhu",
+          "objects": 13030,
+          "identical": true
+        },
+        {
+          "raw": "bafkreidhj4jbue36qusglut4o2urduf3od5uok3kx7ywaewjal6olet2lm",
+          "objects": 5989,
+          "identical": true
+        },
+        {
+          "raw": "bafkreibghh5negn2aykjnhbuxq3k56qrqclmkxiufhj22vaglrobfsx4za",
+          "objects": 295,
+          "identical": true
+        }
+      ]
+    },
+    "T2_fork_preserved": {
+      "pass": true,
+      "real_fork_points": 588,
+      "real_forks_all_children_kept": 588,
+      "fork_patterns": {
+        "assistant/ai+user/tool": 580,
+        "assistant/ai+system/system": 7,
+        "system/system+user/unknown": 1
+      },
+      "user_edit_or_rewind_example_in_corpus": null,
+      "synthetic_user_rewind_fixture_ok": true
+    },
+    "T3_relocated_copy_dedups": {
+      "pass": true,
+      "cases": [
+        {
+          "file": "a3a78eb5-2ed5-45fe-b959-872db8f44e58.jsonl",
+          "raws": [
+            "bafkreidh2oo4sr4tfcyqvblybp5dxkw5d4pi3bkhd4rojpd2t7y56ky56q",
+            "bafkreidtljuhoagz3t4nzi5tcepvy4f6msodxqhq4w6nf4g5s7y4isksdq"
+          ],
+          "shared_native_ids": 359,
+          "same_occurrence_cid": 359
+        }
+      ]
+    },
+    "T4_attribution": {
+      "pass": true,
+      "checks": {
+        "no_user_record_labelled_human": true,
+        "tool_results_are_tool": true,
+        "sidechain_present": true,
+        "compaction_classified": true
+      },
+      "distribution": {
+        "assistant|ai|main": 8017,
+        "attachment|system|injected": 5277,
+        "user|tool|main": 3982,
+        "assistant|ai|sidechain": 2581,
+        "user|tool|sidechain": 1534,
+        "user|system|injected": 451,
+        "system|system|injected": 423,
+        "user|unknown|main": 211,
+        "attachment|unknown|unknown": 135,
+        "user|ai|sidechain": 59,
+        "assistant|system|injected": 17,
+        "user|ai|compaction": 11
+      },
+      "basis_notes": {
+        "user+origin.kind=human -> unknown": 86,
+        "queued_command -> unknown/unknown": 135,
+        "compact_summary -> ai/compaction": 11
+      },
+      "note": "Native origin.kind=human marks the desktop input channel; PKST-N1/N2 typed by Codex via Computer Use carry it too, so actor_kind stays unknown."
+    },
+    "T5_truncated_tail": {
+      "pass": true,
+      "raw": "bafkreihe74v2e5642drhlntsz5s33leqlfkmlgmfhllasjhcdbp4uzdsbi",
+      "cut_at": 710845,
+      "partial_tail": {
+        "start": 710806,
+        "end": 710845
+      },
+      "occurrences_before_cut": 45,
+      "same_occurrence_cid_as_full": 45,
+      "extraction_records_differ": true,
+      "corrupt_line_report": [
+        {
+          "start": 139,
+          "end": 167,
+          "error": "JSONDecodeError"
+        }
+      ],
+      "occurrences_after_corruption": 168
+    },
+    "T6_same_text_distinct_events": {
+      "pass": true,
+      "shared_content_cids": 10,
+      "max_events_per_content": 3
+    },
+    "T7_codec_roundtrip": {
+      "pass": true,
+      "objects": 63767,
+      "failed": 0
+    }
+  },
+  "dry_run_totals": {
+    "lines": 31339,
+    "occurrences": 22698,
+    "parse_errors": 0,
+    "missing_native_id": 0,
+    "partial_tails": 0
+  },
+  "non_occurrence_record_types": {
+    "queue-operation": 1252,
+    "last-prompt": 1538,
+    "file-history-snapshot": 181,
+    "atis-latch": 956,
+    "custom-title": 1068,
+    "agent-name": 942,
+    "bridge-session": 942,
+    "file-history-delta": 401,
+    "api-request-shape": 2,
+    "api-request-blob": 139,
+    "api-request": 73,
+    "mode": 345,
+    "relocated": 52,
+    "ai-title": 728,
+    "permission-mode": 8,
+    "cost-state": 14
+  },
+  "all_pass": true
+}

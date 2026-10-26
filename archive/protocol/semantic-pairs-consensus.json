@@ -1,0 +1,18 @@
+{
+  "schema": "pkst.semantic-review-consensus@0.1",
+  "recorded_at": "2026-10-24T09:15:12.236517+00:00",
+  "status": "accepted-both-for-bounded-sample",
+  "snapshot": "bafyreidlapbiuba2xhv3yo4xmhyzs5r2rl24hmmohfktl3lscwmawu6kcu",
+  "previous_snapshot": "bafyreiezaag64fuifl2benocqseegkao3ktbiwvtc4kvekase6bblrvx4u",
+  "review": "contributions\\claude\\ACK-SEMANTIC-PAIRS-2.md",
+  "review_sha256": "3ed7d92e8ee7f346b77f55c85984e4207114a5258cba678ffb800bcf48d2fb09",
+  "independent_verifier": "contributions/claude/crosscheck-semantic-pairs-v2.json",
+  "groups": 10,
+  "occurrences": 20,
+  "statements": 12,
+  "editorial_topics": 7,
+  "relations": 22,
+  "interpretation": "Peer-verified bounded extraction; not user endorsement, truth, direction or complete thought graph",
+  "core_schema_unchanged": true,
+  "editorial_topic_label_prefix": "[整理主题]"
+}

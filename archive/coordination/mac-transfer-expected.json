@@ -1,0 +1,33 @@
+{
+  "schema": "pkst.transfer-receipt@0.1",
+  "recorded_at": "2026-10-24T08:13:57.606351Z",
+  "source_evidence": {
+    "kind": "remote-codex-thread-report",
+    "thread_id": "01a09b77-2488-75b1-91b0-9d58210090b8",
+    "turn_id": "01a16cbb-c7aa-7df2-bfc6-c42747e081a3"
+  },
+  "source_status": "both archives written and verified in authorized personal OneDrive",
+  "windows_receipt_status": "not-yet-observed",
+  "archives": [
+    {
+      "name": "pkst-mac-20261024.tar",
+      "bytes": 781793280,
+      "sha256": "6ec0bbc81f11c95e3a9c62a515d937fac01f15375e56d39860c057c493e24c37",
+      "source_files": 987,
+      "reported_members": 990
+    },
+    {
+      "name": "pkst-claude-supplement-20261024.tar",
+      "bytes": 9635840,
+      "sha256": "c86787dc410f94d616491361859e10b1c1353183bc95a3b6839aa495419f2fb5",
+      "source_files": 435
+    }
+  ],
+  "source_sync_client": {
+    "previously_running": false,
+    "now_running": true,
+    "action": "existing OneDrive launched by Mac agent within authorized transfer",
+    "observed_errors": "none reported; upload completion not verified",
+    "evidence_turn_id": "01a16cfb-55ef-7fe0-ac10-12335e703f9b"
+  }
+}

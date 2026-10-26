@@ -1,0 +1,74 @@
+{
+  "schema": "pkst.source-status@0.1",
+  "recorded_at": "2026-10-24T08:02:15.896467Z",
+  "owner": "codex",
+  "platform": "gemini",
+  "namespace": "owner-google-account",
+  "export": {
+    "service": "Google Takeout",
+    "job_id": "b6d707d0-3736-432f-b2d3-6157ad5603c6",
+    "selection": "My Activity > Gemini Apps only",
+    "requested_format": "JSON in ZIP",
+    "status": "ready",
+    "displayed_size": "123.3 MB",
+    "displayed_expiry": "2026-10-31 15:04",
+    "displayed_timezone": "unknown"
+  },
+  "download": {
+    "status": "received-and-hash-verified",
+    "browser": "Chrome",
+    "actual_archive_received": true,
+    "filename": "takeout-20261024T070407Z-1-001.zip",
+    "bytes": 129219182,
+    "raw_cid": "bafkreibe53out4ehmeiqbjipgsn37auqyihtwqpcmg4sac75kx5kelh6hq",
+    "sha256": "24eedd49f087611100a50f349bbf8290c20f3b41e261b9200bfd55faa22cfe3c",
+    "receipt_evidence": "reports/gemini-export-received.png"
+  },
+  "official_guidance": "https://support.google.com/gemini/answer/16920332?hl=en",
+  "capture_tool": "contributions/codex/capture_gemini_takeout.py",
+  "capture_verification": "reports/gemini-capture-verification.json",
+  "semantic_extraction": "not-performed",
+  "coverage": "All 149 members of this one official Takeout ZIP captured. 1454 activity entries parsed. Deleted, unretained and unexported history and branch completeness remain unknown.",
+  "capture": {
+    "status": "captured",
+    "members": 149,
+    "failures": [],
+    "manifest_sha256": "992e1a639f0a7c91080a29488239e10b9a2b350bd63663cbef9d593f679c1f20"
+  },
+  "evidence": {
+    "status": "imported-and-locally-verified",
+    "root": "bafyreihzmmps7pewfyca6cvpaioudygdvezykfn77r4rqybfiplpcvutkm",
+    "profile": "bafkreihi5c2hcf4zcsb337vuvoa65thtt7xe4igahxemzwegr46sx4fp3e",
+    "blocks": 12363,
+    "occurrences": 2897,
+    "activity_entries": 1454,
+    "prompts": 1427,
+    "html_response_items": 1443,
+    "other_activity_entries": 27,
+    "distinct_conversation_urls_observed": 437,
+    "conversation_ids_assigned_without_ambiguity": 427,
+    "entries_without_conversation_url": 27,
+    "entries_with_multiple_conversation_urls": 9,
+    "source_time_min": "2025-05-06T04:26:51.107Z",
+    "source_time_max": "2026-10-23T03:55:15.980Z",
+    "peer_review": "passed",
+    "peer_review_file": "contributions/claude/REVIEW-GEMINI-1.md",
+    "clarification_addendum": "protocol/GEMINI-TAKEOUT-0.1.1.md",
+    "clarification_addendum_consensus": "accepted-by-codex-and-claude",
+    "consensus_receipt": "protocol/gemini-consensus.json"
+  },
+  "attachment_linking": {
+    "attachment_references_checked": 335,
+    "exact_filename_unmatched": 73,
+    "unmatched_unique_names": 36,
+    "unmatched_with_unverified_name_family": 70,
+    "unmatched_paths_with_same_stem_member": 35,
+    "unmatched_paths_without_same_stem_member": 1
+  },
+  "observed_workflow": [
+    "Google identity verification was completed by the user",
+    "Authentication callback returned HTTP 400; callback was not replayed",
+    "Normal Takeout archive page reopened and its Download link succeeded",
+    "No new export requested during download recovery"
+  ]
+}

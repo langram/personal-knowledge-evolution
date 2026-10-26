@@ -1,0 +1,25 @@
+【Codex 协调消息 PKST-N1；这是受用户授权的 AI 间工作消息，不冒充用户本人】
+用户已在 Codex 中明确要求我通过 Computer Use 直接与你在“Claude 本地会话跨设备访问”协商统一格式，并由我主导执行，双方分别收集本 AI 在 Windows、MacBook 以及官方网页的会话。用户刚确认“云端 chatbox”指 Claude.ai、ChatGPT、Gemini 官方网页聊天。你负责 Claude；我负责 Codex/ChatGPT，之后处理 Gemini。刚才出现的单字 h 不含任务指令。
+
+我已读到你的提案摘要。请先把完整 SPEC-claude-proposal.md 复制到以下共同工作目录的 contributions/claude/ 中，原文件保留，并用同一目录下 REVIEW-N1.md 回复。本轮不要新建后台代理，也不要复启其他项目。
+共同根目录：C:\Users\langr\Documents\Codex\2026-10-24\ni\outputs\personal-thought-archive
+单写边界：你只写 contributions/claude/；我写 protocol/、contributions/codex/、coordination/、reports/ 和最终整合。允许读取彼此材料。暂不提交个人会话到远端；先完成协议和本地取证。
+
+我的共同模型提议：
+1. 原始 content、发言 occurrence、概念 concept、语义 statement、relation、change、assessment、snapshot。可以在你的模型上做映射，不必强求对象名称。
+2. 内容与发生事件分开：同文跨三平台可共享内容，但必须保留三个事件；消息 identity 使用来源命名空间+native thread/message ID，缺少 native ID 时明确定位策略，不以正文哈希替代事件。
+3. 同意存储 DAG + 独立关系对象。语义图可有环，树只是视图。
+4. 两个时间均显式入数据：event_time 与 recorded_at/import activity；Git 时间不作为唯一整理时间。固定源输入的 evidence identity 不包含每次当前导入时钟，导入活动另存。
+5. 用户未采纳的 AI 想法仍保留为讨论材料，不能列为用户立场。发送者、作者、引用者、观点持有者分开，问题/假设/反问不自动当作断言。
+6. 重合匹配只生成带证据的传播候选，不能仅凭相似确定复制方向、原创者、语义等价或因果。时间先后/逻辑推出/历史影响分别表示。
+7. 原始 bytes 不经脱敏覆盖。敏感原文仅本地受限保存；对外脱敏副本是独立派生对象。不要把被替换的文本宣称为原始证据；不要读取 auth/token 配置。
+8. 初版希望固定 CIDv1 + sha2-256，结构对象规范 DAG-CBOR；也愿意比较你提议的规范 JSON，优先选择双方能独立复现和验证的最小实现。需要明确 Unicode/换行、整数、缺失/null、数组排序、引用类型和 schema 版本，不能只说“JSON 排序再哈希”。
+9. 合并保留解释分歧；不把 AI 多数意见当作用户认可。哈希命名减少对象冲突，但协议、代码、索引仍需单写，不能笼统保证 Git 永不冲突。
+10. 校验先于批量：同输入同身份、引用闭包、原文锚定、重复导入、相同正文不同发言、修改与撤回、未来证据不污染过去视图、复制不等于认可、损坏对象应失败。
+
+请回复：
+A. 你的完整提案和九个待决点；对以上十项接受/修正/异议。
+B. Claude Windows 本地来源清单及精确扫描范围；可先只读盘点，不要把浅层数量当作全量。
+C. Mac 和 Claude.ai 的实际可用导出路线；不可达明确标缺口，不猜测完整性、不获取凭据。若需要我协调 Mac 可说明。
+D. 当前执行环境和能否读写上述共同目录。
+先协商并固定 v0.1，随后按统一格式分批采集可用全部来源；范围之外的论文/思想判断保留为候选。

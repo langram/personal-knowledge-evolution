@@ -1,0 +1,15 @@
+{
+  "pointer": {
+    "report": "report-20261026-public-intelligence-v1.json",
+    "snapshot": "bafyreiaoyj3yj6t5w3qybg5obtmfwtgn3f6lohotwvmnptexwspw2rmr7e",
+    "database": "contributions\\codex\\catalog\\.private\\20261026-public-intelligence-v1\\catalog.sqlite"
+  },
+  "old_document": "bafyreibdo4ifs4vv5jdouy7pqz4ke6vp4t3qgp6qfqnjeqe5kan567vw7y",
+  "old_chapter": "bafyreih2ggvb43eqrzorvod5634epul23infxvfsur7qm5wttnocmecalq",
+  "old_dossier_root": "bafyreibw224l3hra2q34n5hsa53avurm5tqvqdcvjybz7j2reomazj6xge",
+  "old_concept": "bafyreibosffjf22hhh64xvspoilqxpnq37mtre7nmzuhbqziwify4rcobe",
+  "old_manuscript": "dossiers\\2026-10-26-public-intelligence\\02-new-principles.md",
+  "old_chapter_file": "dossiers\\2026-10-26-public-intelligence\\01-chapter.md",
+  "old_manuscript_sha256": "53c2039966899dbc02854141d8627d2f9a2358f88a49a8908aff2941fa8ee062",
+  "old_chapter_sha256": "8c2015afa80e633a54077adfc873e807eccfd48ea2507672c73197eade5b7e4d"
+}

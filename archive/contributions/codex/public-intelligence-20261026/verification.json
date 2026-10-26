@@ -1,0 +1,31 @@
+{
+  "schema": "pi/archive-verification@1",
+  "status": "pass",
+  "recorded_at": "2026-10-26T13:54:59.801439+00:00",
+  "snapshot": "bafyreibw224l3hra2q34n5hsa53avurm5tqvqdcvjybz7j2reomazj6xge",
+  "federated_snapshot": "bafyreiaoyj3yj6t5w3qybg5obtmfwtgn3f6lohotwvmnptexwspw2rmr7e",
+  "chapter_sha256": "8c2015afa80e633a54077adfc873e807eccfd48ea2507672c73197eade5b7e4d",
+  "combined_sha256": "53c2039966899dbc02854141d8627d2f9a2358f88a49a8908aff2941fa8ee062",
+  "source_entries_checked": 12,
+  "source_passages_replayed": 37,
+  "all_passage_units": 79,
+  "prior_passages_preserved": 41,
+  "only_omitted_prior_headings": [
+    5,
+    14,
+    19,
+    22,
+    27,
+    40,
+    44
+  ],
+  "frozen_files_checked": 10,
+  "archive_blocks_checked": 277,
+  "current_native_events": 212356,
+  "chapter_replacement_and_inverse_passed": true,
+  "outside_chapter_byte_preserved": true,
+  "request_retrieval_passed": true,
+  "full_reference_graph_nodes_checked_at_staging": 778796,
+  "review_scope": "Codex saved-object replay using shared codec; no Claude or blanket author acceptance asserted",
+  "publication": false
+}

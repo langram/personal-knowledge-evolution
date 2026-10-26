@@ -1,0 +1,221 @@
+{
+  "schema": "pkst.test-vectors.n3-objects.claude",
+  "encoder": "contributions/claude/pkst_cbor_claude.py",
+  "projection_profile": "python-json-v1",
+  "python": "3.14.5",
+  "notes": "Synthetic; computed by the Claude encoder for Codex cross-check. Not a replacement for protocol/test-vectors.json.",
+  "positive": [
+    {
+      "name": "event_time/rfc3339-ms",
+      "value": {
+        "value": "2026-10-24T07:05:42.328Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "cbor_hex": "a564756e6974f66576616c75657818323032362d31302d32345430373a30353a34322e3332385a66666f726d6174677266633333333969707265636973696f6e6b6d696c6c697365636f6e646a7a6f6e655f6b6e6f776ef5",
+      "cid": "bafyreighmoyyojwdlr6hetbsbbplnvema72af5hhjtcgwqsyyry4a4ichu"
+    },
+    {
+      "name": "event_time/epoch-ms",
+      "value": {
+        "value": "1779177431372",
+        "format": "epoch-decimal",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": "ms"
+      },
+      "cbor_hex": "a564756e6974626d736576616c75656d3137373931373734333133373266666f726d61746d65706f63682d646563696d616c69707265636973696f6e6b6d696c6c697365636f6e646a7a6f6e655f6b6e6f776ef5",
+      "cid": "bafyreidl75vabfrppdtyq5uvff2jwmqyalfmxntfil7stuhpm72tpuju4a"
+    },
+    {
+      "name": "event_time/unknown",
+      "value": {
+        "value": null,
+        "format": "unknown",
+        "precision": "unknown",
+        "zone_known": false,
+        "unit": null
+      },
+      "cbor_hex": "a564756e6974f66576616c7565f666666f726d617467756e6b6e6f776e69707265636973696f6e67756e6b6e6f776e6a7a6f6e655f6b6e6f776ef4",
+      "cid": "bafyreiftivu3fqggpdagtke4aitwdwoihcsm367e4ya47teqrsgs2luwty"
+    },
+    {
+      "name": "source/claude-code-subagent",
+      "value": {
+        "schema": "pkst/source@0.1",
+        "platform": "claude-code",
+        "namespace": "owner-claude-account",
+        "native_thread_id": "s1/agent-a1"
+      },
+      "cbor_hex": "a466736368656d616f706b73742f736f7572636540302e3168706c6174666f726d6b636c617564652d636f6465696e616d657370616365746f776e65722d636c617564652d6163636f756e74706e61746976655f7468726561645f69646b73312f6167656e742d6131",
+      "cid": "bafyreig4ayekb3hc4dgjifmjb47g5nvfh6u5hndzid2h2t6mkzi34oovkq"
+    },
+    {
+      "name": "content/plain-crlf",
+      "value": {
+        "schema": "pkst/content@0.1",
+        "media_type": "text/plain;charset=utf-8",
+        "text": "第一行\r\n第二行"
+      },
+      "cbor_hex": "a3647465787474e7acace4b880e8a18c0d0ae7acace4ba8ce8a18c66736368656d6170706b73742f636f6e74656e7440302e316a6d656469615f747970657818746578742f706c61696e3b636861727365743d7574662d38",
+      "cid": "bafyreids7qqfauq63gbxlnfds7o7iw6wd5oyisakzl2zej3nbjduo2ijbq"
+    },
+    {
+      "name": "projection/tool_use",
+      "value": {
+        "schema": "pkst/projection@0.1",
+        "native_type": "tool_use",
+        "profile": "python-json-v1",
+        "text": "{\"input\":{\"a\":\"中\",\"b\":1},\"name\":\"Read\",\"type\":\"tool_use\"}"
+      },
+      "cbor_hex": "a46474657874783b7b22696e707574223a7b2261223a22e4b8ad222c2262223a317d2c226e616d65223a2252656164222c2274797065223a22746f6f6c5f757365227d66736368656d6173706b73742f70726f6a656374696f6e40302e316770726f66696c656e707974686f6e2d6a736f6e2d76316b6e61746976655f7479706568746f6f6c5f757365",
+      "cid": "bafyreiannn6mwziatq4rstfv66yger3ve3uxzdkpgdybgpq2xvqn7mfkze"
+    },
+    {
+      "name": "opaque-block/thinking",
+      "value": {
+        "schema": "pkst/opaque-block@0.1",
+        "native_type": "thinking",
+        "profile": "python-json-v1",
+        "digest": "2e48e5f927f0b6640d8cfc5dde18367728e9b4b44f00afdafc34dfe26740eb3f",
+        "handling": "raw-only"
+      },
+      "cbor_hex": "a56664696765737478403265343865356639323766306236363430643863666335646465313833363737323865396234623434663030616664616663333464666532363734306562336666736368656d6175706b73742f6f70617175652d626c6f636b40302e316770726f66696c656e707974686f6e2d6a736f6e2d76316868616e646c696e67687261772d6f6e6c796b6e61746976655f74797065687468696e6b696e67",
+      "cid": "bafyreifgwuey3ulcv4kcglnh3p7jfkok7kmbmtn3cyvl3dqhnfij42eyei"
+    },
+    {
+      "name": "occurrence/native-id",
+      "value": {
+        "schema": "pkst/occurrence@0.1",
+        "source": {
+          "$link": "bafyreig4ayekb3hc4dgjifmjb47g5nvfh6u5hndzid2h2t6mkzi34oovkq"
+        },
+        "native_id": "m1",
+        "locator": null,
+        "native_role": "assistant",
+        "actor_kind": "ai",
+        "process_kind": "sidechain",
+        "content": [
+          {
+            "$link": "bafyreifgwuey3ulcv4kcglnh3p7jfkok7kmbmtn3cyvl3dqhnfij42eyei"
+          },
+          {
+            "$link": "bafyreids7qqfauq63gbxlnfds7o7iw6wd5oyisakzl2zej3nbjduo2ijbq"
+          },
+          {
+            "$link": "bafyreiannn6mwziatq4rstfv66yger3ve3uxzdkpgdybgpq2xvqn7mfkze"
+          }
+        ],
+        "native_parent_ids": [
+          "m0"
+        ],
+        "event_time": {
+          "value": "2026-10-24T07:05:42.328Z",
+          "format": "rfc3339",
+          "precision": "millisecond",
+          "zone_known": true,
+          "unit": null
+        }
+      },
+      "cbor_hex": "aa66736368656d6173706b73742f6f6363757272656e636540302e3166736f75726365d82a58250001711220dc0608a0ece2e0cc9415890f3e6eb6a53fa9d3b47940f47d4fcc5651be39d55467636f6e74656e7483d82a58250001711220a6b5098dd162af14232da7dbfe92a9cafa98164dbb162abd8e0769509e689822d82a5825000171122072fc2050521ed98375b4a397ddf45bd61f5d84480acaf592276d0a474769090cd82a582500017112200d6b7ccb65009c39194cb5f7b062477526e97c8d4f30f0133e1abd60dfb0aac9676c6f6361746f72f6696e61746976655f6964626d316a6163746f725f6b696e646261696a6576656e745f74696d65a564756e6974f66576616c75657818323032362d31302d32345430373a30353a34322e3332385a66666f726d6174677266633333333969707265636973696f6e6b6d696c6c697365636f6e646a7a6f6e655f6b6e6f776ef56b6e61746976655f726f6c6569617373697374616e746c70726f636573735f6b696e646973696465636861696e716e61746976655f706172656e745f69647381626d30",
+      "cid": "bafyreiachnpzgg3w74vogopv4gr7u5szxyvufdts4orwmoqftbb5vz6owu"
+    },
+    {
+      "name": "occurrence/locator-fallback",
+      "value": {
+        "schema": "pkst/occurrence@0.1",
+        "source": {
+          "$link": "bafyreig4ayekb3hc4dgjifmjb47g5nvfh6u5hndzid2h2t6mkzi34oovkq"
+        },
+        "native_id": null,
+        "locator": {
+          "raw": {
+            "$link": "bafkreieyjcvqwaqcog66e3jjeqqcvupqjwa3bbtmbpbamu5bduwjbuw3se"
+          },
+          "start": 0,
+          "end": 15,
+          "coordinate": "decoded-jsonl-utf8-bytes"
+        },
+        "native_role": "prompt-history",
+        "actor_kind": "unknown",
+        "process_kind": "unknown",
+        "content": [
+          {
+            "$link": "bafyreids7qqfauq63gbxlnfds7o7iw6wd5oyisakzl2zej3nbjduo2ijbq"
+          }
+        ],
+        "native_parent_ids": null,
+        "event_time": {
+          "value": "1779177431372",
+          "format": "epoch-decimal",
+          "precision": "millisecond",
+          "zone_known": true,
+          "unit": "ms"
+        }
+      },
+      "cbor_hex": "aa66736368656d6173706b73742f6f6363757272656e636540302e3166736f75726365d82a58250001711220dc0608a0ece2e0cc9415890f3e6eb6a53fa9d3b47940f47d4fcc5651be39d55467636f6e74656e7481d82a5825000171122072fc2050521ed98375b4a397ddf45bd61f5d84480acaf592276d0a474769090c676c6f6361746f72a463656e640f63726177d82a582500015512209848ab0b020271bde26d2924202ad1f04d81b0866c0bc20653a11d2c90d2db91657374617274006a636f6f7264696e61746578186465636f6465642d6a736f6e6c2d757466382d6279746573696e61746976655f6964f66a6163746f725f6b696e6467756e6b6e6f776e6a6576656e745f74696d65a564756e6974626d736576616c75656d3137373931373734333133373266666f726d61746d65706f63682d646563696d616c69707265636973696f6e6b6d696c6c697365636f6e646a7a6f6e655f6b6e6f776ef56b6e61746976655f726f6c656e70726f6d70742d686973746f72796c70726f636573735f6b696e6467756e6b6e6f776e716e61746976655f706172656e745f696473f6",
+      "cid": "bafyreihjbfbmkb4uoqgtoho77wrbfroqpn6riubksberf2gvv34rzdqaji"
+    },
+    {
+      "name": "extraction-record/jsonl-range",
+      "value": {
+        "schema": "pkst/extraction-record@0.1",
+        "raw": {
+          "$link": "bafkreieyjcvqwaqcog66e3jjeqqcvupqjwa3bbtmbpbamu5bduwjbuw3se"
+        },
+        "occurrence": {
+          "$link": "bafyreiachnpzgg3w74vogopv4gr7u5szxyvufdts4orwmoqftbb5vz6owu"
+        },
+        "coordinate": "decoded-jsonl-utf8-bytes",
+        "start": 0,
+        "end": 15,
+        "parser": "claude-code-jsonl@0.1-n3",
+        "role_basis": "type=assistant;isSidechain"
+      },
+      "cbor_hex": "a863656e640f63726177d82a582500015512209848ab0b020271bde26d2924202ad1f04d81b0866c0bc20653a11d2c90d2db9165737461727400667061727365727818636c617564652d636f64652d6a736f6e6c40302e312d6e3366736368656d61781a706b73742f65787472616374696f6e2d7265636f726440302e316a636f6f7264696e61746578186465636f6465642d6a736f6e6c2d757466382d62797465736a6f6363757272656e6365d82a58250001711220023b5f931b76ff2ae339f5e1a3fa7659be2b428e72e3a3663a059843dae7ceb56a726f6c655f6261736973781a747970653d617373697374616e743b697353696465636861696e",
+      "cid": "bafyreib6262rjkemxmcth62nlg4cnhe2pzopupyat5ofy7d4blzbzancmy"
+    },
+    {
+      "name": "block-reference/ordinal-2",
+      "value": {
+        "schema": "pkst/block-reference@0.1",
+        "raw": {
+          "$link": "bafkreieyjcvqwaqcog66e3jjeqqcvupqjwa3bbtmbpbamu5bduwjbuw3se"
+        },
+        "occurrence": {
+          "$link": "bafyreiachnpzgg3w74vogopv4gr7u5szxyvufdts4orwmoqftbb5vz6owu"
+        },
+        "ordinal": 2,
+        "coordinate": "decoded-jsonl-utf8-bytes",
+        "start": 0,
+        "end": 15,
+        "pointer": "/message/content/2",
+        "native_type": "tool_use"
+      },
+      "cbor_hex": "a963656e640f63726177d82a582500015512209848ab0b020271bde26d2924202ad1f04d81b0866c0bc20653a11d2c90d2db916573746172740066736368656d617818706b73742f626c6f636b2d7265666572656e636540302e31676f7264696e616c0267706f696e746572722f6d6573736167652f636f6e74656e742f326a636f6f7264696e61746578186465636f6465642d6a736f6e6c2d757466382d62797465736a6f6363757272656e6365d82a58250001711220023b5f931b76ff2ae339f5e1a3fa7659be2b428e72e3a3663a059843dae7ceb56b6e61746976655f7479706568746f6f6c5f757365",
+      "cid": "bafyreicmjng6kis6xraq5x4rmzgvv7okyazwgi2m7d5ljjvfdqpwvickga"
+    },
+    {
+      "name": "concept/lineage-null",
+      "value": {
+        "schema": "pkst/concept@0.1",
+        "label": "测试",
+        "definition": "测试概念",
+        "evidence": [
+          {
+            "$link": "bafyreiachnpzgg3w74vogopv4gr7u5szxyvufdts4orwmoqftbb5vz6owu"
+          }
+        ],
+        "asserted_by": {
+          "kind": "ai",
+          "id": "claude"
+        },
+        "lineage": null
+      },
+      "cbor_hex": "a6656c6162656c66e6b58be8af9566736368656d6170706b73742f636f6e6365707440302e31676c696e65616765f66865766964656e636581d82a58250001711220023b5f931b76ff2ae339f5e1a3fa7659be2b428e72e3a3663a059843dae7ceb56a646566696e6974696f6e6ce6b58be8af95e6a682e5bfb56b61737365727465645f6279a262696466636c61756465646b696e64626169",
+      "cid": "bafyreibgh6v7yexqykf6ikqgzrui7duj654rfbsmrvuz4yziybwon7pdua"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "pkst.semantic-pilot-report@0.1",
+  "recorded_at": "2026-10-24T07:38:33.333915+00:00",
+  "snapshot": "bafyreigfiuuqfqqkbouoawujokw7ecduh53ap63otad4mij7t4v7ovf34e",
+  "status": "draft-awaiting-independent-review",
+  "concept": "bafyreig22kmgzjy3uhhonccajyk3n4xgpxn7owj6d3kcpzseqktoniv34y",
+  "statements": [
+    {
+      "label": "语义关系",
+      "cid": "bafyreifqsingnx65ux44kmc2aqa4wchfzfqw2gtwkx2iafgwh3qmxzijoa",
+      "quote": "按照语义空间的逻辑和因果链条以及从属关系"
+    },
+    {
+      "label": "思想时间线",
+      "cid": "bafyreiaxg4y2eopi75af5pmupnsd3t6mod5uktykut3nuwfakazwu7glqa",
+      "quote": "具有想法的变迁，进化继承的迭代的过程时间线"
+    },
+    {
+      "label": "统一保存标准",
+      "cid": "bafyreiexlrxcsl6mwtgvmjt54nt6nqhdfqrnah27a57xfkwdal32jbiwiu",
+      "quote": "经过讨论达成共识后，按统一的格式进行保存"
+    },
+    {
+      "label": "跨 AI 整合",
+      "cid": "bafyreihnqysc3ba3i4yejassshyayjsmu2o3j5sukzc674zfvyyckqaqa4",
+      "quote": "我们还需要对各个AI的讨论内容进行一下整合"
+    }
+  ],
+  "propagation_candidate": "bafyreieax636233drasf26jirggnn7pmlzeenooja3ifewve75notm2muy",
+  "sources": {
+    "codex": {
+      "occurrence": "bafyreihhxju2hxu7eprosvxenkxqej3roe4j4xmx63l32rc2a6hg4jpcc4",
+      "event_time": {
+        "unit": null,
+        "value": "2026-10-24T06:29:26.223Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true
+      },
+      "native_role": "user",
+      "actor_kind": "unknown"
+    },
+    "claude": {
+      "occurrence": "bafyreiex36ooqlbazozyd63otvhk55pzsdctetulolqkhlct5o5wt3yrj4",
+      "event_time": {
+        "unit": null,
+        "value": "2026-10-24T06:28:56.875Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true
+      },
+      "native_role": "user",
+      "actor_kind": "unknown"
+    }
+  },
+  "similarity": 0.9948275862068966,
+  "differences": [
+    {
+      "operation": "replace",
+      "claude": "o",
+      "codex": "lau"
+    },
+    {
+      "operation": "delete",
+      "claude": "x",
+      "codex": ""
+    },
+    {
+      "operation": "insert",
+      "claude": "",
+      "codex": "\n"
+    }
+  ],
+  "new_objects": 12,
+  "closure_objects_and_raw": 23,
+  "raw_anchors_verified": 2,
+  "interpretation": "Same project request in two AI contexts. Differences are not evidence of a theory revision. No user adoption or original author asserted."
+}

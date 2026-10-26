@@ -1,0 +1,32 @@
+{
+  "schema": "np2.source-and-editorial-verification@1",
+  "status": "pass",
+  "recorded_at": "2026-10-26T08:16:20.952225+00:00",
+  "selected_sources": 89,
+  "unique_native_events": 82,
+  "native_anchors_reparsed": 82,
+  "artifact_sources": 7,
+  "platforms": [
+    "chatgpt",
+    "claude-ai",
+    "claude-code",
+    "codex-local",
+    "gemini"
+  ],
+  "source_units_replayed": 204,
+  "editorial_addition_units": 156,
+  "literal_aligned_characters": 43066,
+  "manuscript_cjk_characters": 83789,
+  "manuscript_sha256": "5bf4a465f5a4ef146c785719c4f8f96e9af5e9bc2a8f728bb63c3bbf5493bcf3",
+  "chapters": 24,
+  "major_topics_mapped": 34,
+  "legacy_semantic_relations_retained": 44,
+  "local_links_checked": 448,
+  "blocks_byte_checked": 319,
+  "negative_checks": [
+    "changed source text fails frozen source-span digest",
+    "altered manuscript passage fails document interval equality"
+  ],
+  "old_manuscript_unchanged": true,
+  "scope": "selected native records reparsed; edit scripts replayed independently; same PKST codec; Codex review, not independent Claude or owner acceptance; no rerun of research experiments"
+}

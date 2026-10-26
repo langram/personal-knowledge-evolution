@@ -1,0 +1,5 @@
+* -text
+*.md diff
+*.py diff
+*.json diff
+*.jsonl diff

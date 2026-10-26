@@ -1,0 +1,26 @@
+{
+  "schema": "np2.archive-verification@1",
+  "status": "pass",
+  "recorded_at": "2026-10-26T08:20:09.099737+00:00",
+  "federated_snapshot": "bafyreidukhc4bqfmhvtex5gr33wz7uvxpu27jconoo5mr2buzk26xpvcei",
+  "dossier_snapshot": "bafyreiak7632sbrdudtmhsg5hphvzcoikwmdmqrfaxa6rgdittf2h4ivtu",
+  "manuscript_sha256": "5bf4a465f5a4ef146c785719c4f8f96e9af5e9bc2a8f728bb63c3bbf5493bcf3",
+  "manuscript_cjk_characters": 83789,
+  "chapters": 24,
+  "source_passages": 204,
+  "all_passage_units": 467,
+  "frozen_files_checked": 123,
+  "archive_blocks_checked": 1013,
+  "full_reference_graph_nodes_checked_at_staging": 778465,
+  "native_source_verification": "source-verification.json",
+  "feedback_retrieval_passed": true,
+  "current_native_events": 212354,
+  "old_edition_preserved": true,
+  "preserved_failure": "preflight-failure.json",
+  "negative_checks": [
+    "native source and manuscript alteration checks in source verification",
+    "CRLF substitution fails exact byte digest"
+  ],
+  "review_scope": "Codex independent replay code with shared codec; no claim of Claude or author acceptance",
+  "publication": false
+}

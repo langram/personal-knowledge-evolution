@@ -1,0 +1,1729 @@
+{
+  "chapter": "16",
+  "title": "个人需求与集体资源的两种分配",
+  "status": "expanded-copyedited",
+  "review": {
+    "central_question": "为什么必须分开个人生活需要和共同生产资源的支配",
+    "reasoning": "用途区别→需要的差异与适量→共同资源的外部影响→不对等累积→优势者的长期收益→生活保障与真实反馈",
+    "examples": [
+      "个人饭食与城市储备",
+      "工程师与电网",
+      "营养及精神需要",
+      "铁路与沿线生活",
+      "首富与长寿技术的思想实验",
+      "数学家创业者游戏作者的信息保密"
+    ],
+    "objections": [
+      "按需等于平均或无限索取",
+      "公共效率可以忽略个体",
+      "贡献多必须获得永久支配权",
+      "优势者没有参与理由"
+    ],
+    "voice": "长篇保留两类资源、复利分化及长期利益的原话；思想实验数值保留但不冒充技术预测",
+    "status": "已逐段初校；正态分布改成待测分布及差异直觉，不作强制分配公式",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "editorial-addition",
+      "text": "一说到公平分配，讨论很容易立刻变成“每个人应该拿多少”。但是，在计算每个人应该拿多少之前，有一个更基本的问题需要先问清楚：我们准备分配的资源，究竟是拿来做什么的？\n\n一个人吃一顿饭需要粮食，一座城市建立粮食储备也需要粮食；一个人住一套房屋需要空间，一整套交通和能源设施同样需要空间。两者使用的物质可能相同，所承担的功能却不同。如果把这两种用途混在一起，掌握公共生产资源的人就容易被理解为应该享有更多个人消费，而一个人提高生活质量的愿望，也容易被推成无限扩大支配权的理由。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 个人能够消费的东西，与共同体需要组织的东西",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R34498",
+      "source_span": [
+        785,
+        1228
+      ],
+      "source_sha256": "612421cf0c2b979c75454a62377cf287ca0a0253a3d94713d67c122dd691b419",
+      "text": "对于一个团体来说，财富和资源其实是有两部分用途的，一部分是供团体中维持每个个体的生存，满足这些个体的物质和精神需求；另一部分是供这个团体作为一个整体的生存和运作所需要消耗的财富和资源。但是这个团体如何运作，怎样分配和消耗这些财富和资源，却需要一个智力中枢核心来负责，而传统政府和商业公司的许多组织结构，都是具有权力落差的层级结构，层级之间的权力不对等，以及反复博弈之后的复利效应，容易使权力和财富的分配出现高度集中的长尾分布。而站在金字塔尖上的政治和经济精英们凭借自身专业能力上的优势和长期反复博弈后获得的权力和资本资源上的幂律分布优势，获得了整个团体运作的决策权。这种情况下，如果通过竞争选择出能力更强、判断更准确的人，由他承担相应的协调工作，确实可能比不考虑能力差异的选择取得更好的效果。这是传统组织形式能够长期存在的一个原因。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            785,
+            809
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "5.当前文明制度中的这种幂律分配其实是有原因的，",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            945,
+            983
+          ],
+          "output_span": [
+            136,
+            136
+          ],
+          "before": "体制，无论是政治形式中的威权独裁，还是民主体制中的政党制中的多党轮流执政，其",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            985,
+            990
+          ],
+          "output_span": [
+            138,
+            139
+          ],
+          "before": "结构，以及",
+          "after": "和"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            995,
+            997
+          ],
+          "output_span": [
+            144,
+            148
+          ],
+          "before": "权力",
+          "after": "许多组织"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1000,
+            1003
+          ],
+          "output_span": [
+            151,
+            151
+          ],
+          "before": "本质上",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1005,
+            1012
+          ],
+          "output_span": [
+            153,
+            153
+          ],
+          "before": "一种金字塔式的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1049,
+            1051
+          ],
+          "output_span": [
+            190,
+            193
+          ],
+          "before": "导致",
+          "after": "容易使"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1059,
+            1062
+          ],
+          "output_span": [
+            201,
+            202
+          ],
+          "before": "，都呈",
+          "after": "出"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1063,
+            1067
+          ],
+          "output_span": [
+            203,
+            207
+          ],
+          "before": "幂律分配",
+          "after": "高度集中"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1149,
+            1152
+          ],
+          "output_span": [
+            289,
+            293
+          ],
+          "before": "在反复",
+          "after": "如果通过"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1154,
+            1168
+          ],
+          "output_span": [
+            295,
+            298
+          ],
+          "before": "下，获胜的决策领导者，是相对",
+          "after": "选择出"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1172,
+            1172
+          ],
+          "output_span": [
+            302,
+            310
+          ],
+          "before": "",
+          "after": "、判断更准确的人"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1173,
+            1186
+          ],
+          "output_span": [
+            311,
+            311
+          ],
+          "before": "决策的正确概率更高的个体。",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1188,
+            1193
+          ],
+          "output_span": [
+            313,
+            322
+          ],
+          "before": "来领导团体",
+          "after": "承担相应的协调工作"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1194,
+            1197
+          ],
+          "output_span": [
+            323,
+            327
+          ],
+          "before": "显然，",
+          "after": "确实可能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1198,
+            1207
+          ],
+          "output_span": [
+            328,
+            335
+          ],
+          "before": "早期人类组织形式中",
+          "after": "不考虑能力差异"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1208,
+            1222
+          ],
+          "output_span": [
+            336,
+            340
+          ],
+          "before": "抽签法，以及平均投票法，具有",
+          "after": "选择取得"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1228,
+            1228
+          ],
+          "output_span": [
+            346,
+            366
+          ],
+          "before": "",
+          "after": "这是传统组织形式能够长期存在的一个原因。"
+        }
+      ],
+      "retained_characters": 294,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "问题出现在下一步：承担共同协调功能，为什么会变成协调者个人的永久特权？一个工程师能够帮助规划电网，因此应当认真听取他的专业判断，但电网所输送的能源不应该因此变成他个人可以任意处置的财产。同样，组织一次科研计划需要投入很多资源，这些投入的必要性来自研究任务，而不是项目负责人的个人生活需要。\n\n把用途分开，才能进一步区分“我为了健康、学习和生活需要什么”，以及“我们为了共同完成一件事情需要组织什么”。前者需要理解具体的人；后者需要理解共同任务及其影响。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        1543,
+        1797
+      ],
+      "source_sha256": "54b647cbff8d6aca012c61732c71f454d113ac1da168a8bfd44cdef42f62d594",
+      "text": "在分配上，我主张：资源、能源以及资本等，都分为两部分。一部分是满足个体的生存需要、精神需要和物质需求。这部分资源并不是无限的，因为每个人的生物特性和精神特性就注定了过量是不好的。比如从营养上讲，并不是吃得越多越好，精神需求也是如此。现在各种信息和精神方面的资源如此海量，其实很多人反倒陷入信息的海洋里无法自拔，而且往往导致低效的结果。很多人天天拿着手机，实际上看的都是短视频。如果完全按照即时冲动和刺激来选择，那么他在物质摄入和精神摄入方面往往并不能做出最好的选择。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            1543,
+            1543
+          ],
+          "output_span": [
+            0,
+            1
+          ],
+          "before": "",
+          "after": "在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1546,
+            1548
+          ],
+          "output_span": [
+            4,
+            5
+          ],
+          "before": "还是",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1549,
+            1554
+          ],
+          "output_span": [
+            6,
+            8
+          ],
+          "before": "原来的意见",
+          "after": "主张"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1653,
+            1656
+          ],
+          "output_span": [
+            107,
+            107
+          ],
+          "before": "对吧？",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1743,
+            1762
+          ],
+          "output_span": [
+            194,
+            198
+          ],
+          "before": "一个人的本能驱使，也就是由他的生物生理",
+          "after": "即时冲动"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1763,
+            1765
+          ],
+          "output_span": [
+            199,
+            201
+          ],
+          "before": "情绪",
+          "after": "刺激"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1766,
+            1768
+          ],
+          "output_span": [
+            202,
+            204
+          ],
+          "before": "控制",
+          "after": "选择"
+        }
+      ],
+      "retained_characters": 221,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R34498",
+      "source_span": [
+        210,
+        558
+      ],
+      "source_sha256": "f73b69a28a59749b1696809ce53689f25f8c7add8b88d6c0bc8f00d3294e1852",
+      "text": "之所以要考察物质需要和精神需要的边际效用，是因为，过少的供给，固然对生命个体有害，过多的供应同样有害，一个人生存所需的水和食物，营养配比，都是有一个范围的，大脑所接受的外部信息和信号输入，思考的强度和时间，通过语言和文字对外交流，其质量和数量也是有一个最佳区间的，对每个人来说，这些物质和精神层面的输入和输出，从更抽象的层级来看，是一个耗散结构体，与外部世界中的其他对象和其他耗散结构体之间能量和资源的耗散过程，不同个体在这个过程中的需要存在差异，也有可以观察和研究的范围，就像人的身高、体重、力量等指标有差异一样。过量的分配并不会带来更好的结果，就像美食固然好，让一个人放开控制摄入过多热量，会对人的健康带来损害，小说电影游戏再好，天天沉迷其中肯定也不好。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            210,
+            212
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "2.",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            215,
+            218
+          ],
+          "output_span": [
+            3,
+            6
+          ],
+          "before": "我提到",
+          "after": "要考察"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            228,
+            230
+          ],
+          "output_span": [
+            16,
+            16
+          ],
+          "before": "最佳",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            233,
+            234
+          ],
+          "output_span": [
+            19,
+            20
+          ],
+          "before": "应",
+          "after": "用"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            373,
+            374
+          ],
+          "output_span": [
+            159,
+            159
+          ],
+          "before": "\n",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            421,
+            421
+          ],
+          "output_span": [
+            206,
+            211
+          ],
+          "before": "",
+          "after": "不同个体在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            426,
+            433
+          ],
+          "output_span": [
+            216,
+            223
+          ],
+          "before": "同类耗散结构体",
+          "after": "的需要存在差异"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            434,
+            443
+          ],
+          "output_span": [
+            224,
+            233
+          ],
+          "before": "不同个体之间其耗散",
+          "after": "也有可以观察和研究"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            444,
+            457
+          ],
+          "output_span": [
+            234,
+            237
+          ],
+          "before": "量的分布应该符合正态分布(",
+          "after": "范围，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            460,
+            461
+          ],
+          "output_span": [
+            240,
+            240
+          ],
+          "before": "类",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            462,
+            464
+          ],
+          "output_span": [
+            241,
+            250
+          ],
+          "before": "其他",
+          "after": "身高、体重、力量等"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            466,
+            466
+          ],
+          "output_span": [
+            252,
+            255
+          ],
+          "before": "",
+          "after": "有差异"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            468,
+            486
+          ],
+          "output_span": [
+            257,
+            257
+          ],
+          "before": "，比如身高，体重，力量，速度，智商)",
+          "after": ""
+        }
+      ],
+      "retained_characters": 289,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "所以，按需并不等于平均分成一样多，也不等于谁能够喊出最大的数字就给谁最多。一个正在成长的孩子、一个成年人和一个需要特别照顾的人，生活条件和实际需要不同。把所有人塞进同一个消费额度，可能形式上很整齐，实际却不公平。\n\n我用正态分布来帮助理解个体需要，关注的是人与人之间存在一定范围内的差异，而这种差异不等于财富和支配权可以无限累积。具体需要究竟怎样分布，仍然要看所讨论的资源和人群；不能先画出一条钟形曲线，再要求每个人把自己的生活塞进去。理解需要，是为了更好地满足人，而不是为了把人变成某个固定指标。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 为什么共同生产资源不能按个人消费来理解",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R34496",
+      "source_span": [
+        4069,
+        4216
+      ],
+      "source_sha256": "21dab568a29559e98bf399c3672f73513e8d56019ea215c4dff46d30371961f9",
+      "text": "拿一个非常重要的资源来举例子：土地。土地是一个文明体进行基础建设和经济发展的最根本的资源，机场火车站道路交通，高铁，能源，矿产，厂房兴建，城市规划发展等等，相当于一个文明生命体的血液循环，呼吸系统，营养供给的新陈代谢系统。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            4086,
+            4123
+          ],
+          "output_span": [
+            17,
+            18
+          ],
+          "before": "，在中国土地的所有权是属于国家的，但是在西方，土地的所有权，归属个人，但是",
+          "after": "。"
+        }
+      ],
+      "retained_characters": 110,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "如果只从每一小块土地的单独用途出发，很难理解为什么需要一条穿过许多地方的铁路。可是，如果只强调铁路对整体有价值，又忽略沿线每个人的生活，这个“整体”就可能成为把损失推给部分人的借口。\n\n两种分配放在一起，恰恰要求我们同时看到这两面：共同体需要组织基础设施，受影响的人也需要得到真正的照顾和参与。共同方案的计算，必须把他们的处境带进去，而不是把这些具体的人删去之后，才宣布得到了一个最优结果。\n\n这也是为什么公共资源的支配需要共同智能。它不仅要计算建设效率，还要知道谁将受益，谁会受到影响，哪些影响能够避免，是否存在更好的替代方案。共同资源应该服务于整个共同体，而这个共同体由一个个具体的人组成。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R34498",
+      "source_span": [
+        641,
+        784
+      ],
+      "source_sha256": "8e832d4a0d2a4268a4da5666e4ff251239a454d3da9a47500a944bcfdd7be317",
+      "text": "而在当前人类文明体制中，个体和国家在社会经济和政治甚至军事领域，通过自由竞争或权力博弈和暴力征服，掌握权力后，由于权力的不对等性，产生的合作竞争博弈中的利益分配不对等，再加上博弈的反复重复，这种不对等造成的优势方的利益会产生复利效应，长期积累，就可能形成权力、财富和资源高度集中、差距越来越大的分配格局。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            641,
+            646
+          ],
+          "output_span": [
+            0,
+            2
+          ],
+          "before": "4.但是，",
+          "after": "而在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            761,
+            763
+          ],
+          "output_span": [
+            117,
+            125
+          ],
+          "before": "最终",
+          "after": "长期积累，就可能"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            765,
+            766
+          ],
+          "output_span": [
+            127,
+            127
+          ],
+          "before": "了",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            768,
+            768
+          ],
+          "output_span": [
+            129,
+            130
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            770,
+            770
+          ],
+          "output_span": [
+            132,
+            133
+          ],
+          "before": "",
+          "after": "和"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            772,
+            772
+          ],
+          "output_span": [
+            135,
+            147
+          ],
+          "before": "",
+          "after": "高度集中、差距越来越大的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            774,
+            783
+          ],
+          "output_span": [
+            149,
+            151
+          ],
+          "before": "的幂律分配这种情况",
+          "after": "格局"
+        }
+      ],
+      "retained_characters": 126,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        5018,
+        5276
+      ],
+      "source_sha256": "38bf448873177adad8603742666289820968b73f3470b2abeb6bb511ad0859ae",
+      "text": "在现行制度的许多场景中，资本和权力由特定个人或组织支配，所有权跟它们是绑定在一起的。因为资本本质上还是附属于某个人类单位，比如一个个体、一个组织或一个国家。对整个文明来讲，内部资本和权力分配的不平等，影响了整个系统的运作。如果把整个系统当成一个博弈游戏，这种权力的不对等会导致信息不透明，甚至是信息的单向透明：上位者了解更多的底层信息，而底层的人却无法掌握上层的信息。在这种情况下产生的种种不公平，实际上会影响整个博弈的完成。而且人与人之间信息的不共享、不公平，也会导致人与人之间天然产生对抗和博弈的倾向。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            5018,
+            5018
+          ],
+          "output_span": [
+            0,
+            1
+          ],
+          "before": "",
+          "after": "在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5019,
+            5020
+          ],
+          "output_span": [
+            2,
+            5
+          ],
+          "before": "在",
+          "after": "行制度"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5021,
+            5027
+          ],
+          "output_span": [
+            6,
+            12
+          ],
+          "before": "情况是：无论",
+          "after": "许多场景中，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5029,
+            5031
+          ],
+          "output_span": [
+            14,
+            15
+          ],
+          "before": "还是",
+          "after": "和"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5033,
+            5040
+          ],
+          "output_span": [
+            17,
+            20
+          ],
+          "before": "，基本上都被单",
+          "after": "由特定"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5043,
+            5045
+          ],
+          "output_span": [
+            23,
+            23
+          ],
+          "before": "某些",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5047,
+            5048
+          ],
+          "output_span": [
+            25,
+            25
+          ],
+          "before": "所",
+          "after": ""
+        }
+      ],
+      "retained_characters": 239,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R34498",
+      "source_span": [
+        1746,
+        1848
+      ],
+      "source_sha256": "d54bd41ba916bbe3369ba070a44848e2a8b03ed8474f201a0c01ab79c550acaf",
+      "text": "在我设想的新架构中，财富和资源在个体需求层面上根据不同的需要进行公平、健康、合理的分配，在集体层面上，财富和资源由集体的动态权重体系进行分配决定。权力上实现类似大脑中亿万神经元之间那种平等的动态权重分配的权力决策系统。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1746,
+            1748
+          ],
+          "output_span": [
+            0,
+            5
+          ],
+          "before": "8.",
+          "after": "在我设想的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1766,
+            1767
+          ],
+          "output_span": [
+            23,
+            28
+          ],
+          "before": "按",
+          "after": "根据不同的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1768,
+            1768
+          ],
+          "output_span": [
+            29,
+            30
+          ],
+          "before": "",
+          "after": "要"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1772,
+            1772
+          ],
+          "output_span": [
+            34,
+            35
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1774,
+            1774
+          ],
+          "output_span": [
+            37,
+            38
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1777,
+            1779
+          ],
+          "output_span": [
+            41,
+            41
+          ],
+          "before": "正态",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1828,
+            1829
+          ],
+          "output_span": [
+            90,
+            91
+          ],
+          "before": "哪",
+          "after": "那"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1847,
+            1848
+          ],
+          "output_span": [
+            109,
+            109
+          ],
+          "before": "\n",
+          "after": ""
+        }
+      ],
+      "retained_characters": 95,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 贡献更多的人，为什么愿意参加",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        6340,
+        6678
+      ],
+      "source_sha256": "18dc896f4785be8ce1c76bbff683c8d5d8d44d2fc928d747130c4fdd47a33ca1",
+      "text": "在现有的文明体制下，许多人和团体，会对自己所拥有的权力、财产、资源、资本具有非常强的独占欲望，因为他觉得拥有越多，自己越受益，越幸福。但是，很多有钱有权的人却在这种体制下，尽管坐拥无数的财富和巨大的权力，却仍然在人与人，团体与团体的利益博弈争夺中焦虑烦恼，随时担心因为在竞争、对抗和冲突中失去一切，不但会防范敌人，对朋友也会发生怀疑和担心。这些问题并不是你在人生的博弈游戏中占据主导地位就能完全消除的，信息的不完备性，让你在博弈中面临一败涂地的极限情况的概率永远无法降低到让你感到彻底安心的地步，即使强如世界首富，美国总统，也会遭遇这种信息不完备的，博弈者并非100%理性的情况下，经常面临无法接受的失败的风险。而且这种不完备性的竞争，会导致互相对抗垄断等的文明内部破坏性张力。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            6350,
+            6352
+          ],
+          "output_span": [
+            10,
+            12
+          ],
+          "before": "任何",
+          "after": "许多"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6357,
+            6358
+          ],
+          "output_span": [
+            17,
+            17
+          ],
+          "before": "都",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6536,
+            6536
+          ],
+          "output_span": [
+            195,
+            197
+          ],
+          "before": "",
+          "after": "完全"
+        }
+      ],
+      "retained_characters": 335,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这里有一个很容易被忽略的区别：占有更多资源，与真正获得更好的生活，并不总是同一件事。一个人拥有很高的地位，可能同时需要花费更多精力防范别人；一个组织掌握大量知识，也可能因为不愿与外部合作，而错过原本能够完成的创造。\n\n如果一个新机制只能要求优势者放弃利益，却不能说明他们可以得到什么，那么它很难获得自愿参加。我的思路，是把眼前的占有与长期能够获得的生活条件放在一起考察。更好的合作能否创造出过去没有的能力？这些能力能否让每一个人，包括原本的优势者，也获得更大的收益？",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        6919,
+        7156
+      ],
+      "source_sha256": "4d24e2350f463cc1f3076ee0efa643ee42bc8631ff3ce7e052dc02e762487fa1",
+      "text": "这个机制所追求的一个好处，是通过调整近期和局部的利益关系，获得更大的长期利益。比如，旧机制中原本可以靠自己强的能力和更聪明的大脑获取更多个人生存资源和更多公共资源支配权的人，在新机制下遭受了损失。如果个人需要得到了充分满足，那么在个人生存资源上并没有遭受损失，在更合理、更健康的分配下，物质和精神生活还可能得到改善，而且不必因为与他人之间的巨大财富差距而始终防范别人，精神压力也可能降低。最重要的是，如果这种新机制能够更快地推进文明和科学的发展，就能带来过去没有的、让人更快乐幸福的新财富。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            6919,
+            6921
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "而且",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6925,
+            6927
+          ],
+          "output_span": [
+            4,
+            7
+          ],
+          "before": "最大",
+          "after": "所追求"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6928,
+            6928
+          ],
+          "output_span": [
+            8,
+            10
+          ],
+          "before": "",
+          "after": "一个"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6930,
+            6930
+          ],
+          "output_span": [
+            12,
+            13
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6931,
+            6934
+          ],
+          "output_span": [
+            14,
+            18
+          ],
+          "before": "，牺牲",
+          "after": "通过调整"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6936,
+            6936
+          ],
+          "output_span": [
+            20,
+            24
+          ],
+          "before": "",
+          "after": "和局部的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6938,
+            6943
+          ],
+          "output_span": [
+            26,
+            28
+          ],
+          "before": "和暂时利益",
+          "after": "关系"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6946,
+            6947
+          ],
+          "output_span": [
+            31,
+            31
+          ],
+          "before": "了",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6952,
+            6957
+          ],
+          "output_span": [
+            36,
+            36
+          ],
+          "before": "利益和永久",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7019,
+            7023
+          ],
+          "output_span": [
+            98,
+            111
+          ],
+          "before": "但实际上",
+          "after": "如果个人需要得到了充分满足"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7024,
+            7026
+          ],
+          "output_span": [
+            112,
+            115
+          ],
+          "before": "首先",
+          "after": "那么在"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7041,
+            7043
+          ],
+          "output_span": [
+            130,
+            130
+          ],
+          "before": "反而",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7047,
+            7047
+          ],
+          "output_span": [
+            134,
+            135
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7050,
+            7053
+          ],
+          "output_span": [
+            138,
+            138
+          ],
+          "before": "更优化",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7058,
+            7060
+          ],
+          "output_span": [
+            143,
+            143
+          ],
+          "before": "你的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7067,
+            7072
+          ],
+          "output_span": [
+            150,
+            157
+          ],
+          "before": "反而更健康",
+          "after": "还可能得到改善"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7075,
+            7078
+          ],
+          "output_span": [
+            160,
+            164
+          ],
+          "before": "没有了",
+          "after": "不必因为"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7079,
+            7080
+          ],
+          "output_span": [
+            165,
+            165
+          ],
+          "before": "其",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7091,
+            7093
+          ],
+          "output_span": [
+            176,
+            179
+          ],
+          "before": "下，",
+          "after": "而始终"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7095,
+            7096
+          ],
+          "output_span": [
+            181,
+            182
+          ],
+          "before": "他",
+          "after": "别"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7097,
+            7098
+          ],
+          "output_span": [
+            183,
+            184
+          ],
+          "before": "的",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7102,
+            7108
+          ],
+          "output_span": [
+            188,
+            193
+          ],
+          "before": "，让你更快乐",
+          "after": "也可能降低"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7115,
+            7115
+          ],
+          "output_span": [
+            200,
+            202
+          ],
+          "before": "",
+          "after": "如果"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7120,
+            7122
+          ],
+          "output_span": [
+            207,
+            209
+          ],
+          "before": "可以",
+          "after": "能够"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7124,
+            7126
+          ],
+          "output_span": [
+            211,
+            214
+          ],
+          "before": "的让",
+          "after": "地推进"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7131,
+            7133
+          ],
+          "output_span": [
+            219,
+            222
+          ],
+          "before": "进化",
+          "after": "的发展"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7134,
+            7136
+          ],
+          "output_span": [
+            223,
+            225
+          ],
+          "before": "给你",
+          "after": "就能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7138,
+            7144
+          ],
+          "output_span": [
+            227,
+            233
+          ],
+          "before": "更长期更永久",
+          "after": "过去没有的、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7145,
+            7146
+          ],
+          "output_span": [
+            234,
+            235
+          ],
+          "before": "你",
+          "after": "人"
+        }
+      ],
+      "retained_characters": 172,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "可以用一个思想实验，把这种选择放大到足够清楚。下面的寿命和技术时间只是假定，用来比较两种利益结构。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        7156,
+        7529
+      ],
+      "source_sha256": "89fc3dcd061f23f3cac6f8612e4f8e639e2e801979e345529dc07e090ec40bca",
+      "text": "假如你是世界首富，坐拥10万亿美元财产，但是今年已经60岁了，旧体制下，一种能够大幅延长寿命的科技，需要40年才能实现，但是你的预期寿命是90岁，你大概率会在这项技术实现之前去世。而新体制下，你仍然拥有足以保持健康快乐的个人生理心理的资源，同时你需要放弃自己对10万亿用于生产和共同发展的资源财富的完全支配权，把这部分财富交给全人类集体智慧聚合的动态权重系统来支配，让自己的个人知识和智力成为这个系统中的一个决策权重节点。换来的是，全人类的公平公开，自己也不需要随时在信息孤岛式的不完整不公平的人类社会博弈游戏中天天提心吊胆。再假定，在新的决策体系、财富分配和合作方式下，这项科技在20年后就出现了，于是这位首富在80岁那年也能够使用它。请问如果你是这个世界首富，你会如何选择？我想可以把这个思想实验的故事，讲给这个世界上的任何一个人来听，听听他们的选择。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            7156,
+            7161
+          ],
+          "output_span": [
+            0,
+            2
+          ],
+          "before": "举个例子，",
+          "after": "假如"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7195,
+            7197
+          ],
+          "output_span": [
+            36,
+            47
+          ],
+          "before": "永生",
+          "after": "一种能够大幅延长寿命的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7199,
+            7202
+          ],
+          "output_span": [
+            49,
+            50
+          ],
+          "before": "的实现",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7207,
+            7210
+          ],
+          "output_span": [
+            55,
+            59
+          ],
+          "before": "的时间",
+          "after": "才能实现"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7230,
+            7232
+          ],
+          "output_span": [
+            79,
+            81
+          ],
+          "before": "永生",
+          "after": "这项"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7234,
+            7236
+          ],
+          "output_span": [
+            83,
+            85
+          ],
+          "before": "发明",
+          "after": "实现"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7285,
+            7286
+          ],
+          "output_span": [
+            134,
+            139
+          ],
+          "before": "公",
+          "after": "用于生产和"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7287,
+            7287
+          ],
+          "output_span": [
+            140,
+            144
+          ],
+          "before": "",
+          "after": "同发展的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7406,
+            7410
+          ],
+          "output_span": [
+            263,
+            266
+          ],
+          "before": "最棒的是",
+          "after": "再假定"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7412,
+            7414
+          ],
+          "output_span": [
+            268,
+            268
+          ],
+          "before": "这个",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7415,
+            7415
+          ],
+          "output_span": [
+            269,
+            270
+          ],
+          "before": "",
+          "after": "的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7419,
+            7421
+          ],
+          "output_span": [
+            274,
+            275
+          ],
+          "before": "，新",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7425,
+            7436
+          ],
+          "output_span": [
+            279,
+            284
+          ],
+          "before": "制度，新的社会进化体制",
+          "after": "和合作方式"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7438,
+            7440
+          ],
+          "output_span": [
+            286,
+            288
+          ],
+          "before": "永生",
+          "after": "这项"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7454,
+            7456
+          ],
+          "output_span": [
+            302,
+            304
+          ],
+          "before": "世界",
+          "after": "这位"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7464,
+            7469
+          ],
+          "output_span": [
+            312,
+            318
+          ],
+          "before": "获得了永生",
+          "after": "也能够使用它"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7505,
+            7506
+          ],
+          "output_span": [
+            354,
+            355
+          ],
+          "before": "将",
+          "after": "讲"
+        }
+      ],
+      "retained_characters": 326,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这个例子所问的，不是我们今天能否给长寿技术排出一张准确的时间表，而是：当个人的收益取决于整个文明能创造什么时，维护独占权是否仍然是唯一有利的选择？一个人再富有，也不能购买尚未被发明的东西；如果更好的合作使这些东西更早出现，他可能从共同发展中得到比单独占有更多的收益。\n\n当然，这个好处不能仅仅停留在许诺上。新机制需要从能够实际提供的服务开始，让参与者逐渐看见成本、体验和创造能力的变化。人们可以根据真实结果决定参与多少，而不是先放弃原有生活，再等待一个遥远的兑现。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 个人生活为什么不应由一次评分决定",
+      "reason": "节标题"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "回到这一章开始的问题。一个人参与某项共同判断，结果证明他错了，这可以改变我们对他在这个问题上的经验判断，却不应该让他失去吃饭、学习和生活的基本条件。否则，他就有很强的理由掩饰错误；在关系到生存的时候，记录真实失败会变成一种奢侈。\n\n同样，一个人在某一领域做出了重大贡献，这个贡献应当被清楚记录，也应当帮助其他人理解他的能力。但如果它自动兑换成对所有领域的永久支配权，两种资源又被重新混在一起了。\n\n把个人需求与共同资源分开，正是为了改变这种激励结构。生活的保障，使人有条件承认不知道、承认失败、尝试新方向；共同资源的使用，则根据共同任务、参与者意见和实际反馈来决定。这样，贡献、学习和纠错能够成为持续的过程，而不必把每一次讨论都变成争夺生存资格的比赛。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        7820,
+        8034
+      ],
+      "source_sha256": "6e7ba7b0952000e62181d21ae1b56cd3a6706c98b22c33feaec3c86eb63ae538",
+      "text": "一个数学家有了关于某个问题或理论的一点开创性的想法，一个创业者有了新的创意想法，一个独立游戏开发者有了新的玩法创意，出于为个人声望和利益的驱使，会尽力保密，并只与自己信任的朋友或伙伴进行分享或干脆所有事都自己做，明明除了这个新的增量想法之外，其他的部分都有更高效更成熟的实现，或者有更高效的其他人可以替自己来实现，但是却低效的自己造轮子，让知识增量的实现过程，在信息不透明、合作不充分、工作效率更低的情况下，非常缓慢地实现。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            7820,
+            7822
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "比如",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8008,
+            8009
+          ],
+          "output_span": [
+            186,
+            187
+          ],
+          "before": "，",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8014,
+            8015
+          ],
+          "output_span": [
+            192,
+            193
+          ],
+          "before": "，",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8030,
+            8031
+          ],
+          "output_span": [
+            208,
+            209
+          ],
+          "before": "的",
+          "after": "地"
+        }
+      ],
+      "retained_characters": 209,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "如果一个人不需要靠锁住这点新想法来保住自己的生活，贡献也不会因为与别人分享就被抹掉，那么他就更有理由尽早把问题放到共同网络中。别人可以完成自己擅长的部分，新的成果又能被更多人继续使用。这时，个人的安全感、知识的流动和共同生产能力，才开始朝着同一个方向相互加强。\n\n所以，两种分配并不是理论之外附带的一项福利安排。它关系到参与者为什么愿意提供真实信息，为什么愿意合作，为什么能够承认错误，以及共同智能为什么有可能获得更充分的材料。它与动态权重、公共知识和开放组织，是同一个机制的不同部分。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ran_at": "2026-10-24T08:15:48Z",
+  "car": "claude-ai-evidence.car",
+  "car_bytes": 35827278,
+  "car_sha256": "459cff26c19454f1c446f070a0b83d8173f2982cd651e069bb9020455266a3a0",
+  "roots": [
+    "bafyreie263a34ortmn7y6xcnxxx6kypr3fuwmdoz7cgsdgwxiz35gl3mve"
+  ],
+  "roots_present": true,
+  "blocks": 17100,
+  "duplicate_sections": 0,
+  "dag_cbor_blocks": 17100,
+  "raw_blocks_inside_car": 0,
+  "objects_by_schema": {
+    "pkst/snapshot@0.1": 1,
+    "pkst/activity@0.1": 13,
+    "pkst/extraction-record@0.1": 2132,
+    "pkst/occurrence@0.1": 2132,
+    "pkst/source@0.1": 154,
+    "pkst/content@0.1": 2425,
+    "pkst/block-reference@0.1": 6442,
+    "pkst/projection@0.1": 3244,
+    "pkst/opaque-block@0.1": 557
+  },
+  "errors": {},
+  "dangling_object_links": 0,
+  "external_raw_links_checked": 15,
+  "external_raw_links_missing_or_bad": 0,
+  "pass": true
+}

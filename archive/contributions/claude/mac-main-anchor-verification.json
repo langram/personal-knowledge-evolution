@@ -1,0 +1,26 @@
+{
+  "ran_at": "2026-10-24T09:10:20Z",
+  "car_root": "bafyreihnkebgdmyqnbir753n5edkr5x7u4h4h4yu3d6icpn7ty32ulm4q4",
+  "car_blocks": 103571,
+  "extraction_records": 26513,
+  "occurrences": 26513,
+  "occurrences_without_er": 0,
+  "problems": {},
+  "problem_examples": {},
+  "role_actor_process": {
+    "attachment|system|injected": 9170,
+    "assistant|ai|sidechain": 6635,
+    "user|tool|sidechain": 3668,
+    "user|ai|sidechain": 45,
+    "user|system|injected": 558,
+    "assistant|ai|main": 3780,
+    "system|system|injected": 616,
+    "user|unknown|main": 126,
+    "user|tool|main": 1806,
+    "assistant|system|injected": 11,
+    "attachment|unknown|unknown": 9,
+    "user|ai|compaction": 2,
+    "prompt-history|unknown|unknown": 87
+  },
+  "pass": true
+}

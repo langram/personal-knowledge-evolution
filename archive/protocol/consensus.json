@@ -1,0 +1,37 @@
+{
+  "schema": "pkst.consensus-record@0.1",
+  "recorded_at": "2026-10-24T07:34:13.650024+00:00",
+  "status": "accepted-by-codex-and-claude",
+  "revision": "PKST-0.1 / N3.1",
+  "protocol": {
+    "path": "protocol/PKST-0.1.md",
+    "raw_cid": "bafkreids4w2sc4l7uwnhrsjofo3hwyxiafaqyzl5rgn6tqjm3nysxd44fq",
+    "sha256": "72e5b521717fa59a78c92e2bb67b62e801410c657d899be9c12cdb712b8f9c2c",
+    "bytes": 15368
+  },
+  "receipts": [
+    {
+      "path": "contributions/claude/ACK-N3.md",
+      "raw_cid": "bafkreidac6tlcos3mrq5q64fukmth2tase4tjtlslr3e5rekhni4hyq3k4",
+      "sha256": "6017a6b13a5b6461d87b85a29933ea60913934cd725c764ec48a3b51c3e21b57"
+    },
+    {
+      "path": "contributions/claude/ACK-N3.1.md",
+      "raw_cid": "bafkreic6ac6fzwnpkrp6kpoike7dgpfgzjvuqp3naif7byhg42ttbzmbti",
+      "sha256": "5e00bc5cd9af545fe53dc8513e333ca6ca6b483f6d020bf0e0e6e6a730e5819a"
+    },
+    {
+      "path": "contributions/claude/crosscheck-codex-car.json",
+      "raw_cid": "bafkreibt2e5bqo4xnpukrkoy54nzqfsobdsu6zubqa3qpvtues2fasw4ha",
+      "sha256": "33d13a183b976be8a8a9d8ef1b98164e08e54f6681803707d67424b4504adc38"
+    },
+    {
+      "path": "reports/claude-independent-verification.json",
+      "raw_cid": "bafkreigref25hhns25m7jyuuuzrjvvxiva3t6k74haxk5vof7j3u6pxbzi",
+      "sha256": "d12175d39db2d759f4e294a6629ad6e8a8373f2bfc382eaed5c5fa774f3ee1ca"
+    }
+  ],
+  "meaning": "Agreement on serialization and evidence contract; not user adoption of any extracted belief",
+  "note": "The protocol file retains its historical candidate heading to preserve bytes. This separate dated receipt records subsequent acceptance.",
+  "future_changes": "New immutable protocol version and explicit migration; do not silently replace bytes behind this accepted CID"
+}

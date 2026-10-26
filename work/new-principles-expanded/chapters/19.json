@@ -1,0 +1,803 @@
+{
+  "chapter": "19",
+  "title": "从一个人的云存储开始",
+  "status": "expanded-copyedited",
+  "review": {
+    "reasoning": "一个人的真实需要→可恢复的资料空间→原始层与提炼层→本地云副本→多人边界与账→共享处理能力→按需要扩展计算",
+    "examples": [
+      "聊天作品导入",
+      "跨环境恢复",
+      "服务器代码反馈三种贡献",
+      "第二位参与者",
+      "检索与转码带来计算需求"
+    ],
+    "objections": [
+      "只有一人能开始吗",
+      "只上传成功是否证明可恢复",
+      "贡献可否简单换成统一分数",
+      "初期能否承诺全部社会保障"
+    ],
+    "voice": "作者起点与参与方式原话保留；具体MVP实施链为本轮补写，逐段明示编辑属性",
+    "status": "初校；不涉及实际采购、定价承诺或部署",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-R14-0",
+      "source_span": [
+        1175,
+        1380
+      ],
+      "source_sha256": "b74730f14b703bd0e35d0185980dfaced62735f8674b4e36fb00d4b4f830678a",
+      "text": "这个起点与通常的众筹有所不同，首先，消费者也可以成为生产者和创造者，其次，并不需要达到某个众筹的数量或金额目标才能开始，从我一个人做起，从最便宜最简单的云存储开始，从我个人的小资金零钱开始。第三，参与方式更灵活，如果你认同这个方向并愿意参与，可以多投入资金，多投入精力，除了作为消费者，也作为参与者，如果还想先观察，可以只做消费者，提供最基本的用户反馈，但是无论哪种情况，这个新机制都要保证消费用户的数据主权。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1175,
+            1178
+          ],
+          "output_span": [
+            0,
+            8
+          ],
+          "before": "当然跟",
+          "after": "这个起点与通常的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1181,
+            1183
+          ],
+          "output_span": [
+            11,
+            12
+          ],
+          "before": "一些",
+          "after": "所"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1189,
+            1203
+          ],
+          "output_span": [
+            18,
+            18
+          ],
+          "before": "并不是消费者出资不出力，而是",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1207,
+            1208
+          ],
+          "output_span": [
+            22,
+            26
+          ],
+          "before": "是",
+          "after": "可以成为"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1211,
+            1211
+          ],
+          "output_span": [
+            29,
+            30
+          ],
+          "before": "",
+          "after": "和"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1290,
+            1296
+          ],
+          "output_span": [
+            109,
+            120
+          ],
+          "before": "有信心有信仰",
+          "after": "认同这个方向并愿意参与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1328,
+            1332
+          ],
+          "output_span": [
+            152,
+            157
+          ],
+          "before": "没有信心",
+          "after": "还想先观察"
+        }
+      ],
+      "retained_characters": 175,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "为什么选择云存储作为入口？因为它对应一个已经存在、每天都会遇到的问题：资料分散在设备、账户和服务中，自己需要使用，却未必能够方便地找到、理解和带走。解决这个问题，可以立即产生个人价值，同时为更长远的知识、计算与合作网络准备基础。\n\n最初的规模不需要大。只有一个人，也有可以整理的文件、可以保留的作品、可以重新接起来的讨论。这个人既提出需求，也承担投入，并从真实使用中发现问题。种子阶段的价值，是形成一个可以持续运行的完整过程。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 第一份服务，究竟向使用者交付什么",
+      "reason": "节标题"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "最小服务要交付的，不只是“这里有一些容量”，而是一份能够由本人掌握的资料空间。内容可以被取回，来源和版本可以被理解，换一个工具仍然能够使用，原服务停止之后也能继续保存。\n\n从使用过程看，它可以很简单：用户选择一批资料，系统保留原始文件，建立索引，提供搜索与查看；随后用户可以把内容、索引和关系一起导出，在另一份环境中恢复。这个闭环走通，数据主权才从口号进入一次具体操作。\n\n第一次可以选择聊天导出、文章和项目文档。这些资料本来就在支持个人学习与创作，整理之后能够立刻用于寻找原话、比较想法和写作。之后再逐步加入照片、音视频和其他工作资料，不需要等待所有文件类型都能被完美处理。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 先保存能够重新开始的材料，再建立越来越好的理解",
+      "reason": "节标题"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "资料进入系统以后，原始文件首先作为原材料保留。解析出的会话、段落、附件与时间，形成可以重新生成的结构；语义提炼、主题关系和当前观点，则在更上一层形成。这样，某次提炼有误，不会把原话一起损坏。\n\n例如，一份聊天归档里既有作者的话，也有 AI 的回答，还有从其他地方转贴的内容。最初的解析器即使只做到按会话与角色分开，也已经比散落的压缩包更好用；后来能够识别引用与回应关系，再在原材料上补充。系统不必为了尽快给出一张漂亮的图，提前认定所有文字都属于同一个作者。\n\n存储、索引与阅读界面也可以分开。存储负责保留和核对内容，索引帮助寻找，界面帮助理解。一个界面不再适合时，可以更换；某个索引丢失时，可以重建；这些变化不应迫使用户放弃自己的原始资料。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 本地与云端，怎样共同支持个人控制",
+      "reason": "节标题"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "最初可以利用已经拥有的设备和能够负担的存储，把可靠副本安排在不同故障范围内。本地保留能够直接使用的内容，云端承担异地保存或跨设备访问；私人内容进入不由本人直接控制的存储之前，需要有相应的加密和密钥安排。\n\n这种设计的关键，是不要把“能登录某家网站”当成恢复资料的唯一条件。用户应当能够得到自己的文件、必要的格式说明与恢复方法，知道密钥由谁保管。只有一个人时，这些内容可以很简单，但仍然应当实际做一次恢复，而不是仅仅相信上传界面显示成功。\n\n恢复也可以成为最早的验收例子：从备份取回一批文件，核对内容，在另一份索引或阅读环境中打开；再选择一份有版本变化的资料，检查旧版与新版的关系是否仍在。这个动作直接回答了使用者最关心的问题：这些东西究竟是不是还属于我。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 服务从一个人扩展到几个人时，什么要先准备好",
+      "reason": "节标题"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "第二个人加入以后，最先增加的不是宏大的组织层级，而是清楚的边界。每个人的私人资料分别保存，彼此能看什么由本人选择；共同使用的程序、公开文档与运行规则，可以成为共享内容。\n\n共同投入则需要有一份可理解的账。存储、传输、计算、备份和维护，各自消耗多少，哪些成本由个人使用产生，哪些用于共同基础设施，都应该分开说明。早期可以先记录实际支出与使用量，不必急于把每一种帮助压成一个永久的贡献分数。\n\n比如，一位参与者提供服务器，另一位帮助修复导入功能，还有人持续报告难用的地方。这些贡献都值得保留，但并不具有同一种单位。资金账可以核对资金，代码记录可以核对修改，反馈记录可以说明问题怎样解决；如何评价共同贡献，需要在这些具体材料上讨论。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-R14-0",
+      "source_span": [
+        964,
+        1042
+      ],
+      "source_sha256": "e628516803edbaacdf8c14ab9a92bd552a303bd15f6e9af42116c0a9379f578d",
+      "text": "从一开始我们就坚持这个方向，一开始只有我一个人，最初的投入和决定就由我承担，将来有了共同参与者，就由这些人共同，按新体制进行公平的分配和决策。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            978,
+            980
+          ],
+          "output_span": [
+            14,
+            14
+          ],
+          "before": "比如",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            990,
+            992
+          ],
+          "output_span": [
+            24,
+            24
+          ],
+          "before": "那么",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            995,
+            997
+          ],
+          "output_span": [
+            27,
+            29
+          ],
+          "before": "分配",
+          "after": "投入"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            999,
+            1000
+          ],
+          "output_span": [
+            31,
+            32
+          ],
+          "before": "策",
+          "after": "定"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1001,
+            1002
+          ],
+          "output_span": [
+            33,
+            34
+          ],
+          "before": "是",
+          "after": "由"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1003,
+            1008
+          ],
+          "output_span": [
+            35,
+            37
+          ],
+          "before": "一个人来做",
+          "after": "承担"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1011,
+            1013
+          ],
+          "output_span": [
+            40,
+            41
+          ],
+          "before": "人多",
+          "after": "有"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1014,
+            1019
+          ],
+          "output_span": [
+            42,
+            47
+          ],
+          "before": "，有几个人",
+          "after": "共同参与者"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1021,
+            1022
+          ],
+          "output_span": [
+            49,
+            49
+          ],
+          "before": "是",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1026,
+            1026
+          ],
+          "output_span": [
+            53,
+            55
+          ],
+          "before": "",
+          "after": "共同"
+        }
+      ],
+      "retained_characters": 57,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "即使只有几个人，也可以把一次具体决定完整做出来：现在遇到了什么问题，有哪些方案，谁受影响，采用哪个方案，之后结果如何。动态权重的复杂算法可以逐步研究，公开理由与保留反馈则从第一天就能开始。\n\n基本生活保障是更大生产体系要逐步承担的目标；早期的小型存储服务，还没有能力承诺满足参与者的全部生活需要。它能够先做的是，让服务费用、个人资料与共同资源之间的关系清楚，并使投入不会自动兑换为对其他人资料和生活的支配权。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 让一个人的改进，成为其他人可以使用的能力",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55221",
+      "source_span": [
+        549,
+        612
+      ],
+      "source_sha256": "85e46257cab6c89006302c07fc687637d191212d14b1cccca954f874f37ac4b3",
+      "text": "在这个过程中，只要有一个用户的一个平台上具备了一个能力，其他运行兼容平台的用户就有机会分享这项能力，不用自己创建了。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            549,
+            556
+          ],
+          "output_span": [
+            0,
+            1
+          ],
+          "before": "最棒的是，我们",
+          "after": "在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            583,
+            585
+          ],
+          "output_span": [
+            28,
+            30
+          ],
+          "before": "所有",
+          "after": "其他"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            587,
+            589
+          ],
+          "output_span": [
+            32,
+            34
+          ],
+          "before": "这个",
+          "after": "兼容"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            595,
+            597
+          ],
+          "output_span": [
+            40,
+            43
+          ],
+          "before": "可以",
+          "after": "有机会"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            600,
+            601
+          ],
+          "output_span": [
+            46,
+            47
+          ],
+          "before": "个",
+          "after": "项"
+        }
+      ],
+      "retained_characters": 49,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55221",
+      "source_span": [
+        612,
+        653
+      ],
+      "source_sha256": "84d62e943ec07a0b781bde45bf2704ba5d7af820eef678f5a27f5d9f7b06d936",
+      "text": "可以逐步建立一个云端的merkle节点，用于登记、发布、索引与查找这些能力。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            612,
+            614
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "我们",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            616,
+            619
+          ],
+          "output_span": [
+            2,
+            4
+          ],
+          "before": "专门创",
+          "after": "逐步"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            620,
+            620
+          ],
+          "output_span": [
+            5,
+            6
+          ],
+          "before": "",
+          "after": "立"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            636,
+            640
+          ],
+          "output_span": [
+            22,
+            22
+          ],
+          "before": "上传下载",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            642,
+            642
+          ],
+          "output_span": [
+            24,
+            25
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            644,
+            644
+          ],
+          "output_span": [
+            27,
+            28
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            646,
+            648
+          ],
+          "output_span": [
+            30,
+            33
+          ],
+          "before": "搜索",
+          "after": "与查找"
+        }
+      ],
+      "retained_characters": 30,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这使第一批使用者的作用发生变化。他们不是只把钱交给一个运营方，再等待运营方决定开发什么。一个人发现的问题可以进入共同任务，一个人完成的导入器或整理方法可以被其他人复用，新的需求也能推动共同能力库生长。\n\n为了让这种共享有用，一项能力需要说明能够处理哪些资料、会产生哪些修改、在哪些条件下检查过。用户愿意采用以后，运行结果又可以提供新的反馈。这样，服务逐步获得的并不只是一批账户，而是一群能够共同改进服务的参与者。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 什么时候扩展到计算和更多内容服务",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55647",
+      "source_span": [
+        1282,
+        1579
+      ],
+      "source_sha256": "7a78037264e2ce4112d075d85e0e3c0bb1e4444b3b4efae41b4bfe6375147b8a",
+      "text": "继续发展，可以尝试提供更多原本由传统商业平台承担的服务，比如云存储，文学作品阅读，音乐播放和长视频，短视频，影视流媒体服务等。其实这些内容，从源头的作者发布，到终端用户消费，包括中间所涉及的平台的开发迭代和资源分布，带宽管理等等，这些过程中的内容、资源和工作关系，都可以研究怎样在共同框架中记录与管理，中间所需的人类和AI智能体的合作以及所需决策的动态权重分配和调整，也可以在这个记录基础上逐步构造，而且框架可以记录资金、能源、使用和贡献的依据，使服务费用与创作者回报能够在公开规则下核对和讨论。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1282,
+            1286
+          ],
+          "output_span": [
+            0,
+            4
+          ],
+          "before": "再接下来",
+          "after": "继续发展"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1289,
+            1293
+          ],
+          "output_span": [
+            7,
+            16
+          ],
+          "before": "替代过去",
+          "after": "尝试提供更多原本由"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1297,
+            1300
+          ],
+          "output_span": [
+            20,
+            24
+          ],
+          "before": "模式下",
+          "after": "平台承担"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1301,
+            1304
+          ],
+          "output_span": [
+            25,
+            25
+          ],
+          "before": "互联网",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1394,
+            1397
+          ],
+          "output_span": [
+            115,
+            117
+          ],
+          "before": "整个全",
+          "after": "这些"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1399,
+            1399
+          ],
+          "output_span": [
+            119,
+            132
+          ],
+          "before": "",
+          "after": "中的内容、资源和工作关系，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1400,
+            1401
+          ],
+          "output_span": [
+            133,
+            133
+          ],
+          "before": "是",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1403,
+            1411
+          ],
+          "output_span": [
+            135,
+            142
+          ],
+          "before": "通过merkle",
+          "after": "研究怎样在共同"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1413,
+            1419
+          ],
+          "output_span": [
+            144,
+            148
+          ],
+          "before": "进行自动化的",
+          "after": "中记录与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1458,
+            1471
+          ],
+          "output_span": [
+            187,
+            199
+          ],
+          "before": "通过merkle框架来完成",
+          "after": "在这个记录基础上逐步构造"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1474,
+            1482
+          ],
+          "output_span": [
+            202,
+            202
+          ],
+          "before": "这个merkle",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1484,
+            1485
+          ],
+          "output_span": [
+            204,
+            204
+          ],
+          "before": "还",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1487,
+            1497
+          ],
+          "output_span": [
+            206,
+            206
+          ],
+          "before": "像加密货币账本那样，",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1499,
+            1511
+          ],
+          "output_span": [
+            208,
+            208
+          ],
+          "before": "公平的不被篡改的劳动力和",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1513,
+            1519
+          ],
+          "output_span": [
+            210,
+            211
+          ],
+          "before": "账本，资金和",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1521,
+            1536
+          ],
+          "output_span": [
+            213,
+            217
+          ],
+          "before": "消耗，所有人类节点的消费多少，",
+          "after": "、使用和"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1538,
+            1540
+          ],
+          "output_span": [
+            219,
+            222
+          ],
+          "before": "大小",
+          "after": "的依据"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1541,
+            1556
+          ],
+          "output_span": [
+            223,
+            227
+          ],
+          "before": "这样就能够公平公正的计算出终点",
+          "after": "使服务费"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1557,
+            1567
+          ],
+          "output_span": [
+            228,
+            229
+          ],
+          "before": "户各种需要付出多少，",
+          "after": "与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1570,
+            1578
+          ],
+          "output_span": [
+            232,
+            247
+          ],
+          "before": "分别可以获得多少",
+          "after": "回报能够在公开规则下核对和讨论"
+        }
+      ],
+      "retained_characters": 165,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "扩展的条件应该来自已有服务的真实需要。存储用户开始需要检索、转码或私人 AI，计算就有了具体用途；使用量持续增加，购买设备与继续租用的比较才有依据。每增加一项服务，都要把它的费用、维护和恢复方式纳入原来的闭环。\n\n这样，第一份云存储既足够小，可以由一个人的现实需要启动，又已经包含未来组织的基本方向：本人掌握资料，参与者共享可公开的知识，共同资源的使用能够被理解和讨论，改进能够留下来。它不需要在第一天完成整个文明，但需要在第一天就朝着同一个方向生长。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

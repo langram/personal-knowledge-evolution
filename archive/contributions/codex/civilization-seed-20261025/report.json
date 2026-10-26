@@ -1,0 +1,183 @@
+{
+  "schema": "pkst.seed-dossier-report@0.1",
+  "recorded_at": "2026-10-25T07:11:05.045503+00:00",
+  "snapshot": "bafyreifa6mltqj2ilftqyjwklmy3v4n5jo36pnfq7pw2eblqgqqsiknzra",
+  "federated_snapshot": "bafyreiauugyncevkugqbyf7b3yip45mwezazg42alxabksx3rej6atv5zu",
+  "baseline_snapshot": "bafyreigaghkt7qqixgzvlyrvjhqkeesilfqialwkttit27wgg3gzxnipca",
+  "native_new_events": 18,
+  "reused_prior_events": 5,
+  "verbatim_statements": 22,
+  "concepts": 13,
+  "relations": 25,
+  "assistant_interpretation_changes": 2,
+  "dossier_closure_blocks": 165,
+  "dossier_closure_counts": {
+    "pkst/activity@0.1": 1,
+    "pkst/assessment@0.1": 1,
+    "pkst/change@0.1": 2,
+    "pkst/concept@0.1": 13,
+    "pkst/content@0.1": 23,
+    "pkst/extraction-record@0.1": 23,
+    "pkst/occurrence@0.1": 23,
+    "pkst/relation@0.1": 25,
+    "pkst/snapshot@0.1": 1,
+    "pkst/source@0.1": 5,
+    "pkst/statement@0.1": 22,
+    "raw": 26
+  },
+  "freshly_byte_verified_blocks": 167,
+  "full_reference_graph_nodes": 715577,
+  "new_unique_current_events": 200352,
+  "files": [
+    {
+      "path": "dossiers\\2026-10-25-seed\\01-originals.md",
+      "raw": {
+        "$link": "bafkreihi2cc4uw57xm6ww2x42q67dpu666yzutbaxj5otcumi23syxmwly"
+      },
+      "bytes": 65880,
+      "sha256": "e8d085ca5bbfbb3d6b6afcd43df1be9ef7b19a4c20ba7ae98a8c46b72c5d965e",
+      "authorship": "native transcript projection with editorial headings"
+    },
+    {
+      "path": "dossiers\\2026-10-25-seed\\02-framework.md",
+      "raw": {
+        "$link": "bafkreifiuxwl7yl2nwmwkvu6yla5ofhr7hqd4obozxtokfrroomez365ya"
+      },
+      "bytes": 8987,
+      "sha256": "a8a5ecbfe17a6d9965569ec2c1d714f1f9e03e382ecde6e5163173984cefddc0",
+      "authorship": "codex editorial draft; not user verbatim or adopted policy"
+    },
+    {
+      "path": "dossiers\\2026-10-25-seed\\03-evolution.md",
+      "raw": {
+        "$link": "bafkreifbflufoghndz5cacpchqcffjo36wybqlne3hdfvyhy6rqfefo3xy"
+      },
+      "bytes": 12254,
+      "sha256": "a12ae85718ed1e7a2009e23c0452a5dbf5b0182da4d9c65ae0f8f4605215dbbe",
+      "authorship": "codex editorial draft; not user verbatim or adopted policy"
+    },
+    {
+      "path": "dossiers\\2026-10-25-seed\\04-roadmap.md",
+      "raw": {
+        "$link": "bafkreihx34hnckylryfcg7jjuqzjoct5rtwgewhz344rrrtciki7hvwizu"
+      },
+      "bytes": 5620,
+      "sha256": "f7df0ed12b0b8e0a237d29a432970a7d8cec6258f9df3918c6624291f3d6c8cd",
+      "authorship": "codex editorial draft; not user verbatim or adopted policy"
+    },
+    {
+      "path": "dossiers\\2026-10-25-seed\\05-storage-mvp.md",
+      "raw": {
+        "$link": "bafkreid7b6ar7wgtquouhrcpjfjt3isyl4kwkwdlnbyfg5q5pcd66n4uvm"
+      },
+      "bytes": 8271,
+      "sha256": "7f0f811fd8d3851d43c44f49533da2585f1565586b687053761d7887ef3794ab",
+      "authorship": "codex editorial draft; not user verbatim or adopted policy"
+    },
+    {
+      "path": "dossiers\\2026-10-25-seed\\06-manifesto.md",
+      "raw": {
+        "$link": "bafkreibnk4awnhwcvth4wscgckyob2m73l3ozmopao43l5tglsrfjapuae"
+      },
+      "bytes": 5106,
+      "sha256": "2d5701669ec2accfcb484612b0e0e99fdaf6ecb1cf03b9b5f6665ca25481f401",
+      "authorship": "codex editorial draft; not user verbatim or adopted policy"
+    },
+    {
+      "path": "dossiers\\2026-10-25-seed\\07-video.md",
+      "raw": {
+        "$link": "bafkreifdi5efo5l5totmjp4ximzktppxafvg3c6umefvxbr7ujan5mrj6m"
+      },
+      "bytes": 5569,
+      "sha256": "a3474857757d9ba6c4bf974332a9bdf7016a6d8bd4610b5b863fa240deb229f3",
+      "authorship": "codex editorial draft; not user verbatim or adopted policy"
+    },
+    {
+      "path": "dossiers\\2026-10-25-seed\\08-fiction.md",
+      "raw": {
+        "$link": "bafkreiggmqclf4uj64nno4nlingxljlpiqbgvifac75x5c6n6k44s74nse"
+      },
+      "bytes": 7609,
+      "sha256": "c66404b2f289f71ad771ab434d75a56f44026aa0a017fb7e8bcdf2b9c97f8d91",
+      "authorship": "codex editorial draft; not user verbatim or adopted policy"
+    },
+    {
+      "path": "dossiers\\2026-10-25-seed\\09-culture.md",
+      "raw": {
+        "$link": "bafkreiab3xa4uim22xutos5mqsxw42qxtwh6wjerxjsj7vqwxmrhhpaqrm"
+      },
+      "bytes": 5480,
+      "sha256": "01ddc1ca219ad5e9374bac84af6e6a179d8feb2491ba649fd616bb2273bc108b",
+      "authorship": "codex editorial draft; not user verbatim or adopted policy"
+    },
+    {
+      "path": "dossiers\\2026-10-25-seed\\10-first-30-days.md",
+      "raw": {
+        "$link": "bafkreicmirgshnczgo3qccd2nvcnse6ipdxdafnopzymlyx2nypib5yveq"
+      },
+      "bytes": 4509,
+      "sha256": "4c444d23b45933b701087a6d44d913c878ee3015ae7e70c5e2fa6e1e80f71524",
+      "authorship": "codex editorial draft; not user verbatim or adopted policy"
+    },
+    {
+      "path": "dossiers\\2026-10-25-seed\\11-sources.md",
+      "raw": {
+        "$link": "bafkreiboxoitkkhtjdnwx5bgx54lzf3umqutlqqellft6tcsw7sixehc44"
+      },
+      "bytes": 3773,
+      "sha256": "2ebb913528f348db6bf426bf78bc9774642935c2045acb3f4c52b7e48b90e2e7",
+      "authorship": "codex editorial draft; not user verbatim or adopted policy"
+    },
+    {
+      "path": "dossiers\\2026-10-25-seed\\README.md",
+      "raw": {
+        "$link": "bafkreibektvykio35ob4uneyr2r4dwv3tifqpeonusrbbqgeh4a6amis7m"
+      },
+      "bytes": 2264,
+      "sha256": "2454eb8521dbeb83ca34988ea3c1dabb9a0b0791cda4a210c0c43f01e03112fb",
+      "authorship": "codex editorial draft; not user verbatim or adopted policy"
+    }
+  ],
+  "research_materials": [
+    {
+      "source_path": "C:\\Users\\langr\\Dev\\civic-neural-commons\\docs\\CHARTER.md",
+      "raw": {
+        "$link": "bafkreidqfgkwltndeacxfgx3szfd3vcgcn27igk6fija6ql2hi4nj2ukgu"
+      },
+      "bytes": 2546,
+      "sha256": "70299565cda32005729afb964a3dd4461375f4195e2a120f417a3a38d4ea8a35",
+      "handling": "read-only research material, not a new conversation occurrence"
+    },
+    {
+      "source_path": "C:\\Users\\langr\\Dev\\civic-neural-commons\\docs\\CURRENT.md",
+      "raw": {
+        "$link": "bafkreidlzvpcsa2jyz4vs336ji2bdr7zkrhfdvbrnxnhmgt43kg744ffq4"
+      },
+      "bytes": 4046,
+      "sha256": "6bcd5e290349c679596f7e4a3411c7f9544e51d4316dda761a7cda8dfe70a587",
+      "handling": "read-only research material, not a new conversation occurrence"
+    },
+    {
+      "source_path": "C:\\Users\\langr\\Dev\\civic-neural-commons\\theory\\FOUNDATIONS.md",
+      "raw": {
+        "$link": "bafkreid5dfmd5kte2hk6hicfo4ux5ojnkdooxac2zjt3mye56ms4oiz2ny"
+      },
+      "bytes": 7506,
+      "sha256": "7d19583eaa64d1d5e3a04577297eb92d50dceb805aca67b6609df325c7233a6e",
+      "handling": "read-only research material, not a new conversation occurrence"
+    },
+    {
+      "source_path": "C:\\Users\\langr\\Dev\\civic-neural-commons\\reports\\E002-REVIEW.md",
+      "raw": {
+        "$link": "bafkreihw2hvkdw4ircjwnn5mpnadkc7icdxwhhjud7sen66hhu36zltil4"
+      },
+      "bytes": 6066,
+      "sha256": "f6d1eaa1db88889366b7ac7b40350be810ef639d341fe446fbc73d37ecae685f",
+      "handling": "read-only research material, not a new conversation occurrence"
+    }
+  ],
+  "status": "source anchors and quotation spans require separate verifier before final receipt",
+  "public_release": false,
+  "elapsed_seconds": 29.575,
+  "amendment": "Readability correction to timeline Markdown table; source events and semantic objects unchanged."
+}

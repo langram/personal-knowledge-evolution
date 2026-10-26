@@ -1,0 +1,36 @@
+{
+  "run": "20261024T083850Z",
+  "tar_cid": "bafkreigim6d5yqipstlbmsitmgcz4efrye2tda54swr3na42uskudhzpwu",
+  "tar_sha256": "c86787dc410f94d616491361859e10b1c1353183bc95a3b6839aa495419f2fb5",
+  "tar_bytes": 9635840,
+  "pass": true,
+  "checks": {
+    "tar_sha256_matches": true,
+    "tar_stable": true,
+    "members": 437,
+    "all_regular_files": true,
+    "unsafe_names": [],
+    "duplicate_names": [],
+    "casefold_nfc_collisions": [],
+    "manifest_rows": 435,
+    "manifest_duplicate_paths": [],
+    "manifest_paths_equal_source_members": true,
+    "manifest_sha_or_size_mismatch": [],
+    "changed_during_hash": []
+  },
+  "categories": {
+    "supplement-control": 2,
+    "claude-code-project-other": 3,
+    "claude-code-subagent-meta": 90,
+    "claude-code-tool-result": 87,
+    "claude-code-project-memory": 16,
+    "claude-code-sessions-index": 1,
+    "claude-desktop-session-meta": 6,
+    "claude-local-agent-mode-meta": 2,
+    "claude-local-agent-skill-file": 230
+  },
+  "distinct_member_cids": 325,
+  "capturer_sha256": "5ad309e9c2f884d92e309f5a374ececc9a5d8cfd419b810e4edb30d2c9e266ec",
+  "manifest": "raw/_mac-supplement-capture-20261024T083850Z.jsonl",
+  "manifest_sha256": "24f7c2a9911e7cc29a0a1080c87ac3e86524798bb727091fe0e4bd4019661bec"
+}

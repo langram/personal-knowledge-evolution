@@ -1,0 +1,2112 @@
+{
+  "chapter": "18",
+  "title": "个人数据主权、隐私与公共知识",
+  "status": "expanded-copyedited",
+  "review": {
+    "central_question": "数据主权为什么与隐私、平等和共同知识同时相关",
+    "reasoning": "服务权力差→个人数字空间→隐私的关系条件→记录与披露分离→内容身份和权限→持续改变与迁移",
+    "examples": [
+      "跨平台历史讨论",
+      "员工向管理者提供数据",
+      "私人日记与公开研究",
+      "服务故障复现与私人通信"
+    ],
+    "objections": [
+      "记录天然等于监控",
+      "充分共享等于强制公开全部",
+      "计算哈希就完成隐私保护",
+      "保留过去等于冻结现在"
+    ],
+    "voice": "保留作者REA、人生记录、隐私关系及两类资源论述；对强断言保留理论条件并列入实质改动核对",
+    "status": "需全书终校：核对隐私命题条件化是否忠实，绝不将此改写标成作者已批准的新立场",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-R10-0",
+      "source_span": [
+        0,
+        288
+      ],
+      "source_sha256": "1ba070dbea3c43677bda92a6f678a544e17049a4f631c2c4e269a84029c580d4",
+      "text": "如果算力和存储资源在提供 AI 推理收费服务时得到优先投入，而用户导出和收回数据却始终排在后面，这种资源分配的区别对待，就反映了服务方更在意什么。这就是基本架构上存在着服务方和消费方的权力不对等的博弈情况下，产生的不公平，而我说的新机制，第一件事，就是在新机制的软硬件服务框架中，为每一个用户建立自己可以完全支配的本地和云端的算力和存储空间。把原本分散在不同商业软件和服务的信息孤岛中的个人资料拿回来。REA，也就是逆向理解和接回已有系统的设想，要把这些个人信息收回，放到新的框架中，让所有用户重新掌握属于自己的数据。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            0,
+            4
+          ],
+          "output_span": [
+            0,
+            2
+          ],
+          "before": "其实这种",
+          "after": "如果"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            14,
+            14
+          ],
+          "output_span": [
+            12,
+            13
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            16,
+            16
+          ],
+          "output_span": [
+            15,
+            16
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            18,
+            19
+          ],
+          "output_span": [
+            18,
+            18
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            23,
+            26
+          ],
+          "output_span": [
+            22,
+            31
+          ],
+          "before": "上和在",
+          "after": "时得到优先投入，而"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            35,
+            37
+          ],
+          "output_span": [
+            40,
+            50
+          ],
+          "before": "上的",
+          "after": "却始终排在后面，这种"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            47,
+            47
+          ],
+          "output_span": [
+            60,
+            67
+          ],
+          "before": "",
+          "after": "就反映了服务方"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            50,
+            67
+          ],
+          "output_span": [
+            70,
+            72
+          ],
+          "before": "自己赚钱的业务，而不在意用户的权益",
+          "after": "什么"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            118,
+            118
+          ],
+          "output_span": [
+            123,
+            124
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            165,
+            166
+          ],
+          "output_span": [
+            171,
+            172
+          ],
+          "before": "将",
+          "after": "把"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            169,
+            170
+          ],
+          "output_span": [
+            175,
+            176
+          ],
+          "before": "布",
+          "after": "散"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            173,
+            173
+          ],
+          "output_span": [
+            179,
+            181
+          ],
+          "before": "",
+          "after": "商业"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            179,
+            187
+          ],
+          "output_span": [
+            187,
+            187
+          ],
+          "before": "商业巨头所营造的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            192,
+            192
+          ],
+          "output_span": [
+            192,
+            197
+          ],
+          "before": "",
+          "after": "的个人资料"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            195,
+            205
+          ],
+          "output_span": [
+            200,
+            201
+          ],
+          "before": "，我之前提到的类似于",
+          "after": "。"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            208,
+            236
+          ],
+          "output_span": [
+            204,
+            208
+          ],
+          "before": "(reverse engining anything)的",
+          "after": "，也就是"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            238,
+            239
+          ],
+          "output_span": [
+            210,
+            214
+          ],
+          "before": "收",
+          "after": "理解和接"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            240,
+            241
+          ],
+          "output_span": [
+            215,
+            216
+          ],
+          "before": "所",
+          "after": "已"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            242,
+            242
+          ],
+          "output_span": [
+            217,
+            227
+          ],
+          "before": "",
+          "after": "系统的设想，要把这些"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            246,
+            246
+          ],
+          "output_span": [
+            231,
+            234
+          ],
+          "before": "",
+          "after": "收回，"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            249,
+            249
+          ],
+          "output_span": [
+            237,
+            238
+          ],
+          "before": "",
+          "after": "的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            252,
+            255
+          ],
+          "output_span": [
+            241,
+            241
+          ],
+          "before": "的方案",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            256,
+            261
+          ],
+          "output_span": [
+            242,
+            243
+          ],
+          "before": "就是为了吧",
+          "after": "让"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            265,
+            266
+          ],
+          "output_span": [
+            247,
+            251
+          ],
+          "before": "的",
+          "after": "重新掌握"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            273,
+            287
+          ],
+          "output_span": [
+            258,
+            258
+          ],
+          "before": "，从传统商业巨头的手中夺回来",
+          "after": ""
+        }
+      ],
+      "retained_characters": 188,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "一个人能够在某个平台上查看自己的资料，并不等于他已经能够完整地支配这些资料。他可能只能通过平台规定的界面浏览，不能把历史记录带到另一个工具中；可以找到几条消息，却很难把围绕一个问题、跨越不同年份的思考连在一起；停止订阅或者更换设备之后，原本熟悉的工作方式也可能随之中断。\n\n这里被分割的，不只是一个个文件。一个人的知识、偏好、交往和创造，正在被拆散到不同服务的账户里。每一个服务都知道其中一部分，而本人反而需要挨个寻找、申请导出、重新整理，才能接近自己的完整经历。\n\n新框架的第一步，就是让这些内容重新回到个人可以选择工具、保存副本、安排使用方式的空间中。这个空间可以分布在本地和云端，但控制关系要围绕这个人建立。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 个人数字空间，为什么也是个人能力的一部分",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R46621",
+      "source_span": [
+        52,
+        686
+      ],
+      "source_sha256": "a349111f55574fef94ae8e912e8e0e89096fe12275d696dccd3e1da60f9da5cf",
+      "text": "除了数据和代码，还包括研究过程、沟通过程，都可以用同一套框架记录下来。如果这样下去的话，对每一个人他所存在的数字空间中的所有行为轨迹和数据产物，也都纳入到了这个框架中，从个人智能代理的发展方向也可以看出，原来是某个功能需要在某个操作系统或门户网站上使用某个app，软件，某个网络服务来完成，数据呢也是分别通过云端的客户端，或者通过本地的文件管理器来访问。将来通过个人 Agent 这个接口，就有可能把这些分散的访问方式连接起来。在这个框架中，个人能够保存的，不仅是自己用到的代码和数据，还有交流过程、生活轨迹，说过什么话，做过什么事，拥有什么资产和能力，有什么想法，看过什么东西，凡是留下了数字印记、本人希望保留的内容，不管是通过日记啊、笔记啊，或者是写的文章，还是随身的录音录像设备或者是通过和 Agent 的对话，甚至是将来的脑机接口直接记录大脑中的信息，都可以按本人选择记录下来，相当于人生的行车记录仪和黑盒子系统。\n\n个人代理可以逐步理解自己的兴趣、爱好、理念、诉求、权益、义务，以及与其他人的关系，同时可以帮助用户在参与所有经济政治和社会活动时，通过ai的强大理性推理能力，提供同样强大的判断和博弈能力，让整个人类社会的合作竞争中，不断接近更平等、更充分理性的博弈，从而构建出完全不同的权利义务体系，集体决策的权力分配，社会组织形式和经济政治社会制度。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            63,
+            79
+          ],
+          "output_span": [
+            11,
+            11
+          ],
+          "before": "在咱们做这个项目过程当中，所有的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            90,
+            92
+          ],
+          "output_span": [
+            22,
+            24
+          ],
+          "before": "希望",
+          "after": "可以"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            93,
+            99
+          ],
+          "output_span": [
+            25,
+            26
+          ],
+          "before": "这个方式，统",
+          "after": "同"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            100,
+            103
+          ],
+          "output_span": [
+            27,
+            28
+          ],
+          "before": "用这新",
+          "after": "套"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            105,
+            106
+          ],
+          "output_span": [
+            30,
+            30
+          ],
+          "before": "给",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            161,
+            163
+          ],
+          "output_span": [
+            85,
+            91
+          ],
+          "before": "现在",
+          "after": "个人智能代理"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            164,
+            168
+          ],
+          "output_span": [
+            92,
+            92
+          ],
+          "before": " AI ",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            170,
+            170
+          ],
+          "output_span": [
+            94,
+            96
+          ],
+          "before": "",
+          "after": "方向"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            171,
+            172
+          ],
+          "output_span": [
+            97,
+            99
+          ],
+          "before": "能",
+          "after": "可以"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            174,
+            175
+          ],
+          "output_span": [
+            101,
+            101
+          ],
+          "before": "来",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            251,
+            254
+          ],
+          "output_span": [
+            177,
+            177
+          ],
+          "before": "实际上",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            256,
+            260
+          ],
+          "output_span": [
+            179,
+            183
+          ],
+          "before": "可能有了",
+          "after": "通过个人"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            271,
+            273
+          ],
+          "output_span": [
+            194,
+            194
+          ],
+          "before": "之后",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            274,
+            278
+          ],
+          "output_span": [
+            195,
+            195
+          ],
+          "before": "它实际上",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            279,
+            280
+          ],
+          "output_span": [
+            196,
+            199
+          ],
+          "before": "是",
+          "after": "有可能"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            281,
+            283
+          ],
+          "output_span": [
+            200,
+            200
+          ],
+          "before": "所有",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            285,
+            286
+          ],
+          "output_span": [
+            202,
+            210
+          ],
+          "before": "都",
+          "after": "分散的访问方式连"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            287,
+            289
+          ],
+          "output_span": [
+            211,
+            213
+          ],
+          "before": "管了",
+          "after": "起来"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            290,
+            293
+          ],
+          "output_span": [
+            214,
+            215
+          ],
+          "before": "而我们",
+          "after": "在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            294,
+            295
+          ],
+          "output_span": [
+            216,
+            217
+          ],
+          "before": "新",
+          "after": "个"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            297,
+            298
+          ],
+          "output_span": [
+            219,
+            220
+          ],
+          "before": "呢",
+          "after": "中"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            299,
+            313
+          ],
+          "output_span": [
+            221,
+            228
+          ],
+          "before": "实际上在这种新框架接管之下呢",
+          "after": "个人能够保存的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            314,
+            317
+          ],
+          "output_span": [
+            229,
+            231
+          ],
+          "before": "实际上",
+          "after": "不仅"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            318,
+            320
+          ],
+          "output_span": [
+            232,
+            232
+          ],
+          "before": "把你",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            322,
+            338
+          ],
+          "output_span": [
+            234,
+            234
+          ],
+          "before": "整个这个用户这个人，他不光是说他",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            343,
+            343
+          ],
+          "output_span": [
+            239,
+            240
+          ],
+          "before": "",
+          "after": "和"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            346,
+            348
+          ],
+          "output_span": [
+            243,
+            245
+          ],
+          "before": "连他",
+          "after": "还有"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            353,
+            354
+          ],
+          "output_span": [
+            250,
+            250
+          ],
+          "before": "人",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            356,
+            359
+          ],
+          "output_span": [
+            252,
+            252
+          ],
+          "before": "的这个",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            399,
+            401
+          ],
+          "output_span": [
+            292,
+            292
+          ],
+          "before": "只要",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            408,
+            408
+          ],
+          "output_span": [
+            299,
+            306
+          ],
+          "before": "",
+          "after": "、本人希望保留"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            409,
+            409
+          ],
+          "output_span": [
+            307,
+            309
+          ],
+          "before": "",
+          "after": "内容"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            481,
+            481
+          ],
+          "output_span": [
+            381,
+            388
+          ],
+          "before": "",
+          "after": "可以按本人选择"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            483,
+            484
+          ],
+          "output_span": [
+            390,
+            390
+          ],
+          "before": "了",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            505,
+            506
+          ],
+          "output_span": [
+            411,
+            413
+          ],
+          "before": "这",
+          "after": "\n\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            507,
+            510
+          ],
+          "output_span": [
+            414,
+            415
+          ],
+          "before": "用户的",
+          "after": "人"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            512,
+            518
+          ],
+          "output_span": [
+            417,
+            423
+          ],
+          "before": "节点清楚关于",
+          "after": "可以逐步理解"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            521,
+            523
+          ],
+          "output_span": [
+            426,
+            426
+          ],
+          "before": "所有",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            525,
+            525
+          ],
+          "output_span": [
+            428,
+            429
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            527,
+            527
+          ],
+          "output_span": [
+            431,
+            432
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            529,
+            529
+          ],
+          "output_span": [
+            434,
+            435
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            531,
+            531
+          ],
+          "output_span": [
+            437,
+            444
+          ],
+          "before": "",
+          "after": "、权益、义务，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            533,
+            551
+          ],
+          "output_span": [
+            446,
+            447
+          ],
+          "before": "权益权利和义务以及我所在这个世界上和",
+          "after": "与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            557,
+            561
+          ],
+          "output_span": [
+            453,
+            453
+          ],
+          "before": "等等等等",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            629,
+            633
+          ],
+          "output_span": [
+            521,
+            526
+          ],
+          "before": "形成充分",
+          "after": "不断接近更"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            635,
+            635
+          ],
+          "output_span": [
+            528,
+            530
+          ],
+          "before": "",
+          "after": "、更"
+        }
+      ],
+      "retained_characters": 492,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "一个具体的例子是反复讨论同一个问题。人在不同时间、不同工具中提出的想法，并不总是重复。有时是在补充条件，有时是在回应别人，有时是在发现自己原来的解释不够好。只留下最新的结论，个人 AI 很难理解这个人为什么作出这样的选择；只保留所有文件，却没有来源和关系，也很难从大量资料中找出真正有用的部分。\n\n因此，个人数字空间需要同时保留内容与关系。原话是什么，别人怎样回应，自己接受了什么、拒绝了什么，哪些地方仍在思考，都可以作为不同的记录存在。个人后来改变看法，也不需要把过去伪装成从未发生过。这使记忆能够支持学习，而不是把一个人固定在某个过去的版本里。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 隐私背后的权力关系",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        5368,
+        5678
+      ],
+      "source_sha256": "ed42dd61bd90fd76173c36b949e96021679f40a8545b47b51569e43af0316469",
+      "text": "由此还可以追问，传统的人与人之间、人与国家之间的隐私和安全问题，究竟有多少来自权力关系。人类社会中任何两个对象，无论是不同层级的，比如国家对个人、公司对个人、个人对公司、个人对国家，还是同一层级的不同个体，它们之间信息上的隔阂、互相的不信任和互相的防备，以及保护隐私的强烈需要，很多时候是因为怕信息被对方知道之后，对方会利用自己手里的权力和信息，在博弈游戏中占据优势，从而对自己造成损失和伤害。我认为，权力关系是理解安全和隐私问题的一条重要线索。\n\n设想双方完全对等，并且互相绝对信任，知道自己的信息不会被用来伤害自己，那么许多防御性的隐瞒就失去了理由。信息是否隐私，跟权力是否对等、信息是否公开、双方博弈是否公平有根本的关系。越平等，信息相对来说就会越公开，个体之间的信任程度也会越高，双方的合作意愿也会越强。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            5368,
+            5370
+          ],
+          "output_span": [
+            0,
+            7
+          ],
+          "before": "而且",
+          "after": "由此还可以追问"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5386,
+            5388
+          ],
+          "output_span": [
+            23,
+            23
+          ],
+          "before": "所谓",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5397,
+            5404
+          ],
+          "output_span": [
+            32,
+            43
+          ],
+          "before": "也就不再存在了",
+          "after": "究竟有多少来自权力关系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5488,
+            5494
+          ],
+          "output_span": [
+            127,
+            129
+          ],
+          "before": "也就是所谓的",
+          "after": "以及"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5498,
+            5498
+          ],
+          "output_span": [
+            133,
+            138
+          ],
+          "before": "",
+          "after": "的强烈需要"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5499,
+            5500
+          ],
+          "output_span": [
+            139,
+            143
+          ],
+          "before": "都",
+          "after": "很多时候"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5554,
+            5557
+          ],
+          "output_span": [
+            197,
+            200
+          ],
+          "before": "实际上",
+          "after": "我认为"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5558,
+            5558
+          ],
+          "output_span": [
+            201,
+            208
+          ],
+          "before": "",
+          "after": "权力关系是理解"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5563,
+            5567
+          ],
+          "output_span": [
+            213,
+            213
+          ],
+          "before": "都是这个",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5569,
+            5569
+          ],
+          "output_span": [
+            215,
+            222
+          ],
+          "before": "",
+          "after": "的一条重要线索"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5572,
+            5574
+          ],
+          "output_span": [
+            225,
+            227
+          ],
+          "before": "如果",
+          "after": "设想"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5576,
+            5576
+          ],
+          "output_span": [
+            229,
+            231
+          ],
+          "before": "",
+          "after": "完全"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5588,
+            5588
+          ],
+          "output_span": [
+            243,
+            270
+          ],
+          "before": "",
+          "after": "知道自己的信息不会被用来伤害自己，那么许多防御性的隐瞒"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5589,
+            5597
+          ],
+          "output_span": [
+            271,
+            273
+          ],
+          "before": "不再存在隐私问题",
+          "after": "失去"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5598,
+            5598
+          ],
+          "output_span": [
+            274,
+            276
+          ],
+          "before": "",
+          "after": "理由"
+        }
+      ],
+      "retained_characters": 275,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        5680,
+        5942
+      ],
+      "source_sha256": "816caef1528ac0198ffaa372081b6964426fc0b9b44f77041c775aa156ce0b14",
+      "text": "人与人之间也是这样，互相知道对方信息的多少，与双方合作和亲密关系的程度往往是相互影响的。双方越能在信任的条件下了解对方，就越有可能形成合作；越是互相有偏见或者刻意隐瞒，就越有可能产生隔阂和冲突。小到夫妻，大到家庭中的父子、母子关系，你都能看出来。\n\n在威权体制下，尤其是在存在严重剥削、压榨和贪污的制度下，个体往往会害怕：越是底层的人，越不愿意把自己的信息分享给上位者；而上位者越是千方百计地想要获取对方的信息，同时又不愿意将自己的信息暴露给老百姓。比如官员宁愿不公布自己的财产，而老百姓也会对上位者产生各种抵抗情绪，原因就在于此。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            5690,
+            5697
+          ],
+          "output_span": [
+            10,
+            10
+          ],
+          "before": "你也注意到了：",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5722,
+            5722
+          ],
+          "output_span": [
+            35,
+            37
+          ],
+          "before": "",
+          "after": "往往"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5723,
+            5726
+          ],
+          "output_span": [
+            38,
+            42
+          ],
+          "before": "成正比",
+          "after": "相互影响"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5730,
+            5730
+          ],
+          "output_span": [
+            46,
+            55
+          ],
+          "before": "",
+          "after": "越能在信任的条件下"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5732,
+            5735
+          ],
+          "output_span": [
+            57,
+            59
+          ],
+          "before": "得越多",
+          "after": "对方"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5831,
+            5834
+          ],
+          "output_span": [
+            155,
+            158
+          ],
+          "before": "都非常",
+          "after": "往往会"
+        }
+      ],
+      "retained_characters": 246,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        5944,
+        6146
+      ],
+      "source_sha256": "7fb3914a0521d9fa8cb352221daccc3f588b79440aec9fa255af46defd747203",
+      "text": "小到夫妻关系也是如此。越是亲密、良好的婚姻关系，往往双方越是互相信任、互相合作、地位平等，更愿意向对方开放自己的生活。对于必须隐瞒的信息，一个值得追问的原因，是担心对方会伤害自己；有时则是觉得自己所谓的隐私会让别人以不公平的方式看待自己，对自己产生不好的想法和看法。如果信息被理解之后不会造成伤害，那么由防范和误解产生的信息隔阂，就有了可以减少的条件。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            5989,
+            5995
+          ],
+          "output_span": [
+            45,
+            63
+          ],
+          "before": "互相之间没有",
+          "after": "更愿意向对方开放自己的生活。对于必须"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5996,
+            5997
+          ],
+          "output_span": [
+            64,
+            68
+          ],
+          "before": "私",
+          "after": "瞒的信息"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5998,
+            6024
+          ],
+          "output_span": [
+            69,
+            78
+          ],
+          "before": "对吧？如果有人认为有隐私，那么这种隐私在大多数情况下",
+          "after": "一个值得追问的原因"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6026,
+            6028
+          ],
+          "output_span": [
+            80,
+            82
+          ],
+          "before": "认为",
+          "after": "担心"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6079,
+            6083
+          ],
+          "output_span": [
+            133,
+            133
+          ],
+          "before": "实际上，",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6085,
+            6085
+          ],
+          "output_span": [
+            135,
+            142
+          ],
+          "before": "",
+          "after": "信息被理解之后"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6087,
+            6090
+          ],
+          "output_span": [
+            144,
+            144
+          ],
+          "before": "对对方",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6097,
+            6113
+          ],
+          "output_span": [
+            151,
+            157
+          ],
+          "before": "从原理上讲，在任何情况下都并不会",
+          "after": "由防范和误解"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6115,
+            6115
+          ],
+          "output_span": [
+            159,
+            160
+          ],
+          "before": "",
+          "after": "的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6117,
+            6119
+          ],
+          "output_span": [
+            162,
+            162
+          ],
+          "before": "上的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6121,
+            6121
+          ],
+          "output_span": [
+            164,
+            175
+          ],
+          "before": "",
+          "after": "，就有了可以减少的条件"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6122,
+            6146
+          ],
+          "output_span": [
+            176,
+            176
+          ],
+          "before": "产生隔阂的原因，实际上还是在于种种误解或不理解。",
+          "after": ""
+        }
+      ],
+      "retained_characters": 118,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这个问题的重点，是谁能够利用信息做什么。一个普通员工把工作中的困难说出来，可能担心考核和职位受到影响；管理者却能够收集他的工作数据，又不让他知道这些数据被怎样使用。在这样的关系中，要求员工“充分共享”，很容易只是让单向透明变得更加彻底。\n\n如果规则、资源和决策由共同参与者掌握，错误可以被研究，贡献可以被承认，信息的提供也能够帮助提供者改善处境，那么分享的动机就会不同。我们所要改变的，是让人不得不依靠隐瞒来保护自己的那些条件。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        6689,
+        6919
+      ],
+      "source_sha256": "8fb6bd4689a9d80951a0f9839fb75d1d9d2ec7d6516f35418e171641a2a50101",
+      "text": "我所设想的这种新制度，由于资源被分成两类，第一类个体生存需求的资源是按需按优化分配，只和这个个体的本身生理和心理结构特性有关，第二类全体的公共资源，则由全体动态权重神经网络支配，在这种设计中，个人资源要与实际需要相联系，决策影响要与相应领域的判断和反馈相联系，如果这些条件逐步实现，那么个体日常活动中的信息、想法和行为，如果不是与外界其他对象无关的内部信息，就可以更多地与其他个体和团体分享，因为相关信息的隐瞒，会使共同判断失去原本可能有用的材料。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            6778,
+            6781
+          ],
+          "output_span": [
+            89,
+            96
+          ],
+          "before": "任何一",
+          "after": "在这种设计中，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6782,
+            6797
+          ],
+          "output_span": [
+            97,
+            98
+          ],
+          "before": "参与者，都不可能获得过度的个体",
+          "after": "人"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6799,
+            6799
+          ],
+          "output_span": [
+            100,
+            109
+          ],
+          "before": "",
+          "after": "要与实际需要相联系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6800,
+            6808
+          ],
+          "output_span": [
+            110,
+            120
+          ],
+          "before": "也不可能获得更大",
+          "after": "决策影响要与相应领域"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6809,
+            6814
+          ],
+          "output_span": [
+            121,
+            121
+          ],
+          "before": "超过其认知",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6816,
+            6823
+          ],
+          "output_span": [
+            123,
+            140
+          ],
+          "before": "水平的决策权重",
+          "after": "和反馈相联系，如果这些条件逐步实现"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6826,
+            6828
+          ],
+          "output_span": [
+            143,
+            143
+          ],
+          "before": "这些",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6830,
+            6832
+          ],
+          "output_span": [
+            145,
+            145
+          ],
+          "before": "在其",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6838,
+            6840
+          ],
+          "output_span": [
+            151,
+            151
+          ],
+          "before": "所有",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6842,
+            6845
+          ],
+          "output_span": [
+            153,
+            154
+          ],
+          "before": "和所有",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6847,
+            6851
+          ],
+          "output_span": [
+            156,
+            157
+          ],
+          "before": "以及所有",
+          "after": "和"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6873,
+            6879
+          ],
+          "output_span": [
+            179,
+            186
+          ],
+          "before": "都没有必要对",
+          "after": "就可以更多地与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6886,
+            6888
+          ],
+          "output_span": [
+            193,
+            203
+          ],
+          "before": "进行",
+          "after": "分享，因为相关信息的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6891,
+            6898
+          ],
+          "output_span": [
+            206,
+            206
+          ],
+          "before": "因为任何隐瞒都",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6899,
+            6905
+          ],
+          "output_span": [
+            207,
+            220
+          ],
+          "before": "降低整个系统",
+          "after": "使共同判断失去原本可能有用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6906,
+            6918
+          ],
+          "output_span": [
+            221,
+            223
+          ],
+          "before": "运行效率和决策正确的概率",
+          "after": "材料"
+        }
+      ],
+      "retained_characters": 146,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 全部记录与全部公开之间，需要什么联系",
+      "reason": "节标题"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "“我可以完整地保留自己的经历”和“所有人必须看见我的全部经历”，是两个不同的安排。一个人为了自己学习而保存的日记，可以首先属于他的个人空间；其中某个想法进入共同研究时，再把需要共享的部分带入公共知识。个人可以拥有完整记忆，而共同体不必因此得到无条件查看他的生活的权力。\n\n这与充分共享的方向并不冲突。共享需要的是对共同任务有用的内容，以及使相关判断能够成立的依据。对于封装在对象内部、没有外部影响的过程，没有必要仅仅因为技术能够记录，就要求每一个人公开。\n\n例如，一个人对某项服务提出改进意见，可以公开问题、复现步骤和需要解决的影响，却不必同时公开与这个问题无关的私人通信。随着信任和合作程度提高，他可以愿意提供更多材料；这种开放应该表现为掌控能力增加之后的选择，而不是掌控能力消失之后的服从。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54949",
+      "source_span": [
+        389,
+        687
+      ],
+      "source_sha256": "5038d4c1b9e19a9fc3cddb2223e7cfaafb0bc1625c4cd7a326218299ee600fc4",
+      "text": "构造一个分布式的去中心化的多用户身份系统，是至关重要的，不单是知识与能力库中的数据和代码要merkle-DAG去中心化，其中具有主动操作性质的用户(包括生物人的真实身份，人的虚拟身份，甚至是匿名身份，各种AI大模型的实例，包括台式机笔记本手机等所有计算设备，以及不具备智能性，但是具备自动化操作或访问这些路径的应用程序，以及这些用户对象之间的从属或合作关系，以及由这些对象复合组成形成的高级组织性用户对象等等)也要merkle-DAG化，认证和权限等操作，以及追踪溯源等都要有一个完整的抽象层实现，才能支持个人与共同组织保持自主，防止这些能力重新落入少数权威的控制。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            420,
+            425
+          ],
+          "output_span": [
+            31,
+            36
+          ],
+          "before": "这个热路径",
+          "after": "知识与能力"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            428,
+            430
+          ],
+          "output_span": [
+            39,
+            39
+          ],
+          "before": "所有",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            451,
+            460
+          ],
+          "output_span": [
+            60,
+            62
+          ],
+          "before": "这个热路径库的所有",
+          "after": "其中"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            651,
+            651
+          ],
+          "output_span": [
+            253,
+            267
+          ],
+          "before": "",
+          "after": "个人与共同组织保持自主，防止"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            652,
+            657
+          ],
+          "output_span": [
+            268,
+            273
+          ],
+          "before": "个项目不会",
+          "after": "些能力重新"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            659,
+            659
+          ],
+          "output_span": [
+            275,
+            278
+          ],
+          "before": "",
+          "after": "少数权"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            660,
+            668
+          ],
+          "output_span": [
+            279,
+            279
+          ],
+          "before": "权商业或政治组织",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            671,
+            686
+          ],
+          "output_span": [
+            282,
+            282
+          ],
+          "before": "，实现本项目的终极vision",
+          "after": ""
+        }
+      ],
+      "retained_characters": 254,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 可追溯的记忆，如何支持持续变化的人",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R34499",
+      "source_span": [
+        49,
+        309
+      ],
+      "source_sha256": "ee9aa61fac431b274a68591ebd92c1c63e8a3f46bd190e18196d7aa3c2397048",
+      "text": "merkle-DAG框架，我关注的价值，在于对数据结构/代码结构/数据代码的变迁历史/代码运行和数据流动的历史/人和计算机的操作日志历史等数字时空中所有对象在时间和空间维度上的状态和变化，提供可寻址、可检查修改、可验证的记录功能。\n\n对于一个持续迭代进化的复杂动态系统，其运行效率，不仅取决于组织形式，也取决于在演化过程中，对局部对象、状态和行为的变化进行跟踪与回溯的能力和效率，这会影响系统进化过程的正向迭代效果和速度，以及应对负向错误和崩溃的恢复能力和速度。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            62,
+            63
+          ],
+          "output_span": [
+            13,
+            17
+          ],
+          "before": "其",
+          "after": "我关注的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            65,
+            70
+          ],
+          "output_span": [
+            19,
+            20
+          ],
+          "before": "并不是体现",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            71,
+            97
+          ],
+          "output_span": [
+            21,
+            22
+          ],
+          "before": "数据的访问效率上，也不在代码的调用和串联效率上，而在",
+          "after": "于"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            169,
+            171
+          ],
+          "output_span": [
+            94,
+            96
+          ],
+          "before": "具有",
+          "after": "提供"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            174,
+            176
+          ],
+          "output_span": [
+            99,
+            104
+          ],
+          "before": "防篡",
+          "after": "、可检查修"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            177,
+            177
+          ],
+          "output_span": [
+            105,
+            106
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            211,
+            213
+          ],
+          "output_span": [
+            140,
+            140
+          ],
+          "before": "高低",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            214,
+            214
+          ],
+          "output_span": [
+            141,
+            143
+          ],
+          "before": "",
+          "after": "不仅"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            217,
+            222
+          ],
+          "output_span": [
+            146,
+            146
+          ],
+          "before": "这个系统的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            227,
+            229
+          ],
+          "output_span": [
+            151,
+            155
+          ],
+          "before": "以及",
+          "after": "也取决于"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            230,
+            231
+          ],
+          "output_span": [
+            156,
+            157
+          ],
+          "before": "进",
+          "after": "演"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            235,
+            235
+          ],
+          "output_span": [
+            161,
+            162
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            236,
+            241
+          ],
+          "output_span": [
+            163,
+            163
+          ],
+          "before": "其中的所有",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            245,
+            246
+          ],
+          "output_span": [
+            167,
+            168
+          ],
+          "before": "/",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            248,
+            249
+          ],
+          "output_span": [
+            170,
+            171
+          ],
+          "before": "/",
+          "after": "和"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            251,
+            254
+          ],
+          "output_span": [
+            173,
+            174
+          ],
+          "before": "迭代演",
+          "after": "的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            255,
+            258
+          ],
+          "output_span": [
+            175,
+            178
+          ],
+          "before": "过程的",
+          "after": "化进行"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            260,
+            260
+          ],
+          "output_span": [
+            180,
+            181
+          ],
+          "before": "",
+          "after": "与"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            262,
+            262
+          ],
+          "output_span": [
+            183,
+            184
+          ],
+          "before": "",
+          "after": "的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            269,
+            272
+          ],
+          "output_span": [
+            191,
+            194
+          ],
+          "before": "决定了",
+          "after": "会影响"
+        }
+      ],
+      "retained_characters": 198,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "在技术上，内容寻址让取得的内容可以与已知标识进行核对，而这个标识并不规定内容必须存放在哪一家公司。身份和存放位置能够分开，是个人保留副本、改变服务提供者的重要基础。[IPLD 的内容寻址说明](https://ipld.io/docs/intro/hello-world/)\n\n但是，可核验的记录也要与实际权限配合。给私人文件计算一个内容标识，不会自动使文件加密；把网络传输加密，也不等于接收者看不到内容。公共内容寻址网络还可能暴露访问和提供内容的线索，因此个人数据需要专门的内容加密、密钥控制和访问安排。[IPFS 的隐私与加密说明](https://docs.ipfs.tech/concepts/privacy-and-encryption/)\n\n这些安排的目的，是让记忆跟随个人，而不是让个人被记忆困住。过去的一条观点可以继续作为历史存在，现在的立场可以清楚地指向新的表达。曾经给某个工具的使用权限，可以在以后改变；已经公开传播的副本，则需要如实承认它的存在，不能用界面上的一个删除按钮假装所有人都已经忘记。\n\n当一个人能够保存、理解、修正和带走自己的资料时，他才真正拥有参与共同网络的基础。否则，所谓共同智能仍然要依赖几个掌握记忆入口的组织，个人只能把越来越多的经历交出去，再等待别人决定如何把这些经历还给自己。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "个人数据主权因此不只是一个文件下载功能。它是一个人能否持续拥有自己的知识、工具和参与能力的问题。由此出发，最初的云存储也就不必只是出售硬盘空间：它可以成为一个人把数字生活重新连起来、逐步建立共同合作关系的起点。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

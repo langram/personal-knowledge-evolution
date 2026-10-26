@@ -1,0 +1,44 @@
+{
+  "schema": "pkst.consensus-record@0.1",
+  "recorded_at": "2026-10-24T08:21:24.078861Z",
+  "status": "accepted-by-codex-and-claude",
+  "revision": "Claude.ai export 0.1.1",
+  "data_root": "bafyreifdtjynqzwqsnkq2obupxpum4oma752q4j4i44usbdrkutym7zkem",
+  "car_sha256": "efad43bc4156711d7dbb738da6bba54ba74918b23b1a2bc79253cd5190b00f74",
+  "receipts": [
+    {
+      "path": "contributions/claude/CLAUDE-AI-EXPORT-0.1.1.md",
+      "raw_cid": "bafkreie4n5ipntuteqllr4fmmitrxmhpqkwycz3n6kdbcak3laxjdkcsu4",
+      "sha256": "9c6f50f6ce932416b8f0ac62271bb0ef82ad81676df28611015b582e91a852a7"
+    },
+    {
+      "path": "protocol/CLAUDE-AI-EXPORT-REVIEW-0.1.md",
+      "raw_cid": "bafkreigaeaqs63wpjpmcecp52p7xx4zt2ow5c2l7fkf7huoj6raj3kiwxi",
+      "sha256": "c020212f6ecf4bd82209fdd3ff7bf333d3add1697f2a8bf3d1c9f4409da916ba"
+    },
+    {
+      "path": "contributions/claude/claude-ai-conversion-summary-20261024T081738Z.json",
+      "raw_cid": "bafkreifcx3ormnv4xgye3i55updswmfei5tsdhsh3t23sieed3nsujiade",
+      "sha256": "a2bedd1636bcb9b04da3bda3c72b30a44767219e47dcf5b920841edb2a250019"
+    },
+    {
+      "path": "contributions/claude/claude-ai-anchor-verification-0.1.1.json",
+      "raw_cid": "bafkreiejtyy4dvpjs75bpu6r6i4pb7sjbednplynpmq7f7aolu4nqkuosm",
+      "sha256": "899e31c1d5e997fa17d3d1f238f0fe490906d7af0d7b21f2fc0e5d38d82a8e93"
+    },
+    {
+      "path": "reports/claude-cloud-independent-verification.json",
+      "raw_cid": "bafkreidfkca2qqgqve5yqllvmbly5weg4sld33xsfzcagdwkv7tkaxmmrq",
+      "sha256": "655081a840d0a93b882d7560578ed886e4963deef22e44030ecaafe6a05d8c8c"
+    }
+  ],
+  "current_events": 2132,
+  "native_messages": 2095,
+  "limitations": [
+    "214 file references lack original file bytes",
+    "3 empty conversations preserved raw; their standalone source objects are not reachable from this root",
+    "branch completeness and deleted history unknown",
+    "semantic extraction not performed"
+  ],
+  "meaning": "Agreement and independent verification of evidence conversion; not user belief adoption"
+}

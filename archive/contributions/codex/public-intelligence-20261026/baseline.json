@@ -1,0 +1,15 @@
+{
+  "pointer": {
+    "report": "report-20261026-mathematics-contribution-v1.json",
+    "snapshot": "bafyreihprzxzavykdnvbvc3c4thf2e6ynhladzx7wz3loskfekelg7di6e",
+    "database": "contributions\\codex\\catalog\\.private\\20261026-mathematics-contribution-v1\\catalog.sqlite"
+  },
+  "old_document": "bafyreibhgrt3tppvembnzowaengji7icaol7j5tugk4hmyxa5keat6yg5u",
+  "old_chapter": "bafyreiaxazp23t2myovchuxkleoqxaezk4rp7hb2m5z5gpdxjnhdmub6lq",
+  "old_dossier_root": "bafyreihmpuxt4jzjcs4b6zzwg6lc4j7pjohof7pcdqgy5tx3z26facwzyy",
+  "old_concept": "bafyreigpyt6ycxymrjepmk4q35isfpybttbhcjttbz3epnj2fhsmasb7zu",
+  "old_manuscript": "dossiers\\2026-10-26-mathematics-and-contribution\\02-new-principles.md",
+  "old_chapter_file": "dossiers\\2026-10-26-mathematics-and-contribution\\01-chapter.md",
+  "old_manuscript_sha256": "0d6ed5767acdf2449ef3d4045b8854c1880a6aa4b31172945aadc40f79eca8d2",
+  "old_chapter_sha256": "02d2cf4f249f9d552740aee1d4a5d0f574138451c4fe2e6554a61df03d9f4d06"
+}

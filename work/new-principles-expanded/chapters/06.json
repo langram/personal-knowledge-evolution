@@ -1,0 +1,3396 @@
+{
+  "chapter": "06",
+  "title": "合作、冲突与社会结构的形成",
+  "status": "expanded-copyedited",
+  "review": {
+    "central_question": "个体差异怎样通过反复互动形成稳定社会结构，又怎样改进这种过程",
+    "reasoning": "合作困难→稳定与共同利益的区别→反应光谱→个体与环境交互→成本归属和反馈放大→多样性→研究冲突机制",
+    "examples": [
+      "化学键",
+      "重复合作",
+      "颜色与波长",
+      "相同反应倾向在不同环境中的表现",
+      "压制者与受影响者的成本",
+      "旧无线电在特殊条件下的价值"
+    ],
+    "objections": [
+      "模型没有基因即基因无关",
+      "基因决定制度",
+      "稳定即合理最优",
+      "更优即淘汰全部旧路径",
+      "解释犯罪即纵容或强制医疗"
+    ],
+    "voice": "以作者在Claude和ChatGPT中的逐层回应为主；AI的鹰鸽模型结论不冒充作者文字",
+    "status": "已核对混合对话角色；具体医学与历史强断言不作为事实引用，实质改动在来源差异中可查",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "editorial-addition",
+      "text": "人与人为什么能够合作？看起来，这个问题的答案很简单：因为合作对双方有好处。可是，只要多想一步，就会遇到困难。如果一个人拿走了好处，却不履行自己的承诺，另一个人怎么办？如果为了防止背叛，双方都先把最坏的打算做好，原本可能的合作又怎样开始？\n\n更复杂的是，即使一段合作已经形成，它也未必会永远保持原来的样子。有人逐渐掌握更多资源，有人越来越依赖对方；最初可以平等商量的事情，后来可能变成只能接受的条件。因此，研究社会组织，不能只看某一时刻的规则，还要看规则在反复互动中会把人与人的关系推向哪里。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 从原子之间的结合，理解人之间的联系",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        11747,
+        11869
+      ],
+      "source_sha256": "9c38d66420622d511e512b573b9e748375f0673a8041042af8458135e372621e",
+      "text": "我们可以将人类社会类比于化学体系。化学体系的基本对象是原子，通过化学键（态射）连接构成各种分子。化学键的构建规律由原子的外层电子特性（价电子数）决定，其结构和变化受物理规律、环境条件与相互作用共同约束。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            11794,
+            11804
+          ],
+          "output_span": [
+            47,
+            47
+          ],
+          "before": "（极限/余极限结构）",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11833,
+            11841
+          ],
+          "output_span": [
+            76,
+            80
+          ],
+          "before": "过程遵循能量最小",
+          "after": "结构和变"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11842,
+            11852
+          ],
+          "output_span": [
+            81,
+            84
+          ],
+          "before": "原则，最终在量子力学",
+          "after": "受物理"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11853,
+            11855
+          ],
+          "output_span": [
+            85,
+            98
+          ],
+          "before": "则的",
+          "after": "律、环境条件与相互作用共同"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            11857,
+            11868
+          ],
+          "output_span": [
+            100,
+            100
+          ],
+          "before": "下达到稳定的不动点状态",
+          "after": ""
+        }
+      ],
+      "retained_characters": 81,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        11871,
+        12057
+      ],
+      "source_sha256": "892fc010f28ab9c2544bd7a856080df8c3380cc30002a914079c05f7f66ed4e0",
+      "text": "在人类社会中，基本对象是**人**，人与人之间一种基本的连接是**合作**。人与人之间的合作，是通过基于各自利益的反复博弈达成的。我希望从稳定结构怎样形成的角度理解这个过程。在博弈论中，可以借助两个概念来区分不同的问题：**纳什均衡**（一种策略上的不动点，无人能单方面改变策略以获益）和**帕累托最优**（一种资源分配上的状态，无法在不损害任何人的情况下使某个人变得更好）。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            11894,
+            11897
+          ],
+          "output_span": [
+            23,
+            27
+          ],
+          "before": "最简单",
+          "after": "一种基本"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            11935,
+            11935
+          ],
+          "output_span": [
+            65,
+            82
+          ],
+          "before": "",
+          "after": "我希望从稳定结构怎样形成的角度理解"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11939,
+            11960
+          ],
+          "output_span": [
+            86,
+            87
+          ],
+          "before": "同样遵循不动点原理和路径/结构最小化原理，",
+          "after": "。"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11966,
+            11969
+          ],
+          "output_span": [
+            93,
+            106
+          ],
+          "before": "这对应",
+          "after": "可以借助两个概念来区分不同"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11970,
+            11972
+          ],
+          "output_span": [
+            107,
+            110
+          ],
+          "before": "正是",
+          "after": "问题："
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            12024,
+            12031
+          ],
+          "output_span": [
+            162,
+            162
+          ],
+          "before": "“能量最小化”",
+          "after": ""
+        }
+      ],
+      "retained_characters": 150,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这两个概念不能混成一个。“没有人能够单方面改变策略而获益”，不等于大家已经处在最好的处境。两个人因为互不信任而各自防范，可能谁也不敢先放下防备，双方却都在为此付出代价。稳定说明这种关系能够维持，是否值得维持，还要看它使什么人得到什么，又让什么人失去了什么。\n\n因此，我关心的不只是怎样形成稳定组织，还包括怎样让组织保留通向更好状态的可能。一个永远不改变的结构可以很稳定，但这种稳定也可能使它丧失适应新情况的能力。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-THEORY",
+      "source_span": [
+        13728,
+        14199
+      ],
+      "source_sha256": "9b7268480699971143402c5352596a9fb25e2bac5e78c9ad0bd88c2a2b80069b",
+      "text": "如果拿人类社会和物理世界来对比，人相当于原子，人与人之间的关系相当于原子之间的化学键，人类之间可以通过以牙还牙一类策略，对合作和背叛，分别做出奖励和惩罚措施，进而产生连锁反应，继续加强或削弱彼此的联系，从而不断地构造出各种人与人的关系结构，这就像原子之间因为外部电子层电子数的因素，通过得失或共用电子而形成化学键。这种正负反馈的连锁效应是我考察人类社会构造的一种基本反馈机制。而不同强度的以牙还牙策略，又会使得这些结构出现性质上的分化。而这个不同强度的以牙还牙策略的普遍性，体现在，这些人类的结构，在不同层级、不同具体结构上，都可以考察是否出现从温和到严厉的分化，无论是家庭成员，黑社会组织，经济领域的公司董事会成员，民主国家的议会会员，威权国家的政治局委员，一个国家的多个政党，任何一个社团的人员中，其中参与的个人之间，常能观察到这种从鸽派到鹰派的光谱。一种关系如果反复出现在不同层级中，就值得继续追问它是不是参与了这些结构形成的共同机制。就像原子的外层电子化学键性质，是很多高级的化学/生物层面结构产生的重要因素一样。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            13775,
+            13775
+          ],
+          "output_span": [
+            47,
+            49
+          ],
+          "before": "",
+          "after": "可以"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            13781,
+            13781
+          ],
+          "output_span": [
+            55,
+            57
+          ],
+          "before": "",
+          "after": "一类"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            13847,
+            13848
+          ],
+          "output_span": [
+            123,
+            123
+          ],
+          "before": "于",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            13870,
+            13871
+          ],
+          "output_span": [
+            145,
+            146
+          ],
+          "before": "、",
+          "after": "或"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            13873,
+            13874
+          ],
+          "output_span": [
+            148,
+            148
+          ],
+          "before": "或",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            13895,
+            13895
+          ],
+          "output_span": [
+            169,
+            172
+          ],
+          "before": "",
+          "after": "我考察"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            13902,
+            13902
+          ],
+          "output_span": [
+            179,
+            181
+          ],
+          "before": "",
+          "after": "一种"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            13905,
+            13906
+          ],
+          "output_span": [
+            184,
+            187
+          ],
+          "before": "应",
+          "after": "馈机制"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            13968,
+            13970
+          ],
+          "output_span": [
+            249,
+            249
+          ],
+          "before": "无论",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            13971,
+            13975
+          ],
+          "output_span": [
+            250,
+            252
+          ],
+          "before": "哪个一个",
+          "after": "不同"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            13977,
+            13983
+          ],
+          "output_span": [
+            254,
+            257
+          ],
+          "before": "上，哪个一个",
+          "after": "、不同"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            13985,
+            13986
+          ],
+          "output_span": [
+            259,
+            259
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            13991,
+            13992
+          ],
+          "output_span": [
+            264,
+            270
+          ],
+          "before": "会",
+          "after": "可以考察是否"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            14083,
+            14087
+          ],
+          "output_span": [
+            361,
+            366
+          ],
+          "before": "都会存在",
+          "after": "常能观察到"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            14099,
+            14101
+          ],
+          "output_span": [
+            378,
+            388
+          ],
+          "before": "就像",
+          "after": "一种关系如果反复出现"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            14102,
+            14109
+          ],
+          "output_span": [
+            389,
+            393
+          ],
+          "before": "物理学和范畴论",
+          "after": "不同层级"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            14111,
+            14117
+          ],
+          "output_span": [
+            395,
+            404
+          ],
+          "before": "当对称性无所",
+          "after": "就值得继续追问它是"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            14118,
+            14127
+          ],
+          "output_span": [
+            405,
+            405
+          ],
+          "before": "在时，那么对称性就",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            14128,
+            14142
+          ],
+          "output_span": [
+            406,
+            406
+          ],
+          "before": "这个学科的最基本原理之一，并",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            14145,
+            14151
+          ],
+          "output_span": [
+            409,
+            415
+          ],
+          "before": "所有高级性质",
+          "after": "这些结构形成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            14152,
+            14157
+          ],
+          "output_span": [
+            416,
+            420
+          ],
+          "before": "构造和产生",
+          "after": "共同机制"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            14198,
+            14199
+          ],
+          "output_span": [
+            461,
+            461
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 399,
+      "author_assessment": "混合对话中第177段的作者发言，选取化学键与社会联系的完整论证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "所谓以牙还牙，最简单的形式，是先选择合作，之后依据对方的行为调整自己的回应。对方合作，就继续合作；对方背叛，就作出相应反应。重复博弈中的合作研究，使这种看起来朴素的策略成为一个值得认真考察的机制。但它能取得什么结果，仍然与相遇机会、收益、误判和对方的策略有关。[Axelrod 与 Hamilton 的合作演化研究](https://pubmed.ncbi.nlm.nih.gov/7466396/)\n\n实际的人类关系比一个简单模型丰富得多。同样是发现对方没有履行承诺，有人会立即停止合作，有人会先询问原因；有人惩罚一次就愿意恢复往来，有人会把这件事情记很久。差别不只是“惩罚”与“不惩罚”，而是一整套反应强度、持续时间和恢复条件。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 强硬与温和，是怎样形成的",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-THEORY",
+      "source_span": [
+        1423,
+        1552
+      ],
+      "source_sha256": "d14ece0ac782d8f52fa438d5d9a80a095588f3a6914c1fa69d45019e73f8e4d8",
+      "text": "这种策略类型的分割并不是严格数学意义上的静态离散对象，而可以理解为一个由不同惩罚强度组成的完整光谱中的两大区域。就像我们用赤橙黄绿青蓝紫来标注光的颜色一样，其实是所有光波波长的空间中的一个概念划分而已。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            1423,
+            1425
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "当然",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1453,
+            1462
+          ],
+          "output_span": [
+            28,
+            28
+          ],
+          "before": "是像maoa基因型",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1463,
+            1484
+          ],
+          "output_span": [
+            29,
+            33
+          ],
+          "before": "能是多种重复序列模式的集合中的一个一样，是",
+          "after": "以理解为"
+        }
+      ],
+      "retained_characters": 97,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54626",
+      "source_span": [
+        4181,
+        4365
+      ],
+      "source_sha256": "2fe3aea4e22ec25cae2d244412df732876942f4a4909187e771d181dcd1fcf67",
+      "text": "可以把问题拆成几步来问：具有不同遗传和生理条件的人，在遇到背叛时的情绪反应的强度和持久度是否不同？这种情绪上的差别，在以牙还牙策略的执行过程中，对背叛行为的惩罚强度是否有区别，对于是否原谅恢复合作的时间间隔上是否有区别？这种情况表现在实际博弈中，是否一种更像鹰派，一种更像鸽派？这些可能受到基因、发育和生活经历影响的情绪因素，是否影响一个人在理性的以牙还牙策略博弈中倾向强硬和温和的概率？",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            4181,
+            4201
+          ],
+          "output_span": [
+            0,
+            14
+          ],
+          "before": "很简单的道理，maoa-h和maoa-l",
+          "after": "可以把问题拆成几步来问：具有"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4203,
+            4205
+          ],
+          "output_span": [
+            16,
+            23
+          ],
+          "before": "基因",
+          "after": "遗传和生理条件"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4323,
+            4323
+          ],
+          "output_span": [
+            141,
+            143
+          ],
+          "before": "",
+          "after": "可能"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4324,
+            4324
+          ],
+          "output_span": [
+            144,
+            145
+          ],
+          "before": "",
+          "after": "到"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4326,
+            4326
+          ],
+          "output_span": [
+            147,
+            155
+          ],
+          "before": "",
+          "after": "、发育和生活经历"
+        }
+      ],
+      "retained_characters": 162,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这样提问，是因为从底层结构到高层行为，中间隔着许多环节。我们不能只看到最后一次争执，就认为一个人天生属于某种永远不变的阵营；也不能因为行为受环境影响，就反过来断言生理差异完全不重要。\n\n以 MAOA 为例，已有研究考察过基因型与受到挑衅后的惩罚行为之间的联系，观察到的差异依赖具体实验条件。这样的结果使“个体差异怎样进入互动过程”成为可以研究的问题，但不能直接给某个人、某个群体或某种政治制度作出基因判定。[McDermott 等人的实验研究](https://pmc.ncbi.nlm.nih.gov/articles/PMC2650118/)\n\n对这套框架来说，重要的是把每一层之间的关系展开：低层的变化怎样影响反应，反应怎样影响策略，策略又怎样在环境中获得奖励或遭遇失败。究竟哪个变量在什么条件下起主要作用，需要在这些关系中考察。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-THEORY",
+      "source_span": [
+        4029,
+        4291
+      ],
+      "source_sha256": "a4aa3451e6261e2b21c5ff598c87185fe6948a1bf0ee5dc889a38c8c983a7fb7",
+      "text": "遗传 DNA 层面的结构差异，可能影响人的生理和心理，也可能影响人在社会博弈中对不同策略的偏好。对于这条可能的因果路径，我有直觉上的肯定，也希望把它逐层研究清楚。这也是我从第一性原理出发的思考，把宇宙进化中不同层级的这些结构，看作是无穷高阶范畴的不同层级中的构造。我的意思是想说，如果我们能够研究清楚低阶结构怎样影响高阶对象的性质，搞清楚很多高阶结构之间的冲突和矛盾，可能包含低阶结构中很小差异经过多层作用和反馈而产生的影响，那么我们就不会因为无知，而把这种冲突归于宗教情结的天使/恶魔，正义/邪恶的这种非科学的情绪叙事，从而导致更强烈的冲突。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            4029,
+            4033
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "但是我对",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4035,
+            4035
+          ],
+          "output_span": [
+            2,
+            3
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4038,
+            4038
+          ],
+          "output_span": [
+            6,
+            7
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4046,
+            4048
+          ],
+          "output_span": [
+            15,
+            19
+          ],
+          "before": "会在",
+          "after": "可能影响"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4049,
+            4050
+          ],
+          "output_span": [
+            20,
+            20
+          ],
+          "before": "类",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4056,
+            4060
+          ],
+          "output_span": [
+            26,
+            30
+          ],
+          "before": "层面产生",
+          "after": "，也可能"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4062,
+            4066
+          ],
+          "output_span": [
+            32,
+            32
+          ],
+          "before": "，并会对",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4067,
+            4068
+          ],
+          "output_span": [
+            33,
+            34
+          ],
+          "before": "类",
+          "after": "在"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4072,
+            4072
+          ],
+          "output_span": [
+            38,
+            42
+          ],
+          "before": "",
+          "after": "中对不同"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4074,
+            4076
+          ],
+          "output_span": [
+            44,
+            45
+          ],
+          "before": "产生",
+          "after": "的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4078,
+            4079
+          ],
+          "output_span": [
+            47,
+            54
+          ],
+          "before": "上",
+          "after": "。对于这条可能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4080,
+            4087
+          ],
+          "output_span": [
+            55,
+            61
+          ],
+          "before": "分化这个结论是",
+          "after": "因果路径，我"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4094,
+            4095
+          ],
+          "output_span": [
+            68,
+            80
+          ],
+          "before": "的",
+          "after": "，也希望把它逐层研究清楚"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4096,
+            4098
+          ],
+          "output_span": [
+            81,
+            81
+          ],
+          "before": "其实",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4102,
+            4104
+          ],
+          "output_span": [
+            85,
+            86
+          ],
+          "before": "处于",
+          "after": "从"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4109,
+            4109
+          ],
+          "output_span": [
+            91,
+            93
+          ],
+          "before": "",
+          "after": "出发"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4160,
+            4166
+          ],
+          "output_span": [
+            144,
+            150
+          ],
+          "before": "通过这样一个",
+          "after": "能够研究清楚"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4168,
+            4172
+          ],
+          "output_span": [
+            152,
+            153
+          ],
+          "before": "范畴中的",
+          "after": "结"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4173,
+            4176
+          ],
+          "output_span": [
+            154,
+            156
+          ],
+          "before": "造，会",
+          "after": "怎样"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4180,
+            4183
+          ],
+          "output_span": [
+            160,
+            160
+          ],
+          "before": "范畴中",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4188,
+            4191
+          ],
+          "output_span": [
+            165,
+            165
+          ],
+          "before": "的理论",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4210,
+            4216
+          ],
+          "output_span": [
+            184,
+            188
+          ],
+          "before": "其实是来源于",
+          "after": "可能包含"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4221,
+            4223
+          ],
+          "output_span": [
+            193,
+            193
+          ],
+          "before": "一个",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4225,
+            4228
+          ],
+          "output_span": [
+            195,
+            195
+          ],
+          "before": "的结构",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4230,
+            4230
+          ],
+          "output_span": [
+            197,
+            212
+          ],
+          "before": "",
+          "after": "经过多层作用和反馈而产生的影响"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4290,
+            4291
+          ],
+          "output_span": [
+            272,
+            272
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 200,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-THEORY",
+      "source_span": [
+        6633,
+        6867
+      ],
+      "source_sha256": "685c12f3d58ebdbaeb9f38bda0610084c0605b52a541f761fb28dc8aaeb7b95c",
+      "text": "就像人类心理和文学上，往往会说，红色是快乐的，绿色是平和的，蓝色是忧郁的，但这并不等于说光波在某个范围之内具有快乐属性，在一个范围内平和，在另一个范围内是忧伤。我的意思其实是说，人的心理和社会层面的暴力属性，并不是由某个单一因素必然决定的，它是生理遗传层面的因素，生活环境因素等很多因素复合在一起的产物，如果我们了解了其中的机理，就可以正确的建立这些因素的组合，尝试改善高阶对象的属性。不能把一个低阶参数直接标成道德意义上的好或坏，只有特性的不同，通过不同的组合，可以产生不同的高阶结果。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            6651,
+            6652
+          ],
+          "output_span": [
+            18,
+            19
+          ],
+          "before": "的",
+          "after": "是"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6654,
+            6654
+          ],
+          "output_span": [
+            21,
+            22
+          ],
+          "before": "",
+          "after": "的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6746,
+            6748
+          ],
+          "output_span": [
+            114,
+            118
+          ],
+          "before": "导致",
+          "after": "必然决定"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6811,
+            6816
+          ],
+          "output_span": [
+            181,
+            185
+          ],
+          "before": "最大化优化",
+          "after": "尝试改善"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6824,
+            6826
+          ],
+          "output_span": [
+            193,
+            196
+          ],
+          "before": "任何",
+          "after": "不能把"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6830,
+            6832
+          ],
+          "output_span": [
+            200,
+            211
+          ],
+          "before": "对象",
+          "after": "参数直接标成道德意义上"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6833,
+            6840
+          ],
+          "output_span": [
+            212,
+            212
+          ],
+          "before": "性质，其实没有",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6841,
+            6841
+          ],
+          "output_span": [
+            213,
+            214
+          ],
+          "before": "",
+          "after": "或"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6842,
+            6844
+          ],
+          "output_span": [
+            215,
+            215
+          ],
+          "before": "之分",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6853,
+            6855
+          ],
+          "output_span": [
+            224,
+            228
+          ],
+          "before": "构造",
+          "after": "通过不同"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6856,
+            6857
+          ],
+          "output_span": [
+            229,
+            231
+          ],
+          "before": "好",
+          "after": "组合"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6860,
+            6866
+          ],
+          "output_span": [
+            234,
+            243
+          ],
+          "before": "实现最优组合",
+          "after": "产生不同的高阶结果"
+        }
+      ],
+      "retained_characters": 204,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 一个博弈模型没有写出的因素，并不等于不存在",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54626",
+      "source_span": [
+        3243,
+        3423
+      ],
+      "source_sha256": "ac523dea8665a2c4e411578084f9c9a07f408ec34ec013f2a5c54614489d494d",
+      "text": "以 Maynard Smith 的鹰鸽博弈模型为例，其中的数学结论依赖模型的假设。而当我们用它来考察现实个体时，遗传、生理和生活经历又是这些个体行为的影响因素。模型可以帮助我们分析不同策略在反复博弈中的变化，并没有说基因因素对这个形成过程没有任何影响，如果一种模型没有显式区分这个因素，就不能仅凭这一点，断言这个因素在现实中没有任何影响。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            3243,
+            3245
+          ],
+          "output_span": [
+            0,
+            2
+          ],
+          "before": "所谓",
+          "after": "以 "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            3264,
+            3264
+          ],
+          "output_span": [
+            21,
+            25
+          ],
+          "before": "",
+          "after": "模型为例"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3265,
+            3270
+          ],
+          "output_span": [
+            26,
+            29
+          ],
+          "before": "并不是一个",
+          "after": "其中的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3272,
+            3273
+          ],
+          "output_span": [
+            31,
+            60
+          ],
+          "before": "定",
+          "after": "结论依赖模型的假设。而当我们用它来考察现实个体时，遗传、生"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3275,
+            3308
+          ],
+          "output_span": [
+            62,
+            67
+          ],
+          "before": "原理，是一个数据实验模型，其实验对象就是博弈中的人类对象，而基因就",
+          "after": "生活经历又"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3311,
+            3315
+          ],
+          "output_span": [
+            70,
+            72
+          ],
+          "before": "人类对象",
+          "after": "个体"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3318,
+            3322
+          ],
+          "output_span": [
+            75,
+            77
+          ],
+          "before": "内部重要",
+          "after": "影响"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3324,
+            3326
+          ],
+          "output_span": [
+            79,
+            79
+          ],
+          "before": "之一",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3327,
+            3329
+          ],
+          "output_span": [
+            80,
+            80
+          ],
+          "before": "这个",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3331,
+            3341
+          ],
+          "output_span": [
+            82,
+            94
+          ],
+          "before": "只能说明鹰派和鸽派是",
+          "after": "可以帮助我们分析不同策略"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3347,
+            3351
+          ],
+          "output_span": [
+            100,
+            100
+          ],
+          "before": "逐渐形成",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            3352,
+            3352
+          ],
+          "output_span": [
+            101,
+            103
+          ],
+          "before": "",
+          "after": "变化"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3375,
+            3384
+          ],
+          "output_span": [
+            126,
+            130
+          ],
+          "before": "恰恰相反，这个数学",
+          "after": "如果一种"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3386,
+            3389
+          ],
+          "output_span": [
+            132,
+            132
+          ],
+          "before": "中根本",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3391,
+            3394
+          ],
+          "output_span": [
+            134,
+            138
+          ],
+          "before": "考虑到",
+          "after": "显式区分"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3399,
+            3400
+          ],
+          "output_span": [
+            143,
+            144
+          ],
+          "before": "并",
+          "after": "就"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3401,
+            3402
+          ],
+          "output_span": [
+            145,
+            154
+          ],
+          "before": "是",
+          "after": "能仅凭这一点，断言"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3406,
+            3415
+          ],
+          "output_span": [
+            158,
+            162
+          ],
+          "before": "对鹰派和鸽派的形成",
+          "after": "在现实中"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3422,
+            3423
+          ],
+          "output_span": [
+            169,
+            169
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 86,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "反过来也一样。知道一个变量可能重要，并不意味着它已经解释了全部现象。同一种倾向，在不同环境中可能被放大，也可能被抑制。模型的工作，就是把这些因素分开，让我们看见改变一个条件之后，结果会不会随之改变。\n\n例如，两个人都容易在受挫时激动，但一个人所处的环境鼓励立即报复，另一个人的环境允许澄清误会、恢复合作，他们在长期互动中形成的行为可能很不一样。把差异全部归结为基因，会漏掉环境；把差异全部归结为制度，也可能漏掉个体。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54626",
+      "source_span": [
+        6036,
+        6560
+      ],
+      "source_sha256": "17c5f86ebcae258e4f1109ad0f066e9311cb2bc90daa737c9b0ba21db650f9ef",
+      "text": "决定分化的另一个因素，是后天反复博弈造成的影响。同一个基因类型的个体，如果出生在一种通过规则维持上下层级巨大权力差距的环境中，那么从行动者所面对的成本来看，如果管制、压制和暴力镇压对掌握权力的人来说成本较低，就会鼓励人们在有能力这样做时倾向于强硬的以牙还牙策略，而且这种策略在这样的环境中，对上位者来说成功率更高、成本更低，人们就更容易继续使用它，于是即使是一个基因上情绪更温和的人，在这种后天的博弈环境中，也会倾向于使用强硬手段解决问题。\n\n反过来，在一个能够约束任意暴力、提供沟通和申诉渠道的制度环境中，暴力压制反倒可能是成本更高的方式，人们更倾向于使用和平沟通的手段，以温和的以牙还牙策略来互相博弈，这种方式成本更低，成功概率更高，这种环境下，即使是基因上情绪更激烈的人，在这种后天环境下，也会倾向于使用温和手段博弈。\n\n当然，即使都在同一个民主制度环境下，因为基因的不同，在某个临界状态下，原本都倾向于使用温和手段的人，也可能分化出相对强硬和相对温和的倾向，就像在威权体系下，尽管人们也普遍倾向于使用强硬手段，但是在临界状态下，对某件事情某种认知，也会产生鹰派和鸽派的分化。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            6036,
+            6042
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "这就是我说的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6053,
+            6054
+          ],
+          "output_span": [
+            11,
+            11
+          ],
+          "before": "就",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6057,
+            6058
+          ],
+          "output_span": [
+            14,
+            14
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6067,
+            6068
+          ],
+          "output_span": [
+            23,
+            24
+          ],
+          "before": "，",
+          "after": "。"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6084,
+            6107
+          ],
+          "output_span": [
+            40,
+            42
+          ],
+          "before": "威权系统环境内，这个环境中，成熟的体制都是基于",
+          "after": "一种"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6111,
+            6113
+          ],
+          "output_span": [
+            46,
+            48
+          ],
+          "before": "保证",
+          "after": "维持"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6116,
+            6121
+          ],
+          "output_span": [
+            51,
+            52
+          ],
+          "before": "及之间存在",
+          "after": "级"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6127,
+            6141
+          ],
+          "output_span": [
+            58,
+            58
+          ],
+          "before": "，从而保证权力金字塔架构稳定",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6148,
+            6168
+          ],
+          "output_span": [
+            65,
+            73
+          ],
+          "before": "按照最大化最小化原理，人们总是倾向于采用",
+          "after": "从行动者所面对的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6170,
+            6175
+          ],
+          "output_span": [
+            75,
+            75
+          ],
+          "before": "最小的方式",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6176,
+            6180
+          ],
+          "output_span": [
+            76,
+            77
+          ],
+          "before": "解决冲突",
+          "after": "看"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6181,
+            6196
+          ],
+          "output_span": [
+            78,
+            80
+          ],
+          "before": "而权力差巨大的稳定威权体系中，",
+          "after": "如果"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6198,
+            6198
+          ],
+          "output_span": [
+            82,
+            83
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6205,
+            6206
+          ],
+          "output_span": [
+            90,
+            99
+          ],
+          "before": "是",
+          "after": "对掌握权力的人来说"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6208,
+            6213
+          ],
+          "output_span": [
+            101,
+            103
+          ],
+          "before": "最小的方式",
+          "after": "较低"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6214,
+            6216
+          ],
+          "output_span": [
+            104,
+            108
+          ],
+          "before": "于是",
+          "after": "就会鼓励"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6217,
+            6230
+          ],
+          "output_span": [
+            109,
+            118
+          ],
+          "before": "与人之间解决背叛的策略都会",
+          "after": "们在有能力这样做时"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6249,
+            6249
+          ],
+          "output_span": [
+            137,
+            151
+          ],
+          "before": "",
+          "after": "在这样的环境中，对上位者来说"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6252,
+            6253
+          ],
+          "output_span": [
+            154,
+            157
+          ],
+          "before": "和",
+          "after": "更高、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6255,
+            6256
+          ],
+          "output_span": [
+            159,
+            159
+          ],
+          "before": "都",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6257,
+            6258
+          ],
+          "output_span": [
+            160,
+            161
+          ],
+          "before": "小",
+          "after": "低"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6259,
+            6261
+          ],
+          "output_span": [
+            162,
+            162
+          ],
+          "before": "所以",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6263,
+            6268
+          ],
+          "output_span": [
+            164,
+            170
+          ],
+          "before": "越是倾向于",
+          "after": "就更容易继续"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6317,
+            6318
+          ],
+          "output_span": [
+            219,
+            222
+          ],
+          "before": "，",
+          "after": "。\n\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6319,
+            6320
+          ],
+          "output_span": [
+            223,
+            225
+          ],
+          "before": "之",
+          "after": "过来"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6324,
+            6326
+          ],
+          "output_span": [
+            229,
+            248
+          ],
+          "before": "民主",
+          "after": "能够约束任意暴力、提供沟通和申诉渠道的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6328,
+            6329
+          ],
+          "output_span": [
+            250,
+            250
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6335,
+            6336
+          ],
+          "output_span": [
+            256,
+            256
+          ],
+          "before": "镇",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6337,
+            6337
+          ],
+          "output_span": [
+            257,
+            258
+          ],
+          "before": "",
+          "after": "制"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6339,
+            6339
+          ],
+          "output_span": [
+            260,
+            262
+          ],
+          "before": "",
+          "after": "可能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6438,
+            6439
+          ],
+          "output_span": [
+            361,
+            364
+          ],
+          "before": "，",
+          "after": "。\n\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6490,
+            6491
+          ],
+          "output_span": [
+            415,
+            417
+          ],
+          "before": "会",
+          "after": "可能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6492,
+            6496
+          ],
+          "output_span": [
+            418,
+            424
+          ],
+          "before": "裂成鹰派",
+          "after": "化出相对强硬"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6497,
+            6501
+          ],
+          "output_span": [
+            425,
+            432
+          ],
+          "before": "鸽派阵营",
+          "after": "相对温和的倾向"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6516,
+            6517
+          ],
+          "output_span": [
+            447,
+            449
+          ],
+          "before": "都",
+          "after": "普遍"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6559,
+            6560
+          ],
+          "output_span": [
+            491,
+            491
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 378,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 为什么一次成功，会改变下一次选择",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-THEORY",
+      "source_span": [
+        21426,
+        21748
+      ],
+      "source_sha256": "7eca34222cd90c92e17b695143b064b2d02aa7a5a6f3d65bab5a1190969b1818",
+      "text": "举个例子，假定人们倾向于采用自己看来代价较小的手段，来解决分歧和消除问题。比如在一个已经是威权统治的国家/政权/文明中，巨大的权力差距，暴力镇压可能成为上位者眼中成本较小的解决方式，就会鼓励有能力这样做的人采用暴力手段解决问题，而这种情况的屡次发生，一方面会让倾向于采用此类手段的人在这个体制里更成功而获得奖励，而这种奖励又会鼓励人们倾向于采用这类手段来解决问题。而暴力镇压会让被镇压者存在巨大的反弹张力，而这种张力，又会导致当权者倾向于继续扩大权力差距，来增加结构的稳定性，而加大的权力差距，又会让我们重复前面的迭代过程，进一步将整个结构收敛到一个体量巨大，权力差距巨大，结构强度很高的威权体系。这就是一个行动者的局部选择，在反复反馈中推动整个结构收敛的简化过程。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            21431,
+            21443
+          ],
+          "output_span": [
+            5,
+            7
+          ],
+          "before": "我们知道基于最小化原理，",
+          "after": "假定"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            21445,
+            21447
+          ],
+          "output_span": [
+            9,
+            9
+          ],
+          "before": "总是",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21452,
+            21454
+          ],
+          "output_span": [
+            14,
+            18
+          ],
+          "before": "最小",
+          "after": "自己看来"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            21456,
+            21456
+          ],
+          "output_span": [
+            20,
+            22
+          ],
+          "before": "",
+          "after": "较小"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            21459,
+            21459
+          ],
+          "output_span": [
+            25,
+            26
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21505,
+            21507
+          ],
+          "output_span": [
+            72,
+            81
+          ],
+          "before": "会是",
+          "after": "可能成为上位者眼中"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21509,
+            21510
+          ],
+          "output_span": [
+            83,
+            84
+          ],
+          "before": "最",
+          "after": "较"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            21514,
+            21516
+          ],
+          "output_span": [
+            88,
+            88
+          ],
+          "before": "问题",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21519,
+            21521
+          ],
+          "output_span": [
+            91,
+            92
+          ],
+          "before": "所以",
+          "after": "就"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21522,
+            21524
+          ],
+          "output_span": [
+            93,
+            102
+          ],
+          "before": "导致",
+          "after": "鼓励有能力这样做的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            21525,
+            21529
+          ],
+          "output_span": [
+            103,
+            103
+          ],
+          "before": "们倾向于",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            21535,
+            21536
+          ],
+          "output_span": [
+            109,
+            109
+          ],
+          "before": "来",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            21665,
+            21670
+          ],
+          "output_span": [
+            238,
+            238
+          ],
+          "before": "显而易见，",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21723,
+            21724
+          ],
+          "output_span": [
+            291,
+            292
+          ],
+          "before": "巨",
+          "after": "很"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            21732,
+            21732
+          ],
+          "output_span": [
+            300,
+            301
+          ],
+          "before": "",
+          "after": "就"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            21733,
+            21733
+          ],
+          "output_span": [
+            302,
+            303
+          ],
+          "before": "",
+          "after": "一"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21734,
+            21736
+          ],
+          "output_span": [
+            304,
+            318
+          ],
+          "before": "决策",
+          "after": "行动者的局部选择，在反复反馈"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21737,
+            21744
+          ],
+          "output_span": [
+            319,
+            325
+          ],
+          "before": "理性思考部分的",
+          "after": "推动整个结构"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            21746,
+            21746
+          ],
+          "output_span": [
+            327,
+            330
+          ],
+          "before": "",
+          "after": "的简化"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            21748,
+            21748
+          ],
+          "output_span": [
+            332,
+            333
+          ],
+          "before": "",
+          "after": "。"
+        }
+      ],
+      "retained_characters": 277,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "注意，这里说的“成本低”，必须问清楚是对谁低。压制者可能只付出一项命令的成本，被压制者却承担了巨大的损失。如果记录和决策只看前者，这种方式就会显得有效；如果把受影响者的损失、后续反抗以及社会内部的防范成本一起计算，结果就可能很不一样。\n\n这也解释了为什么一个结构能够稳定存在，并不能证明它已经使所有人受益。局部的成功可以使一条路径越走越熟，甚至使参与者很难想象别的可能。新机制要改变的，是这种反馈的组织方式，而不只是把原来坐在某个位置上的人换掉。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-THEORY",
+      "source_span": [
+        17191,
+        17467
+      ],
+      "source_sha256": "d6ee3b26cf179e346ea8842c25fb8770aff7bd0aaf24adf70165c1c95f61d190",
+      "text": "奖惩机制其实就是一个评价函数，而以牙还牙策略，则是这个函数的迭代过程，它可以使关系在反复互动中加强或减弱，形成有方向的反馈，在相应条件下，可以让符合评价函数的结构趋于收敛，或让不符合评价函数的结构趋于分离，而不是随机的结合和分离，无法形成稳定的结构。而不同强度的以牙还牙策略，会影响不动点结构的收敛速度和结构强度和稳定性。强大的结构强度和稳定性会让不动点非常稳定强大，但是却容易陷入局部最优的不动点无法自拔，削弱甚至丧失了进化的能力。当然过于脆弱的结构稳定性也是不行的。所以如何构造一个合理的奖惩机制和收敛/发散策略的博弈策略，是影响整个人类文明进化能力的重要问题。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            17227,
+            17234
+          ],
+          "output_span": [
+            36,
+            57
+          ],
+          "before": "会让这个过程趋",
+          "after": "可以使关系在反复互动中加强或减弱，形成有方"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            17235,
+            17241
+          ],
+          "output_span": [
+            58,
+            61
+          ],
+          "before": "于收敛或发散",
+          "after": "的反馈"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            17242,
+            17250
+          ],
+          "output_span": [
+            62,
+            68
+          ],
+          "before": "而不是随机的震荡",
+          "after": "在相应条件下"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            17251,
+            17255
+          ],
+          "output_span": [
+            69,
+            71
+          ],
+          "before": "这样能够",
+          "after": "可以"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            17449,
+            17449
+          ],
+          "output_span": [
+            265,
+            267
+          ],
+          "before": "",
+          "after": "影响"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            17459,
+            17461
+          ],
+          "output_span": [
+            277,
+            277
+          ],
+          "before": "高低",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            17462,
+            17466
+          ],
+          "output_span": [
+            278,
+            282
+          ],
+          "before": "根本因素",
+          "after": "重要问题"
+        }
+      ],
+      "retained_characters": 245,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 保留差异，为什么可能比消灭差异更有力量",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-THEORY",
+      "source_span": [
+        20853,
+        21206
+      ],
+      "source_sha256": "af0e774b4468a2b06f2559e518bfc0bf977d90aafd741bf73f79a61e1196b0da",
+      "text": "当然可以把“文明的进化能力”作为一个评价标准来看待，但是并不意味着这是这个文明存在的价值，就像在软件开发中，你可以把一项性能测试看作某条程序路径的评价标准，但是这并不等同于这条程序路径存在的全部价值，事实上，能够形成并存在的结构，总有它形成的条件，不能只用一个指标穷尽它的意义。我们可以评价猫科动物的狩猎能力远超鼠科动物，但是你不能说猫科动物的存在价值更高。一个暂时没有被使用的结构，也不能仅凭这一点被断定为没有价值。不同结构的存在，丰富了系统可以继续组合的材料，也可能为后续的涌现和进化提供条件。不同的进化方向可能具有不同的价值，其中一项就是丰富进化空间，为下一个进化的涌现做准备。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            20901,
+            20917
+          ],
+          "output_span": [
+            48,
+            52
+          ],
+          "before": "我们一起进行的hotpath项目",
+          "after": "软件开发"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            20923,
+            20934
+          ],
+          "output_span": [
+            58,
+            64
+          ],
+          "before": "某个benchmark",
+          "after": "一项性能测试"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            20936,
+            20945
+          ],
+          "output_span": [
+            66,
+            72
+          ],
+          "before": "一个hotpath",
+          "after": "某条程序路径"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            20960,
+            20968
+          ],
+          "output_span": [
+            87,
+            92
+          ],
+          "before": "个hotpath",
+          "after": "条程序路径"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            20971,
+            20971
+          ],
+          "output_span": [
+            95,
+            97
+          ],
+          "before": "",
+          "after": "全部"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            20978,
+            20980
+          ],
+          "output_span": [
+            104,
+            109
+          ],
+          "before": "所有",
+          "after": "能够形成并"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            20983,
+            20983
+          ],
+          "output_span": [
+            112,
+            114
+          ],
+          "before": "",
+          "after": "结构"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            20984,
+            20988
+          ],
+          "output_span": [
+            115,
+            120
+          ],
+          "before": "都是合理",
+          "after": "总有它形成"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            20989,
+            20989
+          ],
+          "output_span": [
+            121,
+            123
+          ],
+          "before": "",
+          "after": "条件"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            20990,
+            20993
+          ],
+          "output_span": [
+            124,
+            129
+          ],
+          "before": "都是某",
+          "after": "不能只用一"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            20994,
+            21003
+          ],
+          "output_span": [
+            130,
+            135
+          ],
+          "before": "最小化收敛过程涌现",
+          "after": "指标穷尽它"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21004,
+            21009
+          ],
+          "output_span": [
+            136,
+            138
+          ],
+          "before": "不动点对象",
+          "after": "意义"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21050,
+            21059
+          ],
+          "output_span": [
+            179,
+            184
+          ],
+          "before": "人类DNA基因中也",
+          "after": "一个暂时没"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21060,
+            21064
+          ],
+          "output_span": [
+            185,
+            188
+          ],
+          "before": "很多休眠",
+          "after": "被使用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21065,
+            21076
+          ],
+          "output_span": [
+            189,
+            191
+          ],
+          "before": "不再激活的陈旧基因片段",
+          "after": "结构"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            21077,
+            21078
+          ],
+          "output_span": [
+            192,
+            192
+          ],
+          "before": "你",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21080,
+            21091
+          ],
+          "output_span": [
+            194,
+            206
+          ],
+          "before": "应该说激活的DNA片段",
+          "after": "能仅凭这一点被断定为没有"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            21093,
+            21095
+          ],
+          "output_span": [
+            208,
+            208
+          ],
+          "before": "更高",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21096,
+            21100
+          ],
+          "output_span": [
+            209,
+            213
+          ],
+          "before": "如果要说",
+          "after": "不同结构"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            21101,
+            21103
+          ],
+          "output_span": [
+            214,
+            214
+          ],
+          "before": "话，",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            21105,
+            21108
+          ],
+          "output_span": [
+            216,
+            216
+          ],
+          "before": "即合理",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21109,
+            21125
+          ],
+          "output_span": [
+            217,
+            220
+          ],
+          "before": "一旦存在就不会消失，只会增加整个",
+          "after": "丰富了"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            21127,
+            21127
+          ],
+          "output_span": [
+            222,
+            228
+          ],
+          "before": "",
+          "after": "可以继续组合"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21128,
+            21131
+          ],
+          "output_span": [
+            229,
+            231
+          ],
+          "before": "多样性",
+          "after": "材料"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21132,
+            21143
+          ],
+          "output_span": [
+            232,
+            234
+          ],
+          "before": "并且会推进这个具有进化",
+          "after": "也可"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21144,
+            21145
+          ],
+          "output_span": [
+            235,
+            238
+          ],
+          "before": "力",
+          "after": "为后续"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            21146,
+            21158
+          ],
+          "output_span": [
+            239,
+            239
+          ],
+          "before": "无限高阶范畴系统的进一步",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            21163,
+            21163
+          ],
+          "output_span": [
+            244,
+            248
+          ],
+          "before": "",
+          "after": "提供条件"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21164,
+            21167
+          ],
+          "output_span": [
+            249,
+            252
+          ],
+          "before": "每一个",
+          "after": "不同的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21171,
+            21173
+          ],
+          "output_span": [
+            256,
+            259
+          ],
+          "before": "都是",
+          "after": "可能具"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21174,
+            21179
+          ],
+          "output_span": [
+            260,
+            262
+          ],
+          "before": "价值的，它",
+          "after": "不同"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            21182,
+            21182
+          ],
+          "output_span": [
+            265,
+            270
+          ],
+          "before": "",
+          "after": "，其中一项"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            21183,
+            21185
+          ],
+          "output_span": [
+            271,
+            272
+          ],
+          "before": "在于",
+          "after": "是"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            21187,
+            21188
+          ],
+          "output_span": [
+            274,
+            274
+          ],
+          "before": "了",
+          "after": ""
+        }
+      ],
+      "retained_characters": 183,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-H1-0",
+      "source_span": [
+        0,
+        112
+      ],
+      "source_sha256": "dd2a363272d11a8891f81ada733ab87eef57e4ff83f620c3337f6bb6d93ca58c",
+      "text": "通过能耗比，能够比较两种策略，或者两种制度，两个对象之间的优劣，但是并不意味着有了更优的选择，就要消灭旧选择，只用新选择，事实上，保留多样性，才能为更稳健、更丰富的演化与涌现创造条件。温和的回应、恢复合作的机会，也更有利于保留这种多样性。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            0,
+            3
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "是的。",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            69,
+            70
+          ],
+          "output_span": [
+            66,
+            67
+          ],
+          "before": "持",
+          "after": "留"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            73,
+            73
+          ],
+          "output_span": [
+            70,
+            71
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            74,
+            75
+          ],
+          "output_span": [
+            72,
+            72
+          ],
+          "before": "是",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            76,
+            77
+          ],
+          "output_span": [
+            73,
+            74
+          ],
+          "before": "够",
+          "after": "为"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            78,
+            81
+          ],
+          "output_span": [
+            75,
+            78
+          ],
+          "before": "安全，",
+          "after": "稳健、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            82,
+            87
+          ],
+          "output_span": [
+            79,
+            83
+          ],
+          "before": "快速实现进",
+          "after": "丰富的演"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            88,
+            88
+          ],
+          "output_span": [
+            84,
+            85
+          ],
+          "before": "",
+          "after": "与"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            90,
+            90
+          ],
+          "output_span": [
+            87,
+            91
+          ],
+          "before": "",
+          "after": "创造条件"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            91,
+            93
+          ],
+          "output_span": [
+            92,
+            92
+          ],
+          "before": "而且",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            95,
+            103
+          ],
+          "output_span": [
+            94,
+            107
+          ],
+          "before": "以牙还牙策略能够",
+          "after": "的回应、恢复合作的机会，也"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            104,
+            106
+          ],
+          "output_span": [
+            108,
+            111
+          ],
+          "before": "好的",
+          "after": "有利于"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            107,
+            108
+          ],
+          "output_span": [
+            112,
+            115
+          ],
+          "before": "证",
+          "after": "留这种"
+        }
+      ],
+      "retained_characters": 85,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-H1-0",
+      "source_span": [
+        509,
+        596
+      ],
+      "source_sha256": "a0026b8357f6655917d38285137c567db8686bc7d7ec86b5f0ce87b99b5773f0",
+      "text": "有的时候即使某一项技术能耗比远远领先，也不意味着必须全面淘汰其他技术。科幻电影中，经常有这样的情节，当敌人摧毁了己方先进的计算机网络时，陈旧落后的无线电台，反而能够在危机时发挥作用。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            539,
+            540
+          ],
+          "output_span": [
+            30,
+            35
+          ],
+          "before": "，",
+          "after": "其他技术。"
+        }
+      ],
+      "retained_characters": 86,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "因而，选择更好的实现，与把所有其他实现全部抹掉，不应该成为同一件事。我们可以在常见情况下采用效率更高的方式，同时保留那些在少数条件下仍然有用的结构。一个组织能够接受不同经验和异议，也就保留了在环境改变时重新组合的材料。\n\n这里的多样性也包括我们不喜欢、暂时不能理解的想法。讨论一个想法，需要尽量把它真正主张的内容说明白；不能先把它改写成最容易反对的版本，再宣布已经解决了问题。否则，看起来热闹的争论，仍然只是旧有立场的互相加固。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 理解冲突的形成，并不等于放任伤害",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54626",
+      "source_span": [
+        7677,
+        8093
+      ],
+      "source_sha256": "f5a4637237a6bf505dd20e0ee0f695e88136cb9501dcc192fb7bfe96e9d97e02",
+      "text": "我的主张是，当人们之间拒绝合作来自于非理性的情绪，以及高阶认知上的差异时，通过一个达成共识的元认知，来消除非理性情绪和高阶认知差异的影响，为各方提供一个准备合作的积极的初始心态，是继续合作和交流的一个最佳策略。这个元认知可以这样表达：人类所有的个体与个体之间，个体与团体之间，以及团体与团体之间的外貌，生理特征，性格、认知，语言，行为，以及需求和认知上的差异和冲突，这些高阶层面上的差异，都是不同低阶层面上的结构差异，在长期演化过程中，逐步演化形成的，对这些差异，我们应当尝试从科学理论上研究其形成条件，构建可以检验的因果解释，人们不应该被无知产生的恐惧，和对抗产生的愤怒等情绪驱动，经过渲染放大后，形成道德和宗教情结形式的正义邪恶天使恶魔之类的二元对立。大家共同通过充分的信息交流，建立以公共知识的 Merkle 架构为基础、可验证可溯源的合作框架，让差异性变成系统进化中产生的丰富多样性的动力，而不是互相掣肘互相试图消灭对方的垄断性和内部摩擦和阻力。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            7679,
+            7681
+          ],
+          "output_span": [
+            2,
+            4
+          ],
+          "before": "本意",
+          "after": "主张"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7787,
+            7796
+          ],
+          "output_span": [
+            110,
+            116
+          ],
+          "before": "，就是我前面提到的",
+          "after": "可以这样表达"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7797,
+            7798
+          ],
+          "output_span": [
+            117,
+            117
+          ],
+          "before": "“",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7882,
+            7883
+          ],
+          "output_span": [
+            201,
+            201
+          ],
+          "before": "层",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7908,
+            7908
+          ],
+          "output_span": [
+            226,
+            227
+          ],
+          "before": "",
+          "after": "对"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7912,
+            7915
+          ],
+          "output_span": [
+            231,
+            238
+          ],
+          "before": "都可以",
+          "after": "，我们应当尝试"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            7921,
+            7921
+          ],
+          "output_span": [
+            244,
+            252
+          ],
+          "before": "",
+          "after": "研究其形成条件，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7923,
+            7924
+          ],
+          "output_span": [
+            254,
+            254
+          ],
+          "before": "出",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            7925,
+            7927
+          ],
+          "output_span": [
+            255,
+            258
+          ],
+          "before": "重现",
+          "after": "以检验"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            7930,
+            7931
+          ],
+          "output_span": [
+            261,
+            261
+          ],
+          "before": "链",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8014,
+            8015
+          ],
+          "output_span": [
+            344,
+            345
+          ],
+          "before": "在",
+          "after": "以"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8020,
+            8021
+          ],
+          "output_span": [
+            350,
+            352
+          ],
+          "before": "m",
+          "after": " M"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            8026,
+            8026
+          ],
+          "output_span": [
+            357,
+            358
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            8028,
+            8029
+          ],
+          "output_span": [
+            360,
+            364
+          ],
+          "before": "的",
+          "after": "为基础、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            8092,
+            8093
+          ],
+          "output_span": [
+            427,
+            427
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 392,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "有人会问，理解伤害行为的成因，会不会削弱对受害者的保护？这两件事并不需要互相排斥。面对正在发生的伤害，需要保护受影响的人；为了减少下一次伤害，又需要研究它为什么会反复发生。如果只处理已经出现的行为，却始终不触及形成这种行为的条件，社会就会不断重复同一种冲突。\n\n我的出发点，是希望解释能够打开改变的可能。一个现象只要被定义成不可理解、不可改变的邪恶，人们就很容易只剩下消灭对象这一种想象。把它放回形成条件和反馈过程之中，才有可能寻找更有效、代价更小的预防方式。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54626",
+      "source_span": [
+        9137,
+        9512
+      ],
+      "source_sha256": "c1df66e15ed5336d90103b89eb61ff5587f475a36a37b5f0de4e3378828c4059",
+      "text": "我希望这种元认知，能够减少人们认知中那种激进的、宗教情结式的恶魔和邪恶观点，让人与人，团体与团体之间的合作，有一个更科学更理性更健康更倾向于合作的心态。对于任何还没有了解其内部机制和运作规律，无法进行修正的对他人有害的人和事，都能以一种可研究可修正的科学态度对待它。如果你把犯罪看作邪恶，把罪犯看作恶魔，那么从认知的最底层，如果被宗教道德的狂热情绪支配，人们就容易倾向于直接暴力消灭它，拒绝了通过科学研究来理解它，修正它的正确道路。事实上如果你不理解其原理的话，简单的暴力消灭，只能消灭已经产生的个体，消灭不了产生它的机制，只能不断的上演暴力消灭的以暴易暴的过程。而我说的将“犯罪看作疾病”，则是把这种对象和现象放到科学和医学的框架里研究，不用陷入不断试图暴力消灭这些个体，却不断产生新的个体的困境。通过科学手段，治疗和预防它。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            9138,
+            9143
+          ],
+          "output_span": [
+            1,
+            1
+          ],
+          "before": "的本意就是",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9145,
+            9147
+          ],
+          "output_span": [
+            3,
+            5
+          ],
+          "before": "新的",
+          "after": "这种"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9153,
+            9157
+          ],
+          "output_span": [
+            11,
+            13
+          ],
+          "before": "小数所有",
+          "after": "减少"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9158,
+            9161
+          ],
+          "output_span": [
+            14,
+            17
+          ],
+          "before": "类脑海",
+          "after": "们认知"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            9162,
+            9170
+          ],
+          "output_span": [
+            18,
+            18
+          ],
+          "before": "和人之中认为原本",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            9175,
+            9175
+          ],
+          "output_span": [
+            23,
+            24
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9313,
+            9314
+          ],
+          "output_span": [
+            162,
+            165
+          ],
+          "before": "让",
+          "after": "如果被"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9323,
+            9324
+          ],
+          "output_span": [
+            174,
+            176
+          ],
+          "before": "绑",
+          "after": "支配"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9325,
+            9326
+          ],
+          "output_span": [
+            177,
+            179
+          ],
+          "before": "你",
+          "after": "人们"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9327,
+            9329
+          ],
+          "output_span": [
+            180,
+            182
+          ],
+          "before": "强烈",
+          "after": "容易"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9376,
+            9377
+          ],
+          "output_span": [
+            229,
+            230
+          ],
+          "before": "化",
+          "after": "话"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            9511,
+            9512
+          ],
+          "output_span": [
+            364,
+            364
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 346,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "“把犯罪看作疾病”在这里表达的是一种研究和预防的态度：把形成伤害的现象当作可以研究、可以修正的问题。它不能被反过来用作给不同意见贴病名的理由，更不能跳过对具体行为和条件的理解，重新把人分成天生应该被排除的类别。否则，解释的词语虽然换了，原来的二分结构却仍然存在。\n\n从这里可以看见，这套理论对社会组织的要求，并不是先找到一群完全没有差异的人。它恰恰从差异出发，研究怎样让差异形成更丰富的联系，让错误可以得到反馈，让参与者不必在一次冲突后失去所有恢复合作的可能。要做到这一点，还需要新的物质条件、新的知识工具，以及能够让更多人真正平等参与的能力基础。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

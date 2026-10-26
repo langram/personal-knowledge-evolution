@@ -1,0 +1,6 @@
+{
+  "positive_roundtrip_pass": 23,
+  "negative_encoder_rejected": 6,
+  "negative_decoder_rejected": 14,
+  "codec_sha256": "6cf7fe1c587306c1769b2582d396ab65a6bc44f29f9ef8f998f4907893371d60"
+}

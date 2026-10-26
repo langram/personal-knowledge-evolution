@@ -1,0 +1,30 @@
+{
+  "ran_at": "2026-10-24T07:57:51Z",
+  "car": "gemini-evidence.car",
+  "car_bytes": 12612576,
+  "car_sha256": "2f88c7d8654529058109e16bc69975b5f6df070a52f4e89aabbbe49faeb2d1a7",
+  "roots": [
+    "bafyreihzmmps7pewfyca6cvpaioudygdvezykfn77r4rqybfiplpcvutkm"
+  ],
+  "roots_present": true,
+  "blocks": 12363,
+  "duplicate_sections": 0,
+  "dag_cbor_blocks": 12363,
+  "raw_blocks_inside_car": 0,
+  "objects_by_schema": {
+    "pkst/source@0.1": 463,
+    "pkst/content@0.1": 1421,
+    "pkst/occurrence@0.1": 2897,
+    "pkst/extraction-record@0.1": 2897,
+    "pkst/block-reference@0.1": 2897,
+    "pkst/projection@0.1": 1451,
+    "pkst/gemini-attachment@0.1": 335,
+    "pkst/activity@0.1": 1,
+    "pkst/snapshot@0.1": 1
+  },
+  "errors": {},
+  "dangling_object_links": 0,
+  "external_raw_links_checked": 149,
+  "external_raw_links_missing_or_bad": 0,
+  "pass": true
+}

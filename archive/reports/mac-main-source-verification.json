@@ -1,0 +1,18 @@
+{
+  "recorded_at": "2026-10-24T09:06:09.510398+00:00",
+  "status": "all-source-bytes-and-metadata-verified",
+  "members_verified": 987,
+  "source_bytes": 780445227,
+  "source_counts": {
+    "codex_sessions": 896,
+    "codex_archived_sessions": 40,
+    "claude_projects": 50,
+    "claude_history": 1
+  },
+  "manifest_sha256": "222ce45fc6fb225b9696cfc8c388a6ffda7430c6ddb85b463c6f2734c3d4adf6",
+  "codex_raw": "C:\\Users\\langr\\Documents\\Codex\\2026-10-24\\ni\\outputs\\personal-thought-archive\\contributions\\codex\\mac\\raw",
+  "codex_manifest": "C:\\Users\\langr\\Documents\\Codex\\2026-10-24\\ni\\outputs\\personal-thought-archive\\contributions\\codex\\mac\\.private\\capture-mac-20261024.jsonl",
+  "claude_staged_raw": "C:\\Users\\langr\\Documents\\Codex\\2026-10-24\\ni\\outputs\\personal-thought-archive\\coordination\\.private\\mac-inbox\\main\\claude-raw",
+  "claude_manifest": "C:\\Users\\langr\\Documents\\Codex\\2026-10-24\\ni\\outputs\\personal-thought-archive\\coordination\\.private\\mac-inbox\\main\\claude-manifest.jsonl",
+  "archive_script_handling": "raw preserved only; not executed"
+}

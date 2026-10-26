@@ -1,0 +1,1564 @@
+{
+  "chapter": "08",
+  "title": "语言、公共知识与文明的共同记忆",
+  "status": "expanded-copyedited",
+  "review": {
+    "reasoning": "编码与重建→命名未知→共同知道→内容身份与位置→知识细粒度关联→共同构造",
+    "examples": [
+      "给未知现象命名",
+      "一起搬家具",
+      "旧实验版本与新结论",
+      "网页与段落级依赖"
+    ],
+    "objections": [
+      "文件公开即共同知识吗",
+      "哈希能证明事实吗",
+      "知道CID必然能下载吗",
+      "统一是否抹平不同表达"
+    ],
+    "voice": "保留作者通信、命名、公共知识与Web细粒度化论述；修正哈希签名混同",
+    "status": "初校；生物语言优劣的无根据倍数未纳入正文，原材料保留",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "source-exact",
+      "ref": "ORIGINAL",
+      "source_span": [
+        13028,
+        13124
+      ],
+      "source_sha256": "c43f9a31815ad1c6a03a79e90d9be5f9283f404ae670268503a0ff201b482efb",
+      "text": "人类的进化史，在某种意义上是一部通信工具的进化史。从语言文字的出现，到计算机语言的诞生，每一次对信息基本组成单元的更深刻认识，都极大地增强了上层系统的灵活性和组合创新能力，带来一次文明的飞跃。",
+      "edits": [],
+      "retained_characters": 96,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-exact",
+      "ref": "R49188",
+      "source_span": [
+        344,
+        456
+      ],
+      "source_sha256": "b8fec4f111e4398c494d4ee2deeceefb0113bb1dce8aebecd028cd2805a25117",
+      "text": "语言文字是一种输入输出系统，人大脑意识中的信息和知识，通过语言文字系统的编码子系统，编码成语言的音频流，或者文字的字符串，作为输出结果，反过来，这些语音流和字符串，通过语言文字系统的解码子系统，解码为大脑意识中的信息和知识。",
+      "edits": [],
+      "retained_characters": 112,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "一个人看见的东西，怎样变成另一个人能够使用的知识？我们不可能把自己的大脑整个搬给对方，只能通过语言、图像、动作和其他符号，把其中某些关系表达出来。接收者再根据自身已有的经验，尝试重建这些关系。\n\n因此，表达既需要区分，也需要共同基础。一个词如果每次都指向不同事物，交流就很难积累；但一个词如果只能指向眼前这一件东西，不能进入新的组合，也很难表达不断增加的经验。语言的力量，恰恰在于有限的组成部分能够形成丰富的表达。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 先有一个名字，还是先完全知道它是什么",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48523",
+      "source_span": [
+        1,
+        347
+      ],
+      "source_sha256": "cd44d0051b76627285ccd9d133b6de5c210e35bc30241b7831e78c7678d07183",
+      "text": "人类自然语言中，对未知事物是如何处理的？可以先对可以反复重现的对象或过程进行命名，然后逐步对它进行探测或尝试，用不同的其他对象与其进行互动，探测它与外部事物或过程的互相关系，从关系的角度，通过建立它与其他已知事物之间的关系，来猜测其内部结构，并根据猜测，通过已知的外部关系对它进行调整，看经过调整后的该对象，是否能产生与其他对象之间猜测的相互作用，如果成功，就暂时将其内部结构定义成猜测的样子，如果失败，就做其他的尝试，如此继续反复迭代这个过程，随着更多调整与观察符合预期，我们对其结构和关系的认识就得到更多支持。我们是否也可以为 AI 的底层架构添加类似机制，通过HoTT的描述和编程语言编写的程序控制，实现这个过程，使它成为智能系统持续探索的一部分？",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            21,
+            24
+          ],
+          "output_span": [
+            20,
+            22
+          ],
+          "before": "是不是",
+          "after": "可以"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            89,
+            97
+          ],
+          "output_span": [
+            87,
+            93
+          ],
+          "before": "就像米田引理那样",
+          "after": "从关系的角度"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            227,
+            232
+          ],
+          "output_span": [
+            223,
+            227
+          ],
+          "before": "直到所有的",
+          "after": "随着更多"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            234,
+            239
+          ],
+          "output_span": [
+            229,
+            234
+          ],
+          "before": "，都能得到",
+          "after": "与观察符合"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            241,
+            244
+          ],
+          "output_span": [
+            236,
+            236
+          ],
+          "before": "的结果",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            245,
+            248
+          ],
+          "output_span": [
+            237,
+            237
+          ],
+          "before": "这时候",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            250,
+            262
+          ],
+          "output_span": [
+            239,
+            239
+          ],
+          "before": "就可以声称我们知道了这个",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            263,
+            267
+          ],
+          "output_span": [
+            240,
+            241
+          ],
+          "before": "象的内部",
+          "after": "其"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            270,
+            272
+          ],
+          "output_span": [
+            244,
+            244
+          ],
+          "before": "外部",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            274,
+            274
+          ],
+          "output_span": [
+            246,
+            256
+          ],
+          "before": "",
+          "after": "的认识就得到更多支持"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            275,
+            278
+          ],
+          "output_span": [
+            257,
+            257
+          ],
+          "before": "不知道",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            282,
+            282
+          ],
+          "output_span": [
+            261,
+            262
+          ],
+          "before": "",
+          "after": "也"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            285,
+            285
+          ],
+          "output_span": [
+            265,
+            266
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            287,
+            287
+          ],
+          "output_span": [
+            268,
+            269
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            292,
+            294
+          ],
+          "output_span": [
+            274,
+            274
+          ],
+          "before": "，也",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            298,
+            299
+          ],
+          "output_span": [
+            278,
+            278
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            331,
+            340
+          ],
+          "output_span": [
+            310,
+            314
+          ],
+          "before": "也许这就是通用人工",
+          "after": "使它成为"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            342,
+            342
+          ],
+          "output_span": [
+            316,
+            322
+          ],
+          "before": "",
+          "after": "系统持续探索"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            343,
+            346
+          ],
+          "output_span": [
+            323,
+            326
+          ],
+          "before": "底座呢",
+          "after": "一部分"
+        }
+      ],
+      "retained_characters": 283,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这个过程说明，命名不必等到全部知识完成以后才发生。我们可以先把一个能够重复识别的现象留下来，再逐渐增加对它的解释。后来发现原来的理解不够准确，也不必把过去的观察全部抹掉，而是说明哪些关系需要改变。\n\n例如，研究者给一种新现象起了名字，其他人便能够围绕同一问题交换观察。名字本身没有证明理论，但它为合作提供了一个可以反复返回的位置。科学概念的成长，需要这样的稳定性，也需要容许其内容继续变化。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 共同知道，比把文件放在网上更进一步",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48731",
+      "source_span": [
+        1911,
+        2154
+      ],
+      "source_sha256": "adbe74a69dccd0819dab24adf3aa2f0fc94835519ce8ec53e05b40ea2401b6d6",
+      "text": "在人的社会组织中，依靠法律，宗教条文，政治纲领，以及人们达成共识并共同遵守的道德标准或博弈规则，有可能形成更稳定、能够持续合作的结构，而靠部分人的意志或小圈子的潜规则，往往使其他参与者难以形成稳定预期。也就是说，当参与者不仅知道某项规则，而且知道彼此都知道这项规则时，围绕共同知识展开的互动，就有了把一个行动的结果接到另一个行动上的更好条件。这使我关注共同知识怎样影响复杂合作的构造能力。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1911,
+            1914
+          ],
+          "output_span": [
+            0,
+            1
+          ],
+          "before": "再比如",
+          "after": "在"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1961,
+            1961
+          ],
+          "output_span": [
+            48,
+            50
+          ],
+          "before": "",
+          "after": "有可"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1962,
+            1963
+          ],
+          "output_span": [
+            51,
+            51
+          ],
+          "before": "够",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1965,
+            1968
+          ],
+          "output_span": [
+            53,
+            53
+          ],
+          "before": "强壮，",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1971,
+            1975
+          ],
+          "output_span": [
+            56,
+            63
+          ],
+          "before": "和更复杂",
+          "after": "、能够持续合作"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1976,
+            1978
+          ],
+          "output_span": [
+            64,
+            64
+          ],
+          "before": "社会",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1998,
+            2001
+          ],
+          "output_span": [
+            84,
+            94
+          ],
+          "before": "却只能",
+          "after": "往往使其他参与者难以"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2003,
+            2020
+          ],
+          "output_span": [
+            96,
+            100
+          ],
+          "before": "简单的，脆弱的，暂时性的结构和平衡",
+          "after": "稳定预期"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2026,
+            2030
+          ],
+          "output_span": [
+            106,
+            112
+          ],
+          "before": "基于公共",
+          "after": "当参与者不仅"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2031,
+            2049
+          ],
+          "output_span": [
+            113,
+            118
+          ],
+          "before": "识（Public Knowledge",
+          "after": "道某项规则"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2050,
+            2053
+          ],
+          "output_span": [
+            119,
+            125
+          ],
+          "before": "即大家",
+          "after": "而且知道彼此"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2056,
+            2056
+          ],
+          "output_span": [
+            128,
+            133
+          ],
+          "before": "",
+          "after": "这项规则时"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2057,
+            2077
+          ],
+          "output_span": [
+            134,
+            138
+          ],
+          "before": "并且大家都知道大家都知道，这种循环递归的",
+          "after": "围绕共同"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2079,
+            2080
+          ],
+          "output_span": [
+            140,
+            142
+          ],
+          "before": "）",
+          "after": "展开"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2081,
+            2083
+          ],
+          "output_span": [
+            143,
+            145
+          ],
+          "before": "博弈",
+          "after": "互动"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2084,
+            2100
+          ],
+          "output_span": [
+            146,
+            154
+          ],
+          "before": "能够形成类似范畴论中态射的复合性",
+          "after": "就有了把一个行动"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2103,
+            2109
+          ],
+          "output_span": [
+            157,
+            166
+          ],
+          "before": "，从而博弈出",
+          "after": "接到另一个行动上的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2110,
+            2110
+          ],
+          "output_span": [
+            167,
+            184
+          ],
+          "before": "",
+          "after": "好条件。这使我关注共同知识怎样影响"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2112,
+            2112
+          ],
+          "output_span": [
+            186,
+            188
+          ],
+          "before": "",
+          "after": "合作"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2113,
+            2142
+          ],
+          "output_span": [
+            189,
+            189
+          ],
+          "before": "社会结构。请从范畴论角度出发考察不同范畴和对象的特性，对其",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2144,
+            2148
+          ],
+          "output_span": [
+            191,
+            191
+          ],
+          "before": "复杂结构",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2150,
+            2153
+          ],
+          "output_span": [
+            193,
+            193
+          ],
+          "before": "的影响",
+          "after": ""
+        }
+      ],
+      "retained_characters": 104,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "可以想象，两个人准备共同搬一件很重的家具。两个人都知道要往左移动，还不够；他们还需要知道对方也准备往左，并且准备在什么时候一起发力。否则，一方已经行动，另一方还在等待，就可能互相妨碍。\n\n更大的组织也是如此。把一份规则放到公共位置，只是让它可以被看见；谁实际看过，是否认可，采用的是哪一个版本，仍然需要另外表达。可访问的信息、个人知道的信息与彼此确认的共同知识，不能直接画上等号。新框架要做的，是让这些关系能够被清楚记录，从而减少靠猜测维持合作的负担。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        110,
+        312
+      ],
+      "source_sha256": "1cf6dfcde054be31e79a868cf510e019c1174c25c98151e5f2737e3bbd7f767f",
+      "text": "我设想，适合共同保存的公共知识以 Merkle DAG 的方式进行存储，并且像软件的 Git 一样，能够记录和追踪版本变化。也就是说，它能够检查内容是否与已知标识一致，并记录明确保存下来的变动；同时，这些数据都是开源的。这为逐步形成共同知识提供了基础：你知道，我知道；我知道你知道，你也知道我知道，如此无限循环下去。知识的提供方和接收方能够核对自己面对的内容版本，再通过相应的沟通与确认形成共识。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            110,
+            125
+          ],
+          "output_span": [
+            0,
+            3
+          ],
+          "before": "所谓基于 Merkle DAG",
+          "after": "我设想"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            126,
+            130
+          ],
+          "output_span": [
+            4,
+            10
+          ],
+          "before": "就是所有",
+          "after": "适合共同保存"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            135,
+            136
+          ],
+          "output_span": [
+            15,
+            15
+          ],
+          "before": "都",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            191,
+            194
+          ],
+          "output_span": [
+            70,
+            83
+          ],
+          "before": "防篡改",
+          "after": "检查内容是否与已知标识一致"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            195,
+            199
+          ],
+          "output_span": [
+            84,
+            85
+          ],
+          "before": "能够精确",
+          "after": "并"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            201,
+            203
+          ],
+          "output_span": [
+            87,
+            93
+          ],
+          "before": "所有",
+          "after": "明确保存下来"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            221,
+            232
+          ],
+          "output_span": [
+            111,
+            116
+          ],
+          "before": "样就保证了我说的那种公",
+          "after": "为逐步形成"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            233,
+            233
+          ],
+          "output_span": [
+            117,
+            118
+          ],
+          "before": "",
+          "after": "同"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            235,
+            238
+          ],
+          "output_span": [
+            120,
+            125
+          ],
+          "before": "的特性",
+          "after": "提供了基础"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            271,
+            282
+          ],
+          "output_span": [
+            158,
+            158
+          ],
+          "before": "它对所有参与方，也就是",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            292,
+            292
+          ],
+          "output_span": [
+            168,
+            181
+          ],
+          "before": "",
+          "after": "能够核对自己面对的内容版本"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            293,
+            299
+          ],
+          "output_span": [
+            182,
+            187
+          ],
+          "before": "都是完全透明",
+          "after": "再通过相应"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            300,
+            311
+          ],
+          "output_span": [
+            188,
+            197
+          ],
+          "before": "，并且不会有伪造和篡改",
+          "after": "沟通与确认形成共识"
+        }
+      ],
+      "retained_characters": 131,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 为什么要把知识的身份与保存位置分开",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        13374,
+        13468
+      ],
+      "source_sha256": "e6ffec2dd98dd9283d8378e1255e5ecdd739586b0010c6e393d8b7984f439109",
+      "text": "基于此，我们可以构想一个全新的统一符号框架，并创造一个全新的统一语言。我的设想是：设计一种全新的编程语言，使用**哈希算法**得到的字符串哈希值作为该语言中所有代码和数据对象的内容标识符。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            13462,
+            13464
+          ],
+          "output_span": [
+            88,
+            90
+          ],
+          "before": "唯一",
+          "after": "内容"
+        }
+      ],
+      "retained_characters": 92,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55716",
+      "source_span": [
+        41,
+        318
+      ],
+      "source_sha256": "4eca083d7b673df42c65359521a868f8f3e3c87ab1368e69d9147ac198ff4500",
+      "text": "我们知道，通过hash算法得到的一个字符串的hash值，在合适的密码学哈希和编码规则下，可以成为核对该字符串内容的标识符。得到内容以后，可以重新计算哈希，检查它是否与预期一致；若要证明由谁发布，还需要身份认证或数字签名。内容标识还可以作为索引键，帮助系统查找由哪些位置提供相应内容。再有，通过分布式hash表，可以实现分布式存储，使存储系统分布到多个节点，但扩展能力仍取决于具体实现和资源。还可以通过类似git的机制，使用hash值的树表来存储字符串的修改历史，实现对字符串的版本管理。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            69,
+            77
+          ],
+          "output_span": [
+            28,
+            31
+          ],
+          "before": "保证其独一无二性",
+          "after": "在合适"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            78,
+            83
+          ],
+          "output_span": [
+            32,
+            43
+          ],
+          "before": "概率足够大",
+          "after": "密码学哈希和编码规则下"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            84,
+            87
+          ],
+          "output_span": [
+            44,
+            44
+          ],
+          "before": "以至于",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            89,
+            98
+          ],
+          "output_span": [
+            46,
+            47
+          ],
+          "before": "使用该hash值作",
+          "after": "成"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            99,
+            99
+          ],
+          "output_span": [
+            48,
+            50
+          ],
+          "before": "",
+          "after": "核对"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            103,
+            103
+          ],
+          "output_span": [
+            54,
+            56
+          ],
+          "before": "",
+          "after": "内容"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            108,
+            118
+          ],
+          "output_span": [
+            61,
+            68
+          ],
+          "before": "而hash值具备的不",
+          "after": "得到内容以后，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            119,
+            121
+          ],
+          "output_span": [
+            69,
+            76
+          ],
+          "before": "逆性",
+          "after": "以重新计算哈希"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            122,
+            133
+          ],
+          "output_span": [
+            77,
+            96
+          ],
+          "before": "使得其具有很好的安全性",
+          "after": "检查它是否与预期一致；若要证明由谁发布"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            135,
+            140
+          ],
+          "output_span": [
+            98,
+            106
+          ],
+          "before": "具有防止原",
+          "after": "需要身份认证或数"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            141,
+            149
+          ],
+          "output_span": [
+            107,
+            115
+          ],
+          "before": "符串被篡改，因此",
+          "after": "签名。内容标识还"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            153,
+            190
+          ],
+          "output_span": [
+            119,
+            119
+          ],
+          "before": "数字签名来保证其可靠性。再者其唯一性和均匀分布性，可以通过hash算法快速",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            192,
+            193
+          ],
+          "output_span": [
+            121,
+            132
+          ],
+          "before": "定",
+          "after": "键，帮助系统查找由哪些"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            194,
+            220
+          ],
+          "output_span": [
+            133,
+            140
+          ],
+          "before": "寻址，使其还能够作为该字符串的地址，用于快速搜索定位",
+          "after": "置提供相应内容"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            246,
+            251
+          ],
+          "output_span": [
+            166,
+            166
+          ],
+          "before": "得该字符串",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            255,
+            262
+          ],
+          "output_span": [
+            170,
+            179
+          ],
+          "before": "的规模可以任意",
+          "after": "分布到多个节点，但"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            264,
+            269
+          ],
+          "output_span": [
+            181,
+            194
+          ],
+          "before": "，不受限制",
+          "after": "能力仍取决于具体实现和资源"
+        }
+      ],
+      "retained_characters": 135,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "普通网址首先告诉我们去哪里寻找；内容标识首先告诉我们要核对什么。同一份材料可以有多个保存位置，位置改变不必意味着内容身份改变；内容修改以后，则应形成一个新的标识，并把新旧版本的关系明确连起来。\n\n这种安排特别适合知识积累。一个结论依赖某一版本的实验记录，后来记录有了修正，旧结论的依据仍然能够被检查；新的结论则可以指向新的材料。我们不必让一个不断被覆盖的地址，同时承担“永远同一份内容”和“随时更新”两种互相冲突的任务。\n\n但是，哈希只回答内容核对的问题。错误的论证也能有稳定标识；没有被提供的内容，知道标识也未必能取到；私有资料更不会因为有哈希而自动公开。知识是否成立、谁有权访问、采用哪个版本，都要作为另外的关系来处理。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 从网页之间的连接，到知识内部的连接",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55365",
+      "source_span": [
+        4330,
+        4696
+      ],
+      "source_sha256": "5a1d7d7181c319bc812967d981cfe707be1b4f3ac8513b531b8e08aebad211d2",
+      "text": "Merkle 框架与互联网、Web 架构有值得比较的地方，互联网将物理世界中的人，公司，组织，以及这些个体之间的社交，学术，经济，政治等互动行为，通过数字空间中的文档，图片，音视频数据，以及各种代码构造的程序，功能，服务，通过各种服务协议的超链接，构成了一个互联互通的全球社会网络，极大的改变了人类社会的组织形式和合作方式。然而这种架构的颗粒细化程度还不够彻底，这种底层机制的限制，导致整个网络中个体之间的合作和互动程度受限，前互联网时代的传统人类社会基本组织形式的固有缺点，在互联网时代仍然存在，这导致了互联网时代仍然存在寡头垄断，生态割裂，同类数据和应用之间存在各种数据和应用孤岛。我希望 Merkle 框架进一步将这个社会网络中的数据、代码节点，以及它们之间的链接，细化到最基本的语义单元层级。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            4330,
+            4331
+          ],
+          "output_span": [
+            0,
+            1
+          ],
+          "before": "m",
+          "after": "M"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4336,
+            4336
+          ],
+          "output_span": [
+            6,
+            7
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4338,
+            4339
+          ],
+          "output_span": [
+            9,
+            9
+          ],
+          "before": "，",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4340,
+            4352
+          ],
+          "output_span": [
+            10,
+            10
+          ],
+          "before": "internet/web",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4355,
+            4355
+          ],
+          "output_span": [
+            13,
+            18
+          ],
+          "before": "",
+          "after": "、Web "
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4357,
+            4360
+          ],
+          "output_span": [
+            20,
+            20
+          ],
+          "before": "，确实",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4361,
+            4365
+          ],
+          "output_span": [
+            21,
+            23
+          ],
+          "before": "很多可类",
+          "after": "值得"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4366,
+            4366
+          ],
+          "output_span": [
+            24,
+            25
+          ],
+          "before": "",
+          "after": "较"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4634,
+            4636
+          ],
+          "output_span": [
+            293,
+            298
+          ],
+          "before": "而m",
+          "after": "我希望 M"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4641,
+            4641
+          ],
+          "output_span": [
+            303,
+            304
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4643,
+            4644
+          ],
+          "output_span": [
+            306,
+            309
+          ],
+          "before": "，",
+          "after": "进一步"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4652,
+            4652
+          ],
+          "output_span": [
+            317,
+            318
+          ],
+          "before": "",
+          "after": "的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4654,
+            4655
+          ],
+          "output_span": [
+            320,
+            321
+          ],
+          "before": "和",
+          "after": "、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4659,
+            4667
+          ],
+          "output_span": [
+            325,
+            325
+          ],
+          "before": "以及节点的颗粒度",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4670,
+            4676
+          ],
+          "output_span": [
+            328,
+            330
+          ],
+          "before": "这些基本粒子",
+          "after": "它们"
+        }
+      ],
+      "retained_characters": 327,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "一篇网页可以引用另一篇网页，但引用往往还不够细。它究竟使用了哪一个定义、哪一个实验结果，反对的是哪个条件下的结论？如果只能把整个网页当成一个不可再分的块，后续的人仍然需要反复阅读和重新拆解。\n\n把粒度细化，是为了使这些关系可以进入公共记忆。一个定义、一段推理、一个反例、一项功能，都可以有明确边界。它们既能参与不同文章和项目，又保留自己的来源。这样，不同作品就不必各自重建同一套底层知识。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55365",
+      "source_span": [
+        262,
+        630
+      ],
+      "source_sha256": "b8f4e3b2fc653bfbcf954071a4b90342155a776402ca3a073c1ffb0956f9027a",
+      "text": "在所设想的生态中，要逐步打通数据和应用的孤岛，传统软件中的中间数据结果，或内部功能代码，在新框架中，都能够在适当权限下，用共同机制访问和共享，语义归一化的数据和功能节点所构成的统一数字知识树中，同功能的节点的不同实现，可以通过性能测试与运行分析，在可比较的条件下持续改进，让迭代更多建立在公开的功能、条件与结果上，减少信息不透明造成的重复和阻碍。其实有的时候无需全新的技术，只要一种全新的构建方式就能够产生革命性的变化，就像计算机网络的软硬件其实早就已经具备了成熟的条件，但是共同协议与连接方式的发展，使分散设备能够进入更大范围的合作，我觉得这个框架，有可能完成从分散的AI智能体，以及小规模的智能体网络，到覆盖全球的社会神经智能网络的跨越。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            262,
+            266
+          ],
+          "output_span": [
+            0,
+            5
+          ],
+          "before": "而这这个",
+          "after": "在所设想的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            270,
+            274
+          ],
+          "output_span": [
+            9,
+            14
+          ],
+          "before": "不再存在",
+          "after": "要逐步打通"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            313,
+            314
+          ],
+          "output_span": [
+            53,
+            62
+          ],
+          "before": "以",
+          "after": "在适当权限下，用共"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            315,
+            317
+          ],
+          "output_span": [
+            63,
+            63
+          ],
+          "before": "样的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            319,
+            321
+          ],
+          "output_span": [
+            65,
+            65
+          ],
+          "before": "进行",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            367,
+            370
+          ],
+          "output_span": [
+            111,
+            111
+          ],
+          "before": "自动的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            372,
+            393
+          ],
+          "output_span": [
+            113,
+            122
+          ],
+          "before": "benchmark/profiling机制",
+          "after": "性能测试与运行分析"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            394,
+            396
+          ],
+          "output_span": [
+            123,
+            137
+          ],
+          "before": "快速",
+          "after": "在可比较的条件下持续改进，让"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            398,
+            400
+          ],
+          "output_span": [
+            139,
+            156
+          ],
+          "before": "进化",
+          "after": "更多建立在公开的功能、条件与结果上"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            401,
+            442
+          ],
+          "output_span": [
+            157,
+            159
+          ],
+          "before": "无需传统软件硬件生态中，以不同个人，公司，组织为主体，通过专利，保密闭源等方式，在",
+          "after": "减少"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            447,
+            450
+          ],
+          "output_span": [
+            164,
+            166
+          ],
+          "before": "不对等",
+          "after": "造成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            451,
+            466
+          ],
+          "output_span": [
+            167,
+            172
+          ],
+          "before": "情况下低效竞争的方式来迭代进化",
+          "after": "重复和阻碍"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            532,
+            546
+          ],
+          "output_span": [
+            238,
+            240
+          ],
+          "before": "直到tcp/ip以及http",
+          "after": "共同"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            548,
+            548
+          ],
+          "output_span": [
+            242,
+            247
+          ],
+          "before": "",
+          "after": "与连接方式"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            549,
+            559
+          ],
+          "output_span": [
+            248,
+            250
+          ],
+          "before": "软硬件互联网协议出现",
+          "after": "发展"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            560,
+            566
+          ],
+          "output_span": [
+            251,
+            264
+          ],
+          "before": "全球信息革命",
+          "after": "使分散设备能够进入更大范围"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            567,
+            574
+          ],
+          "output_span": [
+            265,
+            267
+          ],
+          "before": "序幕才真正拉开",
+          "after": "合作"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            578,
+            580
+          ],
+          "output_span": [
+            271,
+            271
+          ],
+          "before": "咱们",
+          "after": ""
+        }
+      ],
+      "retained_characters": 229,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这也是我把语言问题与社会组织问题放在一起的原因。共享的符号和可核对的关系，使个体经验能够进入共同构造；共同构造又使更多人获得能力，继续产生新的经验。文明的记忆，不应只是一座等待查询的资料仓库，而应当成为可以不断参与行动的知识体系。\n\n要走向这个方向，可以先从最小的一个人开始：把一个人的讨论、作品、实践和修正，放进能够保留内容、来源与关系的结构里。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

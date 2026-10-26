@@ -1,0 +1,16 @@
+{
+  "cases": [
+    "valid roundtrip and external raw",
+    "truncated section",
+    "hash mismatch",
+    "duplicate block",
+    "missing root",
+    "non-link root",
+    "boolean version",
+    "nonminimal varint",
+    "truncated varint",
+    "corrupt external raw"
+  ],
+  "all_pass": true,
+  "scope": "CAR framing/hash/closure rejection; not full semantic schema validation"
+}

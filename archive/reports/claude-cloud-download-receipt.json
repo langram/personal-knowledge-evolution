@@ -1,0 +1,59 @@
+{
+  "recorded_at": "2026-10-24T08:08:53.241128Z",
+  "expected": [
+    "light_metadata-000.zip",
+    "projects-000.zip",
+    "memories-000.zip",
+    "conversations-000.zip"
+  ],
+  "all_expected_archives_received": true,
+  "zip_crc_and_destination_sha256": "passed",
+  "originals_unchanged": true,
+  "archives": [
+    {
+      "filename": "light_metadata-000.zip",
+      "bytes": 1939,
+      "sha256": "4d5aa654768bd2ed8da30eb3fb536943be3900723fdecf107c4540c62a833b9f",
+      "zip_members": 2,
+      "expanded_bytes": 19995,
+      "member_names": [
+        "users.json",
+        "login_history.json"
+      ]
+    },
+    {
+      "filename": "projects-000.zip",
+      "bytes": 233686,
+      "sha256": "7b6f655dfd3df9ddefad4e34c430613f3b1d6ca0fe8fb8fe6ecd26a5dc734d01",
+      "zip_members": 5,
+      "expanded_bytes": 834618,
+      "member_names": [
+        "projects/1559ef91-aed0-4b05-aed7-d6cbc07cae5d.json",
+        "projects/019eaff1-982e-72ca-a2e7-976633fe072b.json",
+        "projects/01a08106-c64c-778d-aea0-c30cfe4ac628.json",
+        "projects/01a0c44f-4e08-71f3-8e3f-b1a607665ee0.json",
+        "projects/01a0c4f9-697b-7440-85b4-b78585c4a62f.json"
+      ]
+    },
+    {
+      "filename": "memories-000.zip",
+      "bytes": 13161,
+      "sha256": "2b791e2fbb87cbe9c24a26cfed3ab1ac1fd6577c4ed19bd45c4e2d6a798d501e",
+      "zip_members": 1,
+      "expanded_bytes": 39591,
+      "member_names": [
+        "memories/dbe6ce19-801c-48ad-a04a-364bfc51bfbf.json"
+      ]
+    },
+    {
+      "filename": "conversations-000.zip",
+      "bytes": 10133493,
+      "sha256": "aac481ac6d128e8e16bf2ffcd6299aafca2da40a70ead31f50a581787e6f8797",
+      "zip_members": 1,
+      "expanded_bytes": 50381588,
+      "member_names": [
+        "conversations.json"
+      ]
+    }
+  ]
+}

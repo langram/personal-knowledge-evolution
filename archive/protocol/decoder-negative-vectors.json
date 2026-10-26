@@ -1,0 +1,72 @@
+[
+  {
+    "name": "non-minimal-int",
+    "hex": "1817",
+    "expected": "reject"
+  },
+  {
+    "name": "map-wrong-order",
+    "hex": "a262616102616201",
+    "expected": "reject"
+  },
+  {
+    "name": "dup-map-key",
+    "hex": "a2616101616102",
+    "expected": "reject"
+  },
+  {
+    "name": "float16",
+    "hex": "f93c00",
+    "expected": "reject"
+  },
+  {
+    "name": "undefined",
+    "hex": "f7",
+    "expected": "reject"
+  },
+  {
+    "name": "indefinite-array",
+    "hex": "9fff",
+    "expected": "reject"
+  },
+  {
+    "name": "unknown-tag",
+    "hex": "d90100f6",
+    "expected": "reject"
+  },
+  {
+    "name": "bare-bytes",
+    "hex": "4100",
+    "expected": "reject"
+  },
+  {
+    "name": "trailing-bytes",
+    "hex": "f6f6",
+    "expected": "reject"
+  },
+  {
+    "name": "truncated",
+    "hex": "6261",
+    "expected": "reject"
+  },
+  {
+    "name": "bad-utf8",
+    "hex": "61ff",
+    "expected": "reject"
+  },
+  {
+    "name": "int-overflow",
+    "hex": "1b0020000000000000",
+    "expected": "reject"
+  },
+  {
+    "name": "tag42-no-prefix",
+    "hex": "d82a5824015512202cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+    "expected": "reject"
+  },
+  {
+    "name": "tag42-bad-codec",
+    "hex": "d82a582500017012202cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+    "expected": "reject"
+  }
+]

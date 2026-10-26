@@ -1,0 +1,1156 @@
+{
+  "chapter": "09",
+  "title": "个人知识的语义空间与时间线",
+  "status": "expanded-copyedited",
+  "review": {
+    "reasoning": "跨平台想法→静态关系与演化路径→树视图与多重依赖→原话与提炼区分→转引事件与内容去重→原始归档与提取→当前表达与历史保留",
+    "examples": [
+      "动态权重跨章节",
+      "误引共同知识论述",
+      "一段文字五次转引",
+      "文章导入时间与创作时间"
+    ],
+    "objections": [
+      "总结足以替代原话吗",
+      "所有知识必然无环吗",
+      "用户粘贴即作者赞同吗",
+      "记录历史会不会冻结个人"
+    ],
+    "voice": "保留最初个人知识库需求与理论演化空间的长篇作者论述，技术衔接单独标记",
+    "status": "初校；时间线、归属、关系均不得仅由相似度推断为事实",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "source-adaptation",
+      "ref": "R47840",
+      "source_span": [
+        0,
+        309
+      ],
+      "source_sha256": "59009dd483ecf33f967ab3a928a29a267c57b17631c6df3127b67d521201cdb8",
+      "text": "我希望把不同电脑上的 AI 本地会话、云端聊天记录，以及其他文字作品中的内容，按照 Merkle-DAG 的形式，整理出一个我的个人言论和理论和思想的语义时空的拓扑结构。我的意思是，将我的所有想法，理论和言论，按照语义空间的逻辑和因果链条以及从属关系，建立一个树状的类似于思维导图的结构，同时这个结构还像git一样，按发言和会话的时间顺序，具有想法的变迁，进化继承的迭代的过程时间线。相当于我的个人知识发展的时空记录，就像git软件版本管理系统一样，将我的个人知识语义系统的时空结构都记录下来。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1,
+            15
+          ],
+          "output_span": [
+            1,
+            8
+          ],
+          "before": "想让将这台windows主机",
+          "after": "希望把不同电脑"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            17,
+            19
+          ],
+          "output_span": [
+            10,
+            11
+          ],
+          "before": "所有",
+          "after": " "
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            22,
+            28
+          ],
+          "output_span": [
+            14,
+            14
+          ],
+          "before": "agent的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            32,
+            66
+          ],
+          "output_span": [
+            18,
+            19
+          ],
+          "before": "，以及macbook上的所有AI agent的本地会话，以及我在所有",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            68,
+            85
+          ],
+          "output_span": [
+            21,
+            25
+          ],
+          "before": "的AI chatbox中的会话内容",
+          "after": "聊天记录"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            90,
+            94
+          ],
+          "output_span": [
+            30,
+            30
+          ],
+          "before": "一些我的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            105,
+            106
+          ],
+          "output_span": [
+            41,
+            43
+          ],
+          "before": "m",
+          "after": " M"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            115,
+            115
+          ],
+          "output_span": [
+            52,
+            53
+          ],
+          "before": "",
+          "after": " "
+        }
+      ],
+      "retained_characters": 231,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "为什么仅仅保存聊天记录还不够？因为一个想法并不总是在同一段会话里完成。它可能先在一个问题中出现，在另一个问题中得到解释，又在一次实验失败以后改变条件。如果只按软件、日期和文件夹保存，资料虽然没有丢失，这些联系却仍然埋在里面。\n\n反过来，如果只让 AI 把所有记录总结成几条结论，又会丢掉形成结论的过程。最初是在什么条件下提出的，后来为什么修改，某个反对意见究竟有没有得到回答，都可能被一段流畅的总结覆盖。个人知识系统需要同时解决这两方面的问题。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 语义空间与演化空间，是两个相互联系的方向",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R1857",
+      "source_span": [
+        466,
+        1208
+      ],
+      "source_sha256": "9b7b70ec7a82477b29f616ba7152ca2a5e05d4fcc6a1959f9ce84016344dfc6e",
+      "text": "如果知识材料缺少形成过程，就应当尝试把它补足。许多训练文本及其标注，主要关注在静态语义空间中节点的关联和路径，比如问题与答案之间的关联，这更像是从git版本库中拉回的某个版本的代码和数据，通过学习训练，归纳抽象出其中的语义结构和关联。我希望为这些材料添加其在进化空间中的节点关联及其路径，就像是git中的所有代码修改历史（这里关注的不只是文本差异，而是基于 Merkle-DAG 框架记录的语义节点演化），我们知道，哪怕是同一个数学概念和词汇的token，在数学知识体系进化的过程中，也经历着演变，就好比limit极限这个概念。\n\n这个想法不限于数学理论空间，所有人类的知识理论空间，都可以用同样的方式来进行标注。为训练文本，添加动态进化空间中的坐标信息，计算相互之间在进化空间中的距离位置，考察理论进化所走过的进化路径。\n\n这里的进化空间距离，并不一定是物理时间和空间中的距离，在人类文明进化的早期，由于交流手段的局限，理论进化空间距离，往往受地理距离和时间间隔的影响，比如早期，科学家们的合作推进理论进化，仅限于人与人见面的距离，再后来演变成了书籍信件流通的距离，到了计算机信息时代，理论进化空间的距离，就不再局限于地理空间，而是由其网络赛博空间的距离所决定的。\n\n我设想的 Merkle-DAG 框架，可以将已有的和正在进行的编写代码，创造数据，提出想法意见等适合保存的信息，都进行这种进化空间的数据标注，也可以对前信息时代，人类历史上科学进化过程中学者的笔记书籍等也尝试进行诸如创作时间地点等进化空间信息的标注。在这个基础上对模型进行训练，能否让它学到理论形成的经验和规律，获得更强的创造能力？这是值得研究的问题。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            466,
+            474
+          ],
+          "output_span": [
+            0,
+            25
+          ],
+          "before": "2.既然大模型的",
+          "after": "如果知识材料缺少形成过程，就应当尝试把它补足。许多"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            478,
+            499
+          ],
+          "output_span": [
+            29,
+            29
+          ],
+          "before": "源有缺欠，就让我们补足它，传统的训练文本，",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            504,
+            504
+          ],
+          "output_span": [
+            34,
+            36
+          ],
+          "before": "",
+          "after": "主要"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            506,
+            509
+          ],
+          "output_span": [
+            38,
+            38
+          ],
+          "before": "的都是",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            589,
+            592
+          ],
+          "output_span": [
+            118,
+            120
+          ],
+          "before": "们能否",
+          "after": "希望"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            595,
+            599
+          ],
+          "output_span": [
+            123,
+            125
+          ],
+          "before": "训练源，",
+          "after": "材料"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            635,
+            637
+          ],
+          "output_span": [
+            161,
+            165
+          ],
+          "before": "我说",
+          "after": "这里关注"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            639,
+            639
+          ],
+          "output_span": [
+            167,
+            168
+          ],
+          "before": "",
+          "after": "只"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            640,
+            651
+          ],
+          "output_span": [
+            169,
+            169
+          ],
+          "before": "传统git中那种基于纯",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            653,
+            664
+          ],
+          "output_span": [
+            171,
+            173
+          ],
+          "before": "的diff式的进化历史",
+          "after": "差异"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            667,
+            678
+          ],
+          "output_span": [
+            176,
+            176
+          ],
+          "before": "我之前一直在试图构造的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            680,
+            681
+          ],
+          "output_span": [
+            178,
+            180
+          ],
+          "before": "m",
+          "after": " M"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            690,
+            690
+          ],
+          "output_span": [
+            189,
+            190
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            692,
+            692
+          ],
+          "output_span": [
+            192,
+            194
+          ],
+          "before": "",
+          "after": "记录"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            697,
+            699
+          ],
+          "output_span": [
+            199,
+            200
+          ],
+          "before": "的进",
+          "after": "演"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            700,
+            702
+          ],
+          "output_span": [
+            201,
+            201
+          ],
+          "before": "历史",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            765,
+            768
+          ],
+          "output_span": [
+            264,
+            266
+          ],
+          "before": "我说的",
+          "after": "\n\n"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            772,
+            773
+          ],
+          "output_span": [
+            270,
+            270
+          ],
+          "before": "，",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            864,
+            866
+          ],
+          "output_span": [
+            361,
+            365
+          ],
+          "before": "我说",
+          "after": "\n\n这里"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1034,
+            1034
+          ],
+          "output_span": [
+            533,
+            535
+          ],
+          "before": "",
+          "after": "\n\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1038,
+            1039
+          ],
+          "output_span": [
+            539,
+            541
+          ],
+          "before": "m",
+          "after": " M"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1048,
+            1048
+          ],
+          "output_span": [
+            550,
+            551
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1080,
+            1082
+          ],
+          "output_span": [
+            583,
+            588
+          ],
+          "before": "所有",
+          "after": "适合保存的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1161,
+            1162
+          ],
+          "output_span": [
+            667,
+            667
+          ],
+          "before": "大",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1169,
+            1173
+          ],
+          "output_span": [
+            674,
+            675
+          ],
+          "before": "不知道是",
+          "after": "能"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1174,
+            1176
+          ],
+          "output_span": [
+            676,
+            676
+          ],
+          "before": "可以",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1177,
+            1179
+          ],
+          "output_span": [
+            677,
+            678
+          ],
+          "before": "模型",
+          "after": "它"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1180,
+            1181
+          ],
+          "output_span": [
+            679,
+            679
+          ],
+          "before": "习",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1184,
+            1186
+          ],
+          "output_span": [
+            682,
+            684
+          ],
+          "before": "进化",
+          "after": "形成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1193,
+            1197
+          ],
+          "output_span": [
+            691,
+            693
+          ],
+          "before": "从而具备",
+          "after": "获得"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1202,
+            1205
+          ],
+          "output_span": [
+            698,
+            698
+          ],
+          "before": "理论的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1208,
+            1208
+          ],
+          "output_span": [
+            701,
+            711
+          ],
+          "before": "",
+          "after": "这是值得研究的问题。"
+        }
+      ],
+      "retained_characters": 635,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "可以用地图来帮助理解。语义空间关心的是一个概念与其他概念怎样连接，演化空间关心的是这些连接怎样出现、改变和分叉。某个思想在十年前已经被提出，与它在今天的研究中是否发挥作用，并不是同一件事；两段相隔很近的文字，也未必存在推理上的继承。\n\n因此，时间先后需要记录，逻辑与因果关系却不能仅凭时间先后来认定。一条较晚的发言可能只是重复，也可能在独立场景中提出相似想法。若要标记它继承或回应了另一条内容，应该能够找到具体依据。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 树状目录之下，为什么需要一张图",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54910",
+      "source_span": [
+        788,
+        871
+      ],
+      "source_sha256": "9c01d6e7a38e739ad42ea10d62a590ff4eb2a2c90989ef0cd611bebedf04a537",
+      "text": "个人的理性知识与人类的科学理论，都包含能够用图来描述的关系。某些推导和版本依赖可以组织成有向无环图，语言与程序也有能够按树状结构展开的部分。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            788,
+            795
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "我们知道无论是",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            802,
+            806
+          ],
+          "output_span": [
+            7,
+            8
+          ],
+          "before": "，还是全",
+          "after": "与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            809,
+            811
+          ],
+          "output_span": [
+            11,
+            11
+          ],
+          "before": "所有",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            815,
+            817
+          ],
+          "output_span": [
+            15,
+            15
+          ],
+          "before": "知识",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            818,
+            819
+          ],
+          "output_span": [
+            16,
+            36
+          ],
+          "before": "其",
+          "after": "都包含能够用图来描述的关系。某些推导和版"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            820,
+            825
+          ],
+          "output_span": [
+            37,
+            44
+          ],
+          "before": "质都是一种",
+          "after": "依赖可以组织成"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            830,
+            833
+          ],
+          "output_span": [
+            49,
+            49
+          ],
+          "before": "DAG",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            834,
+            841
+          ],
+          "output_span": [
+            50,
+            50
+          ],
+          "before": "描述这些知识的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            843,
+            861
+          ],
+          "output_span": [
+            52,
+            60
+          ],
+          "before": "，无论是人类语言还是计算机语言的语法",
+          "after": "与程序也有能够按"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            862,
+            862
+          ],
+          "output_span": [
+            61,
+            62
+          ],
+          "before": "",
+          "after": "状"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            864,
+            869
+          ],
+          "output_span": [
+            64,
+            69
+          ],
+          "before": "，都是如此",
+          "after": "展开的部分"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            870,
+            871
+          ],
+          "output_span": [
+            70,
+            70
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 28,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "一棵树适合阅读：从大问题进入章节，再进入概念和例子。但同一个概念常常服务于不同问题。这里的“动态权重”，既涉及集体决策，也涉及学习反馈；“公共知识”同时连接语言、合作、软件和制度。若强迫每个概念只能拥有一个上级，就会在目录里复制许多份，随后很难保持一致。\n\n图允许一份内容被多条路径引用。树可以作为它的一种阅读视图，而不是唯一结构。这样，读者能够沿着章节学习，也能够沿着某个概念的关系，看到它在不同问题中怎样被使用。\n\n还需要区分两种图。保存不可变对象及其依赖的内容图，可以按有向无环的方式构造；知识中的互相影响、反馈与循环论证，则可能包含环。不能为了满足存储形式，就宣布现实反馈不存在。循环关系可以作为带类型的记录被保存，版本则指向已经形成的内容，使记录结构与所描述的关系各自清楚。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 原话、提炼与判断，为什么都要保留",
+      "reason": "节标题"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "假定我在一段讨论中说，“共同知识能够减少误解”。AI 随后把它改写为“所有信息都应当公开”，又有另一个 AI 反对这种改写。若只保存最后的总结，这场争论可能被误认为是在反对我的原始主张；若保存完整原话和引用关系，就能看见争论发生在什么地方。\n\n因此，至少需要留下三种不同内容：实际说出的文字，从这些文字中提炼出的命题，以及关于命题之间关系的判断。三者可以连接，但不能互相覆盖。提炼的句子再顺畅，也不能冒充逐字原话；一个 AI 的解释再有启发，也不能因为被我粘贴进另一场会话，就自动变成我的观点。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R47840",
+      "source_span": [
+        484,
+        580
+      ],
+      "source_sha256": "b151517edceeccda3e0946db92a44f40ee16f5b5b234fc4a0ec0a782d520c2e8",
+      "text": "很多会话其实涉及到了多方会话，我经常在几个AI之间互相复制粘贴，进行交叉头脑风暴式的交流，需要把这些讨论的来源、转引和回应关系连接起来，才有可能得到完整的个人知识语义时空记录。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            484,
+            486
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "因为",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            531,
+            536
+          ],
+          "output_span": [
+            45,
+            45
+          ],
+          "before": "显然我们还",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            538,
+            544
+          ],
+          "output_span": [
+            47,
+            50
+          ],
+          "before": "对各个AI的",
+          "after": "把这些"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            546,
+            554
+          ],
+          "output_span": [
+            52,
+            67
+          ],
+          "before": "内容进行一下整合",
+          "after": "的来源、转引和回应关系连接起来"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            556,
+            557
+          ],
+          "output_span": [
+            69,
+            74
+          ],
+          "before": "是",
+          "after": "有可能得到"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            568,
+            579
+          ],
+          "output_span": [
+            85,
+            87
+          ],
+          "before": "merkle-DAG库",
+          "after": "记录"
+        }
+      ],
+      "retained_characters": 63,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "同一段文字被复制五次，内容上可能只有一份，发生事件却有五次。每次出现在哪个会话、由谁转发、用来回答什么问题，都可能不同。内容去重能够节省存储，却不能把这些出现事件一起抹掉。\n\n同样，一个人说“请评价下面这段话”，不表示他认同下面全部文字；他说“这个方向我赞同，但有一点要修改”，才给出了更具体的立场。系统需要保留这些差别。无法确定的归属，就保留不确定，而不是为了让图看起来完整，替作者补上从未表达的同意。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 资料怎样进入个人知识系统",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55221",
+      "source_span": [
+        25,
+        549
+      ],
+      "source_sha256": "40eeb12e91d29ad9ab11b5ddc7fc935987b62ea88fe9d2979b29d762ecbb1042",
+      "text": "用户经常会在电脑上下载，接收，修改和保存资料，问题是这些行为都是发生在不同应用上的，比如有的是通过浏览器下载，有的是通过bt下载，还有的是通过telegram下载，还有的是从办公软件，绘图软件，3d建模软件进行修改和保存行为。可以考虑这样一种实现，旧有的应用及其文件操作和文件系统中的存储组织形式还保留原有机制，然后在用户选择的范围内观察文件变化，对新增和修改的文件进行处理，为这些文件的自身信息以及与其相关的metadata(有的metadata不在本地，也可以按需要搜索、获取和处理，比如用户只下载了一个电影的视频文件，除了这个视频本身的metadata，比如分辨率帧率等之外，还可以自动根据文件名，从TMDB等处，搜索下载影片的metadata信息，如果文件本身不带字幕，而用户希望使用另一种语言，可以再查找适用且可使用的字幕)进行merkle化处理，并对这些信息，以及信息之间的关联进行索引。\n\n我们在这个过程中，逐步建立起对不同文件信息，及相关metadata的处理能力。每增加一个能力，就可以在空闲时对已有的同类文件内容进行处理，等这些应对不同文件的能力积累多了，能够处理的资料范围就逐步扩大。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            25,
+            27
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "确实",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            40,
+            41
+          ],
+          "output_span": [
+            13,
+            14
+          ],
+          "before": "受",
+          "after": "收"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            59,
+            61
+          ],
+          "output_span": [
+            32,
+            34
+          ],
+          "before": "法伤",
+          "after": "发生"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            140,
+            147
+          ],
+          "output_span": [
+            113,
+            117
+          ],
+          "before": "我们是不是应该",
+          "after": "可以考虑"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            149,
+            149
+          ],
+          "output_span": [
+            119,
+            121
+          ],
+          "before": "",
+          "after": "一种"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            186,
+            196
+          ],
+          "output_span": [
+            158,
+            169
+          ],
+          "before": "把这个实现为直接监视",
+          "after": "在用户选择的范围内观察"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            198,
+            202
+          ],
+          "output_span": [
+            171,
+            173
+          ],
+          "before": "系统行为",
+          "after": "变化"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            261,
+            269
+          ],
+          "output_span": [
+            232,
+            235
+          ],
+          "before": "通过操作进行自动",
+          "after": "按需要"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            271,
+            273
+          ],
+          "output_span": [
+            237,
+            240
+          ],
+          "before": "下载",
+          "after": "、获取"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            324,
+            325
+          ],
+          "output_span": [
+            291,
+            292
+          ],
+          "before": "开",
+          "after": "还"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            375,
+            376
+          ],
+          "output_span": [
+            342,
+            349
+          ],
+          "before": "的",
+          "after": "希望使用另一种"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            378,
+            384
+          ],
+          "output_span": [
+            351,
+            351
+          ],
+          "before": "偏好不是英文",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            385,
+            386
+          ],
+          "output_span": [
+            352,
+            352
+          ],
+          "before": "则",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            388,
+            394
+          ],
+          "output_span": [
+            354,
+            363
+          ],
+          "before": "自动下载影片",
+          "after": "再查找适用且可使用"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            395,
+            397
+          ],
+          "output_span": [
+            364,
+            364
+          ],
+          "before": "对应",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            433,
+            433
+          ],
+          "output_span": [
+            400,
+            402
+          ],
+          "before": "",
+          "after": "\n\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            519,
+            539
+          ],
+          "output_span": [
+            488,
+            490
+          ],
+          "before": "可以应对任意文件了，整个用户的数据文件的",
+          "after": "能够"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            541,
+            542
+          ],
+          "output_span": [
+            492,
+            497
+          ],
+          "before": "也",
+          "after": "的资料范围"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            543,
+            549
+          ],
+          "output_span": [
+            498,
+            503
+          ],
+          "before": "随之完成了，",
+          "after": "逐步扩大。"
+        }
+      ],
+      "retained_characters": 444,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "把这个思路用于个人思想记录，最初可以从已有导出文件和本地会话开始。先保存原始资料，再识别会话、发言、附件和时间；然后在其上建立可查询的索引与语义关系。这样，即使提取程序以后改进，仍然可以回到原材料重新处理。\n\n文件时间也需要谨慎理解。一份文章今天被导入，并不意味着它今天写成；一段聊天被转发到另一个平台，也不意味着观点在转发时才出现。原始发言时间、文件修改时间、导入时间和推测的创作时间，可以分别保存。没有记录的时间，应当承认不知道。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 记录的目的，是让想法继续生长",
+      "reason": "节标题"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "一个能够追溯的知识库，不应该把人的每一句随口猜想都变成永久标签。它恰恰应当使变化更加容易表达：这条想法仍在探索，那条已被修正，这个例子不再采用，但提出问题的方向还在继续。\n\n当一个结论改变时，旧版本可以继续作为历史保存，当前阅读则明确指向新的解释。这样，既不伪造过去，也不让过去压住现在。一个人的思想不再被一张静态画像概括，而是呈现为能够学习、分支、回应和重新组合的过程。\n\n这些记录还可以成为创作的材料。一篇独立文章可以直接采用当前最合适的表达，而在正文之外保留它来自哪里、怎样润色。读者不必先追完全部会话，作者也不会因为整理成文，就失去自己思考过程中的声音。由个人开始积累这种记忆，正是共同知识体系能够生长的一个具体起点。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

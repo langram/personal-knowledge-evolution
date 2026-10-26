@@ -1,0 +1,79 @@
+{
+  "run": "20261024T070542Z-9b144706",
+  "host": "win-main",
+  "capturer": "contributions/claude/capture_claude_windows.py",
+  "capturer_sha256": "266cc317ac61ae278385708122d1d3725bc284d3614e953d1de0da54a6113ca1",
+  "started_at": "2026-10-24T07:05:42.328253Z",
+  "finished_at": "2026-10-24T07:05:44.655735Z",
+  "scope": [
+    {
+      "kind": "claude-code-project-file",
+      "root": "C:\\Users\\langr\\.claude\\projects",
+      "glob": "**/*"
+    },
+    {
+      "kind": "claude-code-prompt-history",
+      "root": "C:\\Users\\langr\\.claude",
+      "glob": "history.jsonl"
+    },
+    {
+      "kind": "claude-desktop-session-meta",
+      "root": "C:\\Users\\langr\\AppData\\Local\\Claude-Data\\claude_pzs8sxrjxfjjc\\claude-code-sessions",
+      "glob": "**/*.json"
+    },
+    {
+      "kind": "claude-desktop-side-notes",
+      "root": "C:\\Users\\langr\\AppData\\Local\\Claude-Data\\claude_pzs8sxrjxfjjc\\side-session-notes",
+      "glob": "**/*.md"
+    }
+  ],
+  "excluded": [
+    "~/.claude/.credentials*, sessions/*.key, settings, plugins, file-history (edited-file backups), shell-snapshots",
+    "Claude-Data app config, tokens, IndexedDB/Local Storage caches, VM bundles"
+  ],
+  "files": 285,
+  "failed": 0,
+  "distinct_raw_blocks": 283,
+  "captured_bytes": 116721986,
+  "by_kind": {
+    "claude-code-transcript": {
+      "files": 39,
+      "bytes": 85350091
+    },
+    "claude-code-project-other": {
+      "files": 40,
+      "bytes": 56218
+    },
+    "claude-code-tool-result": {
+      "files": 11,
+      "bytes": 1004285
+    },
+    "claude-code-subagent-transcript": {
+      "files": 59,
+      "bytes": 29365386
+    },
+    "claude-code-subagent-meta": {
+      "files": 110,
+      "bytes": 579609
+    },
+    "claude-code-prompt-history": {
+      "files": 1,
+      "bytes": 20545
+    },
+    "claude-desktop-session-meta": {
+      "files": 23,
+      "bytes": 340992
+    },
+    "claude-desktop-side-notes": {
+      "files": 2,
+      "bytes": 4860
+    }
+  },
+  "status_counts": {
+    "captured": 285
+  },
+  "jsonl_partial_tail_files": 0,
+  "jsonl_unparsable_lines": 0,
+  "manifest": "raw/_manifest-20261024T070542Z-9b144706.jsonl",
+  "manifest_sha256": "59555d46333414c2e5ce0484ecb4029c8ccee84e25c9326f11e446e10f8c97df"
+}

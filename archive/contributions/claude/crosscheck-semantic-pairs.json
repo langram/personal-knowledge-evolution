@@ -1,0 +1,116 @@
+{
+  "ran_at": "2026-10-24T09:00:19Z",
+  "snapshot": "bafyreiezaag64fuifl2benocqseegkao3ktbiwvtc4kvekase6bblrvx4u",
+  "closure_objects": 108,
+  "closure_raw": 3,
+  "resolved_from": {
+    "pairs": 75,
+    "claude": 144,
+    "gemini-car": 56
+  },
+  "raw_documents_parsed": 2,
+  "problems": {
+    "anchor-bad": 0
+  },
+  "rows": [
+    {
+      "quote_len": 44,
+      "force": "question",
+      "earlier_platform": "claude-ai",
+      "gap": [
+        "2026-05-25T00:52:22.849144Z",
+        "2026-05-25T00:57:30.977Z"
+      ]
+    },
+    {
+      "quote_len": 54,
+      "force": "directive",
+      "earlier_platform": "claude-ai",
+      "gap": [
+        "2026-04-13T07:23:59.774027Z",
+        "2026-04-13T07:24:36.181Z"
+      ]
+    },
+    {
+      "quote_len": 22,
+      "force": "directive",
+      "earlier_platform": "claude-ai",
+      "gap": [
+        "2026-04-26T01:30:00.817751Z",
+        "2026-04-26T01:30:50.820Z"
+      ]
+    },
+    {
+      "quote_len": 44,
+      "force": "question",
+      "earlier_platform": "claude-ai",
+      "gap": [
+        "2026-05-25T02:06:25.831734Z",
+        "2026-05-25T02:06:31.918Z"
+      ]
+    },
+    {
+      "quote_len": 42,
+      "force": "question",
+      "earlier_platform": "claude-ai",
+      "gap": [
+        "2026-05-10T08:04:51.325576Z",
+        "2026-05-10T08:05:01.102Z"
+      ]
+    },
+    {
+      "quote_len": 79,
+      "force": "directive",
+      "earlier_platform": "claude-ai",
+      "gap": [
+        "2026-05-25T01:21:11.226773Z",
+        "2026-05-25T01:21:23.987Z"
+      ]
+    },
+    {
+      "quote_len": 34,
+      "force": "question",
+      "earlier_platform": "claude-ai",
+      "gap": [
+        "2026-05-10T06:56:00.273745Z",
+        "2026-05-10T06:57:12.843Z"
+      ]
+    },
+    {
+      "quote_len": 77,
+      "force": "question",
+      "earlier_platform": "claude-ai",
+      "gap": [
+        "2024-10-31T07:50:31.988082Z",
+        "2025-05-06T04:26:51.107Z"
+      ]
+    },
+    {
+      "quote_len": 56,
+      "force": "hypothesize",
+      "earlier_platform": "claude-ai",
+      "gap": [
+        "2025-09-28T01:00:44.719017Z",
+        "2025-09-28T14:36:16.653Z"
+      ]
+    },
+    {
+      "quote_len": 73,
+      "force": "question",
+      "earlier_platform": "claude-ai",
+      "gap": [
+        "2026-05-10T08:23:46.571502Z",
+        "2026-05-10T08:24:09.320Z"
+      ]
+    }
+  ],
+  "concept_label_verbatim_in_any_source": {
+    "AI 资源成本与用途": false,
+    "Merkle-DAG 引擎与 hotpath 实践": false,
+    "不动点、最小化与 AI 模型框架": false,
+    "动态范畴与相对无穷的设想": false,
+    "数学研究纲领的验证与收敛": false,
+    "组成单元与组合能力": false
+  },
+  "pass": true
+}

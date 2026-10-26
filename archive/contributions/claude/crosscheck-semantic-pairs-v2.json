@@ -1,0 +1,24 @@
+{
+  "ran_at": "2026-10-24T09:11:27Z",
+  "snapshot": "bafyreidlapbiuba2xhv3yo4xmhyzs5r2rl24hmmohfktl3lscwmawu6kcu",
+  "parent": [
+    "bafyreiezaag64fuifl2benocqseegkao3ktbiwvtc4kvekase6bblrvx4u"
+  ],
+  "closure_objects": 134,
+  "closure_raw": 3,
+  "current_members": 112,
+  "statements": 12,
+  "concepts": 7,
+  "relations": {
+    "about": 12,
+    "propagation-candidate": 10
+  },
+  "propagation_candidates_identical_to_v1": true,
+  "forces": {
+    "question": 7,
+    "directive": 2,
+    "assert": 3
+  },
+  "problems": {},
+  "pass": true
+}

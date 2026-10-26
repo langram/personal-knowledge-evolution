@@ -1,0 +1,17 @@
+{
+  "run": "20261024T090749Z",
+  "inbox_manifest_sha256": "73762f582284cb7e99e0d8498d9400fb5d5694df8a91b05b2e6fce8334eb80c8",
+  "rows": 51,
+  "distinct_cids": 51,
+  "bytes": 104485289,
+  "by_kind": {
+    "claude-code-prompt-history": 1,
+    "claude-code-subagent-transcript": 45,
+    "claude-code-transcript": 5
+  },
+  "failures": [],
+  "pass": true,
+  "manifest": "raw/_mac-main-capture-20261024T090749Z.jsonl",
+  "manifest_sha256": "16a43a56c1e80631b01ea2c0fce457ec0cbe759ec880318b7093c6fb1480a008",
+  "capturer_sha256": "dec15991da281cde05d49002e2f5bb9200f83148c517beb99457df40a856373a"
+}

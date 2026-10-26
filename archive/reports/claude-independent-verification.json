@@ -1,0 +1,22 @@
+{
+  "schema": "pkst.independent-peer-verification@0.1",
+  "verifier": "Codex decoder; Claude implementation not imported",
+  "peer_n3_vectors": 12,
+  "objects": 88696,
+  "schemas": {
+    "pkst/projection@0.1": 14457,
+    "pkst/occurrence@0.1": 22467,
+    "pkst/extraction-record@0.1": 22826,
+    "pkst/block-reference@0.1": 22618,
+    "pkst/opaque-block@0.1": 3244,
+    "pkst/activity@0.1": 566,
+    "pkst/content@0.1": 2426,
+    "pkst/source@0.1": 90,
+    "pkst/snapshot@0.1": 2
+  },
+  "external_raw_rehashed": 285,
+  "raw_anchor_samples": 32,
+  "status": "hashes, canonical decoding, set ordering, closure and sampled raw text anchors passed",
+  "elapsed_seconds": 28.196,
+  "scope": "Evidence integrity, not truth or completeness of thoughts"
+}

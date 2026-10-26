@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-10-24T07:31:54.496106+00:00",
+  "matched_distinct_long_texts": 0,
+  "claude_occurrences": 0,
+  "codex_occurrences": 0,
+  "method": "Exact PKST content CID; >=150 characters; plain text only",
+  "limitations": [
+    "Same text can be a shared template or quotation",
+    "No original author or copy direction inferred",
+    "No user adoption inferred",
+    "Candidate table is derived and awaits semantic review"
+  ],
+  "private_candidates": "coordination/.private/cross-source-candidates.jsonl"
+}

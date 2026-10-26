@@ -1,0 +1,585 @@
+{
+  "document": "01-new-principles.md",
+  "sha256": "78a2f5491eb1656c012c9daa49c437e16ef9a900015083d0eee3d48a8587f242",
+  "characters": 37910,
+  "cjk_characters": 31112,
+  "chapters": [
+    {
+      "id": "ch00",
+      "title": "前言：为什么还要写一篇《新原理》",
+      "sources": [
+        "PREFACE-2024",
+        "ORIGINAL",
+        "R48861",
+        "R54910"
+      ]
+    },
+    {
+      "id": "ch01",
+      "title": "一、极限与悖论：我们怎样把变化认识为事物",
+      "sources": [
+        "ORIGINAL",
+        "R48731",
+        "R49500",
+        "R49196",
+        "OLD-INFINITY",
+        "OLD-DYNAMIC"
+      ]
+    },
+    {
+      "id": "ch02",
+      "title": "二、对偶体与范畴论：从共同的关系寻找共同的构件",
+      "sources": [
+        "ORIGINAL",
+        "R48840",
+        "R48755",
+        "R49500",
+        "R49228"
+      ]
+    },
+    {
+      "id": "ch03",
+      "title": "三、不动点、最小化与涌现：稳定结构为什么能够成为下一层的起点",
+      "sources": [
+        "ORIGINAL",
+        "R48731",
+        "R49033",
+        "R49383",
+        "R55207",
+        "META-urxaqe",
+        "R49423",
+        "REEC"
+      ]
+    },
+    {
+      "id": "ch04",
+      "title": "四、对偶体与物理世界：从解释万物到研究构造能力",
+      "sources": [
+        "ORIGINAL",
+        "META-THEORY",
+        "R48527",
+        "R55111",
+        "REEC"
+      ]
+    },
+    {
+      "id": "ch05",
+      "title": "五、意识、信息与智能：一个系统怎样形成自己的世界",
+      "sources": [
+        "ORIGINAL",
+        "R48751",
+        "R49196",
+        "R49500",
+        "R49067",
+        "SEED-R16-0"
+      ]
+    },
+    {
+      "id": "ch06",
+      "title": "六、社会科学体系的重构：从人与人的连接开始",
+      "sources": [
+        "ORIGINAL",
+        "R48849",
+        "R54910",
+        "META-THEORY",
+        "R49135"
+      ]
+    },
+    {
+      "id": "ch07",
+      "title": "七、机器带来的平等：怎样使能力增长成为每个人的能力增长",
+      "sources": [
+        "R49135",
+        "R54910",
+        "META-urxaqe",
+        "SEED-R16-0",
+        "SEED-R14-0"
+      ]
+    },
+    {
+      "id": "ch08",
+      "title": "八、迈向统一：语言、公共知识与文明的 DNA",
+      "sources": [
+        "ORIGINAL",
+        "R55084",
+        "R55370",
+        "R55180",
+        "R54910"
+      ]
+    },
+    {
+      "id": "ch09",
+      "title": "九、把我的思想先收回来：个人知识的语义与时间结构",
+      "sources": [
+        "SEED-R10-0",
+        "SEED-R14-0",
+        "ARCHIVE",
+        "ORIGINAL"
+      ]
+    },
+    {
+      "id": "ch10",
+      "title": "十、从冷路径到热路径：让一次劳动成为可以继承的能力",
+      "sources": [
+        "R54910",
+        "R49187",
+        "R36081",
+        "HOTPATH-REPORT",
+        "R54886"
+      ]
+    },
+    {
+      "id": "ch11",
+      "title": "十一、新语言、Structoken 与 FPM：从文字拼接走向结构构造",
+      "sources": [
+        "R54803",
+        "R48623",
+        "STRUCTOKEN",
+        "R55084",
+        "R55180",
+        "R55370",
+        "R55469"
+      ]
+    },
+    {
+      "id": "ch12",
+      "title": "十二、MerkleVM 与种子：把一个人的数字空间组织起来",
+      "sources": [
+        "R54800",
+        "R55647",
+        "SEED-H2-0",
+        "R48769",
+        "R48840"
+      ]
+    },
+    {
+      "id": "ch13",
+      "title": "十三、构造比模仿更重要：让 AI 参与研究和自我迭代",
+      "sources": [
+        "R49083",
+        "R49560",
+        "R54629",
+        "CONSTRUCTION-INSTRUCTIONS",
+        "R54910"
+      ]
+    },
+    {
+      "id": "ch14",
+      "title": "十四、真正的 AGI：由人、AI 与现实世界共同构成的智能网络",
+      "sources": [
+        "SEED-R16-0",
+        "SEED-H2-0",
+        "R54910",
+        "R55111"
+      ]
+    },
+    {
+      "id": "ch15",
+      "title": "十五、动态权重决策：让实际反馈改变意见的影响力",
+      "sources": [
+        "R49135",
+        "R54886",
+        "SEED-R14-0",
+        "E002",
+        "T033",
+        "R54949"
+      ]
+    },
+    {
+      "id": "ch16",
+      "title": "十六、两类分配：把个人生活与公共资源的支配分开",
+      "sources": [
+        "SEED-H3-0",
+        "R54886",
+        "R54733",
+        "SEED-R14-0"
+      ]
+    },
+    {
+      "id": "ch17",
+      "title": "十七、一切需要共同决定的机制都开放：从开源产品到开放组织",
+      "sources": [
+        "SEED-R14-0",
+        "R54910",
+        "R54629",
+        "R55647"
+      ]
+    },
+    {
+      "id": "ch18",
+      "title": "十八、从个人数据主权开始：把信息孤岛变成自己的空间",
+      "sources": [
+        "SEED-R14-0",
+        "R54477",
+        "R54949",
+        "R54886",
+        "ARCHIVE"
+      ]
+    },
+    {
+      "id": "ch19",
+      "title": "十九、最小落地方案：先让一个人的空间真正可用",
+      "sources": [
+        "SEED-R14-0",
+        "SEED-R18-0",
+        "R54477",
+        "ARCHIVE"
+      ]
+    },
+    {
+      "id": "ch20",
+      "title": "二十、从一颗种子到新的生产生态",
+      "sources": [
+        "SEED-R14-0",
+        "SEED-H1-0",
+        "SEED-H4-0",
+        "SEED-R18-0",
+        "R54629",
+        "R55647"
+      ]
+    },
+    {
+      "id": "ch21",
+      "title": "二十一、自我实现的科幻：让文化创作成为共同构造的一部分",
+      "sources": [
+        "R55042",
+        "SEED-R18-0",
+        "SEED-H5-0"
+      ]
+    },
+    {
+      "id": "ch22",
+      "title": "二十二、科学、教育与每一个微小的思想火花",
+      "sources": [
+        "R54886",
+        "R55084",
+        "R49135",
+        "SEED-R16-0"
+      ]
+    },
+    {
+      "id": "ch23",
+      "title": "后记：让这篇文章也成为可以继续生长的构件",
+      "sources": [
+        "ORIGINAL",
+        "SEED-R14-0",
+        "R49083",
+        "META-jacqha"
+      ]
+    }
+  ],
+  "quotations": [
+    {
+      "id": "Q001",
+      "source_ref": "ORIGINAL",
+      "source_start": 32,
+      "source_end": 60,
+      "document_start": 764,
+      "document_end": 792,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "坦白讲，本文标题与牛顿经典著作标题的相似，是故意而为之！",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q002",
+      "source_ref": "ORIGINAL",
+      "source_start": 320,
+      "source_end": 477,
+      "document_start": 982,
+      "document_end": 1139,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "牛顿的经典物理学体系是科学发展史上第一座伟大丰碑。它运用先进的研究指导方法，引入崭新的数学理念，通过严谨的逻辑推理和数学演算，在几条基本定律的基础上，构建出一套完整自洽的物理体系，相对于旧有的自然哲学体系，牛顿体系在更高级别的抽象水平上，更加正确的刻画了我们身处的这个世界的运行规律，正式开启了现代科学的发展阶段。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q003",
+      "source_ref": "ORIGINAL",
+      "source_start": 479,
+      "source_end": 588,
+      "document_start": 1141,
+      "document_end": 1250,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "牛顿的这本著作是如此的伟大，以至于后人将《自然哲学的数学原理》这本书，简称为《原理》，仿佛它刻画了万物的原理。但事实上它没法做到这一点，后来的广义相对论时空观告诉我们，牛顿体系不过是宇宙在宏观低速层面上的近似物理规律。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q004",
+      "source_ref": "ORIGINAL",
+      "source_start": 2201,
+      "source_end": 2424,
+      "document_start": 2074,
+      "document_end": 2297,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "伟大的理论重构总是能够将先前互不兼容的理论体系纳入统一的理论框架，就像麦克斯韦的电磁学理论统一了关于电和磁的理论，牛顿的经典力学统一了天体运动理论和地球表面的物体运动理论。本文提出的统一理论框架设想，将试图从底层重构整个人类知识体系，把数学与科学统一到同一个框架之内。在这个框架内，数学体系和科学体系将以清晰的形式化定义出现，从而把“现代科学的数学原理”和“数学概念的科学意义”这样问题，转变成于该体系中两个对象之间的正向和逆向对偶映射关系问题。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q005",
+      "source_ref": "ORIGINAL",
+      "source_start": 4975,
+      "source_end": 4984,
+      "document_start": 3630,
+      "document_end": 3639,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "好，下面正式开始！",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q006",
+      "source_ref": "ORIGINAL",
+      "source_start": 5199,
+      "source_end": 5366,
+      "document_start": 5250,
+      "document_end": 5417,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "很显然，数学就是寻找世间万物基本共性，赋予这些对象同样的名字，定义它们的性质，并且研究这些对象性质之间相互关系的学问。范畴论作为一门以数学结构为研究对象的数学，对不同数学分支中概念和关系的共同特性进行抽象化的命名。它把不同数学理论分支中原本不同的概念，命名为同一个名字，是一门将“赋予不同事物相同名字”这件事进一步做到极致的数学理论。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q007",
+      "source_ref": "ORIGINAL",
+      "source_start": 5368,
+      "source_end": 5508,
+      "document_start": 5419,
+      "document_end": 5559,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "例如，集合、群、向量空间、拓扑空间，在范畴论中都叫**对象**。而函数、群同态、线性映射、连续映射都叫**态射**。这些看起来完全不同的数学概念，却都具有相同的基本特性：复合性，结合律，恒等态射。这些数学概念组成的数学结构中也都存在一些相同的结构，比如极限，余极限，万有性质等等。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q008",
+      "source_ref": "ORIGINAL",
+      "source_start": 8500,
+      "source_end": 8639,
+      "document_start": 5880,
+      "document_end": 6019,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "基于此，我尝试在范畴论中，将对偶性从一个全局的不证自明的万有性质，提升为一个明确的、比对象和态射更基本的实体概念——**对偶体 (Dualoid)**，并在此基础上，以对偶体的对偶性来定义对象、态射和范畴等更高级的概念。这个设想，类似于从道家的“道”中生发出“阴”和“阳”两仪。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q009",
+      "source_ref": "META-urxaqe",
+      "source_start": 0,
+      "source_end": 266,
+      "document_start": 8069,
+      "document_end": 8335,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "这种约束和自由，稳定和变化的对称性，与最小化/最大化原理的关系，就在于最小化/最大化是一对耦合的互相关联的规律，所以这种约束和自由，稳定和变化的对称性，很可能就是这个原理中，真正能够达成最小化/最大化的条件。而且这种能力上的对称性，并不影响功能的多样性，碳元素在能力上的对称性/平等性，并不影响有机物功能的多样性，多细胞生物的每个细胞的DNA的一致性，也不影响细胞功能的多样性，同样的人类/AI个体的能力权力的平等，也不等于功能的单一化，恰恰相反，正是有了这种对称性/平等性/一致性，这些基本对象才能真正赋予和释放自身功能的多样性。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q010",
+      "source_ref": "R49196",
+      "source_start": 192,
+      "source_end": 435,
+      "document_start": 10433,
+      "document_end": 10676,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "不同的是，我还有一个对话的上下文，就是我和我自己的对话，里面都是我自己的思考，包括看书获得的固有的静态知识，就像你的大模型库中的静态知识，但是还有我从和你的聊天上下文中提取的引起我注意力的内容，也有我和其他人或者影视书籍，以及通过感官获取的各种记忆上下文中引起我注意力的内容，这种自我注意力机制，会不断的将自己感兴趣的内容，添加到一个属于自己的，自我对话的上下文，或者叫自我反思上下文，在这个上下文中不断的聊天，并根据新的摄入的内容，调整压缩上下文，也许这就是人类的自我意识中的灵魂吧？",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q011",
+      "source_ref": "SEED-R16-0",
+      "source_start": 115,
+      "source_end": 313,
+      "document_start": 13030,
+      "document_end": 13228,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "就像人类在进行体力劳动时，只做到的事情，与一个人的生理极限相关，力量精度和速度的极限，就是你能完成任务的极限。而且即使合作，没有自动化机器的帮助，传统的体力劳动的合作也是受限制的，比如可以很多人一起用力，来累加力量，但是速度和精度，是无法靠多人累积的，而且力量的累计也有很多限制，比如空间狭窄的地方，无法聚集多人发力等等。而有了机器，那么在科学技术的加持下，人类无法完成的体力劳动，都可以完成了。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q012",
+      "source_ref": "ORIGINAL",
+      "source_start": 13028,
+      "source_end": 13124,
+      "document_start": 13819,
+      "document_end": 13915,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "人类的进化史，在某种意义上是一部通信工具的进化史。从语言文字的出现，到计算机语言的诞生，每一次对信息基本组成单元的更深刻认识，都极大地增强了上层系统的灵活性和组合创新能力，带来一次文明的飞跃。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q013",
+      "source_ref": "R55084",
+      "source_start": 244,
+      "source_end": 422,
+      "document_start": 14079,
+      "document_end": 14257,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "试想没有完善的乐谱记谱体系，仅靠人类早期记录音乐的方式，无法构造复杂的交响乐。没有人类对数学物理化学等自然科学的理论描述语言的形式化，仅凭自然语言的那些源自早期人类感官感受所抽象出来的那些词汇，就无法支撑这些领域的庞大复杂科学知识体系的构造。同样的计算机被发明之后，那些计算机编程语言也是经过精确定义的形式化的语言，没有它们，复杂的程序应用就无法构造出来。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q014",
+      "source_ref": "ORIGINAL",
+      "source_start": 13374,
+      "source_end": 13468,
+      "document_start": 14524,
+      "document_end": 14618,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "基于此，我们可以构想一个全新的统一符号框架，并创造一个全新的统一语言。我的设想是：设计一种全新的编程语言，使用**哈希算法**得到的字符串哈希值作为该语言中所有代码和数据对象的唯一标识符。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q015",
+      "source_ref": "R48623",
+      "source_start": 246,
+      "source_end": 719,
+      "document_start": 18317,
+      "document_end": 18790,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "但是我觉得这个问题可以在这个项目中，引入类似编程语言组织函数的name space 功能，为不同的硬件，软件平台，编程语言，软件子系统，程序库，以及程序模块/函数，定义一个name space的hash token，以及由这些hash token构成hash Merkle Tree的数据集合。如果说程序的构建过程，是一个自底向上，由简单到复杂的过程，与之相反，name space的构建过程，则是自顶而下，越是宏观的大分类，越是基本的hash节点，比如硬件平台空间名(x86, arm),再比如操作系统空间名(window,linux,macos,ios,android)，再比如编程语言空间(c,java,python...)，再比如图形API系统(directx, vulkan)；再比如游戏引擎(unity,unreal).越是精细的软件模块/函数，则是更复杂高级的节点，其名字空间由其各个子节点的token所约束，比如某个游戏中的子函数，其名字空间会被游戏名称，游戏引擎，图形API，操作系统，硬件平台等更基础的子空间token所约束。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q016",
+      "source_ref": "R55180",
+      "source_start": 516,
+      "source_end": 730,
+      "document_start": 19068,
+      "document_end": 19282,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "问题是，很多问题的不确定性其实是处于中间区间，其不确定性既不像数据库条件查询那样简单，也不像自然语言理解那么复杂，其实jev尝试的就是这部分区间。而我在最近的fpm-research-lab中，尝试为merkle框架下层级化的树状结构的toekn节点集合，根据不同层级，不同子树的复杂度，动态调节模型的embedding和注意力头的设置，其实就是想提供一个更统一，更优雅，更底层的处理不同不确定性尺度下，提供动态解决方案的手段。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q017",
+      "source_ref": "R55647",
+      "source_start": 417,
+      "source_end": 636,
+      "document_start": 20359,
+      "document_end": 20578,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "然后这个包裹着旧生态对象的种子，一方面可以直接开始利用旧生态对象的数据和功能，开始投入实际工作。一方面，开始对内部的旧生态进行拆解，逐步改造为merkle化的新生态，这个过程中，很可能会再次重复上述的种子投放包裹的迭代过程，比如一个包裹某个用户及其所能支配的本地和云端所有硬件和软件资源的种子对象，在继续分解过程中，会分别对用户的具体某台个人电脑/手机/平板及其上的软硬件进行包裹，然后再细分到，对某台电脑上的某个应用或某个任务进行包裹。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q018",
+      "source_ref": "R49083",
+      "source_start": 0,
+      "source_end": 171,
+      "document_start": 21744,
+      "document_end": 21915,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "我说一个可以在工程上落地的检测标准，让项目按照理论的指导来构造，让项目最终具备了相对于传统方法至少在几个主要benchmark维度上可测的优势，可以让AI和人类共同构造和实现原本并不存在的事务(比如平权分工，动态权重的社会神经网络系统)，同时让项目具备自举功能，来实现自举式迭代。我从直觉上认为这个项目本身构造了一个具有涌现性质的自指不动点。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q019",
+      "source_ref": "SEED-R16-0",
+      "source_start": 500,
+      "source_end": 658,
+      "document_start": 22440,
+      "document_end": 22598,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "真正的AGI，是我说的这个动态权重决策的智能网络神经系统上，无数人类个体组织，无数个公共云端的巨型，大型，中型，小型AI系统，以及个人的本地AI系统，无数的机器人，自动设备，无数的传感器，一起采集处理分析创造数据，编写代码以及构造知识系统和决策系统，完成原本靠生物人的个体和集体无法完成的高阶文明智力活动和体力活动。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q020",
+      "source_ref": "R49135",
+      "source_start": 1852,
+      "source_end": 2001,
+      "document_start": 23682,
+      "document_end": 23831,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "在这个网络中，每个智慧个体(不论是生物人，还是人工智能)，平等互联，可以自由的在自己喜欢的领域里自由创造，自由发表意见，每个个体在任何领域都具有一个平等的初始权重，并像人工智能网络一样，随着不停的反馈，根据它在某个领域内的创造和意见，对该系统的影响，进行正负反馈，随时动态调整其在该领域意见的权重。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q021",
+      "source_ref": "SEED-H3-0",
+      "source_start": 818,
+      "source_end": 1748,
+      "document_start": 25231,
+      "document_end": 26161,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "财富和资源其实是有两部分用途的，一部分是供团体中维持每个个体的生存，满足这些个体的物质和精神需求；另一部分是供这个团体作为一个整体的生存和运作所需要消耗的财富和资源。但是这个团体如何运作，怎样分配和消耗这些财富和资源，却需要一个智力中枢核心来负责，而传统体制，无论是政治形式中的威权独裁，还是民主体制中的政党制中的多党轮流执政，其政府结构，以及商业公司的权力结构，本质上都是一种金字塔式的具有权力落差的层级结构，层级之间的权力不对等，以及反复博弈之后的复利效应，导致权力和财富的分配，都呈现幂律分配的长尾分布。而站在金字塔尖上的政治和经济精英们凭借自身专业能力上的优势和长期反复博弈后获得的权力和资本资源上的幂律分布优势，获得了整个团体运作的决策权。这种情况下，在反复竞争下，获胜的决策领导者，是相对能力更强，决策的正确概率更高的个体。由他来领导团体，显然，比早期人类组织形式中的抽签法，以及平均投票法，具有更好的效果。\n6.是否有更好的决策正确概率更高的团体组织决策体系呢？我之前提到的类似于垃圾邮件算法的动态分配权重的方式就是这个时代的更好选择。而且这个动态分配权重的方式，甚至都不需要人主动手动的来参与。\n7.meta曾经为公司员工安装跟踪员工在电脑上的键盘和鼠标操作等信息，将员工的工作中的操作和行为都记录下来，实际上是将员工的知识和技能变成了公司的资产，未来被AI替代。也有很多人，将自己和别人的总结的经验和技能写进skill文档，让AI调用它，就相当于是让某个人来对某个问题进行选择和判断。如果我们的merkle-DAG系统，将一个人的数字空间都记录下来，这个人的机能，认知以及偏好都在保证隐私安全的情况下记录下来，并且记录其拥有者的ID，且不会被篡改，这就相当于一种更广泛的知识产权标记。这个人的所有数字空间中的数据代码设置偏好认知以及机能，对所有感兴趣的问题的意见和看法，都在这个空间中，当遇到6中提到的团体需要的决策问题时，绝大多数情况下，不需要用户自己的主动参与，AI就能自动根据自身数字空间中的记录，提供自己的意见和看法了。如果是重要的议题，且用户本身对这个感兴趣，那么可以由AI提请用户参与，经过讨论后，提交用户主动参与后的意见。\n8.",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q022",
+      "source_ref": "SEED-R14-0",
+      "source_start": 18,
+      "source_end": 184,
+      "document_start": 27396,
+      "document_end": 27562,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "不是只具有随时收回数据的能力，而是彻底用新体制的全新组织形式所提供的软件和服务来彻底替代这些商业公司的产品，这比只使用开源软件和开源产品更进一步，因为不但产品是开源的，生产设计运营这些产品和服务的组织实体也是新机制（相当于一切开源，组织形式，分配方式，决策算法都是开源的，都是人人可以审查，可以追溯，可以共同决策，共同构建的）下的。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q023",
+      "source_ref": "R54477",
+      "source_start": 35,
+      "source_end": 291,
+      "document_start": 28910,
+      "document_end": 29166,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "我设想的新机制替代过程，就是从第一个开源项目开始，这个项目有点像最近特别火的rea，只不过我们的目的不是反向工程一切软件和服务，而是反向分析当今所有的数据和应用的信息孤岛的接口协议，然后建立一套完全兼容他们的替代应用和数据源，但是运行在基于merkle架构的新机制下，可信任防篡改，公开一切机制能保证的信息，分配制度基于我之前提到的个体需求部分按需求按更健康合理的方式分配，其余的部分归全体共同通过动态权重系统的智能决策网络支配。这个过程是非暴力的，通过新系统的更高效的能力，在与旧机制的竞争中逐步温和的完成过渡",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q024",
+      "source_ref": "SEED-R14-0",
+      "source_start": 1175,
+      "source_end": 1354,
+      "document_start": 31752,
+      "document_end": 31931,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "当然跟众筹有一些不同，首先，并不是消费者出资不出力，而是消费者也是生产者创造者，其次，并不需要达到某个众筹的数量或金额目标才能开始，从我一个人做起，从最便宜最简单的云存储开始，从我个人的小资金零钱开始。第三，参与方式更灵活，如果你有信心有信仰，可以多投入资金，多投入精力，除了作为消费者，也作为参与者，如果没有信心，可以只做消费者，提供最基本的用户反馈，但是",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q025",
+      "source_ref": "R55042",
+      "source_start": 0,
+      "source_end": 66,
+      "document_start": 32943,
+      "document_end": 33009,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "关于自我实现的科幻作品的设想：传统的科幻作品，只负责幻想，不负责实现，而我想创造一种新的科幻作品，用于我的新文明制度设想的自我实现。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q026",
+      "source_ref": "R54886",
+      "source_start": 7546,
+      "source_end": 7757,
+      "document_start": 34713,
+      "document_end": 34924,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "未来的世界，新的体制下，每一个人都在记录自己的人生，自己在AI的加持下，快速的理解掌握这个世界的知识和信息，的任何一个微小的思想火花都会被记录被发送传播，然后通过巨大的动态权重智能神经网络，和巨大的遍布全球的可以整合全人类智能的AI系统，保存并记录着已有的所有人类知识存量，并且让每一个人类和AI智能体节点的微小思想火花，在其他人的共同协作下，快速变成知识增量，并加入到全球AI知识库中，不断的如此循环迭代，快速增加知识。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q027",
+      "source_ref": "ORIGINAL",
+      "source_start": 15076,
+      "source_end": 15219,
+      "document_start": 35324,
+      "document_end": 35467,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "这个理论框架的构建，远未完成，更谈不上严格的形式化证明。它更像是一个思想实验的蓝图，一个邀请读者共同思考的起点。文中的每一个类比，每一个推论，都值得更深入的探讨和更严谨的审视。如果文中的某些观点能够激发您的思考，挑战您既有的观念，甚至为您自己的探索提供一丝灵感，那么本文的目的便已达到。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    },
+    {
+      "id": "Q028",
+      "source_ref": "SEED-R14-0",
+      "source_start": 1094,
+      "source_end": 1173,
+      "document_start": 36075,
+      "document_end": 36154,
+      "coordinate": "unicode-scalar-half-open",
+      "text": "至少从现在看，这个设想已经吸引到了一个人，这个人就是我，通过互联网和现实中的宣传，争取吸引更多的人参与。众人拾柴火焰高，将这个设想从一颗种子变成一个参天大树。",
+      "treatment": "exact source excerpt; original authorship classification retained"
+    }
+  ],
+  "explicit_verbatim_characters": 5461,
+  "original_writing_time": null,
+  "artifact_source_time_rule": "upload time is not writing time",
+  "edition": "Codex first-person editorial synthesis for author review; not user-adopted policy"
+}

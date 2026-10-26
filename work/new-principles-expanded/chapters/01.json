@@ -1,0 +1,1467 @@
+{
+  "chapter": "01",
+  "title": "极限、悖论与认识的边界",
+  "status": "expanded-copyedited",
+  "review": {
+    "reasoning": "变换的共同结构→运动的分段与极限→等价关系的条件→自指的构造边界→动态扩展→有限构造能力",
+    "examples": [
+      "道路连接",
+      "二分行走与时间",
+      "0.999…",
+      "泥杯与圆环",
+      "罗素集合",
+      "十个元素的幂集"
+    ],
+    "objections": [
+      "有无穷分段为何能到达",
+      "等价是否任意",
+      "动态扩展是否推翻不完备性",
+      "有限空间为何称无穷"
+    ],
+    "voice": "原始底稿为骨架，保留后续作者自指与相对尺度设想；错误数学等同作明确实质改写",
+    "status": "初校；实质修订保留原文差异，未声称作者已经批准全部技术订正",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        5027,
+        5165
+      ],
+      "source_sha256": "0cb5ad39f542752a155203f87f2f749f686422a7f7834d8d0959dfbce437477c",
+      "text": "一套试图把科学知识统一起来的理论，需要能够清楚描述对象、关系和推理的数学工具。要想建立一个统一理论，首先要解决的就是找到该理论的数学原理，现代数学理论，学科众多，体系繁杂，想在其中找到适合描述这种统一框架的数学原理的数学工具，并非易事，我的直觉把研究方向指向了范畴论。直觉可以帮助选择入口，接下来则要看，这个入口究竟能够让我们看见什么。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            5027,
+            5029
+          ],
+          "output_span": [
+            0,
+            14
+          ],
+          "before": "任何",
+          "after": "一套试图把科学知识统一起来的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5031,
+            5038
+          ],
+          "output_span": [
+            16,
+            34
+          ],
+          "before": "都是建立在一套",
+          "after": "，需要能够清楚描述对象、关系和推理的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5040,
+            5050
+          ],
+          "output_span": [
+            36,
+            38
+          ],
+          "before": "原理的基本规则之上的",
+          "after": "工具"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5108,
+            5114
+          ],
+          "output_span": [
+            96,
+            102
+          ],
+          "before": "终极万物理论",
+          "after": "这种统一框架"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5130,
+            5136
+          ],
+          "output_span": [
+            118,
+            119
+          ],
+          "before": "一个快速有效",
+          "after": "我"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5137,
+            5143
+          ],
+          "output_span": [
+            120,
+            120
+          ],
+          "before": "方法，是依靠",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5145,
+            5161
+          ],
+          "output_span": [
+            122,
+            130
+          ],
+          "before": "，直觉告诉我，这门学科最可能的是",
+          "after": "把研究方向指向了"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5164,
+            5165
+          ],
+          "output_span": [
+            133,
+            168
+          ],
+          "before": "！",
+          "after": "。直觉可以帮助选择入口，接下来则要看，这个入口究竟能够让我们看见什么。"
+        }
+      ],
+      "retained_characters": 84,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        5199,
+        5508
+      ],
+      "source_sha256": "75bf5655b6bf1a5d70f3db7dee8514b9e61c88652797aaf1a4c630257e70550c",
+      "text": "数学的一项重要工作，就是寻找世间万物的基本共性，赋予这些对象共同的名字，定义它们的性质，并且研究这些性质之间的关系。范畴论作为一门以数学结构为研究对象的数学，对不同数学分支中概念和关系的共同特性进行抽象化的命名。它把不同数学理论分支中原本不同的概念，命名为同一个名字，是一门将“赋予不同事物相同名字”这件事进一步做到极致的数学理论。\n\n例如，集合、群、向量空间、拓扑空间，在范畴论中都叫**对象**。而函数、群同态、线性映射、连续映射都叫**态射**。在这些不同的结构中，都可以考察变换的复合、复合的结合律，以及不改变对象的恒等变换。这些数学概念组成的数学结构中也都存在一些相同的结构，比如极限，余极限，万有性质等等。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            5199,
+            5203
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "很显然，",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5205,
+            5205
+          ],
+          "output_span": [
+            2,
+            10
+          ],
+          "before": "",
+          "after": "的一项重要工作，"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5213,
+            5213
+          ],
+          "output_span": [
+            18,
+            19
+          ],
+          "before": "",
+          "after": "的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5224,
+            5224
+          ],
+          "output_span": [
+            30,
+            31
+          ],
+          "before": "",
+          "after": "共"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5225,
+            5226
+          ],
+          "output_span": [
+            32,
+            32
+          ],
+          "before": "样",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5244,
+            5246
+          ],
+          "output_span": [
+            50,
+            50
+          ],
+          "before": "对象",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5250,
+            5252
+          ],
+          "output_span": [
+            54,
+            55
+          ],
+          "before": "相互",
+          "after": "的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5254,
+            5257
+          ],
+          "output_span": [
+            57,
+            57
+          ],
+          "before": "的学问",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5426,
+            5426
+          ],
+          "output_span": [
+            226,
+            227
+          ],
+          "before": "",
+          "after": "在"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5428,
+            5433
+          ],
+          "output_span": [
+            229,
+            229
+          ],
+          "before": "看起来完全",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5436,
+            5440
+          ],
+          "output_span": [
+            232,
+            235
+          ],
+          "before": "数学概念",
+          "after": "结构中"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5441,
+            5442
+          ],
+          "output_span": [
+            236,
+            236
+          ],
+          "before": "却",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5443,
+            5447
+          ],
+          "output_span": [
+            237,
+            243
+          ],
+          "before": "具有相同",
+          "after": "可以考察变换"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5448,
+            5453
+          ],
+          "output_span": [
+            244,
+            244
+          ],
+          "before": "基本特性：",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5455,
+            5457
+          ],
+          "output_span": [
+            246,
+            250
+          ],
+          "before": "性，",
+          "after": "、复合的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5461,
+            5461
+          ],
+          "output_span": [
+            254,
+            262
+          ],
+          "before": "",
+          "after": "以及不改变对象的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5463,
+            5465
+          ],
+          "output_span": [
+            264,
+            266
+          ],
+          "before": "态射",
+          "after": "变换"
+        }
+      ],
+      "retained_characters": 274,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "第一次接触这些词，可以先想一个很普通的过程。把一种表示方式转换成另一种，再把第二种转换成第三种，我们希望能够说清楚，整个过程怎样从第一种走到第三种。不同的领域会使用不同的变换，但“变换能够接在一起”这一点，可以被单独研究。\n\n这样做并没有消除具体差别。正如研究交通网络时，可以先研究道路怎样连接，再研究道路究竟容许什么车辆通过。如果连接方式本身就有问题，换一辆更快的车也不能解决；而连接方式相同，也不意味着路面、运力和成本都相同。抽象的意义，在于使一类共同的问题能够被放到一起看清楚。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        5647,
+        5926
+      ],
+      "source_sha256": "f38e63ffa9e286f0d8539b2a5d47b03b90be1107f620571e366f518a1efb4e02",
+      "text": "另外，由于范畴论可以暂时抽离具体内容，考察共同的结构，提供了一种高空鸟瞰的视角，经常会发现一些从近处观察，被繁复细节所掩盖的重要特性。就像体积庞大的山峦，你从近处看各不相同，但是你从远处眺望，就会发现一个共同规律，同一座山在不同方向下，会呈现很不一样的形状。正如苏轼的诗：\n\n横看成岭侧成峰，远近高低各不同。  \n不识庐山真面目，只缘身在此山中。\n\n范畴论寻找最大共性、全局式考察的方法，能够提供一个从最高处鸟瞰的观察视角，在这种视角下，有可能发现原本研究中因为与观察对象距离太近而无法发现的新的特性，为研究提供新的线索。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            5655,
+            5656
+          ],
+          "output_span": [
+            8,
+            19
+          ],
+          "before": "只",
+          "after": "可以暂时抽离具体内容，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5658,
+            5661
+          ],
+          "output_span": [
+            21,
+            21
+          ],
+          "before": "最基本",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5662,
+            5672
+          ],
+          "output_span": [
+            22,
+            23
+          ],
+          "before": "性，并不关注细枝末节",
+          "after": "同"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5673,
+            5675
+          ],
+          "output_span": [
+            24,
+            26
+          ],
+          "before": "特点",
+          "after": "结构"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5756,
+            5761
+          ],
+          "output_span": [
+            107,
+            127
+          ],
+          "before": "横看都是岭",
+          "after": "同一座山在不同方向下，会呈现很不一样的形"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5762,
+            5788
+          ],
+          "output_span": [
+            128,
+            128
+          ],
+          "before": "，侧看都是峰状，这就是鸟瞰视角下发现的山脉的共同特点",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5822,
+            5823
+          ],
+          "output_span": [
+            162,
+            162
+          ],
+          "before": "真",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5855,
+            5861
+          ],
+          "output_span": [
+            194,
+            196
+          ],
+          "before": "为所有学科都",
+          "after": "能够"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5863,
+            5864
+          ],
+          "output_span": [
+            198,
+            198
+          ],
+          "before": "了",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5885,
+            5887
+          ],
+          "output_span": [
+            219,
+            221
+          ],
+          "before": "往往",
+          "after": "有可"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5888,
+            5889
+          ],
+          "output_span": [
+            222,
+            222
+          ],
+          "before": "够",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5921,
+            5925
+          ],
+          "output_span": [
+            254,
+            260
+          ],
+          "before": "带来突破",
+          "after": "提供新的线索"
+        }
+      ],
+      "retained_characters": 217,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "但站得高也有代价：距离太远，会看不清细节。真正有用的统一框架，需要容许我们在两个方向之间来回走。一方面，从不同现象中抽出共同关系；另一方面，再把这些关系放回具体问题，看看重要条件有没有被遗漏。接下来从一个人人都能够想象的问题开始：一个人究竟怎样走完一段路？",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 走完一段路，是否必须先完成无穷件事情",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        6262,
+        6631
+      ],
+      "source_sha256": "24df61b84150f8e9eafb9ec1d0d3f17c0bc61606b15e4cd6eb31dd1083f1b29e",
+      "text": "芝诺悖论有多种版本，如“阿基里斯追不上乌龟”、“飞矢不动”等，这些问题使我们注意到运动与分段描述之间的关系。以“二分法悖论”为例，一个人要从A点走到B点，必须先走完路程的1/2，再走完剩下路程的1/2，如此循环往复。由于这个“一半”的过程可以无限进行下去，他似乎永远也无法抵达终点B。在数学中，“0.999...是否等于1”这个问题也能帮助我们理解无穷过程。对这个问题，实数体系中的极限概念提供了严格的解释。在一个收敛序列中，项可以不断变化，却越来越接近一个确定的值。借助极限，我们可以严格描述这种接近关系，而不必把“有无穷多个分段”理解成“需要无穷长的时间”。正是借助极限，人们解决了如何用离散的数值和运算来描述连续的变化，从而发展出微积分理论，将数学的描述能力从静态事物提升到可以描述宇宙万物的复杂运动。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            6293,
+            6304
+          ],
+          "output_span": [
+            31,
+            43
+          ],
+          "before": "其本质触及了连续性存在",
+          "after": "这些问题使我们注意到运动"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6305,
+            6310
+          ],
+          "output_span": [
+            44,
+            48
+          ],
+          "before": "离散性表示",
+          "after": "分段描述"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6313,
+            6315
+          ],
+          "output_span": [
+            51,
+            53
+          ],
+          "before": "矛盾",
+          "after": "关系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6428,
+            6439
+          ],
+          "output_span": [
+            166,
+            178
+          ],
+          "before": "就是芝诺悖论的一个变种",
+          "after": "也能帮助我们理解无穷过程"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6440,
+            6440
+          ],
+          "output_span": [
+            179,
+            180
+          ],
+          "before": "",
+          "after": "对"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6444,
+            6453
+          ],
+          "output_span": [
+            184,
+            184
+          ],
+          "before": "困扰了人们很长时间",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6454,
+            6457
+          ],
+          "output_span": [
+            185,
+            191
+          ],
+          "before": "直到“",
+          "after": "实数体系中的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6459,
+            6462
+          ],
+          "output_span": [
+            193,
+            193
+          ],
+          "before": "”这个",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6464,
+            6476
+          ],
+          "output_span": [
+            195,
+            198
+          ],
+          "before": "的出现，才将其化解并纳入",
+          "after": "提供了"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6479,
+            6483
+          ],
+          "output_span": [
+            201,
+            203
+          ],
+          "before": "数学体系",
+          "after": "解释"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6484,
+            6488
+          ],
+          "output_span": [
+            204,
+            205
+          ],
+          "before": "极限通过",
+          "after": "在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6489,
+            6505
+          ],
+          "output_span": [
+            206,
+            212
+          ],
+          "before": "种精妙的方式承认了无穷过程的存在",
+          "after": "个收敛序列中"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6506,
+            6516
+          ],
+          "output_span": [
+            213,
+            227
+          ],
+          "before": "并赋予了这个无穷过程",
+          "after": "项可以不断变化，却越来越接近"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6521,
+            6523
+          ],
+          "output_span": [
+            232,
+            237
+          ],
+          "before": "、有",
+          "after": "值。借助极"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6524,
+            6527
+          ],
+          "output_span": [
+            238,
+            238
+          ],
+          "before": "的终点",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6528,
+            6535
+          ],
+          "output_span": [
+            239,
+            241
+          ],
+          "before": "从而用离散的、",
+          "after": "我们"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6536,
+            6544
+          ],
+          "output_span": [
+            242,
+            245
+          ],
+          "before": "数的步骤，完美地",
+          "after": "以严格"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6546,
+            6549
+          ],
+          "output_span": [
+            247,
+            276
+          ],
+          "before": "了连续",
+          "after": "这种接近关系，而不必把“有无穷多个分段”理解成“需要无穷长"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6550,
+            6557
+          ],
+          "output_span": [
+            277,
+            280
+          ],
+          "before": "、不可数的运动",
+          "after": "时间”"
+        }
+      ],
+      "retained_characters": 249,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "如果每秒走一米，先走半米，再走四分之一米，再走八分之一米，所需时间也相应地变成半秒、四分之一秒、八分之一秒。分段的数量没有结束，但总时间可以趋近一秒。我们把路程分成了无穷多段，并没有给每一段额外规定一个不能缩短的等待时间。\n\n同样，0.9、0.99、0.999 是不同的有限小数，每一个都小于 1；而 0.999… 的含义，是这个无限小数所确定的实数，即这些截断值的极限。在通常的实数体系里，它就是 1。这里并没有一个“最后的 9”，也没有一个藏在所有有限位之后、仍然大于零的差额。\n\n读者可能会问：既然每一步都有差，为什么走到无穷以后就可以说没有差？问题恰恰在于，“无穷以后”并不是序列中一个特别遥远的下一步。极限给出的，是对整个接近过程的性质描述。把它当成最后一次有限操作，就又把两种不同的对象混到一起了。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        6633,
+        6795
+      ],
+      "source_sha256": "03b92780ba05f7fd5e4b56dc8af19e7235540ddff19a92520281dc8291229097",
+      "text": "从认识方式上看，芝诺悖论提醒我们考察：外部过程与我们对过程的分割描述，是怎样联系起来的。为了认识和分析外部世界，我们的感知和思考经常需要把世界分割成可以区别的概念和步骤。很多探测所留下的记录，也是有限、离散的结构。而我们也会用连续模型描述变化。在具体问题中，怎样连接这两种描述，需要单独说明。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            6633,
+            6633
+          ],
+          "output_span": [
+            0,
+            8
+          ],
+          "before": "",
+          "after": "从认识方式上看，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6637,
+            6643
+          ],
+          "output_span": [
+            12,
+            19
+          ],
+          "before": "的根源，在于",
+          "after": "提醒我们考察："
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6645,
+            6660
+          ],
+          "output_span": [
+            21,
+            23
+          ],
+          "before": "世界物质本体的连续性（本体论）",
+          "after": "过程"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6663,
+            6672
+          ],
+          "output_span": [
+            26,
+            27
+          ],
+          "before": "大脑意识认识、分析",
+          "after": "对"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6675,
+            6685
+          ],
+          "output_span": [
+            30,
+            42
+          ],
+          "before": "离散性（认识论）之间",
+          "after": "分割描述，是怎样联系起来"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6686,
+            6688
+          ],
+          "output_span": [
+            43,
+            43
+          ],
+          "before": "矛盾",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6689,
+            6691
+          ],
+          "output_span": [
+            44,
+            44
+          ],
+          "before": "我们",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6711,
+            6720
+          ],
+          "output_span": [
+            64,
+            69
+          ],
+          "before": "，本质上是将连续的",
+          "after": "经常需要把"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6725,
+            6727
+          ],
+          "output_span": [
+            74,
+            78
+          ],
+          "before": "离散",
+          "after": "可以区别"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6734,
+            6734
+          ],
+          "output_span": [
+            85,
+            87
+          ],
+          "before": "",
+          "after": "很多"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6736,
+            6743
+          ],
+          "output_span": [
+            89,
+            92
+          ],
+          "before": "本身是一个离散",
+          "after": "所留下"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6744,
+            6746
+          ],
+          "output_span": [
+            93,
+            95
+          ],
+          "before": "过程",
+          "after": "记录"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            6747,
+            6752
+          ],
+          "output_span": [
+            96,
+            96
+          ],
+          "before": "获得的结果",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6754,
+            6756
+          ],
+          "output_span": [
+            98,
+            101
+          ],
+          "before": "一个",
+          "after": "有限、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6762,
+            6770
+          ],
+          "output_span": [
+            107,
+            108
+          ],
+          "before": "但人类的直觉告诉",
+          "after": "而"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6772,
+            6781
+          ],
+          "output_span": [
+            110,
+            113
+          ],
+          "before": "，物质的本质应该是",
+          "after": "也会用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            6783,
+            6793
+          ],
+          "output_span": [
+            115,
+            124
+          ],
+          "before": "的、一个不可分割的整",
+          "after": "模型描述变化。在具"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            6794,
+            6794
+          ],
+          "output_span": [
+            125,
+            145
+          ],
+          "before": "",
+          "after": "问题中，怎样连接这两种描述，需要单独说明"
+        }
+      ],
+      "retained_characters": 64,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 同一个事物，可以在什么意义上相同",
+      "reason": "节标题"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "一个运动过程与它的终点不是同一种对象，一份程序与它算出的结果也不是同一种对象。它们可以通过规则联系起来，但不能只因为有联系，就说它们在所有意义上相同。\n\n这一点在数学中尤其重要。两个东西是不是“相同”，取决于我们保留什么结构、允许什么变换。拿一个泥做的杯子和一个泥做的圆环来想象，如果只关心它们都有一个贯通的洞，并允许在不撕裂、不粘合的条件下连续变形，就可以忽略把手和杯口的日常用途；如果要拿它喝水，这种忽略显然就不合适了。\n\n数学会严格区分同构、同胚、同伦等价等不同概念。同伦类型论等研究，为理解等同性、路径和高阶结构提供了丰富工具。但“一个序列有极限”不能因此直接改写为“这个序列与极限点同伦等价”；使用哪一种关系，必须给出相应对象与条件。[《同伦类型论》](https://homotopytypetheory.org/book/)\n\n我所关心的，正是在保留与舍弃之间发生了什么。我们把许多内部变化当成一个稳定对象来使用，获得了更简洁的描述；但如果以后需要追问内部机制，被省去的内容又必须能够重新展开。抽象可以使我们前进，也可能使我们忘记自己省略了什么。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 一个系统开始描述自己，会发生什么",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-exact",
+      "ref": "ORIGINAL",
+      "source_span": [
+        7652,
+        7692
+      ],
+      "source_sha256": "f83636f04c1d6a728941b49e019c2afc54d4e5d3608c02785bfe700a638157e6",
+      "text": "以罗素悖论为例：“所有不包含自身的集合所组成的集合”，这个集合到底包不包含自身？",
+      "edits": [],
+      "retained_characters": 40,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "先假定它包含自身。按照“只收录不包含自身的集合”这条规则，它就不应该被收录。再假定它不包含自身，它又正好满足收录条件，应该被收录。两条路都撞上了原来的规则。\n\n这里的困难并不是人不够聪明，而是允许怎样构造对象、怎样谈论对象，必须有清楚的条件。不能先允许任意条件都生成一个集合，再要求这个无限制的系统永远不会发生矛盾。\n\n日常语言中，“这句话是假的”也能使我们直观感受到自指造成的困难：若判它真，就接受了它说自己为假的内容；若判它假，又好像支持了相反判断。不过，把真假交替写成一个程序，只能得到交替的过程，不会因此自动获得量子叠加，也不会自动解决逻辑问题。\n\n自指值得研究，并不是因为矛盾能够随意证明任何东西，而是因为它使一个系统所能表达、构造和证明的范围变得可见。Lawvere 对对角论证的研究，将若干逻辑与计算中的自指问题放进了共同的范畴论框架。这个方向给我的启发，是去寻找这些边界背后的结构，而不是只记住几个彼此孤立的悖论名字。[Lawvere：对角论证与笛卡尔闭范畴](https://www.tac.mta.ca/tac/reprints/articles/15/tr15abs.html)",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "OLD-DYNAMIC",
+      "source_span": [
+        56,
+        311
+      ],
+      "source_sha256": "06e40fe8806f8f8dd48ea673abf2a1477b97752bbfdd6cbdefa4b35d604dd2cf",
+      "text": "哥德尔不完备性定理所揭示的形式系统边界，使我想到另一个研究方向：能不能构造一个具备不断扩展能力的动态系统，设想这个系统能够在研究中不断产生新的稳定结构，新的结构与已有结构发生联系，引入新的数学性质，使整个系统能够继续扩展，这个过程一直演化下去，不断寻找更简洁的构造，同时探索更复杂的数学结构，而这些新的不动点与原有的不动点之间相互作用，继续这样的演化，如此迭代进化。能否据此研究新的公理和构造规则，构建一个动态的无穷高阶演化范畴理论？",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            65,
+            70
+          ],
+          "output_span": [
+            9,
+            12
+          ],
+          "before": "其实更准确",
+          "after": "所揭示"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            71,
+            74
+          ],
+          "output_span": [
+            13,
+            19
+          ],
+          "before": "描述是",
+          "after": "形式系统边界"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            75,
+            77
+          ],
+          "output_span": [
+            20,
+            37
+          ],
+          "before": "这是",
+          "after": "使我想到另一个研究方向：能不能构造"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            81,
+            83
+          ],
+          "output_span": [
+            41,
+            45
+          ],
+          "before": "涌现",
+          "after": "不断扩展"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            86,
+            89
+          ],
+          "output_span": [
+            48,
+            48
+          ],
+          "before": "超完备",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            94,
+            94
+          ],
+          "output_span": [
+            53,
+            55
+          ],
+          "before": "",
+          "after": "设想"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            98,
+            100
+          ],
+          "output_span": [
+            59,
+            67
+          ],
+          "before": "一旦",
+          "after": "能够在研究中不断"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            102,
+            130
+          ],
+          "output_span": [
+            69,
+            69
+          ],
+          "before": "，那么其最小化的动态进化能力，总是能够保证这个系统涌现出",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            132,
+            161
+          ],
+          "output_span": [
+            71,
+            73
+          ],
+          "before": "不动点，而新的不动点则对应着某些来系统中的某个特殊的不动点",
+          "after": "稳定"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            164,
+            168
+          ],
+          "output_span": [
+            76,
+            92
+          ],
+          "before": "它具备全",
+          "after": "新的结构与已有结构发生联系，引入"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            175,
+            178
+          ],
+          "output_span": [
+            99,
+            100
+          ],
+          "before": "并且对",
+          "after": "使"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            182,
+            197
+          ],
+          "output_span": [
+            104,
+            110
+          ],
+          "before": "一直做数学性质复杂性的增量进化",
+          "after": "能够继续扩展"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            211,
+            219
+          ],
+          "output_span": [
+            124,
+            132
+          ],
+          "before": "地最小化演化过程",
+          "after": "寻找更简洁的构造"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            220,
+            227
+          ],
+          "output_span": [
+            133,
+            137
+          ],
+          "before": "对应着不断涌现",
+          "after": "同时探索"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            231,
+            234
+          ],
+          "output_span": [
+            141,
+            141
+          ],
+          "before": "不动点",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            263,
+            266
+          ],
+          "output_span": [
+            170,
+            172
+          ],
+          "before": "最小化",
+          "after": "这样"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            277,
+            288
+          ],
+          "output_span": [
+            183,
+            189
+          ],
+          "before": "是不是我们可以基于这些",
+          "after": "能否据此研究"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            292,
+            292
+          ],
+          "output_span": [
+            193,
+            198
+          ],
+          "before": "",
+          "after": "和构造规则"
+        }
+      ],
+      "retained_characters": 127,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这个设想并没有取消不完备性定理。一个可以不断扩展的理论，与一个已经在固定规则内证明了一切的理论，是两件不同的事。增加规则之后，要重新研究这些规则能够做到什么、不能做到什么；新的一层也不会因为被叫作“高阶”，就天然免于自身的边界。\n\n更有价值的问题是：当一个问题不能在当前结构里得到解答时，我们能不能清楚记录缺了什么，构造新的工具，再把新旧结构之间的关系连接起来？这样，边界就不仅是停止的地方，也成为继续研究的入口。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 有限的观察者，怎样面对越来越大的构造空间",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "OLD-INFINITY",
+      "source_span": [
+        0,
+        151
+      ],
+      "source_sha256": "8fef659b0d5c6f4e349875e1d9c918f5acb49fd6bedfcee5c1034c20cc899570",
+      "text": "我还想研究一种相对于构造能力的尺度：一个空间虽然在数学上有限，却可能远远超出某个有限系统能够逐一处理的范围。对于一个有限集合，它的幂集仍然有限，但其组合数量可以迅速增大。从原有系统实际能够处理的规模来看，我把这种落差比喻为一种有限无穷大。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            0,
+            13
+          ],
+          "output_span": [
+            0,
+            1
+          ],
+          "before": "无穷大和无穷小这两个概念，",
+          "after": "我"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            14,
+            35
+          ],
+          "output_span": [
+            2,
+            5
+          ],
+          "before": "能够细化为不同等级的无穷大和无穷小。无穷是",
+          "after": "想研究"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            36,
+            132
+          ],
+          "output_span": [
+            6,
+            7
+          ],
+          "before": "个相对概念，即n1无穷大是相对于n0无穷大的n0无穷大，依次类推，我们甚至可以为有限的测度空间，定义相对于它的无穷大，在我看来，对于有限测度空间n，n的幂集空间，虽然只是有限的测度空间，但是它",
+          "after": "种"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            136,
+            137
+          ],
+          "output_span": [
+            11,
+            63
+          ],
+          "before": "建",
+          "after": "造能力的尺度：一个空间虽然在数学上有限，却可能远远超出某个有限系统能够逐一处理的范围。对于一个有限集合，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            139,
+            140
+          ],
+          "output_span": [
+            65,
+            71
+          ],
+          "before": "n",
+          "after": "幂集仍然有限"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            141,
+            143
+          ],
+          "output_span": [
+            72,
+            111
+          ],
+          "before": "却是",
+          "after": "但其组合数量可以迅速增大。从原有系统实际能够处理的规模来看，我把这种落差比喻为"
+        }
+      ],
+      "retained_characters": 17,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "例如，只有十个元素的集合，有一千零二十四个子集。元素增多时，子集数量按指数增加。这仍然是有限数量，却提醒我们，“能够写出构造规则”与“能够逐一展开全部结果”相差很远。研究实际的知识与智能系统时，这个差距不能被忽略。\n\n因此，我要寻找的框架，需要同时容纳稳定的对象、发生的变化、构造的过程，以及观察者能够处理这些过程的条件。它既要说明我们怎样把复杂的世界压缩成可以理解的概念，也要说明这些概念怎样重新参与世界，构造出以前没有的东西。存在、变化和可构造性，就从这些问题中进入了理论的中心。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "jefferson",
+    "title": "Jefferson to Isaac McPherson, 13 August 1813",
+    "claim": "Ideas and candle-light sharing analogy; no zero-cost AI claim",
+    "capture": {
+      "id": "jefferson",
+      "url": "https://monadnock.net/jefferson/mcpherson.html",
+      "captured_at": "2026-10-26T13:34:36.014547+00:00",
+      "status": "captured",
+      "http_status": 200,
+      "final_url": "https://monadnock.net/jefferson/mcpherson.html",
+      "bytes": 20061,
+      "sha256": "3d3d6849c328257f8e5366cf2ed37870178d327de52c2a3e5115abb11233ef27",
+      "file": "jefferson.html"
+    },
+    "url": "https://monadnock.net/jefferson/mcpherson.html",
+    "access": "public HTML capture and web tool reading"
+  },
+  {
+    "id": "quotation-attribution",
+    "title": "Apple and idea quotation provenance investigation",
+    "claim": "No compelling Shaw attribution located; no definite origin asserted by this edition",
+    "capture": {
+      "id": "quotation-attribution",
+      "url": "https://quoteinvestigator.com/2011/12/13/swap-ideas/",
+      "captured_at": "2026-10-26T13:34:36.015814+00:00",
+      "status": "captured",
+      "http_status": 200,
+      "final_url": "https://quoteinvestigator.com/2011/12/13/swap-ideas/",
+      "bytes": 81641,
+      "sha256": "65f1f5f065a56662f406fda08b53ef2f4522b1161279dda8c6206176dd7bebe3",
+      "file": "quotation-attribution.html"
+    },
+    "url": "https://quoteinvestigator.com/2011/12/13/swap-ideas/",
+    "access": "public HTML capture and web tool reading"
+  },
+  {
+    "id": "gnu-initial",
+    "title": "GNU Initial Announcement",
+    "claim": "1983 announcement and software sharing intention",
+    "capture": {
+      "id": "gnu-initial",
+      "url": "https://www.gnu.org/gnu/initial-announcement.html",
+      "captured_at": "2026-10-26T13:34:36.014866+00:00",
+      "status": "fetch-failed",
+      "error_type": "HTTPError",
+      "error": "HTTP Error 403: Forbidden",
+      "boundary": "claim checked through web tool where noted; no raw page substituted"
+    },
+    "url": "https://www.gnu.org/gnu/initial-announcement.html",
+    "access": "web tool returned official page content; direct HTML capture failed"
+  },
+  {
+    "id": "gnu-selling",
+    "title": "Selling Free Software",
+    "claim": "Freedom and price are distinct; free software can be sold",
+    "capture": {
+      "id": "gnu-selling",
+      "url": "https://www.gnu.org/philosophy/selling.en.html",
+      "captured_at": "2026-10-26T13:34:36.015202+00:00",
+      "status": "fetch-failed",
+      "error_type": "HTTPError",
+      "error": "HTTP Error 403: Forbidden",
+      "boundary": "claim checked through web tool where noted; no raw page substituted"
+    },
+    "url": "https://www.gnu.org/philosophy/selling.en.html",
+    "access": "web tool returned official page content; direct HTML capture failed"
+  },
+  {
+    "id": "inference-energy",
+    "title": "Power Hungry Processing v3",
+    "claim": "Inference deployment has measurable energy cost; no local cost estimate derived",
+    "capture": {
+      "id": "inference-energy",
+      "url": "https://arxiv.org/abs/2311.16863v3",
+      "captured_at": "2026-10-26T13:34:36.015956+00:00",
+      "status": "captured",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2311.16863v3",
+      "bytes": 45107,
+      "sha256": "9fd569031900a5c1d4337db62fff5c78d6ac72f831715cfd740dd2c9ec76e8d2",
+      "file": "inference-energy.html"
+    },
+    "url": "https://arxiv.org/abs/2311.16863v3",
+    "access": "public HTML capture and web tool reading"
+  }
+]

@@ -1,0 +1,1127 @@
+{
+  "chapter": "21",
+  "title": "自我实现的科幻与文化建设",
+  "status": "expanded-copyedited",
+  "review": {
+    "reasoning": "制度进入生活经验→自我实现科幻设定→未来生命条件→创作者建设者同群→短篇系列→多媒体→游戏与真实任务",
+    "examples": [
+      "阿尔法贝塔地球文明设定",
+      "长寿与多样生命",
+      "取回多年作品的首篇故事",
+      "故事内失败与修正",
+      "游戏连接真实工作"
+    ],
+    "objections": [
+      "幻想能否替代现实证据",
+      "外来先进者是否重新成为独裁者",
+      "读者是否必须全身投入",
+      "游戏如何区分真实作用"
+    ],
+    "voice": "主要世界观保留作者原话；首篇故事具体情节为新增建议，侧录明确标记",
+    "status": "初校；外星文明、生物转换与长寿明确属于作品设定",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "editorial-addition",
+      "text": "一种制度能否被理解，不只取决于定义是否完整。读者还会问：如果我真的生活在其中，一天怎样开始？遇到分歧时怎么办？想创作一件东西，怎样找到帮助？作出的决定失败以后，又怎样继续生活？\n\n理论文章能够说明关系，故事则能把这些关系放回人的经验之中。我希望现实建设与文化创作一起推进，使人既能理解一个机制，也有机会想象和体验它。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 自我实现的科幻，怎样连接幻想与现实",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55042",
+      "source_span": [
+        15,
+        612
+      ],
+      "source_sha256": "27559eb3c1d82aa2fc37154250106ef7628716df28cbcda7d888a8643baab6e2",
+      "text": "科幻作品通常不承担把故事完整实现的任务，而我想尝试一种连接幻想与现实的创作方式，用于我的新文明制度设想的自我实现。这部作品的世界观可以这样设定，宇宙的进化过程中，地球文明并不是唯一的星球智慧文明，也不是其中最先进的那一个，很多星球在亿万年前就已经进化到了我设想的那种新文明形态了，其中某个文明的生命个体，早在数千年前就已经抵达地球，潜伏了下来，融入地球生态，默默观察地球文明的发展，并在其中进行生命历程的rpg游戏，并在地球文明发展的奇点关键时刻，挺身而出，以科幻作家的身份创作一部自我实现的科幻作品（这是新文明形态下促进文明进化的一种将科学和艺术结合起来的链接幻想与现实的科学文艺创作形式），并通过这种方式帮助地球文明实现非暴力的平滑温和的跨越奇点的文明进化过程。\n\n甚至可以把这个过程描述为一种在宇宙的文明进化迭代过程中自发涌现，并反复重复出现的机制，是宇宙中第一个跨越奇点的阿尔法文明中的某个天才在自己的文明即将跨过奇点时，遭遇自己星球中不同国家不同种族不同认知不同制度下个人和团体之间在进化浪潮中面临冲突危机的时刻，构想出来，并帮助自己的文明平滑过渡，迎接奇点的。在故事中，这个来到地球的文明，也是被更早进化的文明用这种方式帮助下，度过了自己的奇点跨跃，而这个帮助者就是那个最早实现这个机制的阿尔法文明，我们可以将这个降临地球的文明称为贝塔文明，地球文明将是第三代也是第5768个即将跨跃奇点的先进文明。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            15,
+            18
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "传统的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            22,
+            29
+          ],
+          "output_span": [
+            4,
+            6
+          ],
+          "before": "，只负责幻想，",
+          "after": "通常"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            30,
+            32
+          ],
+          "output_span": [
+            7,
+            14
+          ],
+          "before": "负责",
+          "after": "承担把故事完整"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            34,
+            34
+          ],
+          "output_span": [
+            16,
+            19
+          ],
+          "before": "",
+          "after": "的任务"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            38,
+            40
+          ],
+          "output_span": [
+            23,
+            25
+          ],
+          "before": "创造",
+          "after": "尝试"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            42,
+            43
+          ],
+          "output_span": [
+            27,
+            34
+          ],
+          "before": "新",
+          "after": "连接幻想与现实"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            44,
+            46
+          ],
+          "output_span": [
+            35,
+            36
+          ],
+          "before": "科幻",
+          "after": "创"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            47,
+            48
+          ],
+          "output_span": [
+            37,
+            39
+          ],
+          "before": "品",
+          "after": "方式"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            66,
+            71
+          ],
+          "output_span": [
+            57,
+            71
+          ],
+          "before": "大概框架是",
+          "after": "这部作品的世界观可以这样设定"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            140,
+            143
+          ],
+          "output_span": [
+            140,
+            143
+          ],
+          "before": "然后这",
+          "after": "其中某"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            146,
+            147
+          ],
+          "output_span": [
+            146,
+            146
+          ],
+          "before": "中",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            331,
+            336
+          ],
+          "output_span": [
+            330,
+            332
+          ],
+          "before": "的进化曲线",
+          "after": "过程"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            337,
+            337
+          ],
+          "output_span": [
+            333,
+            335
+          ],
+          "before": "",
+          "after": "\n\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            387,
+            389
+          ],
+          "output_span": [
+            385,
+            387
+          ],
+          "before": "实现",
+          "after": "跨越"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            391,
+            395
+          ],
+          "output_span": [
+            389,
+            389
+          ],
+          "before": "文明进化",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            396,
+            398
+          ],
+          "output_span": [
+            390,
+            390
+          ],
+          "before": "某个",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            494,
+            494
+          ],
+          "output_span": [
+            486,
+            488
+          ],
+          "before": "",
+          "after": "在故"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            495,
+            497
+          ],
+          "output_span": [
+            489,
+            491
+          ],
+          "before": "实上",
+          "after": "中，"
+        }
+      ],
+      "retained_characters": 555,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这里的阿尔法、贝塔以及地球的文明序号，都是科幻世界观中的设定。它们承担的叙事作用，是把人类眼前的转型放进更长的文明历史里：一个文明经历过的困难，可以成为另一个文明理解自身的材料；先进者提供的帮助，也不必表现为替其他人作决定。\n\n故事中最值得展开的冲突，因此不只是“外星人是否拥有更强的武器”。他可能知道许多未来的可能，却仍然必须让地球上的人真正理解并共同参与。若只是凭力量宣布答案，就又重演了他希望改变的关系。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 长寿、多样生命与跨时间的知识",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55042",
+      "source_span": [
+        612,
+        1195
+      ],
+      "source_sha256": "65a994147238083e3f02d05c425012bcc1f2f04db4d66623f362a8229f712c92",
+      "text": "在这一虚构文明中，除了我设想的碳基生物人类智能体与ai结合的智能节点为文明神经元，以merkle框架为文明DNA公共知识载体，实现了平等的分布式社会智能神经网络集体决策文明事务的机制，生物个体也实现了永生，消除了衰老死亡以及智力和体力活动能力的下降，让知识记忆和技能，除了可以跨跃空间个体，自由共享之外，在时间维度上也可以自由的继承和选择。按照这个远未来设定，传统的垂直遗传机制就不再是新文明的人类个体的唯一选择了，为了垂直遗传的下一代产物——孩子而形成的婚姻家庭制度，也不再是主流的社会基本结构，事实上绝大多数的新人类都选择了为永生人类创造的全新的水平遗传机制，通过交配，可以安全地实现自由的基因替换和组合，让每一个永生的人类生命个体，都能够体验和享受到生物遗传基因的多样性，而且这种全新的水平遗传机制，还具有强大的跨物种的基因组合能力，传统的生物之间的生殖隔离也不复存在，甚至可以通过跨物种的结合实现神话和幻想作品中的各种形态的生物形式，比如能够长期生活在水中的生命形式、半人马形态或具有强大再生能力的个体。\n\n这也是为什么这个贝塔文明的智慧生命体可以潜伏在地球人类文明数千年而不被发现的原因，故事中的他，并不是毫无条件地随意变形，而是通过这种水平遗传机制，与地球人类进行跨物种的基因组合，修改自身基因，完成了人类外形的变化。这些机制是作品的远未来设定。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            612,
+            612
+          ],
+          "output_span": [
+            0,
+            1
+          ],
+          "before": "",
+          "after": "在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            613,
+            614
+          ],
+          "output_span": [
+            2,
+            5
+          ],
+          "before": "种",
+          "after": "一虚构"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            616,
+            619
+          ],
+          "output_span": [
+            7,
+            9
+          ],
+          "before": "的特征",
+          "after": "中，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            697,
+            698
+          ],
+          "output_span": [
+            87,
+            88
+          ],
+          "before": "物",
+          "after": "务"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            702,
+            709
+          ],
+          "output_span": [
+            92,
+            92
+          ],
+          "before": "同时这种文明的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            712,
+            713
+          ],
+          "output_span": [
+            95,
+            96
+          ],
+          "before": "人",
+          "after": "体"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            787,
+            789
+          ],
+          "output_span": [
+            170,
+            172
+          ],
+          "before": "既然",
+          "after": "按照"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            790,
+            800
+          ],
+          "output_span": [
+            173,
+            179
+          ],
+          "before": "种先进文明实现了永生",
+          "after": "个远未来设定"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            801,
+            803
+          ],
+          "output_span": [
+            180,
+            180
+          ],
+          "before": "那么",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            843,
+            844
+          ],
+          "output_span": [
+            220,
+            222
+          ],
+          "before": "-",
+          "after": "——"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            846,
+            846
+          ],
+          "output_span": [
+            224,
+            227
+          ],
+          "before": "",
+          "after": "而形成"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            853,
+            853
+          ],
+          "output_span": [
+            234,
+            235
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            866,
+            867
+          ],
+          "output_span": [
+            248,
+            248
+          ],
+          "before": "了",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            910,
+            911
+          ],
+          "output_span": [
+            291,
+            292
+          ],
+          "before": "的",
+          "after": "地"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1042,
+            1049
+          ],
+          "output_span": [
+            423,
+            431
+          ],
+          "before": "大西洋底来的人",
+          "after": "能够长期生活在水"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1051,
+            1059
+          ],
+          "output_span": [
+            433,
+            438
+          ],
+          "before": "麦克哈里斯，比如",
+          "after": "生命形式、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1062,
+            1065
+          ],
+          "output_span": [
+            441,
+            444
+          ],
+          "before": "，比如",
+          "after": "形态或"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1067,
+            1068
+          ],
+          "output_span": [
+            446,
+            446
+          ],
+          "before": "超",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1069,
+            1069
+          ],
+          "output_span": [
+            447,
+            448
+          ],
+          "before": "",
+          "after": "大"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1073,
+            1075
+          ],
+          "output_span": [
+            452,
+            455
+          ],
+          "before": "等等",
+          "after": "的个体"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1076,
+            1076
+          ],
+          "output_span": [
+            456,
+            458
+          ],
+          "before": "",
+          "after": "\n\n"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1117,
+            1117
+          ],
+          "output_span": [
+            499,
+            506
+          ],
+          "before": "",
+          "after": "故事中的他，并"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1119,
+            1124
+          ],
+          "output_span": [
+            508,
+            513
+          ],
+          "before": "漫画中可以",
+          "after": "毫无条件地"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1128,
+            1147
+          ],
+          "output_span": [
+            517,
+            517
+          ],
+          "before": "的Mystique魔形女这类软科幻设想",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1150,
+            1157
+          ],
+          "output_span": [
+            520,
+            524
+          ],
+          "before": "更符合硬科幻的",
+          "after": "通过这种"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1164,
+            1166
+          ],
+          "output_span": [
+            531,
+            531
+          ],
+          "before": "通过",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1171,
+            1172
+          ],
+          "output_span": [
+            536,
+            538
+          ],
+          "before": "的",
+          "after": "进行"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1175,
+            1177
+          ],
+          "output_span": [
+            541,
+            546
+          ],
+          "before": "交配",
+          "after": "的基因组合"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1184,
+            1184
+          ],
+          "output_span": [
+            553,
+            554
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1192,
+            1194
+          ],
+          "output_span": [
+            562,
+            564
+          ],
+          "before": "修改",
+          "after": "变化"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1195,
+            1195
+          ],
+          "output_span": [
+            565,
+            579
+          ],
+          "before": "",
+          "after": "这些机制是作品的远未来设定。"
+        }
+      ],
+      "retained_characters": 494,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这些设定允许作品讨论更深的问题：当记忆不再随着短暂生命轻易消失，人如何改变自己的兴趣和关系？当外形与能力具有更大可塑性，多样性怎样被理解？一个漫长生命怎样保持学习的愿望，而不只是把过去无限重复？\n\n科幻的价值，在于给这些问题提供具体情景。故事可以大胆规定未来条件，但条件应当在故事内部保持一致。现实中的服务与制度试验，则依据现实已经具备的能力推进，两者通过问题和创造愿望联系起来。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 创作者和建设者，可以是同一群人",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55042",
+      "source_span": [
+        1195,
+        1471
+      ],
+      "source_sha256": "73db3ac1b994fd6eb382159e1a80f24c39f984fbc4b2423d9d1328f7b39c25e5",
+      "text": "这部科幻作品的剧情本身就是这个外星潜伏的文明先知如何开始在网络和现实中寻找志同道合的人，通过创作这部自我实现的科幻作品宣扬这个可实现的人类社会未来新文明机制，并组织大家一边创作科幻文艺作品（小说，动画，电影电视）进行宣传，一边发动大家组织起来，通过我设想的新机制组成新的平等的分布式的基于merkle公共知识系统的社会智能神经网络的集体智慧主持的软硬件以及逐步覆盖更多产品与活动的开放项目，对整个人类文明实现这种科幻自我实现的奇点进化过程，逐步消灭不平等，消除信息孤岛，消灭暴力，消灭权力和资源占有不平等的传统国家政权商业公司的金字塔架构下的权力固化结构。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1373,
+            1377
+          ],
+          "output_span": [
+            178,
+            184
+          ],
+          "before": "所有人类",
+          "after": "逐步覆盖更多"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1379,
+            1380
+          ],
+          "output_span": [
+            186,
+            187
+          ],
+          "before": "和",
+          "after": "与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1384,
+            1385
+          ],
+          "output_span": [
+            191,
+            192
+          ],
+          "before": "源",
+          "after": "放"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1464,
+            1466
+          ],
+          "output_span": [
+            271,
+            271
+          ],
+          "before": "所以",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1467,
+            1470
+          ],
+          "output_span": [
+            272,
+            277
+          ],
+          "before": "贵阶层",
+          "after": "力固化结构"
+        }
+      ],
+      "retained_characters": 265,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54750",
+      "source_span": [
+        1061,
+        1389
+      ],
+      "source_sha256": "4dd0bc1b746494ca9d80c2b5681945b0e62e5b7f49a871ff997656e468d2d774",
+      "text": "我希望创作一套自我实现的科幻作品，通过文学漫画电影电视以及互动游戏的方式，让人们更身临其境的做好预先的心理体验，而且这个游戏本身也是一种新机制的实验室，人们通过这个游戏，其参与的内容和程度，可以慢慢的从虚拟的情景过渡到现实中需要解决的问题，从正式职业在旧体制中，但是利用业余时间参与，并从参与虚拟情景，过渡到解决现实问题，并获取兼职收入，然后慢慢的收获更高的回报和更快乐轻松的过程享受，渐渐的逐步减少旧体制中的参与程度，更多的投入到新体制的工作中，直到他们愿意把更多生活与工作放进这种合作方式之中。新体制通过和旧体制的竞争中，实现更高效的工作，创造更低成本的产品，让参与者的待遇更高，过程更轻松快乐，从而慢慢淘汰和取代旧体制，把这种转变建立在自愿体验与现实收益之上，减少暴力冲突的条件。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1062,
+            1067
+          ],
+          "output_span": [
+            1,
+            5
+          ],
+          "before": "们还设想了",
+          "after": "希望创作"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1287,
+            1304
+          ],
+          "output_span": [
+            225,
+            248
+          ],
+          "before": "至完全投入新体制的怀抱，告别旧体制",
+          "after": "到他们愿意把更多生活与工作放进这种合作方式之中"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1331,
+            1333
+          ],
+          "output_span": [
+            275,
+            276
+          ],
+          "before": "底层",
+          "after": "低"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1370,
+            1370
+          ],
+          "output_span": [
+            313,
+            314
+          ],
+          "before": "",
+          "after": "把"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1371,
+            1381
+          ],
+          "output_span": [
+            315,
+            335
+          ],
+          "before": "个过程中不再有流血的",
+          "after": "种转变建立在自愿体验与现实收益之上，减少"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1385,
+            1388
+          ],
+          "output_span": [
+            339,
+            342
+          ],
+          "before": "和革命",
+          "after": "的条件"
+        }
+      ],
+      "retained_characters": 291,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这种联系不要求读者读完一篇小说就改变全部生活。一个人可以先讨论故事里的问题，提出一个不同结局；也可以帮助制作字幕、插图或程序；还可以只试用一个真实服务，报告它哪里不方便。\n\n不同参与方式都能提供反馈。作品中的制度看起来很有吸引力，实际工具却难以使用，这个落差本身就是需要解决的问题。反过来，现实服务中一次成功的合作，也可以成为故事里的具体材料。文化与生产由此相互供给，而不是一边许诺未来，另一边永远交不出可以体验的内容。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 先写一个读者能够进入的故事",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-R18-0",
+      "source_span": [
+        201,
+        333
+      ],
+      "source_sha256": "34ff0eb1fd1bd2aed23a3f72438ab930007be136e240d573793af64598c0a02d",
+      "text": "自我实现式的科幻作品，先从最容易实现的形式开始创作，作为宣传的重要手段之一，与前面的宣传手段一起进行。比如先写成介绍关键点世界观的短篇小说，再扩展成短篇小说系列，长篇小说系列逐步扩展完整世界观，可以先用 AI 辅助制作短片，将其多媒体化，然后再逐步扩展为短片系列与长篇系列。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            201,
+            204
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "将那个",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            301,
+            301
+          ],
+          "output_span": [
+            97,
+            99
+          ],
+          "before": "",
+          "after": "可以"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            303,
+            303
+          ],
+          "output_span": [
+            101,
+            102
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            305,
+            305
+          ],
+          "output_span": [
+            104,
+            107
+          ],
+          "before": "",
+          "after": " 辅助"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            324,
+            324
+          ],
+          "output_span": [
+            126,
+            127
+          ],
+          "before": "",
+          "after": "为"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            328,
+            328
+          ],
+          "output_span": [
+            131,
+            132
+          ],
+          "before": "",
+          "after": "与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            332,
+            333
+          ],
+          "output_span": [
+            136,
+            137
+          ],
+          "before": "，",
+          "after": "。"
+        }
+      ],
+      "retained_characters": 128,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "第一篇短篇不必解释全部文明史。可以只写一个普通人想取回自己多年积累的作品，却发现资料散落在不同服务中。他遇到一个共同建设的工具，最初只是试着解决眼前的麻烦，随后在一次真实分歧中发现：这里的规则不是由看不见的管理者单方面决定，自己的经验也能成为改进的一部分。\n\n这个故事里可以有失败。导入并不顺利，一条错误归属让人不满，一次共同决定需要修改。读者由此看到，新机制的吸引力不是所有人突然完美，而是问题能够怎样被看见、讨论和修正。外来文明的线索可以在背景中逐渐出现，让眼前的小事与远处的大图景接起来。\n\n短篇系列再分别进入生产、照护、科研、教育、艺术与共同决策。每一篇解决一个足够具体的问题，也留下与其他故事连接的角色和关系。等这些经验积累起来，长篇所需要的世界观就不再是一张空设定表，而是一群人已经生活过的世界。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 从文字到视频，再到可以参与的世界",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-R18-0",
+      "source_span": [
+        131,
+        201
+      ],
+      "source_sha256": "61f4b10cc148a3cb40f675d81421bf8d710026e5e7b336258261b731f6af9bc3",
+      "text": "传播可以从几种形式共同开始：写出兼顾理论论述与公共表达、能够打动人的文字，把适合影像呈现的部分制作成多媒体视频，然后，通过网络社区和自媒体，进行宣传。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            131,
+            140
+          ],
+          "output_span": [
+            0,
+            14
+          ],
+          "before": "我能想到内容包括，",
+          "after": "传播可以从几种形式共同开始："
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            141,
+            143
+          ],
+          "output_span": [
+            15,
+            28
+          ],
+          "before": "一份",
+          "after": "出兼顾理论论述与公共表达、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            147,
+            148
+          ],
+          "output_span": [
+            32,
+            32
+          ],
+          "before": "别",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            150,
+            169
+          ],
+          "output_span": [
+            34,
+            34
+          ],
+          "before": "宣传稿件（类似于共产党宣言），设计一个",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            171,
+            173
+          ],
+          "output_span": [
+            36,
+            44
+          ],
+          "before": "稿件",
+          "after": "，把适合影像呈现"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            174,
+            174
+          ],
+          "output_span": [
+            45,
+            50
+          ],
+          "before": "",
+          "after": "部分制作成"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            179,
+            181
+          ],
+          "output_span": [
+            55,
+            55
+          ],
+          "before": "版本",
+          "after": ""
+        }
+      ],
+      "retained_characters": 35,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "视频版本需要重新考虑表达顺序。抽象论证可以借助一个具体任务、一个人物的选择、一段可见的合作过程来展开；需要读者停下来思考的地方，可以让画面承担关系，而不是把长文章逐句配音。\n\n当文学、短片和真实服务都有了足够材料，互动游戏才有更扎实的基础。玩家可以在具体情景中试验不同协作方式，看到资源、信息和反馈怎样改变结果。若后来把游戏中的某种参与连接到现实任务，应当让参与者清楚知道何时进入了真实工作、成果怎样使用、自己作出了什么选择。\n\n这样，作品的自我实现不是把幻想偷偷伪装成事实，而是让想象提出问题，让作品吸引共同创造，让真实实践回答问题，再把新的经验带回文化。它可以从一篇短篇、一段短片和一个可用的小服务开始，随着参与者与能力增长，逐步展开更完整的世界。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

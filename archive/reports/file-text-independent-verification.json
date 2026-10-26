@@ -1,0 +1,33 @@
+{
+  "recorded_at": "2026-10-24T09:07:50.791419+00:00",
+  "status": "passed",
+  "snapshot": "bafyreifpdpydzayyey7lzwztdruiyo3wu6uq6z5nkmvt7ip2cslircitwu",
+  "files": 16,
+  "derived_memory_occurrences": 16,
+  "conversation_messages": 0,
+  "all_native_text_and_byte_anchors_verified": true,
+  "all_event_times_unknown": true,
+  "all_actor_kinds_unknown": true,
+  "raw_set_matches_supplement_manifest": true,
+  "car": {
+    "header": {
+      "roots": [
+        {
+          "$link": "bafyreifpdpydzayyey7lzwztdruiyo3wu6uq6z5nkmvt7ip2cslircitwu"
+        }
+      ],
+      "version": 1
+    },
+    "blocks": 520,
+    "external_raw_verified": 329,
+    "schemas": {
+      "pkst/snapshot@0.1": 2,
+      "pkst/activity@0.1": 454,
+      "pkst/source@0.1": 16,
+      "pkst/occurrence@0.1": 16,
+      "pkst/content@0.1": 16,
+      "pkst/extraction-record@0.1": 16
+    },
+    "status": "all-blocks-and-reference-closure-verified"
+  }
+}

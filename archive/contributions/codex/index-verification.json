@@ -1,0 +1,9 @@
+{
+  "index_integrity": "ok",
+  "exact_raw_anchor_samples": 32,
+  "source_files": 3064,
+  "messages": 83924,
+  "user_envelope_not_automatically_human": true,
+  "content_address_check": "all parts in 32 deterministic raw-anchored samples",
+  "scope": "Sampling verifies the derived index against raw bytes, not semantic accuracy."
+}

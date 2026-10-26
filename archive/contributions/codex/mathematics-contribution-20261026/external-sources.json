@@ -1,0 +1,40 @@
+[
+  {
+    "id": "speech",
+    "title": "邓煜演讲文字稿",
+    "url": "https://zhishifenzi.com/depth/newsview/10737?category=multiple",
+    "access": "direct HTTPS public HTML",
+    "capture": {
+      "url": "https://zhishifenzi.com/depth/newsview/10737?category=multiple",
+      "final_url": "https://zhishifenzi.com/depth/newsview/10737?category=multiple",
+      "captured_at": "2026-10-26T09:09:05.149477+00:00",
+      "bytes": 106984,
+      "sha256": "380e6bb2376ab682e39a3080bee2ff92798bd05bf4a1ff111bacddc8e256619c",
+      "title": "菲尔兹奖得主邓煜：AI时代的数学研究，人永远是主体-深度-知识分子",
+      "derived_text": "inner_content HTML text projection; not exact native bytes",
+      "public_article_text_not_republished": true
+    },
+    "html_file": "speech-page.html",
+    "reading_projection": "speech-reading.txt",
+    "claim": "作者肯定AI数学进展，强调贡献追溯、使用选择与人的主体性；演讲发生于2026-10-25",
+    "boundary": "report of speech, not independent substantiation of alleged company conduct"
+  },
+  {
+    "id": "yongjia",
+    "title": "永嘉包产到户的探索和实践",
+    "url": "https://www.zjzzgz.gov.cn/art/2011/4/25/art_1413013_14828112.html",
+    "access": "web tool public page",
+    "observed_on": "2026-10-26",
+    "claim": "1956年永嘉试验；相关参与者李桂茂、李云河、戴洁天",
+    "boundary": "does not quantify fairness of honor or establish Guangdong as first"
+  },
+  {
+    "id": "deng-policy",
+    "title": "历史选择了邓小平（55）",
+    "url": "https://cpc.people.com.cn/n1/2018/0703/c69113-30107101.html",
+    "access": "web tool public page",
+    "observed_on": "2026-10-26",
+    "claim": "1980-05-31谈话肯定肥西和凤阳实践",
+    "boundary": "retrospective publication containing speech, not original recording"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "run": "20261024T090824Z",
+  "recorded_at": "2026-10-24T09:08:24Z",
+  "snapshot": "bafyreihnkebgdmyqnbir753n5edkr5x7u4h4h4yu3d6icpn7ty32ulm4q4",
+  "protocol_raw_cid": "bafkreids4w2sc4l7uwnhrsjofo3hwyxiafaqyzl5rgn6tqjm3nysxd44fq",
+  "objects": 103571,
+  "written_this_run": 103507,
+  "objects_by_schema": {
+    "pkst/source@0.1": 56,
+    "pkst/content@0.1": 2004,
+    "pkst/occurrence@0.1": 26513,
+    "pkst/extraction-record@0.1": 26513,
+    "pkst/block-reference@0.1": 26066,
+    "pkst/projection@0.1": 18774,
+    "pkst/opaque-block@0.1": 3593,
+    "pkst/activity@0.1": 51
+  },
+  "distinct_occurrences": 26513,
+  "occurrences_already_present_from_windows_or_earlier": 0,
+  "totals": {
+    "lines": 32490,
+    "occurrences": 26513,
+    "missing_native_id": 0,
+    "dangling_parent_ids": 1,
+    "missing_paste_content": 4,
+    "parse_errors": 0,
+    "partial_tails": 0,
+    "absent_parent_field": 0
+  },
+  "non_occurrence_record_types": {
+    "queue-operation": 1510,
+    "last-prompt": 744,
+    "custom-title": 546,
+    "agent-name": 533,
+    "file-history-snapshot": 59,
+    "atis-latch": 536,
+    "file-history-delta": 77,
+    "relocated": 475,
+    "cost-state": 5,
+    "mode": 714,
+    "bridge-session": 463,
+    "ai-title": 315
+  },
+  "files_without_occurrences": [],
+  "car": "contributions/claude/.private/mac-claude-main.car",
+  "car_sha256": "602f12f3e6e2bb96a38e9c09865a33207a3fb52a242a8693d702dcae402043cd",
+  "car_blocks": 103571,
+  "implementation": "claude_import_n3.py@sha256:1cf9c4dff0faf0ccddc4f3118c1337cffc1464b41c231c357ed54f2e51135656;pkst_cbor_claude.py@sha256:697a7be406d6058046743f820ef33c591e8c18350040e2453c87f4776d761b3c;convert_mac_main.py@sha256:e33ab1057b9e5059a52b7a31886ceb78371879cfd0f5d665690dd59cedacae96;python-3.14.5;profile=python-json-v1"
+}

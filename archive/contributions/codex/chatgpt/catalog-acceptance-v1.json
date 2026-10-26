@@ -1,0 +1,39 @@
+{
+  "schema": "pkst.chatgpt-catalog-acceptance@0.1",
+  "recorded_at": "2026-10-26T03:01:16.579971+00:00",
+  "status": "pass",
+  "snapshot": "bafyreifbjnesua4r3p536pwuubztstc7oueaoodxubmzm4o5ipcddiuime",
+  "baseline_snapshot": "bafyreiauugyncevkugqbyf7b3yip45mwezazg42alxabksx3rej6atv5zu",
+  "total_current_source_events": 212351,
+  "chatgpt_records": 11999,
+  "chatgpt_nonempty_searchable_messages": 8227,
+  "chatgpt_messages_with_native_text_part": 8240,
+  "image_only_messages": 12,
+  "empty_text_messages": 13,
+  "opaque_records_excluded": 3747,
+  "queries": {
+    "关于自我实现的科幻作品的设想": [
+      "bafyreiecv5d7uf74ku4dyzdiqdzes2ntoynlmdty7wwqqmb7npih5kacgm"
+    ],
+    "个体需求部分": [
+      "bafyreihr3pgrzbmbu7o3x76oacyroold63o6b7hoob3hcufkxdlmmfb2ea"
+    ],
+    "这个神经元的突触": [
+      "bafyreieibkdxwqlxdt5l6fhwxxftl5og54f2jenvpvxeeowkvk7boqqzsa"
+    ]
+  },
+  "historical_events_excluded": 2159,
+  "exact_long_text_candidate_groups": 42,
+  "candidate_groups_involving_chatgpt": 40,
+  "same_thread_id_in_other_platforms": 0,
+  "same_thread_and_message_id_in_other_platforms": 0,
+  "all_collection_membership_counts_unchanged_except_new_chatgpt": true,
+  "source_verification": "verification-v1.json",
+  "preserved_failure": "Initial acceptance expected all 8252 nonopaque messages to contain text; assertion rejected activation. Native reinspection found 12 image-only messages and 13 empty-text messages; count now derives from original source.",
+  "limitations": [
+    "Source records are not unique real-world utterances or thoughts",
+    "Cross-source exact text does not establish copy direction or authorship",
+    "Only new blocks freshly hashed; old bytes rely on previous verification",
+    "No peer or human review"
+  ]
+}

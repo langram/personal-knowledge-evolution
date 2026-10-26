@@ -1,0 +1,52 @@
+{
+  "run": "20261024T081537Z",
+  "recorded_at": "2026-10-24T08:15:37Z",
+  "snapshot": "bafyreie263a34ortmn7y6xcnxxx6kypr3fuwmdoz7cgsdgwxiz35gl3mve",
+  "protocol_raw_cid": "bafkreids4w2sc4l7uwnhrsjofo3hwyxiafaqyzl5rgn6tqjm3nysxd44fq",
+  "adapter_rules_raw_cid": "bafkreigsckhfiygngg7m7jukoh5qpylntirz2dpcdnkhplmg7l5qvelndu",
+  "implementation": {
+    "adapter": "claude-ai-export@0.1-candidate",
+    "convert_sha256": "682eeeb78100fe4bc8e9ddb1b9fda3777ea16492d8fefb0cce3a58cba142d654",
+    "import_n3_sha256": "1cf9c4dff0faf0ccddc4f3118c1337cffc1464b41c231c357ed54f2e51135656",
+    "codec_sha256": "697a7be406d6058046743f820ef33c591e8c18350040e2453c87f4776d761b3c",
+    "python": "3.14.5",
+    "profile": "python-json-v1",
+    "rules": "bafkreigsckhfiygngg7m7jukoh5qpylntirz2dpcdnkhplmg7l5qvelndu"
+  },
+  "objects": 17103,
+  "written_this_run": 17103,
+  "objects_by_schema": {
+    "pkst/source@0.1": 157,
+    "pkst/content@0.1": 2425,
+    "pkst/occurrence@0.1": 2132,
+    "pkst/extraction-record@0.1": 2132,
+    "pkst/block-reference@0.1": 6442,
+    "pkst/projection@0.1": 3244,
+    "pkst/opaque-block@0.1": 557,
+    "pkst/activity@0.1": 13,
+    "pkst/snapshot@0.1": 1
+  },
+  "car": "contributions/claude/.private/claude-ai-evidence.car",
+  "car_sha256": "459cff26c19454f1c446f070a0b83d8173f2982cd651e069bb9020455266a3a0",
+  "car_blocks": 17100,
+  "counts": {
+    "block:content": 2585,
+    "occurrence:human": 1048,
+    "occurrence:assistant": 1047,
+    "block:projection": 3300,
+    "block:opaque-block": 557,
+    "occurrence:material:project": 5,
+    "occurrence:material:project-doc": 16,
+    "occurrence:derived-memory:conversations": 1,
+    "occurrence:derived-memory:project": 1,
+    "occurrence:derived-memory:file": 14
+  },
+  "conversation_stats": {
+    "conversations": 151,
+    "parent_outside_conversation": 149,
+    "messages": 2095,
+    "file_refs_without_bytes": 214,
+    "empty_conversations": 3
+  },
+  "activities": 13
+}

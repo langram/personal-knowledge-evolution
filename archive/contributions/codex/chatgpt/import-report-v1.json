@@ -1,0 +1,83 @@
+{
+  "schema": "pkst.chatgpt-evidence-report@0.1",
+  "recorded_at": "2026-10-26T02:52:27.559514+00:00",
+  "root": "bafyreihzk7ld3me34qccbe3xxjwijs3rs5g7xaskbmbfxk5rhc3kulqsky",
+  "protocol": "bafkreids4w2sc4l7uwnhrsjofo3hwyxiafaqyzl5rgn6tqjm3nysxd44fq",
+  "profile": "bafkreihlnu2br75hhimhc23perzx6r75xmrhjxzohtwhw6go77wbw5gcxm",
+  "archive": {
+    "raw_cid": "bafkreiedta4gvcocykek4j2hwms6quxq3asnbmnubt52si37sq3gmyosfm",
+    "sha256": "8398386a89c2c288ae2747b325e852f0d824d0b1b40cfba9237f94366661d22b",
+    "bytes": 958001574
+  },
+  "shards": [
+    "conversations-000.json",
+    "conversations-001.json",
+    "conversations-002.json",
+    "conversations-003.json",
+    "conversations-004.json"
+  ],
+  "members": 369,
+  "counts": {
+    "fork_nodes": 108,
+    "conversations": 431,
+    "mapping_nodes": 12430,
+    "parent_field_disagreements": 3980,
+    "messages": 11999,
+    "role:assistant": 8275,
+    "type:text": 8202,
+    "nonopaque_messages": 8252,
+    "empty_nodes": 431,
+    "role:user": 3724,
+    "attachment:exact-export-name": 198,
+    "type:multimodal_text": 50,
+    "type:reasoning_recap": 817,
+    "opaque_messages": 3747,
+    "type:thoughts": 2930,
+    "attachment:unresolved-in-this-export": 114
+  },
+  "gaps": [],
+  "library_entries": 398,
+  "library_exact_matches": 333,
+  "asset_name_map_entries": 84,
+  "asset_name_map_unresolved": [],
+  "event_time_min": "1670829534.660505",
+  "event_time_max": "1792813305.334743",
+  "car": "contributions\\codex\\chatgpt\\.private\\chatgpt-evidence-v1.car",
+  "index": "contributions\\codex\\chatgpt\\.private\\chatgpt-evidence-v1.index.sqlite",
+  "anchors": "contributions\\codex\\chatgpt\\.private\\anchors-v1.json",
+  "envelope": {
+    "blocks": 61443,
+    "references": 61808,
+    "external_raw": 366,
+    "bytes": 62440686
+  },
+  "structural_verification": {
+    "header": {
+      "roots": [
+        {
+          "$link": "bafyreihzk7ld3me34qccbe3xxjwijs3rs5g7xaskbmbfxk5rhc3kulqsky"
+        }
+      ],
+      "version": 1
+    },
+    "blocks": 61443,
+    "external_raw_verified": 366,
+    "schemas": {
+      "pkst/source@0.1": 431,
+      "pkst/projection@0.1": 12937,
+      "pkst/chatgpt-conversation@0.1": 431,
+      "pkst/content@0.1": 7898,
+      "pkst/occurrence@0.1": 11999,
+      "pkst/extraction-record@0.1": 11999,
+      "pkst/block-reference@0.1": 12066,
+      "pkst/chatgpt-attachment@0.1": 312,
+      "pkst/opaque-block@0.1": 3368,
+      "pkst/activity@0.1": 1,
+      "pkst/snapshot@0.1": 1
+    },
+    "status": "all-blocks-and-reference-closure-verified"
+  },
+  "elapsed_seconds": 13.76,
+  "status": "source-field-verification-pending",
+  "semantic_extraction": "not-performed"
+}

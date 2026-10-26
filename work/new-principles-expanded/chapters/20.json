@@ -1,0 +1,1267 @@
+{
+  "chapter": "20",
+  "title": "自由区的生长与制度的和平演化",
+  "status": "expanded-copyedited",
+  "review": {
+    "reasoning": "共同知识形成自由区→兼容旧生活→租买设计制造的条件→内部组织持续开放→局部优势与迁移成本→加入退出→规模与控制→公共职能和平迁移",
+    "examples": [
+      "个人服务到共同组织",
+      "存储带来计算需求",
+      "找资料与恢复数据的具体收益",
+      "大型团队成为贡献者"
+    ],
+    "objections": [
+      "理想全实现前能否开始",
+      "有一点优势是否自动迁移",
+      "扩大是否重演垄断",
+      "替代组织是否抛弃公共职能"
+    ],
+    "voice": "保留自由区、资源成长、非暴力渐进及兼容退出的多时期作者原话；不把吸引力写成物理必然",
+    "status": "初校；不包含强迫加入或现实政治行动指令",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "source-adaptation",
+      "ref": "R54969",
+      "source_span": [
+        28,
+        565
+      ],
+      "source_sha256": "2d0c385ee780626f26056710ed66b264cccecb5402c06943f9c02908ddeea123",
+      "text": "一种人类组织结构(小到家庭，大到村落，城市，国家以至于整个地球村)，能够怎样合作，与参与者能够形成哪些共识密切相关。公有知识是塑造人类结构的基本前提条件。从这个角度出发，可以设想这样一个实现过程，对人类社会过去历史发展中的社会组织体系演化进行分析总结，然后从范畴论第一性的角度出发，从一个更高视角，从更高的思考层次，提出一个更优秀，更高效的全新的社会治理和组织体系，将这些内容作为开源的知识，在互联网上传播，获得一部分人的认同，让这些知识，从我一个人的知识，变为一群人的公有知识，然后这些人就可以在此基础上，实现该构想，建立一个局部的，小型的，全新架构的社会组织系统，就像软件迭代一样，建立一个全新版本的同样功能的软件系统，该系统与外界其他系统可以用兼容接口形式进行交互和竞争，并逐步确立其竞争优势，进而吸引更多的人，认识这套全新社会体系的公有知识，成为他们的共识，并融入到这个新系统中，我们需要认真设计新旧系统之间共存、兼容和迁移的机制，为实现新系统对旧系统的平滑迭代创造条件，尽量避免历史上不同制度更迭时发生的各种纷争和战乱。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            28,
+            37
+          ],
+          "output_span": [
+            0,
+            2
+          ],
+          "before": "应该讲，任何规模的",
+          "after": "一种"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            69,
+            75
+          ],
+          "output_span": [
+            34,
+            40
+          ],
+          "before": "其建立的前提",
+          "after": "能够怎样合作"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            76,
+            79
+          ],
+          "output_span": [
+            41,
+            42
+          ],
+          "before": "都是由",
+          "after": "与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            81,
+            90
+          ],
+          "output_span": [
+            44,
+            45
+          ],
+          "before": "其中的人类个体之间",
+          "after": "者"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            92,
+            95
+          ],
+          "output_span": [
+            47,
+            51
+          ],
+          "before": "达到的",
+          "after": "形成哪些"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            97,
+            108
+          ],
+          "output_span": [
+            53,
+            57
+          ],
+          "before": "交集中具体内容所决定的",
+          "after": "密切相关"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            128,
+            130
+          ],
+          "output_span": [
+            77,
+            77
+          ],
+          "before": "所以",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            138,
+            138
+          ],
+          "output_span": [
+            85,
+            87
+          ],
+          "before": "",
+          "after": "可以"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            140,
+            140
+          ],
+          "output_span": [
+            89,
+            91
+          ],
+          "before": "",
+          "after": "这样"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            142,
+            144
+          ],
+          "output_span": [
+            93,
+            93
+          ],
+          "before": "构想",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            146,
+            147
+          ],
+          "output_span": [
+            95,
+            95
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            149,
+            198
+          ],
+          "output_span": [
+            97,
+            97
+          ],
+          "before": "，先按照我前面预告的步骤，如同前面对人类语言文字从音节文字到音素文字，再到二进制文字的分析过程一样",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            497,
+            498
+          ],
+          "output_span": [
+            396,
+            396
+          ],
+          "before": "只",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            500,
+            500
+          ],
+          "output_span": [
+            398,
+            400
+          ],
+          "before": "",
+          "after": "认真"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            502,
+            503
+          ],
+          "output_span": [
+            402,
+            402
+          ],
+          "before": "好",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            521,
+            527
+          ],
+          "output_span": [
+            420,
+            421
+          ],
+          "before": "就能够很好的",
+          "after": "为"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            541,
+            541
+          ],
+          "output_span": [
+            435,
+            439
+          ],
+          "before": "",
+          "after": "创造条件"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            542,
+            542
+          ],
+          "output_span": [
+            440,
+            442
+          ],
+          "before": "",
+          "after": "尽量"
+        }
+      ],
+      "retained_characters": 434,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "自由区首先是一种共同实践的范围。它可以从一个服务、一群参与者和一套可以检查的规则开始，不必先拥有一片与外界隔绝的地域。参与者仍然生活在现有社会之中，使用现有货币、设备和网络，同时在共同承担的事务中尝试新的组织方式。\n\n这个入口很重要。如果必须等到整个世界都同意，任何新机制都无法开始；如果为了开始就要求参与者立即切断原来的生活，也会给他们带来不必要的负担。兼容与渐进迁移，使不同程度的参与成为可能。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 从租用资源到自己构造生产能力",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-R14-0",
+      "source_span": [
+        297,
+        584
+      ],
+      "source_sha256": "6c0aabb9ce6e9b47f31c5776bee97c5e0806b338f52e902f737e429d0cb1f7c2",
+      "text": "夺回个人数据和服务，是一个可以开始的起点，先从我一个人开始，然后通过宣传，让更多人参与进来。软件和服务先从开源项目开始作为传统服务和软件的替代，然后提供兼容接口，接管那些商业公司提供的软件和服务。硬件方面，刚开始是租，参与的人多了，财力足够强大了就买断，进一步降低成本，更壮大了，就继续扩张，从租，到零售商处购买，再到批发，再到直接设计和制造硬件。早期可以只专注于云存储业务，人数多财力强大了，就扩张到云计算，刚开始用现成的开源模型，财力雄厚了直接购买硬件，编写软件，自己进行大模型训练，总之，从夺取个人数据主权开始，逐步、有序、有计划地把这种组织方式扩展到更广的生产领域。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            297,
+            299
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "先从",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            308,
+            310
+          ],
+          "output_span": [
+            9,
+            9
+          ],
+          "before": "开始",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            314,
+            317
+          ],
+          "output_span": [
+            13,
+            17
+          ],
+          "before": "非常好",
+          "after": "可以开始"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            561,
+            561
+          ],
+          "output_span": [
+            261,
+            262
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            563,
+            563
+          ],
+          "output_span": [
+            264,
+            265
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            566,
+            566
+          ],
+          "output_span": [
+            268,
+            281
+          ],
+          "before": "",
+          "after": "地把这种组织方式扩展到更广"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            567,
+            576
+          ],
+          "output_span": [
+            282,
+            282
+          ],
+          "before": "夺取人类的一切商业",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            578,
+            583
+          ],
+          "output_span": [
+            284,
+            286
+          ],
+          "before": "组织的范围",
+          "after": "领域"
+        }
+      ],
+      "retained_characters": 266,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这条路径中，每一步都要有具体用途。最初租用设备，是为了用有限投入开始提供服务；购买设备，是因为持续需求与使用规模使自有设备更合适；进一步设计与制造，则需要已经积累相应的技术、人才和稳定需求。阶段不是身份等级，而是生产条件逐步形成的结果。\n\n同样，从存储走向计算，应该由实际工作推动。资料检索、内容处理、模型推理和共同研发，都可能逐步增加计算需要。使用现有开源工具，可以先提供价值；其中反复出现、成本较高的部分，再进入共同改进。这与软件种子的方式一致：先能够生活，再让自身结构越来越适合生活。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 内部组织从第一天开始改变",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54477",
+      "source_span": [
+        35,
+        291
+      ],
+      "source_sha256": "7ed2b8fdb9fa84cb7dabac3945544eb80f77b56e4ad05563b7df327dcea84ebe",
+      "text": "我设想的新机制替代过程，就是从第一个开源项目开始，它可以从逆向理解已有接口和工作方式开始，反向分析当今所有的数据和应用的信息孤岛的接口协议，然后建立一套逐步兼容它们的替代应用和数据源，但是运行在基于merkle架构的新机制下，能够核对内容并追踪改变，公开共同事务所需要的规则和依据，分配制度采用个体需求部分按需求按更健康合理的方式分配，其余的部分归全体共同通过动态权重系统的智能决策网络支配。这个过程是非暴力的，通过实际提供更有效率的能力，在与旧机制的竞争中逐步、温和地完成过渡。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            60,
+            64
+          ],
+          "output_span": [
+            25,
+            34
+          ],
+          "before": "这个项目",
+          "after": "它可以从逆向理解已"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            65,
+            76
+          ],
+          "output_span": [
+            35,
+            44
+          ],
+          "before": "点像最近特别火的rea",
+          "after": "接口和工作方式开始"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            77,
+            101
+          ],
+          "output_span": [
+            45,
+            45
+          ],
+          "before": "只不过我们的目的不是反向工程一切软件和服务，而是",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            132,
+            134
+          ],
+          "output_span": [
+            76,
+            78
+          ],
+          "before": "完全",
+          "after": "逐步"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            136,
+            137
+          ],
+          "output_span": [
+            80,
+            81
+          ],
+          "before": "他",
+          "after": "它"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            169,
+            174
+          ],
+          "output_span": [
+            113,
+            122
+          ],
+          "before": "可信任防篡",
+          "after": "能够核对内容并追踪"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            175,
+            175
+          ],
+          "output_span": [
+            123,
+            124
+          ],
+          "before": "",
+          "after": "变"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            178,
+            185
+          ],
+          "output_span": [
+            127,
+            134
+          ],
+          "before": "一切机制能保证",
+          "after": "共同事务所需要"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            186,
+            188
+          ],
+          "output_span": [
+            135,
+            140
+          ],
+          "before": "信息",
+          "after": "规则和依据"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            193,
+            201
+          ],
+          "output_span": [
+            145,
+            147
+          ],
+          "before": "基于我之前提到的",
+          "after": "采用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            262,
+            266
+          ],
+          "output_span": [
+            208,
+            212
+          ],
+          "before": "新系统的",
+          "after": "实际提供"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            267,
+            268
+          ],
+          "output_span": [
+            213,
+            214
+          ],
+          "before": "高",
+          "after": "有"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            269,
+            269
+          ],
+          "output_span": [
+            215,
+            216
+          ],
+          "before": "",
+          "after": "率"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            284,
+            284
+          ],
+          "output_span": [
+            231,
+            232
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            286,
+            287
+          ],
+          "output_span": [
+            234,
+            235
+          ],
+          "before": "的",
+          "after": "地"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            291,
+            291
+          ],
+          "output_span": [
+            239,
+            240
+          ],
+          "before": "",
+          "after": "。"
+        }
+      ],
+      "retained_characters": 186,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "对外采用能够与现有社会交互的组织形式，并不要求对内复制同样的权力结构。共同资源怎样使用，规则怎样修订，工作怎样分配，贡献怎样记录，都可以从小规模时就公开讨论。\n\n如果最初以“以后再平等”为理由，把数据、规则与资源永久留在少数人手里，规模越大，改变起来可能越困难。因此，成长过程中真正需要连续保持的，是参与者掌握共同事务的能力，而不只是组织名称与宣传用语。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 为什么不必等到理想状态全部实现",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54750",
+      "source_span": [
+        412,
+        854
+      ],
+      "source_sha256": "e57462989bcd27a2e47e7a00446c74a9664c4345ad2e5985f75babb623127816",
+      "text": "这种高效组织机制和能力，以及完善快速的信息收集发布和共享，也不是一蹴而就的，所谓的信息充分完备博弈，以及节点之间的对等，都是理想状态的描述，事实上，我们设想的新机制不用立即达到这个目标，而且其中有些极限目标未必能够一次求解，却可以作为持续改进的方向。事实上，新机制只要在一个具体问题上显示出真实优势，就已经有了吸引参与者的理由，就像物体总是倾向于向势能更低的地方移动，我们的机制只要完成同样的任务的能耗更低，速度更快，人们就更有理由尝试新的方式，不必依靠暴力来强迫这个转换过程，我们需要的是如何降低迁移和改变组织方式的成本。在过去的历史中，制度的替换，往往意味着暴力革命，旧体制的人具有的是在旧体制下的人生经历，是经过长时间充分迭代测试真实体验并适应了的，他没有真正体验过新机制，也不了解新机制，更不知道在新机制下真正长期工作生活后的现实体验。人总是对未知和没有体验的事物抱有抗拒怀疑和抵制的本能。这是人类个体避害趋利的本性。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            412,
+            424
+          ],
+          "output_span": [
+            0,
+            2
+          ],
+          "before": "前面提到的那些关于将来的",
+          "after": "这种"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            485,
+            486
+          ],
+          "output_span": [
+            63,
+            64
+          ],
+          "before": "性",
+          "after": "想"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            517,
+            519
+          ],
+          "output_span": [
+            95,
+            101
+          ],
+          "before": "这个",
+          "after": "其中有些极限"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            521,
+            539
+          ],
+          "output_span": [
+            103,
+            107
+          ],
+          "before": "大概率就像奥卡姆剃刀原则和柯氏复杂度",
+          "after": "未必能够"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            540,
+            541
+          ],
+          "output_span": [
+            108,
+            111
+          ],
+          "before": "样",
+          "after": "次求解"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            542,
+            556
+          ],
+          "output_span": [
+            112,
+            113
+          ],
+          "before": "是一个不可解问题，但是是一个",
+          "after": "却"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            558,
+            566
+          ],
+          "output_span": [
+            115,
+            121
+          ],
+          "before": "逐步迭代优化逼近",
+          "after": "作为持续改进"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            567,
+            569
+          ],
+          "output_span": [
+            122,
+            124
+          ],
+          "before": "目标",
+          "after": "方向"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            574,
+            576
+          ],
+          "output_span": [
+            129,
+            129
+          ],
+          "before": "只要",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            579,
+            586
+          ],
+          "output_span": [
+            132,
+            135
+          ],
+          "before": "比旧机制强哪怕",
+          "after": "只要在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            587,
+            589
+          ],
+          "output_span": [
+            136,
+            149
+          ],
+          "before": "点点",
+          "after": "个具体问题上显示出真实优势"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            591,
+            599
+          ],
+          "output_span": [
+            151,
+            160
+          ],
+          "before": "足以实现新旧机制",
+          "after": "已经有了吸引参与者"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            600,
+            604
+          ],
+          "output_span": [
+            161,
+            163
+          ],
+          "before": "替代转换",
+          "after": "理由"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            653,
+            656
+          ],
+          "output_span": [
+            212,
+            219
+          ],
+          "before": "会主动",
+          "after": "更有理由尝试新"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            657,
+            666
+          ],
+          "output_span": [
+            220,
+            222
+          ],
+          "before": "进行新旧体制的转换",
+          "after": "方式"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            667,
+            671
+          ],
+          "output_span": [
+            223,
+            227
+          ],
+          "before": "根本需要",
+          "after": "不必依靠"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            673,
+            676
+          ],
+          "output_span": [
+            229,
+            232
+          ],
+          "before": "的进行",
+          "after": "来强迫"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            693,
+            700
+          ],
+          "output_span": [
+            249,
+            258
+          ],
+          "before": "破坏旧体制所需",
+          "after": "迁移和改变组织方式"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            701,
+            703
+          ],
+          "output_span": [
+            259,
+            261
+          ],
+          "before": "能量",
+          "after": "成本"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            708,
+            710
+          ],
+          "output_span": [
+            266,
+            269
+          ],
+          "before": "年度",
+          "after": "历史中"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            846,
+            847
+          ],
+          "output_span": [
+            405,
+            406
+          ],
+          "before": "逼",
+          "after": "避"
+        }
+      ],
+      "retained_characters": 330,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "“更好一点”需要让参与者看得见。一个人原来找资料需要花很久，现在更容易找到；原来无法带走的内容，现在能够完整恢复；原来反馈问题不知道交给谁，现在能看见问题怎样进入改进。这些小变化可以成为加入的理由。\n\n但有局部优势，并不等于所有人都会立即迁移。习惯、信任、旧系统的配套与已有关系，都是真实成本。承认这些成本，才能设计试用、并行使用与逐步迁移，而不是把暂时没有加入的人都当成不理解未来。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 自由加入与自由退出，怎样成为成长的一部分",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-H4-0",
+      "source_span": [
+        537,
+        636
+      ],
+      "source_sha256": "2688d4947daa0757d5a7a01a6d38059357026cbeef203a2ff5377417c57dca8a",
+      "text": "替换过程是自由的，参与应当允许自由选择加入和退出，该系统提供加入和退出时的数据和应用的兼容性，以及自由导入导出性。替代不是靠暴力，而是靠效率更高，收益更好，通过增加实际收益来提高吸引力，争取实现双方都能受益的扩展。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            546,
+            556
+          ],
+          "output_span": [
+            9,
+            19
+          ],
+          "before": "任何一个人都可以随时",
+          "after": "参与应当允许自由选择"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            619,
+            619
+          ],
+          "output_span": [
+            82,
+            84
+          ],
+          "before": "",
+          "after": "实际"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            628,
+            628
+          ],
+          "output_span": [
+            93,
+            95
+          ],
+          "before": "",
+          "after": "争取"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            631,
+            633
+          ],
+          "output_span": [
+            98,
+            104
+          ],
+          "before": "赢式",
+          "after": "方都能受益的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            634,
+            635
+          ],
+          "output_span": [
+            105,
+            106
+          ],
+          "before": "张",
+          "after": "展"
+        }
+      ],
+      "retained_characters": 86,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "退出能力与共同发展并不冲突。一个人知道离开时仍然能带走自己的资料与作品，才更容易放心地把真实生活的一部分交给共同服务。组织也因此需要持续提供价值，而不能靠用户已经积累的大量内容把他锁在里面。\n\n共同建设的成果，则按事先公开的规则继续存在。个人贡献的署名不因为退出而消失，公共知识不因为某个人改变参与方式就被重新封闭；私人资料的使用权限则需要随本人选择更新。进入和离开的关系越清楚，合作越不必依靠彼此猜疑。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 规模扩大，为什么不应重新变成封闭的巨头",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54629",
+      "source_span": [
+        0,
+        283
+      ],
+      "source_sha256": "f1010a334b44b55238fb7eefc8163c438bdb0d25b2a09fa6e1232c2a67638a98",
+      "text": "HotPath 要改变的，是依靠封闭账号、封闭数据、封闭权限、封闭工具链来垄断整个生态的条件。大型组织也可以通过改造自身的组织架构，融入这个系统，成为一个实力强大的贡献者，而且整个公司也可以在参与过程中从金字塔式的组织架构，变成了社会神经网络式的平权分工动态权重的决策系统，连经济回报的分配也会因此变得更公平，组织效率更高，使得金字塔结构大公司随着规模扩大效率变低创造力变差的大公司病得到持续改进。这一目标也要求我们在自身规模扩大时，持续检查协调成本与创造能力。这个系统的成熟标志将是：这个项目的开发过程最终能够越来越多地凭自身能力，靠自我迭代完成。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            0,
+            5
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "你说的对，",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            13,
+            14
+          ],
+          "output_span": [
+            8,
+            13
+          ],
+          "before": "不",
+          "after": "要改变的，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            15,
+            32
+          ],
+          "output_span": [
+            14,
+            16
+          ],
+          "before": "让巨头无法竞争，而是让巨头无法通过",
+          "after": "依靠"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            59,
+            59
+          ],
+          "output_span": [
+            43,
+            46
+          ],
+          "before": "",
+          "after": "的条件"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            60,
+            61
+          ],
+          "output_span": [
+            47,
+            53
+          ],
+          "before": "所",
+          "after": "大型组织也可"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            62,
+            65
+          ],
+          "output_span": [
+            54,
+            54
+          ],
+          "before": "它只能",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            104,
+            107
+          ],
+          "output_span": [
+            93,
+            101
+          ],
+          "before": "会因此",
+          "after": "可以在参与过程中"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            200,
+            205
+          ],
+          "output_span": [
+            194,
+            198
+          ],
+          "before": "彻底的根治",
+          "after": "持续改进"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            207,
+            216
+          ],
+          "output_span": [
+            200,
+            201
+          ],
+          "before": "个体系的加入让本项",
+          "after": "一"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            217,
+            226
+          ],
+          "output_span": [
+            202,
+            211
+          ],
+          "before": "的开发效率不会因为",
+          "after": "标也要求我们在自身"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            228,
+            229
+          ],
+          "output_span": [
+            213,
+            214
+          ],
+          "before": "变",
+          "after": "扩"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            230,
+            238
+          ],
+          "output_span": [
+            215,
+            230
+          ],
+          "before": "而面临同样的问题",
+          "after": "时，持续检查协调成本与创造能力"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            262,
+            269
+          ],
+          "output_span": [
+            254,
+            261
+          ],
+          "before": "完全由这个项目",
+          "after": "能够越来越多地"
+        }
+      ],
+      "retained_characters": 214,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这里的扩张，不能只看一个组织名下聚集了多少用户和资产。更关键的是，能力是否继续开放，参与者是否仍然能理解规则，新的想法是否能够进入，资料与工具是否仍然可以迁移。\n\n一个贡献很大的团队，可以承担复杂任务；但如果它开始把共同接口、知识和决策通道变成不可替代的私有入口，就已经偏离了这个方向。新机制需要让规模带来的共同能力，反过来增加每个参与者的行动空间，而不是成为新的控制筹码。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 从生产合作走向更广的公共事务",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-R14-0",
+      "source_span": [
+        1042,
+        1173
+      ],
+      "source_sha256": "9c54f4f833f2ded7f6d2906cc6cddeec3bb86e4cfaf2b9be060d2abcc40013df",
+      "text": "资金和资源的投入，采用类似于众筹的机制，通过描述这个机制这个组织的理念功能好处以及前景，逐步吸引人加入，最初可以只有一个人认同并投入，这个人就是我，通过互联网和现实中的宣传，争取吸引更多的人参与。众人拾柴火焰高，将这个设想从一颗种子变成一个参天大树。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1094,
+            1111
+          ],
+          "output_span": [
+            52,
+            58
+          ],
+          "before": "至少从现在看，这个设想已经吸引到了",
+          "after": "最初可以只有"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1114,
+            1114
+          ],
+          "output_span": [
+            61,
+            66
+          ],
+          "before": "",
+          "after": "认同并投入"
+        }
+      ],
+      "retained_characters": 114,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "当一种组织方式能够可靠地提供越来越多生产与生活服务，参与者又能够在其中形成真实的共同决策经验，它才具备讨论更广公共事务的基础。从经济合作到社区协作，再到更广范围的制度变迁，需要依靠这些能力与共同认可逐步推进。\n\n我所期待的政治变化，是让原本依附于固定层级与少数职位的公共职能，逐渐转向由参与者共同掌握的智能网络。传统公司和国家机构的某些组织形式因此可能被吸收、改造或替代，具体公共功能却必须有人持续承担。生产、交通、照护、争议处理和共同安全，不会因为换了一种制度名称就自动消失。\n\n因此，和平演化的含义，是把已经能够更好承担的功能逐步接过来，让人们根据实际体验扩大合作。现实中的服务建设，与帮助人们理解这种未来的文化创作，可以在这一过程中并行生长。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

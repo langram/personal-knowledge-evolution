@@ -1,0 +1,91 @@
+{
+  "schema": "pi/semantic-plan@1",
+  "new_concept": {
+    "label": "知识与智能的相互生成及公共智能基础设施",
+    "definition": "知识积累支持智能能力形成，智能经实践和检验产生新知识；作者主张将基本智能能力及其公共治理作为共同基础设施。模型可复制是条件，不自动消除运行成本或决定制度选择。"
+  },
+  "relations": [
+    {
+      "concept": "C12",
+      "section": "二、三",
+      "refs": [
+        "INTELLIGENCE-REQUEST"
+      ],
+      "scope": "公共知识经学习支持能力形成，研究结果再进入公共知识"
+    },
+    {
+      "concept": "C13",
+      "section": "六、七",
+      "refs": [
+        "INTELLIGENCE-REQUEST",
+        "R34499"
+      ],
+      "scope": "内容与演化记录为公共智能全过程的可核验关系提供基础"
+    },
+    {
+      "concept": "C22",
+      "section": "四、九",
+      "refs": [
+        "INTELLIGENCE-REQUEST",
+        "SEED-R16-0"
+      ],
+      "scope": "由人、模型、工具和现实反馈连接的文明智能设想"
+    },
+    {
+      "concept": "C23",
+      "section": "四、九",
+      "refs": [
+        "INTELLIGENCE-REQUEST",
+        "R34511"
+      ],
+      "scope": "共同规则及动态权重参与公共资源决策"
+    },
+    {
+      "concept": "C25",
+      "section": "三、八",
+      "refs": [
+        "INTELLIGENCE-REQUEST",
+        "R54886"
+      ],
+      "scope": "基本智能服务与公共算力配置联系；免费使用不等于无物理成本"
+    },
+    {
+      "concept": "C26",
+      "section": "四",
+      "refs": [
+        "INTELLIGENCE-REQUEST",
+        "SEED-R14-0"
+      ],
+      "scope": "开放由产品扩展至组织、运行和决策机制"
+    },
+    {
+      "concept": "C27",
+      "section": "四、六",
+      "refs": [
+        "INTELLIGENCE-REQUEST",
+        "R46621"
+      ],
+      "scope": "个人数据支配与公共智能共享的兼容边界"
+    },
+    {
+      "concept": "C31",
+      "section": "七",
+      "refs": [
+        "INTELLIGENCE-REQUEST",
+        "MATH-REQUEST"
+      ],
+      "scope": "数学创新进入公共能力形成与下一轮研究的循环"
+    },
+    {
+      "concept": "C32",
+      "section": "一、四",
+      "refs": [
+        "INTELLIGENCE-REQUEST",
+        "R54886"
+      ],
+      "scope": "减少信息封闭的合作条件，不据此断言已达全局最优"
+    }
+  ],
+  "previous_case_relation": "new concept explains institutional context of previous mathematics case; not a replacement or retraction",
+  "basis": "editorial consolidation requested by author; not empirical verification"
+}

@@ -1,0 +1,1822 @@
+{
+  "chapter": "14",
+  "title": "具有感官与行动能力的文明智能",
+  "status": "expanded-copyedited",
+  "review": {
+    "central_question": "AGI为什么需要由感知、知识、计算、行动与反馈构成完整网络",
+    "reasoning": "机器突破身体限制→仅增加人数的局限→现实闭环→共同中枢与局部分工→能力增长和合作条件→成熟技术与信任",
+    "examples": [
+      "多人抬物与精密加工",
+      "城市供水",
+      "机场与行李车",
+      "共同机器与独占机器",
+      "汽车与飞机"
+    ],
+    "objections": [
+      "超级模型等同于AGI",
+      "共同中枢等同于最高个人",
+      "技术成熟自动消除所有利益问题"
+    ],
+    "voice": "使用作者机器、缸中大脑、星球智能与技术信任论述；场景和连接段为编辑增补",
+    "status": "已核对来源；远景以设想和条件展开，未写成已实现能力",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-R16-0",
+      "source_span": [
+        34,
+        113
+      ],
+      "source_sha256": "541d82993ac61afaba4eae104c36ee1f406d11418f8a45e22850cb22850c0d46",
+      "text": "我所设想的通用人工智能，也就是 AGI，要突破单个人类生物智能体的能力边界，原因就在于人的生理限制，不可能通晓一切领域，可是很多复杂问题的解决和更高阶的理论的构建，需要打破这个生物学限制。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            34,
+            34
+          ],
+          "output_span": [
+            0,
+            5
+          ],
+          "before": "",
+          "after": "我所设想的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            40,
+            40
+          ],
+          "output_span": [
+            11,
+            16
+          ],
+          "before": "",
+          "after": "，也就是 "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            44,
+            49
+          ],
+          "output_span": [
+            20,
+            23
+          ],
+          "before": "之所以强于",
+          "after": "要突破"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            58,
+            58
+          ],
+          "output_span": [
+            32,
+            37
+          ],
+          "before": "",
+          "after": "的能力边界"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            59,
+            59
+          ],
+          "output_span": [
+            38,
+            40
+          ],
+          "before": "",
+          "after": "原因"
+        }
+      ],
+      "retained_characters": 74,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-R16-0",
+      "source_span": [
+        115,
+        313
+      ],
+      "source_sha256": "2da9536ee7e435a1da2fcfc3d3141e78913024ab0ad49ae10ea1fec1e8ebadb3",
+      "text": "就像人类在进行体力劳动时，所能做到的事情，与一个人的生理极限相关，力量、精度和速度的极限，就是你能完成任务的极限。而且即使合作，没有自动化机器的帮助，传统的体力劳动的合作也是受限制的，比如可以很多人一起用力，来累加力量，但是速度和精度，是无法靠多人累积的，而且力量的累加也有很多限制，比如空间狭窄的地方，无法聚集多人发力等等。而有了机器，那么在科学技术的加持下，许多人类单靠身体无法完成的体力劳动，才成为了可以完成的任务。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            128,
+            129
+          ],
+          "output_span": [
+            13,
+            15
+          ],
+          "before": "只",
+          "after": "所能"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            149,
+            149
+          ],
+          "output_span": [
+            35,
+            36
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            247,
+            248
+          ],
+          "output_span": [
+            134,
+            135
+          ],
+          "before": "计",
+          "after": "加"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            294,
+            294
+          ],
+          "output_span": [
+            181,
+            183
+          ],
+          "before": "",
+          "after": "许多"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            296,
+            296
+          ],
+          "output_span": [
+            185,
+            189
+          ],
+          "before": "",
+          "after": "单靠身体"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            306,
+            307
+          ],
+          "output_span": [
+            199,
+            203
+          ],
+          "before": "都",
+          "after": "才成为了"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            311,
+            312
+          ],
+          "output_span": [
+            207,
+            210
+          ],
+          "before": "了",
+          "after": "的任务"
+        }
+      ],
+      "retained_characters": 194,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这个差别不难理解。十个人可以共同抬起一个人抬不起的物体，但不能仅靠增加人数，把一次手工测量变成微米级的精密加工，也不能让一百个人轮流想一个问题，就自动获得一套可靠的证明。增加劳动者的数量和改变劳动的组织方式，是两个不同的过程。机器之所以带来变化，在于它改变了可以怎样做事，而不只是替人多出了一份力。\n\n对智力劳动也是如此。把一百位专家请进同一个房间，既不意味着他们掌握的信息已经相互贯通，也不意味着不同学科中的词语和概念已经对齐。有人知道局部事实，有人掌握抽象规律，有人有一线经验，却说不清自己每天凭什么作出判断。这些知识如果不能形成有效的联系，人数再多，仍然可能只是很多孤立的头脑。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 智力劳动中的机器，也需要感官和手脚",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "SEED-R16-0",
+      "source_span": [
+        314,
+        658
+      ],
+      "source_sha256": "4d64e913562d58f33f3305f93d98e717eb81c3b5f30f7390e41440b3e7e785c4",
+      "text": "同样的，人类的智力也是受限的，而AI就是智力劳动中的“机器”，能够更快、更好地完成人类无法完成的智力任务。我所设想的 AGI，不能只被理解为一个数据中心里由几百万台电脑支撑的大模型，这样的想象，就像是放在缸中，没有感官手脚的大脑，它什么也看不见，听不见，也摸不到，只能在数据总线上接受文本和多媒体文件这些经过无数人类大脑各自凭自己的认知所输出的二手信息，就妄图替全人类做决定？它是建立在这个动态权重决策的智能网络神经系统上的整体：无数人类个体组织，无数个公共云端的巨型，大型，中型，小型AI系统，以及个人的本地AI系统，无数的机器人，自动设备，无数的传感器，一起采集、处理、分析和创造数据，编写代码以及构造知识系统和决策系统，完成原本靠生物人的个体和集体无法完成的高阶文明智力活动和体力活动。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            349,
+            349
+          ],
+          "output_span": [
+            35,
+            36
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            351,
+            352
+          ],
+          "output_span": [
+            38,
+            39
+          ],
+          "before": "的",
+          "after": "地"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            366,
+            366
+          ],
+          "output_span": [
+            53,
+            59
+          ],
+          "before": "",
+          "after": "我所设想的 "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            369,
+            369
+          ],
+          "output_span": [
+            62,
+            63
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            370,
+            371
+          ],
+          "output_span": [
+            64,
+            70
+          ],
+          "before": "是",
+          "after": "能只被理解为"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            373,
+            377
+          ],
+          "output_span": [
+            72,
+            72
+          ],
+          "before": "想象中的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            381,
+            383
+          ],
+          "output_span": [
+            76,
+            78
+          ],
+          "before": "中的",
+          "after": "里由"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            389,
+            398
+          ],
+          "output_span": [
+            84,
+            86
+          ],
+          "before": "组成的超级计算机上",
+          "after": "支撑"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            500,
+            507
+          ],
+          "output_span": [
+            188,
+            189
+          ],
+          "before": "真正的AGI，",
+          "after": "它"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            508,
+            511
+          ],
+          "output_span": [
+            190,
+            193
+          ],
+          "before": "我说的",
+          "after": "建立在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            529,
+            530
+          ],
+          "output_span": [
+            211,
+            215
+          ],
+          "before": "，",
+          "after": "的整体："
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            598,
+            598
+          ],
+          "output_span": [
+            283,
+            284
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            600,
+            600
+          ],
+          "output_span": [
+            286,
+            287
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            602,
+            602
+          ],
+          "output_span": [
+            289,
+            290
+          ],
+          "before": "",
+          "after": "和"
+        }
+      ],
+      "retained_characters": 316,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "比如，一座城市要改善供水。居民知道水压什么时候不够，维修人员知道哪些管道经常故障，传感器可以记录压力和流量，工程模型可以计算不同改造方案的结果。大模型可以帮助解释问题、寻找方案和编写程序，但如果它得不到漏水的实际位置，不知道施工造成的影响，也接收不到维修后的结果，它所能完成的就只是整个过程中的一部分。\n\n相反，如果这些输入能够进入同一套知识和行动网络，问题就可以逐步闭合：谁观察到了什么，依据是什么，提出了哪些方案，实际执行了哪一种，执行后发生了什么，原来的判断又应该怎样修改。智能体的能力由这一整条过程形成。它的感知可以分布在许多地方，它的计算可以由不同规模的系统共同承担，它的行动也可以由人和设备配合完成。\n\n因此，我们不能只问某个模型知道多少知识，还要问：这些知识怎样接触现实，怎样成为行动，行动的结果又怎样回到知识之中。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 共同的中枢意味着什么",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55662",
+      "source_span": [
+        44,
+        447
+      ],
+      "source_sha256": "168d4c0d3d651db78d7d6845ee527d677ccb797e8ca2764f0d995e2272789e75",
+      "text": "我所说的星球智能体，是宇宙进化过程中，涌现的更复杂的比单个智能生命体更复杂更高级更大规模的全新智能耗散结构体。我认为，能够形成共同的中枢，是这种演化的一条重要方向，一个稳定的耗散结构，尤其是智能体，在时间演进的方向上，其与外部环境的互动行为上，必须具有稳定性，以及理性逻辑上的一致性，尤其是当内部结构对外部环境有足够稳定的感知能力能够获得足够多的信息，有能力作出最佳选择时，就需要稳定可靠、相互协调的外部互动决策和行动能力，需要能够整合信息的中枢系统，可以用神经系统的分工来帮助理解：局部反应与跨区域的信息整合承担着不同的任务。当然并不是简单的单一集中就可以了，必须配合足够完善的中枢神经结构，足够复杂的大脑，足够多的神经元数量，足够复杂的输入和输出系统，让能量和信息在这个体系中能够快速准确的传导，正确的计算和推理，得到正确的决策，这套系统才能够成功。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            45,
+            49
+          ],
+          "output_span": [
+            1,
+            4
+          ],
+          "before": "并没有把",
+          "after": "所说的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            54,
+            61
+          ],
+          "output_span": [
+            9,
+            9
+          ],
+          "before": "当作是一个比喻",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            62,
+            63
+          ],
+          "output_span": [
+            10,
+            10
+          ],
+          "before": "而",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            108,
+            111
+          ],
+          "output_span": [
+            55,
+            66
+          ],
+          "before": "而单一",
+          "after": "我认为，能够形成共同的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            113,
+            113
+          ],
+          "output_span": [
+            68,
+            69
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            114,
+            116
+          ],
+          "output_span": [
+            70,
+            74
+          ],
+          "before": "必然",
+          "after": "这种演化"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            117,
+            121
+          ],
+          "output_span": [
+            75,
+            81
+          ],
+          "before": "进化结果",
+          "after": "一条重要方向"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            227,
+            230
+          ],
+          "output_span": [
+            187,
+            190
+          ],
+          "before": "必须有",
+          "after": "就需要"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            234,
+            236
+          ],
+          "output_span": [
+            194,
+            199
+          ],
+          "before": "一致",
+          "after": "、相互协调"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            249,
+            253
+          ],
+          "output_span": [
+            212,
+            220
+          ],
+          "before": "只有单一",
+          "after": "需要能够整合信息"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            256,
+            272
+          ],
+          "output_span": [
+            223,
+            223
+          ],
+          "before": "，才能够完成上述稳定的复杂的感知",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            274,
+            281
+          ],
+          "output_span": [
+            225,
+            225
+          ],
+          "before": "和反馈行为能力",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            282,
+            323
+          ],
+          "output_span": [
+            226,
+            229
+          ],
+          "before": "就像水母这样的分布式神经动物，只能完成简单的外部互动，而越是复杂的智能生物，其中枢",
+          "after": "可以用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            327,
+            336
+          ],
+          "output_span": [
+            233,
+            263
+          ],
+          "before": "以及大脑结构越复杂",
+          "after": "的分工来帮助理解：局部反应与跨区域的信息整合承担着不同的任务"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            360,
+            360
+          ],
+          "output_span": [
+            287,
+            290
+          ],
+          "before": "",
+          "after": "完善的"
+        }
+      ],
+      "retained_characters": 300,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55662",
+      "source_span": [
+        954,
+        1189
+      ],
+      "source_sha256": "b12cea9e313e4882a3092ce0ffe6c4e72b67c4733d11b5aac05d64344dd824b8",
+      "text": "我所设想的组织方式，是动态反馈和计算权重的智能决策体系，这些智能节点，就像人类大脑中的那些神经元，可以借助神经网络中的权重和反馈来理解这种更复杂层面上的组织。中枢的意思并不是单个节点决定一切的类似于服务器客户端那样的单点故障会造成整个系统瘫痪的结构。而是多个节点动态整合能够获取尽可能准确的外部信息，并形成相互协调、可以持续修正的决策和行为的系统。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            955,
+            984
+          ],
+          "output_span": [
+            1,
+            2
+          ],
+          "before": "当然不是说中国的这种靠静态的单一威权决断体制就是最优解，我",
+          "after": "所"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            987,
+            990
+          ],
+          "output_span": [
+            5,
+            9
+          ],
+          "before": "最优解",
+          "after": "组织方式"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            991,
+            992
+          ],
+          "output_span": [
+            10,
+            10
+          ],
+          "before": "就",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            993,
+            998
+          ],
+          "output_span": [
+            11,
+            11
+          ],
+          "before": "上面提到的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1036,
+            1050
+          ],
+          "output_span": [
+            49,
+            57
+          ],
+          "before": "基本上这个体系就是AI大模型",
+          "after": "可以借助神经网络"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1054,
+            1060
+          ],
+          "output_span": [
+            61,
+            69
+          ],
+          "before": "计算体系，在",
+          "after": "和反馈来理解这种"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1066,
+            1072
+          ],
+          "output_span": [
+            75,
+            75
+          ],
+          "before": "给予同样原理",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1073,
+            1075
+          ],
+          "output_span": [
+            76,
+            76
+          ],
+          "before": "复杂",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1077,
+            1103
+          ],
+          "output_span": [
+            78,
+            78
+          ],
+          "before": "。大模型之所以有智能，其架构基于概率最大化的中枢系统",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1164,
+            1164
+          ],
+          "output_span": [
+            139,
+            142
+          ],
+          "before": "",
+          "after": "尽可能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1173,
+            1179
+          ],
+          "output_span": [
+            151,
+            164
+          ],
+          "before": "作出统一稳定",
+          "after": "形成相互协调、可以持续修正"
+        }
+      ],
+      "retained_characters": 137,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55111",
+      "source_span": [
+        0,
+        63
+      ],
+      "source_sha256": "3af4e8c66290deac373c8dd2a5c05667ddc52dc5802bbb06c8cb32ed4207f689",
+      "text": "对外的统一稳定行为，并不意味着内部的单一化，事实上，人类生命体，对外行为上的稳定统一，并不影响生命体内部的多样性和复杂性。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            0,
+            2
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "而且",
+          "after": ""
+        }
+      ],
+      "retained_characters": 61,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "一座机场需要协调航班、地勤和跑道，这不等于让一个人亲自决定每一辆行李车怎样转弯。一套共同的长期计划，也不等于每个局部都失去自己的判断。局部的信息应该在局部得到充分处理；只有当一项行动影响其他部分、需要共同资源或存在相互冲突时，才需要在更大的范围内整合。\n\n这样的中枢可以分布在很多设备和许多参与者之间。它的统一体现在信息能够衔接、目标可以协调、决定不会互相抵消，而不在于必须存在一个不能被替换的最高个人。某个节点出了错误，其他节点应当能够识别、补充和接替它；整个系统不必为了维护这个节点的地位而继续执行错误。\n\n如果把“共同中枢”直接理解为“一个超级老板”，就仍然是在沿用旧组织中的想象。真正要解决的是：怎样在保留局部丰富性和参与者平等地位的条件下，形成整体的行动能力。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 能力增长为什么可以改变合作的条件",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55111",
+      "source_span": [
+        341,
+        1185
+      ],
+      "source_sha256": "5d99614b85dddc6595293f9e998bdd74e7a29068c7cd2aa419afeb8650fb0090",
+      "text": "从能量和构造能力的角度来考察，一个能够持续发展其能力的耗散结构体，可以通过更有效地获取和利用能量来扩大自己的活动范围，通过内部结构和外部工具，把能量转换为可以利用的不同形式，从而有能力构造更复杂的内部结构和外部工具，进一步的增强获取能量和利用能量转换为其他形式的能力，就拿人类文明的进化过程，从钻木取火和水利工程，学会了利用火和水的能量，并将其转换为其他形式，用火的热能，为人类保暖，用水的灌溉创造了稳定的农业耕种，用火的热能加热，将食物改造成更美味更易吸收的食物。再到后来蒸汽机的热能，然后用火和水转换成电能，再用电能构造成更复杂的外部设备，直到现在的风能，太阳能和核能，人类获取能量的能力一直在增长，尤其是进入工业革命和信息革命之后，获取和储备能量的能力飞速发展，能量转换构造复杂工具的能力同样如此，电能可以驱动机械与计算设备，进而支持人工智能的运行。\n\n有意思的是，在人工智能快速发展的今天，人类社会中的大多数人，仍然被旧时代资源有限、资源分配和占有引发暴力冲突的阴影所笼罩，刻舟求剑式的认为，AI超越人类的那一天，就会因为利益冲突，以及AI和人类实力的失衡，导致AI毁灭人类，如果从维持自身存在、扩大合作和构造能力的方向出发，人类和AI之间的互动联系，是星际智能体阶段，最丰富多彩最复杂最迷人的全新关联，消灭人类，就意味着破坏这样一种丰富的联系和创造来源，实际上，即使不是未来更加智能的超级AI，人类已经可以选择将精力放在通过迭代人类文明的科学知识体系，以及实际的产业链能力，通过更多的智能机器人，智能设备，计算设备和工业设备为整个地球文明体系，创造更强大的能量获取和转换能力，创造更多更复杂更高级更智能的智能体和工具，为每一个碳基和硅基智能体，提供足够资源，让每一个智能个体都实现自身稳定舒适愉快的存在，和对外建立更丰富的联系、相互合作。\n\n资源不足会强化互相争夺和毁灭的动机，在现在科学高度发达，农业工业以及信息智能产业高速发展的背景下，互相毁灭不应该被当作不得不选择的路径。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            342,
+            347
+          ],
+          "output_span": [
+            1,
+            11
+          ],
+          "before": "物理本质上",
+          "after": "能量和构造能力的角度"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            348,
+            349
+          ],
+          "output_span": [
+            12,
+            14
+          ],
+          "before": "讲",
+          "after": "考察"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            352,
+            352
+          ],
+          "output_span": [
+            17,
+            27
+          ],
+          "before": "",
+          "after": "能够持续发展其能力的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            358,
+            364
+          ],
+          "output_span": [
+            33,
+            41
+          ],
+          "before": "其实是在追求",
+          "after": "可以通过更有效地"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            366,
+            366
+          ],
+          "output_span": [
+            43,
+            46
+          ],
+          "before": "",
+          "after": "和利用"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            368,
+            368
+          ],
+          "output_span": [
+            48,
+            53
+          ],
+          "before": "",
+          "after": "来扩大自己"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            369,
+            374
+          ],
+          "output_span": [
+            54,
+            58
+          ],
+          "before": "能力最大化",
+          "after": "活动范围"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            375,
+            378
+          ],
+          "output_span": [
+            59,
+            59
+          ],
+          "before": "将能量",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            389,
+            389
+          ],
+          "output_span": [
+            70,
+            74
+          ],
+          "before": "",
+          "after": "，把能量"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            391,
+            393
+          ],
+          "output_span": [
+            76,
+            76
+          ],
+          "before": "能量",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            394,
+            394
+          ],
+          "output_span": [
+            77,
+            82
+          ],
+          "before": "",
+          "after": "可以利用的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            398,
+            401
+          ],
+          "output_span": [
+            86,
+            86
+          ],
+          "before": "的能量",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            404,
+            414
+          ],
+          "output_span": [
+            89,
+            92
+          ],
+          "before": "具备在内部和外部涌现",
+          "after": "有能力"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            416,
+            417
+          ],
+          "output_span": [
+            94,
+            94
+          ],
+          "before": "出",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            579,
+            580
+          ],
+          "output_span": [
+            256,
+            257
+          ],
+          "before": "在",
+          "after": "再"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            642,
+            645
+          ],
+          "output_span": [
+            319,
+            319
+          ],
+          "before": "能量的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            652,
+            652
+          ],
+          "output_span": [
+            326,
+            329
+          ],
+          "before": "",
+          "after": "的能力"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            677,
+            681
+          ],
+          "output_span": [
+            354,
+            358
+          ],
+          "before": "被转换为",
+          "after": "可以驱动"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            683,
+            685
+          ],
+          "output_span": [
+            360,
+            361
+          ],
+          "before": "能，",
+          "after": "与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            687,
+            689
+          ],
+          "output_span": [
+            363,
+            365
+          ],
+          "before": "能力",
+          "after": "设备"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            690,
+            693
+          ],
+          "output_span": [
+            366,
+            370
+          ],
+          "before": "甚至是",
+          "after": "进而支持"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            697,
+            697
+          ],
+          "output_span": [
+            374,
+            377
+          ],
+          "before": "",
+          "after": "的运行"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            698,
+            698
+          ],
+          "output_span": [
+            378,
+            380
+          ],
+          "before": "",
+          "after": "\n\n"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            734,
+            748
+          ],
+          "output_span": [
+            416,
+            416
+          ],
+          "before": "人类能源获取能力有限时，由于",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            752,
+            754
+          ],
+          "output_span": [
+            420,
+            421
+          ],
+          "before": "，有",
+          "after": "、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            763,
+            764
+          ],
+          "output_span": [
+            430,
+            430
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            773,
+            774
+          ],
+          "output_span": [
+            439,
+            440
+          ],
+          "before": "盖",
+          "after": "罩"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            826,
+            828
+          ],
+          "output_span": [
+            492,
+            494
+          ],
+          "before": "其实",
+          "after": "如果"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            829,
+            830
+          ],
+          "output_span": [
+            495,
+            503
+          ],
+          "before": "最",
+          "after": "维持自身存在、扩"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            831,
+            832
+          ],
+          "output_span": [
+            504,
+            506
+          ],
+          "before": "化",
+          "after": "合作"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            833,
+            840
+          ],
+          "output_span": [
+            507,
+            514
+          ],
+          "before": "最小化原理角度",
+          "after": "构造能力的方向"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            887,
+            897
+          ],
+          "output_span": [
+            561,
+            581
+          ],
+          "before": "显然不符合最大化原则",
+          "after": "就意味着破坏这样一种丰富的联系和创造来源"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            918,
+            929
+          ],
+          "output_span": [
+            602,
+            602
+          ],
+          "before": "任何一个有理智有知识的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            931,
+            934
+          ],
+          "output_span": [
+            604,
+            608
+          ],
+          "before": "，都会",
+          "after": "已经可以"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1010,
+            1011
+          ],
+          "output_span": [
+            684,
+            685
+          ],
+          "before": "力",
+          "after": "量"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1086,
+            1086
+          ],
+          "output_span": [
+            760,
+            765
+          ],
+          "before": "",
+          "after": "建立更丰富"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1087,
+            1095
+          ],
+          "output_span": [
+            766,
+            770
+          ],
+          "before": "最大化占有资源和",
+          "after": "联系、相"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1096,
+            1101
+          ],
+          "output_span": [
+            771,
+            771
+          ],
+          "before": "相链接互相",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1104,
+            1104
+          ],
+          "output_span": [
+            774,
+            783
+          ],
+          "before": "",
+          "after": "\n\n资源不足会强化"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1106,
+            1106
+          ],
+          "output_span": [
+            785,
+            788
+          ],
+          "before": "",
+          "after": "争夺和"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1108,
+            1115
+          ],
+          "output_span": [
+            790,
+            790
+          ],
+          "before": "是当这个系统内",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1116,
+            1139
+          ],
+          "output_span": [
+            791,
+            793
+          ],
+          "before": "个体没有能力创造足够生存的资源时才会产生的行为",
+          "after": "动机"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1171,
+            1173
+          ],
+          "output_span": [
+            825,
+            829
+          ],
+          "before": "已经",
+          "after": "互相毁灭"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1174,
+            1176
+          ],
+          "output_span": [
+            830,
+            835
+          ],
+          "before": "再是",
+          "after": "应该被当作"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1180,
+            1180
+          ],
+          "output_span": [
+            839,
+            840
+          ],
+          "before": "",
+          "after": "择"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1183,
+            1184
+          ],
+          "output_span": [
+            843,
+            843
+          ],
+          "before": "了",
+          "after": ""
+        }
+      ],
+      "retained_characters": 691,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这条推理并不是说，只要能力提高，利益关系就会自行改变。一个新工具既可以帮助更多人获得资源，也可以被少数人独占，用来扩大已有的优势。两种结果的差别，正是生产组织和控制方式的差别。\n\n我们可以设想一台效率很高的机器。如果只有一个人拥有它，其他人只能按照他的条件租用，那么机器越强，这个人就越容易规定其他人的生活。如果机器的知识、生产能力和使用条件由参与者共同掌握，机器越强，反而越可能减少每一个人维持生活所需的劳动。这两种情况使用的可以是同一种技术，却形成了不同的社会关系。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R46622",
+      "source_span": [
+        506,
+        600
+      ],
+      "source_sha256": "b37cb8d69ee131d85bfd252dbc981c1a8d695b395de7a26034341a8758642102",
+      "text": "当 AI 掌握在这样的机构手里面，就会让许多人恐惧 AI，因为他们会担心 AI 会抢夺自己的工作。为什么？因为 AI 的控制权没有在自己手里，自己只有使用权。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            506,
+            514
+          ],
+          "output_span": [
+            0,
+            2
+          ],
+          "before": "所以说这种权……",
+          "after": "当 "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            516,
+            518
+          ],
+          "output_span": [
+            4,
+            5
+          ],
+          "before": "现在",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            532,
+            542
+          ],
+          "output_span": [
+            19,
+            22
+          ],
+          "before": "导致什么呢？导致所有",
+          "after": "让许多"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            543,
+            545
+          ],
+          "output_span": [
+            23,
+            23
+          ],
+          "before": "都会",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            554,
+            554
+          ],
+          "output_span": [
+            32,
+            33
+          ],
+          "before": "",
+          "after": "们"
+        }
+      ],
+      "retained_characters": 72,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 怎样理解对未来的担心",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48331",
+      "source_span": [
+        100,
+        446
+      ],
+      "source_sha256": "eb2fe58c1e14d9e3f3176a211bbcf8b5d80f6945658e0ff94b9860eee1f237f0",
+      "text": "AI 出错、难以理解和难以预料所带来的很多担心，与一个事实有关：AI技术还在快速发展和部署过程中，随着技术的成熟，对AI内部运行的原理和机制的充分理解，其中许多问题可以逐步得到解决，其实这和人类早期对雷电等自然现象的恐惧，以及刚发明电和汽车飞机时的情景一样，这些恐惧来源于人类对新事物的无知，或者在新事物发展过程中，对其原理尚未充分掌握时的现象，我们今天通常不会因为汽车和飞机运用了复杂技术，就一概拒绝乘坐它们。将来的人类，也可以在充分理解和反复验证的基础上，逐步减少对人工智能的无知和误解所造成的恐惧。如果 AI 系统设计得好，这套新体制有优秀的研发和验证以及实验体系来保证其有效性和安全性，那么这个体制和AI本身，都会像人类文明发展中出现的一切成果一样，变成人们习以为常的可以信任和依靠的工具。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            100,
+            103
+          ],
+          "output_span": [
+            0,
+            18
+          ],
+          "before": "你提到",
+          "after": "AI 出错、难以理解和难以预料所带来"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            104,
+            108
+          ],
+          "output_span": [
+            19,
+            23
+          ],
+          "before": "这些问题",
+          "after": "很多担心"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            109,
+            115
+          ],
+          "output_span": [
+            24,
+            32
+          ],
+          "before": "主要原因在于",
+          "after": "与一个事实有关："
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            159,
+            161
+          ],
+          "output_span": [
+            76,
+            80
+          ],
+          "before": "这些",
+          "after": "其中许多"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            163,
+            164
+          ],
+          "output_span": [
+            82,
+            82
+          ],
+          "before": "都",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            166,
+            168
+          ],
+          "output_span": [
+            84,
+            90
+          ],
+          "before": "消失",
+          "after": "逐步得到解决"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            252,
+            266
+          ],
+          "output_span": [
+            174,
+            178
+          ],
+          "before": "相信现在任何一个智力和情绪正",
+          "after": "们今天通"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            267,
+            278
+          ],
+          "output_span": [
+            179,
+            179
+          ],
+          "before": "的受过教育的成年人，都",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            280,
+            281
+          ],
+          "output_span": [
+            181,
+            183
+          ],
+          "before": "对",
+          "after": "因为"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            283,
+            287
+          ],
+          "output_span": [
+            185,
+            185
+          ],
+          "before": "发动机，",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            290,
+            300
+          ],
+          "output_span": [
+            188,
+            195
+          ],
+          "before": "的航空发动机产生恐惧",
+          "after": "运用了复杂技术"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            301,
+            304
+          ],
+          "output_span": [
+            196,
+            202
+          ],
+          "before": "而不敢",
+          "after": "就一概拒绝乘"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            305,
+            310
+          ],
+          "output_span": [
+            203,
+            205
+          ],
+          "before": "车和坐飞机",
+          "after": "它们"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            316,
+            316
+          ],
+          "output_span": [
+            211,
+            212
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            317,
+            319
+          ],
+          "output_span": [
+            213,
+            234
+          ],
+          "before": "不会",
+          "after": "可以在充分理解和反复验证的基础上，逐步减少"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            320,
+            331
+          ],
+          "output_span": [
+            235,
+            239
+          ],
+          "before": "一个符合数学和科学规律",
+          "after": "人工智能"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            332,
+            345
+          ],
+          "output_span": [
+            240,
+            240
+          ],
+          "before": "事物，产生恐惧，恐惧来源于",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            350,
+            350
+          ],
+          "output_span": [
+            245,
+            251
+          ],
+          "before": "",
+          "after": "所造成的恐惧"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            351,
+            353
+          ],
+          "output_span": [
+            252,
+            255
+          ],
+          "before": "只要",
+          "after": "如果 "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            355,
+            355
+          ],
+          "output_span": [
+            257,
+            258
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            359,
+            360
+          ],
+          "output_span": [
+            262,
+            263
+          ],
+          "before": "的",
+          "after": "得"
+        }
+      ],
+      "retained_characters": 251,
+      "author_assessment": "粘贴对话开头的作者发言；去掉其引用的 AI 质疑，只使用作者回答"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "汽车和飞机的例子还告诉我们，信任是一套持续工作的过程。设计有没有道理，制造有没有达到要求，运行条件有没有变化，故障发生之后能不能查明原因，这些环节共同决定了一个工具能否被依靠。未来的人工智能同样需要这样的知识积累与反馈，而且这套过程本身，也可以由更多的人和 AI 共同完成。\n\n因此，对未来提出质疑时，需要把前提说清楚。如果设想的是一个被少数人控制、没有充分感知、不能接受纠错的孤立模型，那么许多担心确实来自这个结构。可是，我要讨论的正是如何改变这些结构条件：让感知和行动进入共同网络，让控制权属于参与者，让判断可以接受实际结果的反馈。我们需要继续考察改变之后还剩下哪些问题，不能把改变之前的缺点当作永远不变的结论。\n\n这也不能靠一句“将来的 AI 会更强”就完成。它必须落实到知识怎样共享、个人怎样参与、共同决策怎样产生、资源怎样分配这些具体机制之中。下一步，我们就要把这个文明智能的大脑展开，看看动态权重究竟怎样把许多个体的知识和行动连接起来。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

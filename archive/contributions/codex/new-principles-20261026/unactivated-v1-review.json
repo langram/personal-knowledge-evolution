@@ -1,0 +1,10 @@
+{
+  "status": "not-activated",
+  "reason": "Three semantic edge directions corrected in the next stage. Content identity and object DAG checks had passed, but semantic review found part-of and dependency directions wrong.",
+  "fixed_edges": [
+    "C04 derived-from C03",
+    "C23 part-of C22",
+    "C29 depends-on C26"
+  ],
+  "baseline_pointer_unchanged": true
+}

@@ -1,0 +1,27 @@
+{
+  "ran_at": "2026-10-24T08:58:50Z",
+  "car": "mac-claude-supplement-file-text.car",
+  "car_bytes": 648699,
+  "car_sha256": "6462e368bbda36ec916bbb61bc1c9adf3a97ccd4c3dca05f7a7a33c30549db77",
+  "roots": [
+    "bafyreifpdpydzayyey7lzwztdruiyo3wu6uq6z5nkmvt7ip2cslircitwu"
+  ],
+  "roots_present": true,
+  "blocks": 520,
+  "duplicate_sections": 0,
+  "dag_cbor_blocks": 520,
+  "raw_blocks_inside_car": 0,
+  "objects_by_schema": {
+    "pkst/snapshot@0.1": 2,
+    "pkst/activity@0.1": 454,
+    "pkst/source@0.1": 16,
+    "pkst/occurrence@0.1": 16,
+    "pkst/content@0.1": 16,
+    "pkst/extraction-record@0.1": 16
+  },
+  "errors": {},
+  "dangling_object_links": 0,
+  "external_raw_links_checked": 329,
+  "external_raw_links_missing_or_bad": 0,
+  "pass": true
+}

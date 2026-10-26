@@ -1,0 +1,21 @@
+{
+  "schema": "pi/text-verification@1",
+  "status": "pass",
+  "recorded_at": "2026-10-26T13:46:44.845893+00:00",
+  "chapter_sha256": "8c2015afa80e633a54077adfc873e807eccfd48ea2507672c73197eade5b7e4d",
+  "combined_sha256": "53c2039966899dbc02854141d8627d2f9a2358f88a49a8908aff2941fa8ee062",
+  "source_entries": 12,
+  "source_units_replayed": 37,
+  "passage_units": 79,
+  "previous_passages_byte_preserved": 41,
+  "all_previous_body_units_preserved": true,
+  "outside_chapter_byte_preserved": true,
+  "new_request_reparsed": true,
+  "checked_source_blocks": 78,
+  "prior_sources": "selected immutable content, native time and anchor targets checked; original parsing relies on preceding receipts",
+  "negative_checks": [
+    "source mutation changes digest",
+    "CRLF substitution changes digest"
+  ],
+  "scope": "editorial text/provenance; not institutional validation or author acceptance of all edits"
+}

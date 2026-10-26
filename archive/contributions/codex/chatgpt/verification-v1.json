@@ -1,0 +1,37 @@
+{
+  "schema": "pkst.chatgpt-source-verification@0.1",
+  "recorded_at": "2026-10-26T02:55:19.342090+00:00",
+  "status": "pass",
+  "snapshot": "bafyreihzk7ld3me34qccbe3xxjwijs3rs5g7xaskbmbfxk5rhc3kulqsky",
+  "conversations": 431,
+  "messages": 11999,
+  "block_references": 12066,
+  "attachments": 312,
+  "counts": {
+    "fork_nodes": 108,
+    "nonopaque_messages": 8252,
+    "messages": 11999,
+    "role:assistant": 8275,
+    "parent_field_disagreements": 3980,
+    "empty_nodes": 431,
+    "role:user": 3724,
+    "opaque_messages": 3747,
+    "attachment:exact-export-name": 198,
+    "attachment:unresolved-in-this-export": 114
+  },
+  "library_entries_verified": 398,
+  "verified_structural_objects_read": 61441,
+  "fixtures": [
+    "repeat conversion stable",
+    "same text different event IDs",
+    "fork retained",
+    "unknown and exact decimal time",
+    "reasoning absent from content",
+    "duplicate JSON keys rejected",
+    "mutated object hash rejected",
+    "CRLF remains distinct from LF"
+  ],
+  "source_fields": "all messages: source, native ID, role, content, time, parent fields, native pointers, metadata; all conversation topology and attachment pointers",
+  "scope": "separate source-comparison code path, shared codec; Codex self-verification, not Claude review; prior corpus not rehashed",
+  "elapsed_seconds": 10.966
+}

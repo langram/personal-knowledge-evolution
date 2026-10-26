@@ -1,0 +1,2939 @@
+{
+  "chapter": "03",
+  "title": "不动点、最小化、最大化与涌现",
+  "status": "expanded-copyedited",
+  "review": {
+    "reasoning": "学科层级→相对变换的不动点→维持成本与外部联系→耦合且变化的评价→描述复杂度与构造成本→具体实现检验",
+    "examples": [
+      "工厂与原子清单",
+      "反复排序",
+      "轻便而多用的工具",
+      "全零字符串与无规律字符串",
+      "短程序穷举与长程序复用",
+      "Hotpath实验"
+    ],
+    "objections": [
+      "物理基础能否替代高层学科",
+      "连接是否越多越好",
+      "最短是否最快",
+      "一个领域成功能否证明全部"
+    ],
+    "voice": "主要沿作者最小化最大化论述及复杂度长段展开，框架名称保留，定理地位作待形式化处理",
+    "status": "初校；理论假设与技术结果边界分别保留",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "source-adaptation",
+      "ref": "META-THEORY",
+      "source_span": [
+        25802,
+        26159
+      ],
+      "source_sha256": "9946c935d5708446d12d8d3b96a6b386de0da8dc14f71c8b6ce0754502a019f0",
+      "text": "自然科学中，物理→化学→生物学这些层级之间能够相互衔接，一个重要条件是：底层（物理）的规律在高层（化学、生物）中并未失效，高层只是引入了新的涌现规律。化学不违反物理学，生物学不违反化学。我可以继续这个推理过程，动物和人类的意识和心理层面的科学，也不违背生物学，而是在此之上，生物的神经系统涌现出来的新性质构成的，生物圈不同生物个体以及人类个体团体之间的合作所形成的社交层面的知识，也不过是在意识科学和心理学层面之上涌现的具有这些性质的生物个体之间相互关系方面涌现出来的新规律所构建。而串起从基本物理学，化学，生物学，心理学，博弈论，经济理论，政治理论这些研究对象，从最基本的粒子结构，一直到人类社会最高阶复杂结构之间如此多的科学层面的最基本的演化涌现规律，是我希望通过不动点、最小化与涌现之间的关系来研究的问题。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            25802,
+            25809
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "正如你所说的，",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            25825,
+            25831
+          ],
+          "output_span": [
+            16,
+            19
+          ],
+          "before": "棵统一知识树",
+          "after": "些层级"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            25832,
+            25836
+          ],
+          "output_span": [
+            20,
+            27
+          ],
+          "before": "所以成立",
+          "after": "间能够相互衔接"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            25837,
+            25840
+          ],
+          "output_span": [
+            28,
+            28
+          ],
+          "before": "依赖于",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            25842,
+            25846
+          ],
+          "output_span": [
+            30,
+            35
+          ],
+          "before": "特殊事实",
+          "after": "重要条件是"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26139,
+            26140
+          ],
+          "output_span": [
+            328,
+            328
+          ],
+          "before": "就",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26142,
+            26144
+          ],
+          "output_span": [
+            330,
+            333
+          ],
+          "before": "提到",
+          "after": "希望通"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26145,
+            26146
+          ],
+          "output_span": [
+            334,
+            334
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26149,
+            26152
+          ],
+          "output_span": [
+            337,
+            338
+          ],
+          "before": "定理和",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26155,
+            26157
+          ],
+          "output_span": [
+            341,
+            355
+          ],
+          "before": "原理",
+          "after": "与涌现之间的关系来研究的问题"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26158,
+            26159
+          ],
+          "output_span": [
+            356,
+            356
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 323,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这种研究，并不是把化学、心理学或者经济学各自发现的规律全部删掉，只剩下一句“它们最终都是物理”。如果这样做，统一框架反而失去了意义。我们需要知道，低层条件怎样容许高层结构形成，高层结构又怎样产生必须在这一层描述的关系。\n\n一间工厂由物质构成，但如果只列出其中原子的种类，我们仍然不知道它能生产什么。机器怎样连接，工序怎样安排，哪些输入能够变成哪些输出，都是组织方式的一部分。要解释这些内容，就需要把构造过程展开。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 不动点，是相对于什么不动",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-THEORY",
+      "source_span": [
+        26162,
+        26382
+      ],
+      "source_sha256": "636f4cb009c0e3e7e3195938da62093b8865b0acde0652e84c94b6720e9fa8f5",
+      "text": "我提出一个希望进一步形式化的原理设想。它将不动点定理，和最小化原理，以及涌现，放到一个框架里来讨论：让我们先看不动点和涌现：它们可以被放在同一个构造过程的静态和动态视角下考察。不动点使我们考察相对于某种变换能够保持的结构，涌现则使我们考察新的结构怎样形成。而最小化原理，以及我马上要引入的一个听起来好像与此截然相反的原理--最大化原理，则是这同一个对象的两种形式之间互相维持，互相转换，不断迭代演进过程中所遵守的一对有待具体说明的关联方向。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            26162,
+            26166
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "接下来，",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26167,
+            26171
+          ],
+          "output_span": [
+            1,
+            3
+          ],
+          "before": "将要引入",
+          "after": "提出"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26173,
+            26174
+          ],
+          "output_span": [
+            5,
+            13
+          ],
+          "before": "新",
+          "after": "希望进一步形式化"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26175,
+            26178
+          ],
+          "output_span": [
+            14,
+            14
+          ],
+          "before": "定理/",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            26180,
+            26180
+          ],
+          "output_span": [
+            16,
+            18
+          ],
+          "before": "",
+          "after": "设想"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26223,
+            26224
+          ],
+          "output_span": [
+            61,
+            62
+          ],
+          "before": "，",
+          "after": "："
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26226,
+            26244
+          ],
+          "output_span": [
+            64,
+            69
+          ],
+          "before": "其实就像基本粒子的波粒二象性一样，是",
+          "after": "可以被放在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26247,
+            26249
+          ],
+          "output_span": [
+            72,
+            76
+          ],
+          "before": "对象",
+          "after": "构造过程"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26255,
+            26257
+          ],
+          "output_span": [
+            82,
+            87
+          ],
+          "before": "表现",
+          "after": "视角下考察"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            26261,
+            26261
+          ],
+          "output_span": [
+            91,
+            110
+          ],
+          "before": "",
+          "after": "使我们考察相对于某种变换能够保持的结构"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26262,
+            26278
+          ],
+          "output_span": [
+            111,
+            111
+          ],
+          "before": "描述的是这个对象的静态存在性，而",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26281,
+            26283
+          ],
+          "output_span": [
+            114,
+            120
+          ],
+          "before": "描述",
+          "after": "使我们考察新"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26284,
+            26295
+          ],
+          "output_span": [
+            121,
+            127
+          ],
+          "before": "是这个对象的动态变化性",
+          "after": "结构怎样形成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26319,
+            26320
+          ],
+          "output_span": [
+            151,
+            152
+          ],
+          "before": "于",
+          "after": "与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26376,
+            26380
+          ],
+          "output_span": [
+            208,
+            219
+          ],
+          "before": "对偶定理",
+          "after": "有待具体说明的关联方向"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26381,
+            26382
+          ],
+          "output_span": [
+            220,
+            220
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 150,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "数学中，若某个变换记作 f，而对象 x 满足 f(x)=x，就称 x 是这个变换的不动点。最关键的词是“这个变换”。同一个对象对一种操作保持不变，对另一种操作完全可以发生变化。\n\n例如，整理一份已经按指定规则排好序的名单，再整理一次，结果仍然一样。排序过程可以有许多中间步骤，最后得到一个对同样整理操作不再改变的结果。若名单增加了新成员，输入条件改变，结果自然又会改变。\n\n把这种视角带入复杂系统，我关心的是：哪些关系在反复作用后能够保持，哪些变化又使新的关系出现。一个长期存在的组织可以不断更换成员，一个活着的身体可以不断交换物质。它们的稳定，需要说明究竟保存了什么，也要说明这种保存依靠怎样的过程。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 为什么最小化与最大化可以同时发生",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-THEORY",
+      "source_span": [
+        26385,
+        26754
+      ],
+      "source_sha256": "91952360c37d521110135b7cfeef125f29f5b3a167386e754763033ca089b9a9",
+      "text": "我把这个研究设想称为“不动点—最小化／最大化—涌现”原理： 设想一类能够不断形成稳定结构的演化系统，考察其中是否存在如下关系，一个不动点，在维持自身功能的条件下，其内部结构与维持成本具有简化的方向，同时，向外与其他对象建立有用联系的能力具有扩展的方向。这些联系的扩展，为形成新的结构增加了可能路径。所以从高阶范畴的视角来看，可能表现为新对象以更简洁的方式实现原有功能。反过来看，一个不动点，在维持自身功能的条件下，其内部结构与维持成本具有简化的方向，可以进一步还原为低层构件之间的联系怎样被重新组织。我希望研究这两个过程如何相互促进，又在什么条件下发生冲突。科学研究本身，就提供了一个直观例子：基础科学理论的最小化(以更少的基本关系解释更多现象)，让人们具有更强的能力，去改造外部世界、构建原本并不存在的事物。\n\n而新的科技工具产品，往往又能反过来促进基础科学的进步，然后如此反复演化。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            26385,
+            26385
+          ],
+          "output_span": [
+            0,
+            11
+          ],
+          "before": "",
+          "after": "我把这个研究设想称为“"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26388,
+            26389
+          ],
+          "output_span": [
+            14,
+            15
+          ],
+          "before": "-",
+          "after": "—"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26392,
+            26393
+          ],
+          "output_span": [
+            18,
+            19
+          ],
+          "before": "/",
+          "after": "／"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26396,
+            26397
+          ],
+          "output_span": [
+            22,
+            23
+          ],
+          "before": "-",
+          "after": "—"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26399,
+            26400
+          ],
+          "output_span": [
+            25,
+            27
+          ],
+          "before": "定",
+          "after": "”原"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26403,
+            26406
+          ],
+          "output_span": [
+            30,
+            36
+          ],
+          "before": "\"涌现",
+          "after": "设想一类能够"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26407,
+            26414
+          ],
+          "output_span": [
+            37,
+            45
+          ],
+          "before": "动点范畴\"在其",
+          "after": "断形成稳定结构的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26416,
+            26418
+          ],
+          "output_span": [
+            47,
+            53
+          ],
+          "before": "过程",
+          "after": "系统，考察其"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26419,
+            26422
+          ],
+          "output_span": [
+            54,
+            58
+          ],
+          "before": "，具有",
+          "after": "是否存在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26424,
+            26426
+          ],
+          "output_span": [
+            60,
+            62
+          ],
+          "before": "性质",
+          "after": "关系"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            26433,
+            26433
+          ],
+          "output_span": [
+            69,
+            70
+          ],
+          "before": "",
+          "after": "在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26437,
+            26443
+          ],
+          "output_span": [
+            74,
+            76
+          ],
+          "before": "对象稳定存在",
+          "after": "功能"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            26444,
+            26444
+          ],
+          "output_span": [
+            77,
+            82
+          ],
+          "before": "",
+          "after": "条件下，其"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26448,
+            26451
+          ],
+          "output_span": [
+            86,
+            97
+          ],
+          "before": "能量趋",
+          "after": "与维持成本具有简化的方"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26452,
+            26456
+          ],
+          "output_span": [
+            98,
+            98
+          ],
+          "before": "于最小化",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26457,
+            26458
+          ],
+          "output_span": [
+            99,
+            102
+          ],
+          "before": "而",
+          "after": "同时，"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            26467,
+            26467
+          ],
+          "output_span": [
+            111,
+            113
+          ],
+          "before": "",
+          "after": "有用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26470,
+            26473
+          ],
+          "output_span": [
+            116,
+            124
+          ],
+          "before": "路径趋",
+          "after": "能力具有扩展的方"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26474,
+            26478
+          ],
+          "output_span": [
+            125,
+            125
+          ],
+          "before": "于最大化",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26479,
+            26480
+          ],
+          "output_span": [
+            126,
+            126
+          ],
+          "before": "而",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26481,
+            26487
+          ],
+          "output_span": [
+            127,
+            130
+          ],
+          "before": "种路径最大化",
+          "after": "些联系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26488,
+            26490
+          ],
+          "output_span": [
+            131,
+            133
+          ],
+          "before": "趋势",
+          "after": "扩展"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26491,
+            26496
+          ],
+          "output_span": [
+            134,
+            138
+          ],
+          "before": "是该范畴中",
+          "after": "为形成新"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26497,
+            26506
+          ],
+          "output_span": [
+            139,
+            146
+          ],
+          "before": "对象产生涌现的最快",
+          "after": "结构增加了可能"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            26522,
+            26522
+          ],
+          "output_span": [
+            162,
+            164
+          ],
+          "before": "",
+          "after": "可能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26525,
+            26533
+          ],
+          "output_span": [
+            167,
+            168
+          ],
+          "before": "涌现到该范畴中的",
+          "after": "新"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            26535,
+            26535
+          ],
+          "output_span": [
+            170,
+            174
+          ],
+          "before": "",
+          "after": "以更简洁"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26536,
+            26540
+          ],
+          "output_span": [
+            175,
+            182
+          ],
+          "before": "一种内部",
+          "after": "方式实现原有功"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26541,
+            26551
+          ],
+          "output_span": [
+            183,
+            183
+          ],
+          "before": "量趋向于最小化的趋势",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26559,
+            26561
+          ],
+          "output_span": [
+            191,
+            191
+          ],
+          "before": "一个",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            26565,
+            26565
+          ],
+          "output_span": [
+            195,
+            196
+          ],
+          "before": "",
+          "after": "在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26569,
+            26575
+          ],
+          "output_span": [
+            200,
+            202
+          ],
+          "before": "对象稳定存在",
+          "after": "功能"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            26576,
+            26576
+          ],
+          "output_span": [
+            203,
+            208
+          ],
+          "before": "",
+          "after": "条件下，其"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26580,
+            26583
+          ],
+          "output_span": [
+            212,
+            223
+          ],
+          "before": "能量趋",
+          "after": "与维持成本具有简化的方"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26584,
+            26588
+          ],
+          "output_span": [
+            224,
+            224
+          ],
+          "before": "于最小化",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26589,
+            26594
+          ],
+          "output_span": [
+            225,
+            233
+          ],
+          "before": "其实就是在",
+          "after": "可以进一步还原为"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26595,
+            26607
+          ],
+          "output_span": [
+            234,
+            237
+          ],
+          "before": "阶范畴中，那些更基本对象",
+          "after": "层构件"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26609,
+            26611
+          ],
+          "output_span": [
+            239,
+            240
+          ],
+          "before": "建立",
+          "after": "的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26613,
+            26623
+          ],
+          "output_span": [
+            242,
+            258
+          ],
+          "before": "的路径趋向于最大化的",
+          "after": "怎样被重新组织。我希望研究这两个"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            26625,
+            26625
+          ],
+          "output_span": [
+            260,
+            278
+          ],
+          "before": "",
+          "after": "如何相互促进，又在什么条件下发生冲突"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26626,
+            26646
+          ],
+          "output_span": [
+            279,
+            279
+          ],
+          "before": "这是一对相辅相成互相对偶的过程。其实我们",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26654,
+            26656
+          ],
+          "output_span": [
+            287,
+            291
+          ],
+          "before": "是这",
+          "after": "提供了一"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26657,
+            26662
+          ],
+          "output_span": [
+            292,
+            294
+          ],
+          "before": "范式的典型",
+          "after": "直观"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26676,
+            26686
+          ],
+          "output_span": [
+            308,
+            322
+          ],
+          "before": "牛顿力学vs自然哲学",
+          "after": "以更少的基本关系解释更多现象"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26693,
+            26694
+          ],
+          "output_span": [
+            329,
+            329
+          ],
+          "before": "了",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26696,
+            26697
+          ],
+          "output_span": [
+            331,
+            331
+          ],
+          "before": "大",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            26698,
+            26698
+          ],
+          "output_span": [
+            332,
+            336
+          ],
+          "before": "",
+          "after": "能力，去"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26704,
+            26705
+          ],
+          "output_span": [
+            342,
+            343
+          ],
+          "before": "，",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            26716,
+            26717
+          ],
+          "output_span": [
+            354,
+            357
+          ],
+          "before": "，",
+          "after": "。\n\n"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            26753,
+            26754
+          ],
+          "output_span": [
+            393,
+            393
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 196,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "一把工具如果越来越轻便、容易维护，却能够完成越来越多原本做不到的工作，就同时表现出了两个方向：维持和使用它所需的负担在下降，它与外界形成有效联系的范围在扩大。这并不要求把所有东西都缩到最小。为了实现更多功能，某些内部部分反而可能变得更复杂；关键是比较整个构造要完成什么，以及为此付出多少。\n\n同样，连接越多也不必然越好。一条没有用途、经常出错、维持起来代价很高的联系，可能拖累整个系统。因此，“最大化”需要说明最大化的是有效的构造可能、可达成的功能，还是某个已经定义的指标。把任意数量都当作越大越好，就无法解释为什么系统有时需要断开联系、减少依赖、保留边界。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-THEORY",
+      "source_span": [
+        9059,
+        9206
+      ],
+      "source_sha256": "66ebcd28518d8003f55ca349375a6d857016182b4c8f3d54656202a9f2a0052d",
+      "text": "主动和被动之间的关系，其实是一对对偶关系，一个对象的主动行为，会引起另一个对象的反应；它受到的作用，又可能来自其他对象的行为。同样，自由与约束、权力与义务，同样是这样的辩证矛盾统一的对偶概念，因此我所要考察的，是一个个体与外部环境之间互相关联互相耦合的目标函数。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            9080,
+            9081
+          ],
+          "output_span": [
+            21,
+            25
+          ],
+          "before": "你",
+          "after": "一个对象"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            9087,
+            9087
+          ],
+          "output_span": [
+            31,
+            32
+          ],
+          "before": "",
+          "after": "会"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9089,
+            9091
+          ],
+          "output_span": [
+            34,
+            39
+          ],
+          "before": "别人",
+          "after": "另一个对象"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            9092,
+            9094
+          ],
+          "output_span": [
+            40,
+            40
+          ],
+          "before": "被动",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            9096,
+            9096
+          ],
+          "output_span": [
+            42,
+            49
+          ],
+          "before": "",
+          "after": "；它受到的作用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9097,
+            9098
+          ],
+          "output_span": [
+            50,
+            59
+          ],
+          "before": "你",
+          "after": "又可能来自其他对象"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            9099,
+            9112
+          ],
+          "output_span": [
+            60,
+            60
+          ],
+          "before": "被动反应其实是被别人的主动",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            9114,
+            9117
+          ],
+          "output_span": [
+            62,
+            62
+          ],
+          "before": "导致的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            9120,
+            9121
+          ],
+          "output_span": [
+            65,
+            65
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            9122,
+            9132
+          ],
+          "output_span": [
+            66,
+            66
+          ],
+          "before": "版本A和版本B之间的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9137,
+            9138
+          ],
+          "output_span": [
+            71,
+            72
+          ],
+          "before": "，",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            9162,
+            9162
+          ],
+          "output_span": [
+            96,
+            99
+          ],
+          "before": "",
+          "after": "因此我"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            9163,
+            9168
+          ],
+          "output_span": [
+            100,
+            103
+          ],
+          "before": "以如果说我",
+          "after": "要考察"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            9169,
+            9174
+          ],
+          "output_span": [
+            104,
+            104
+          ],
+          "before": "版本是什么",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            9175,
+            9179
+          ],
+          "output_span": [
+            105,
+            105
+          ],
+          "before": "那就是这",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            9205,
+            9206
+          ],
+          "output_span": [
+            131,
+            131
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 98,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-THEORY",
+      "source_span": [
+        11441,
+        11490
+      ],
+      "source_sha256": "b343c8315bae1428775f903ba06c167dd299583b85a75b2a530f3fe6fecccc2a",
+      "text": "这也使我想到，它也许不是一个静态的评价函数，而是一个动态的博弈过程，一个在运行时不断变化的演化的动态发展函数？",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            11441,
+            11441
+          ],
+          "output_span": [
+            0,
+            8
+          ],
+          "before": "",
+          "after": "这也使我想到，它"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            11443,
+            11444
+          ],
+          "output_span": [
+            10,
+            10
+          ],
+          "before": "这",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            11489,
+            11490
+          ],
+          "output_span": [
+            55,
+            55
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 47,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这一步非常重要。评价规则也会随知识和环境改变，不是先写出一个分数，就能把整个宇宙、所有生命与每个人的生活永久排序。新能力出现以后，原本做不到的事情进入选择范围，原有目标本身也可能改变。对演化的研究，需要把这些变化一起记录下来。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 最短的描述，与最省力的构造，是同一个问题吗",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49423",
+      "source_span": [
+        0,
+        353
+      ],
+      "source_sha256": "aaef607be024b434a85dfc73596d0e3fae082e9932a6cf2f1b1862cb904f7c94",
+      "text": "从构造的角度重新理解奥卡姆剃刀原则，可以考察以下三部分：具备推理计算能力的智慧体，待解释的现象，以及用于解释现象的理论。\n\n让我们再次使用奥卡姆剃刀原则，将以上三部分简化为便于研究的抽象对象：\n\n| 原始对象  | 简化对象  |\n|---|---|\n|  具备推理计算能力的智慧体 |  图灵机T |\n|  用于解释现象的理论 |  图灵机程序P |\n|  待解释的现象 |  输出字符串D |\n\n那么奥卡姆剃刀原则中的最简洁理论，可以表达如下：\n\n>在选定的通用计算模型 T 上，输出字符串 D 并停止的最短程序 P\n\n事实上，这个最短图灵机程序P的长度，是一个非常重要的数学概念--柯氏复杂度，它与所采用的描述和计算模型有关。这一概念定义了一个对象比如一段字符串的复杂程度。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            0,
+            11
+          ],
+          "output_span": [
+            0,
+            10
+          ],
+          "before": "请对下列内容进行评估：",
+          "after": "从构造的角度重新理解"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            18,
+            25
+          ],
+          "output_span": [
+            17,
+            22
+          ],
+          "before": "的具体内容涉及",
+          "after": "，可以考察"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            63,
+            64
+          ],
+          "output_span": [
+            60,
+            60
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            65,
+            66
+          ],
+          "output_span": [
+            61,
+            61
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            91,
+            94
+          ],
+          "output_span": [
+            86,
+            90
+          ],
+          "before": "最简单",
+          "after": "便于研究"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            95,
+            95
+          ],
+          "output_span": [
+            91,
+            93
+          ],
+          "before": "",
+          "after": "抽象"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            98,
+            99
+          ],
+          "output_span": [
+            96,
+            96
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            100,
+            101
+          ],
+          "output_span": [
+            97,
+            97
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            119,
+            120
+          ],
+          "output_span": [
+            115,
+            115
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            130,
+            131
+          ],
+          "output_span": [
+            125,
+            125
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            157,
+            158
+          ],
+          "output_span": [
+            151,
+            151
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            183,
+            184
+          ],
+          "output_span": [
+            176,
+            176
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            206,
+            207
+          ],
+          "output_span": [
+            198,
+            198
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            208,
+            211
+          ],
+          "output_span": [
+            199,
+            199
+          ],
+          "before": "\r\n\r",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            236,
+            237
+          ],
+          "output_span": [
+            224,
+            224
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            238,
+            239
+          ],
+          "output_span": [
+            225,
+            225
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            242,
+            245
+          ],
+          "output_span": [
+            228,
+            238
+          ],
+          "before": "图灵机",
+          "after": "选定的通用计算模型 "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            246,
+            246
+          ],
+          "output_span": [
+            239,
+            240
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            247,
+            251
+          ],
+          "output_span": [
+            241,
+            242
+          ],
+          "before": "输出且仅",
+          "after": "，"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            256,
+            256
+          ],
+          "output_span": [
+            247,
+            248
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            257,
+            257
+          ],
+          "output_span": [
+            249,
+            253
+          ],
+          "before": "",
+          "after": " 并停止"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            260,
+            263
+          ],
+          "output_span": [
+            256,
+            256
+          ],
+          "before": "图灵机",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            265,
+            265
+          ],
+          "output_span": [
+            258,
+            259
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            266,
+            267
+          ],
+          "output_span": [
+            260,
+            260
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            268,
+            269
+          ],
+          "output_span": [
+            261,
+            261
+          ],
+          "before": "\r",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            308,
+            327
+          ],
+          "output_span": [
+            300,
+            315
+          ],
+          "before": "由安德雷·柯尔莫哥洛夫于1963年发现",
+          "after": "它与所采用的描述和计算模型有关"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            352,
+            353
+          ],
+          "output_span": [
+            340,
+            340
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 286,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49423",
+      "source_span": [
+        356,
+        562
+      ],
+      "source_sha256": "19ca4ed2415786a50fb40510169ca9e1c10efd4e3e16a3a28399b46dfb2e9b8d",
+      "text": "在如今的信息时代，我们在真实世界中碰到的几乎所有对象都可以数字化，存储为电脑中的一个字符串。对象的复杂度肯定不能用数字化后字符串的长度来定义，比如同样长度为1000的全零字符串和随机字符串，两者复杂度显然不同。前者通过 '循环1000次，每次输出字符0' 这样简短的程序就可以完成。对于没有可利用规律的字符串，则可能需要接近逐个记录全部内容。那么用这两个程序的长度来定义这两个字符串的复杂程度，显然是个更好，更能反映可描述规律的方法。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            497,
+            502
+          ],
+          "output_span": [
+            141,
+            162
+          ],
+          "before": "而后者除了",
+          "after": "对于没有可利用规律的字符串，则可能需要接近"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            504,
+            520
+          ],
+          "output_span": [
+            164,
+            170
+          ],
+          "before": "字符打印输出之外，没有什么好办法",
+          "after": "记录全部内容"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            555,
+            557
+          ],
+          "output_span": [
+            205,
+            213
+          ],
+          "before": "客观",
+          "after": "能反映可描述规律"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            561,
+            562
+          ],
+          "output_span": [
+            217,
+            217
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 182,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49423",
+      "source_span": [
+        565,
+        880
+      ],
+      "source_sha256": "c66ce51911b952f91e4dd4dd9f90ecb4358c45bf959e1d57f1827728801628aa",
+      "text": "柯氏复杂度很好的定义了一个对象的静态复杂度，在选定计算模型之后，这一复杂度由对象的内容确定，一个能够正确还原数据的自解压程序，其长度提供了相应描述长度的一个上界，并不保证已经达到最短。但是我们所处的世界始终处于不断演化的状态，任何对象的诞生都不是一蹴而就，而需要经历一个构建过程。不同于静态复杂度，一个对象的动态复杂度与这个对象的构建过程相关，与其对应的是计算复杂性理论。该理论的复杂度定义主要涉及到两个概念：时间（要通过多少步演算才能构建对象）和空间（在构建对象时需要多少存储器），有的时候还需要考虑并行计算，即多个处理器同时进行演算，比如原本单个处理器需要1000步完成的任务，如果能在两个处理器上并行运行，也许可以缩短等待时间。但需要把额外处理器、存储和协调的成本一同计算。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            587,
+            588
+          ],
+          "output_span": [
+            22,
+            34
+          ],
+          "before": "该",
+          "after": "在选定计算模型之后，这一"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            591,
+            593
+          ],
+          "output_span": [
+            37,
+            38
+          ],
+          "before": "只与",
+          "after": "由"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            598,
+            600
+          ],
+          "output_span": [
+            43,
+            45
+          ],
+          "before": "有关",
+          "after": "确定"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            601,
+            603
+          ],
+          "output_span": [
+            46,
+            46
+          ],
+          "before": "比如",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            605,
+            605
+          ],
+          "output_span": [
+            48,
+            57
+          ],
+          "before": "",
+          "after": "能够正确还原数据的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            610,
+            611
+          ],
+          "output_span": [
+            62,
+            64
+          ],
+          "before": "的",
+          "after": "，其"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            613,
+            620
+          ],
+          "output_span": [
+            66,
+            75
+          ],
+          "before": "就是解压后数据",
+          "after": "提供了相应描述长度"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            621,
+            626
+          ],
+          "output_span": [
+            76,
+            91
+          ],
+          "before": "柯氏复杂度",
+          "after": "一个上界，并不保证已经达到最短"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            826,
+            834
+          ],
+          "output_span": [
+            291,
+            294
+          ],
+          "before": "经过算法的改进，",
+          "after": "如果能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            835,
+            836
+          ],
+          "output_span": [
+            295,
+            296
+          ],
+          "before": "2",
+          "after": "两"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            846,
+            847
+          ],
+          "output_span": [
+            306,
+            318
+          ],
+          "before": "只",
+          "after": "也许可以缩短等待时间。但"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            849,
+            866
+          ],
+          "output_span": [
+            320,
+            323
+          ],
+          "before": "600步即可完成。前提是需要更多的",
+          "after": "把额外"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            869,
+            873
+          ],
+          "output_span": [
+            326,
+            327
+          ],
+          "before": "和更多的",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            875,
+            878
+          ],
+          "output_span": [
+            329,
+            339
+          ],
+          "before": "器资源",
+          "after": "和协调的成本一同计算"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            879,
+            880
+          ],
+          "output_span": [
+            340,
+            340
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 260,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "“最短程序”的数学定义，并不等于我们有一种通用办法，能够对任意资料找到它。柯氏复杂度一般不可计算。实际工作中，我们可以比较已经找到的压缩与构造方式，持续改进，但不能因为眼前这个版本比上一个更短，就宣布它已经是绝对最优。[Vitányi：柯氏复杂度的不可计算性](https://homepages.cwi.nl/~paulv/papers/incomp.pdf)\n\n还可以想一个极端例子：一份极短的程序，通过漫长的穷举才能给出结果；另一份稍长的程序，利用已经整理好的结构，马上得到同样结果。只看代码长度，第一份好；只看响应时间，第二份可能好。若一项任务会被重复使用很多次，提前整理的成本还可以被后续调用分担。于是，对构造的评价必须进入时间之中。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49423",
+      "source_span": [
+        883,
+        1032
+      ],
+      "source_sha256": "4ae06c1a6f2d23039c6c485985a2bfe3b2c4bbd5b95aee22a88ffab838eb3547",
+      "text": "还需要继续考察，这些存储和计算在现实中怎样实现：在现实中任何一台图灵完备的计算机，无论是计算还是存储，都需要消耗能量，处理器执行、数据搬移、存储设备和维持运行的环境，都可能产生相应消耗。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            883,
+            901
+          ],
+          "output_span": [
+            0,
+            7
+          ],
+          "before": "在我们尝试将上面提到的静态柯氏复杂度",
+          "after": "还需要继续考察"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            902,
+            906
+          ],
+          "output_span": [
+            8,
+            13
+          ],
+          "before": "以及动态",
+          "after": "这些存储和"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            908,
+            942
+          ],
+          "output_span": [
+            15,
+            15
+          ],
+          "before": "复杂度进一步抽象之前，先将其具象化一些，考察一下图灵机存储计算的操作",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            946,
+            949
+          ],
+          "output_span": [
+            19,
+            21
+          ],
+          "before": "是如何",
+          "after": "怎样"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            951,
+            953
+          ],
+          "output_span": [
+            23,
+            23
+          ],
+          "before": "的吧",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            989,
+            990
+          ],
+          "output_span": [
+            59,
+            77
+          ],
+          "before": "每",
+          "after": "处理器执行、数据搬移、存储设备和维持"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            992,
+            1000
+          ],
+          "output_span": [
+            79,
+            90
+          ],
+          "before": "一条计算机指令要",
+          "after": "的环境，都可能产生相应"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1002,
+            1032
+          ],
+          "output_span": [
+            92,
+            93
+          ],
+          "before": "一份对应的能量，每读取或者写入一位数据，也需要消耗一份能量，",
+          "after": "。"
+        }
+      ],
+      "retained_characters": 49,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "因此，少写几个字、减少几个节点，与实际节省多少能源之间，还隔着实现方式、访问次数、硬件和使用环境。我的方向是把这些成本连接起来研究，而不是用一个容易统计的数量，替代所有难以测量的结果。只有把同样任务、同样功能下的全过程放在一起比较，最小化才开始成为能够操作的原则。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 统一原理怎样进入具体学科",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49033",
+      "source_span": [
+        45,
+        933
+      ],
+      "source_sha256": "21761222df247fde1f53ae842de99125a9e29735bb7e98e7638ed25176696b8a",
+      "text": "相对于牛顿理论只针对物理的特定领域，我的理论是一种包括所有自然科学和社会科学的元科学理论框架，它首先需要说明不同学科中的对象和关系怎样对应，再进入具体指标，但是，不动点—最小化／最大化—涌现这一设想，应当努力用明确的数学语言表达。\n\n\n如果将这个元理论中的公式，具体应用到任何一个具体的学科，就需要把它转化为具体的公式，就像编程语言中的泛化接口，与具体的实现之间的关系。不同学科中的极值和稳定性原理，可以成为寻找对应关系的起点。\n\n\n它还必须面对一个实际问题：这种描述能否带来更有操作性的研究？比如达尔文进化论中的物竞天择适者生存表达，如何判断一个基因突变的生物是否能够成功生存？而我的理论，则有可能通过考察个体的某个基因突变是否改善了生存功能的能效，或是否使它与环境建立更灵活、更有效的联系，来帮助判断一个基因突变物种是否是进化路径上的更优选择，这些因素是否能够提高预测的可靠性，需要比较。 再比如在人类社会制度改革方面，同样可以对比一下，基于现有的政治理论所谓自由民主公平的宣传和口号以及政治家们的辩论，还是基于我的理论，通过数字化模型，来模拟测试，通过对个人生存，以及人与人，人与环境之间的定量统计和测试反馈，究竟哪个能预测哪种改革是更好的选择。\n\n\nHotPath 这个具体项目，可以成为一个对计算机语言和软件生态的不动点-最小化/最大化-涌现理论的具体实践。通过benchmark，对路径和节点进行最小化的进化，通过merkle-DAG的框架实现表达形式和节点之间相互组合的最大化，如果我的这个项目最终进化到替代了旧有的计算机软件生态，那么就能为这个方向提供现实中的实践材料。进一步的，如果我们能够在此基础上构建出一个我远期设想中人与人之间权力对等的社会神经网络，从而实现个人与全人类利益最大化的新形态文明，也将为这个框架提供更大范围的实验材料。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            92,
+            93
+          ],
+          "output_span": [
+            47,
+            54
+          ],
+          "before": "你",
+          "after": "它首先需要说明"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            94,
+            100
+          ],
+          "output_span": [
+            55,
+            73
+          ],
+          "before": "能指望它包含",
+          "after": "同学科中的对象和关系怎样对应，再进入"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            102,
+            105
+          ],
+          "output_span": [
+            75,
+            75
+          ],
+          "before": "的特征",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            107,
+            110
+          ],
+          "output_span": [
+            77,
+            77
+          ],
+          "before": "的公式",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            114,
+            118
+          ],
+          "output_span": [
+            81,
+            81
+          ],
+          "before": "我的那个",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            121,
+            122
+          ],
+          "output_span": [
+            84,
+            85
+          ],
+          "before": "-",
+          "after": "—"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            125,
+            126
+          ],
+          "output_span": [
+            88,
+            89
+          ],
+          "before": "/",
+          "after": "／"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            129,
+            130
+          ],
+          "output_span": [
+            92,
+            93
+          ],
+          "before": "-",
+          "after": "—"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            132,
+            134
+          ],
+          "output_span": [
+            95,
+            99
+          ],
+          "before": "定理",
+          "after": "这一设想"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            135,
+            137
+          ],
+          "output_span": [
+            100,
+            100
+          ],
+          "before": "作为",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            138,
+            142
+          ],
+          "output_span": [
+            101,
+            104
+          ],
+          "before": "该也可以",
+          "after": "当努力"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            143,
+            146
+          ],
+          "output_span": [
+            105,
+            107
+          ],
+          "before": "范畴论",
+          "after": "明确"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            151,
+            154
+          ],
+          "output_span": [
+            112,
+            112
+          ],
+          "before": "来精确",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            158,
+            174
+          ],
+          "output_span": [
+            116,
+            118
+          ],
+          "before": "2. **核心方程是定量的**：",
+          "after": "\n\n"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            202,
+            202
+          ],
+          "output_span": [
+            146,
+            150
+          ],
+          "before": "",
+          "after": "就需要把"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            203,
+            206
+          ],
+          "output_span": [
+            151,
+            151
+          ],
+          "before": "就能够",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            240,
+            246
+          ],
+          "output_span": [
+            185,
+            185
+          ],
+          "before": "我之前提到了",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            252,
+            260
+          ],
+          "output_span": [
+            191,
+            197
+          ],
+          "before": "那些最小/最大化",
+          "after": "极值和稳定性"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            263,
+            270
+          ],
+          "output_span": [
+            200,
+            207
+          ],
+          "before": "就是这个元原理",
+          "after": "可以成为寻找对"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            271,
+            293
+          ],
+          "output_span": [
+            208,
+            208
+          ],
+          "before": "用在不同层级学科范畴中涌现出来的基本性质之间",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            296,
+            300
+          ],
+          "output_span": [
+            211,
+            213
+          ],
+          "before": "显式版本",
+          "after": "起点"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            302,
+            317
+          ],
+          "output_span": [
+            215,
+            217
+          ],
+          "before": "3. **在某些已应用领域内，",
+          "after": "\n\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            318,
+            331
+          ],
+          "output_span": [
+            218,
+            229
+          ],
+          "before": "的定量预测优于先前理论**",
+          "after": "还必须面对一个实际问题"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            332,
+            339
+          ],
+          "output_span": [
+            230,
+            230
+          ],
+          "before": "你不觉得我基于",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            340,
+            345
+          ],
+          "output_span": [
+            231,
+            232
+          ],
+          "before": "个元原理的",
+          "after": "种"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            347,
+            361
+          ],
+          "output_span": [
+            234,
+            238
+          ],
+          "before": "，比原有理论种的描述更精确，",
+          "after": "能否带来"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            366,
+            367
+          ],
+          "output_span": [
+            243,
+            246
+          ],
+          "before": "吗",
+          "after": "的研究"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            423,
+            425
+          ],
+          "output_span": [
+            302,
+            304
+          ],
+          "before": "对，",
+          "after": "考察"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            430,
+            437
+          ],
+          "output_span": [
+            309,
+            309
+          ],
+          "before": "生存功能方面的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            443,
+            446
+          ],
+          "output_span": [
+            315,
+            323
+          ],
+          "before": "是一个",
+          "after": "改善了生存功能的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            448,
+            454
+          ],
+          "output_span": [
+            325,
+            325
+          ],
+          "before": "比更好的选择",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            455,
+            462
+          ],
+          "output_span": [
+            326,
+            332
+          ],
+          "before": "个体的某个外部",
+          "after": "或是否使它与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            464,
+            479
+          ],
+          "output_span": [
+            334,
+            334
+          ],
+          "before": "交互功能方面的基因突变是否能够",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            482,
+            484
+          ],
+          "output_span": [
+            337,
+            337
+          ],
+          "before": "多更",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            486,
+            486
+          ],
+          "output_span": [
+            339,
+            340
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            487,
+            488
+          ],
+          "output_span": [
+            341,
+            342
+          ],
+          "before": "高",
+          "after": "有"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            494,
+            494
+          ],
+          "output_span": [
+            348,
+            350
+          ],
+          "before": "",
+          "after": "帮助"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            514,
+            515
+          ],
+          "output_span": [
+            370,
+            371
+          ],
+          "before": "有",
+          "after": "优"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            518,
+            518
+          ],
+          "output_span": [
+            374,
+            378
+          ],
+          "before": "",
+          "after": "这些因素"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            519,
+            523
+          ],
+          "output_span": [
+            379,
+            387
+          ],
+          "before": "不是更加",
+          "after": "否能够提高预测的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            525,
+            526
+          ],
+          "output_span": [
+            389,
+            396
+          ],
+          "before": "？",
+          "after": "性，需要比较。"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            527,
+            528
+          ],
+          "output_span": [
+            397,
+            398
+          ],
+          "before": "在",
+          "after": "再"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            655,
+            656
+          ],
+          "output_span": [
+            525,
+            526
+          ],
+          "before": "？",
+          "after": "。"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            657,
+            664
+          ],
+          "output_span": [
+            527,
+            537
+          ],
+          "before": "甚至，我可以说",
+          "after": "\n\nHotPath "
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            665,
+            672
+          ],
+          "output_span": [
+            538,
+            538
+          ],
+          "before": "个理论本身的那",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            677,
+            685
+          ],
+          "output_span": [
+            543,
+            543
+          ],
+          "before": " hotpath",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            686,
+            690
+          ],
+          "output_span": [
+            544,
+            548
+          ],
+          "before": "其实就是",
+          "after": "可以成为"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            817,
+            818
+          ],
+          "output_span": [
+            675,
+            675
+          ],
+          "before": "不",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            819,
+            822
+          ],
+          "output_span": [
+            676,
+            678
+          ],
+          "before": "是我的",
+          "after": "能为"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            824,
+            829
+          ],
+          "output_span": [
+            680,
+            684
+          ],
+          "before": "基本原理在",
+          "after": "方向提供"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            833,
+            835
+          ],
+          "output_span": [
+            688,
+            688
+          ],
+          "before": "最佳",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            837,
+            842
+          ],
+          "output_span": [
+            690,
+            693
+          ],
+          "before": "和验证吗？",
+          "after": "材料。"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            866,
+            872
+          ],
+          "output_span": [
+            717,
+            719
+          ],
+          "before": "vision",
+          "after": "设想"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            873,
+            876
+          ],
+          "output_span": [
+            720,
+            720
+          ],
+          "before": "的那个",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            915,
+            917
+          ],
+          "output_span": [
+            759,
+            762
+          ],
+          "before": "就是",
+          "after": "也将为"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            919,
+            921
+          ],
+          "output_span": [
+            764,
+            764
+          ],
+          "before": "理论",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            923,
+            924
+          ],
+          "output_span": [
+            766,
+            768
+          ],
+          "before": "的",
+          "after": "提供"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            926,
+            926
+          ],
+          "output_span": [
+            770,
+            772
+          ],
+          "before": "",
+          "after": "范围"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            929,
+            932
+          ],
+          "output_span": [
+            775,
+            777
+          ],
+          "before": "证据了",
+          "after": "材料"
+        }
+      ],
+      "retained_characters": 623,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这里的要求有两个方向。不能因为框架尚未给出每个学科的全部公式，就禁止探索共同结构；也不能因为在一个软件任务中获得改进，就把所有物理和社会推论都算作已经证明。每个具体应用，都应当清楚说明它检验了共同设想中的哪一部分。\n\n这一点决定了实践怎样推进。先选能够描述清楚、能够重复比较的构造，让理论的词语落实到具体差异，再把成功与失败都带回框架。它所追求的统一性，应当从这些可连接的关系中生长出来。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

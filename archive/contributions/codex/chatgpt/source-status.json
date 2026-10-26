@@ -1,0 +1,33 @@
+{
+  "schema": "pkst.source-status@0.1",
+  "recorded_at": "2026-10-26T03:01:16.579971+00:00",
+  "owner": "codex",
+  "platform": "chatgpt",
+  "namespace": "owner-openai-account",
+  "export": {
+    "status": "official-archive-received",
+    "evidence_kind": "downloaded-local-ZIP",
+    "email_ready_time": "user reports received about 19 hours before this turn; not independently inspected"
+  },
+  "download": {
+    "status": "captured-verified",
+    "actual_archive_received": true,
+    "archive_bytes": 958001574,
+    "members": 369
+  },
+  "processing": {
+    "status": "imported-verified-indexed",
+    "conversations": 431,
+    "records": 11999,
+    "native_text_or_multimodal_messages": 8252,
+    "opaque_records": 3747,
+    "parent_disagreements": 3980,
+    "unresolved_attachment_references": 114,
+    "root": "bafyreihzk7ld3me34qccbe3xxjwijs3rs5g7xaskbmbfxk5rhc3kulqsky",
+    "catalog": "bafyreifbjnesua4r3p536pwuubztstc7oueaoodxubmzm4o5ipcddiuime",
+    "acceptance": "catalog-acceptance-v1.json"
+  },
+  "coverage": "All members and all conversation shards in this ZIP; deleted or omitted account history unknown; full semantic extraction not performed.",
+  "privacy": "local-only",
+  "public_release": false
+}

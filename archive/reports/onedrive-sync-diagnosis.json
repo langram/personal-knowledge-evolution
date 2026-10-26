@@ -1,0 +1,63 @@
+{
+  "schema": "pkst.onedrive-diagnosis@0.1",
+  "recorded_at": "2026-10-24T08:55:30.909957+00:00",
+  "account_match": true,
+  "windows_root": "C:/Users/langr/OneDrive",
+  "mac_root": "/Users/langram/Library/CloudStorage/OneDrive-个人",
+  "windows_scope": "all folders selected in native UI",
+  "windows_storage_usage_gb": 18,
+  "windows_storage_quota_gb": 30,
+  "actions": [
+    {
+      "host": "mac",
+      "action": "launched existing OneDrive after absent process; later independently inspected FileProvider flags"
+    },
+    {
+      "host": "windows",
+      "action": "normal /shutdown then hidden restart of installed OneDrive",
+      "new_process_id": 45808,
+      "started_at": "2026-10-24T16:34:35.757655+08:00",
+      "observed_result": "PKST-transfer became visible; supplementary TAR hydrated and copied locally"
+    }
+  ],
+  "verified_receipts": [
+    {
+      "name": "pkst-claude-supplement-20261024.tar",
+      "bytes": 9635840,
+      "sha256": "c86787dc410f94d616491361859e10b1c1353183bc95a3b6839aa495419f2fb5",
+      "verification_report": "reports/mac-supplement-independent-verification.json"
+    },
+    {
+      "name": "pkst-mac-20261024.tar",
+      "bytes": 781793280,
+      "sha256": "6ec0bbc81f11c95e3a9c62a515d937fac01f15375e56d39860c057c493e24c37",
+      "verification_report": "reports/mac-main-receipt.json",
+      "source_member_verification": "reports/mac-main-source-verification.json",
+      "received_from": "Windows OneDrive synchronized directory"
+    }
+  ],
+  "pending": [],
+  "web_login": {
+    "first_failure": "AADSTS900561: endpoint only accepts POST; received GET",
+    "first_failure_time": "2026-10-24T08:43:22Z",
+    "retry": "restarted from https://onedrive.live.com/login; reached face/fingerprint/PIN/security-key step",
+    "status": "user authenticated; official PKST-transfer six-file listing observed",
+    "auth_handling": "user only; no credentials collected"
+  },
+  "limits": [
+    "No account relink, sync reset, scope/security/network changes",
+    "Repair acceptance is this transfer, not a promise of permanent sync reliability",
+    "Broader archive collection still incomplete"
+  ],
+  "updated_at": "2026-10-24T09:09:28.361148+00:00",
+  "cloud_main": {
+    "visible": true,
+    "display_size": "746 MB",
+    "privacy": "private",
+    "screenshot": "reports/onedrive-cloud-main-visible.png",
+    "browser_download_clicks": 2,
+    "browser_download_file_observed": false
+  },
+  "transfer_status": "both authorized archives received and fully verified",
+  "diagnostic_conclusion": "Windows normal restart restored folder visibility. Mac normal launch restored process and produced new SyncEngine logs. Cloud main file was visible after user login; Windows subsequently surfaced it. Exact original delay/exit cause was not proven."
+}

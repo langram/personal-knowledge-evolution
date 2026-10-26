@@ -1,0 +1,13 @@
+{
+  "status": "activated-after-verification",
+  "recorded_at": "2026-10-26T14:52:09.318442+00:00",
+  "pointer": {
+    "report": "report-20261026-shared-credit-v1.json",
+    "snapshot": "bafyreib6ixs2it5nxvg7j2gfhgnxrrnardp24qwg2nes6eemfr5zyl5ide",
+    "database": "contributions\\codex\\catalog\\.private\\20261026-shared-credit-v1\\catalog.sqlite"
+  },
+  "verification": "verification.json",
+  "text_verification": "text-verification.json",
+  "author_adoption": false,
+  "public_release": false
+}

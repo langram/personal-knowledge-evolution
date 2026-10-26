@@ -1,0 +1,28 @@
+{
+  "counts": {
+    "messages": 83924,
+    "native_id_present": 39659,
+    "native_id_missing": 44265
+  },
+  "missing_id_roles": {
+    "developer": 2800,
+    "user": 6040,
+    "assistant": 35425
+  },
+  "payload_fields_without_id": {
+    "type": 44265,
+    "role": 44265,
+    "content": 44265,
+    "internal_chat_message_metadata_passthrough": 476,
+    "phase": 35425
+  },
+  "record_fields_without_id": {
+    "timestamp": 44265,
+    "ordinal": 44265,
+    "type": 44265,
+    "payload": 44265
+  },
+  "metadata_fields_without_id": {},
+  "finding": "Missing native message IDs use raw+byte-range locators; append/re-export equivalence is not proven.",
+  "fallback_fraction": 0.527441494685668
+}

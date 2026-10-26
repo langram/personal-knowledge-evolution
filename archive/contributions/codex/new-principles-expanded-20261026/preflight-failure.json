@@ -1,0 +1,8 @@
+{
+  "schema": "np2.preserved-preflight-failure@1",
+  "stage": "integrate_expanded.py before database creation",
+  "failure": "AssertionError: file byte SHA256 did not match manuscript logical-text SHA256",
+  "cause": "Windows write_text newline translation produced CRLF; read_text verification normalized it to LF, hiding the mismatch with Unicode intervals calculated over LF.",
+  "repair": "Write manuscript and chapters as UTF-8 bytes. Verify by decoding raw file bytes, without universal newline conversion. Add a CRLF substitution negative check.",
+  "activation_at_failure": "not attempted; old catalog pointer unchanged"
+}

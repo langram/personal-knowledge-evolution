@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "current_event_counts": {
+    "codex-windows": 83924,
+    "claude-windows": 22403,
+    "gemini": 2897,
+    "claude-ai": 2132,
+    "semantic-pilot": 2
+  },
+  "unique_current_events": 111356,
+  "history_only_events_excluded": 2159,
+  "acyclic_verified_vertices": 423978,
+  "paired_request_search": {
+    "results": 2,
+    "distinct_occurrences_preserved": true,
+    "actors_unknown": true,
+    "anchors_present": true
+  },
+  "fixture_checks": [
+    "same-text distinct events",
+    "historical event excluded",
+    "opaque absent from text search",
+    "CJK and emoji",
+    "role filter",
+    "negative query"
+  ],
+  "limits": "Search/index and evidence integrity verification; not theory truth, authorship, or user endorsement"
+}

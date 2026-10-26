@@ -1,0 +1,37 @@
+{
+  "schema": "pkst.new-principles-verification@1",
+  "status": "pass",
+  "recorded_at": "2026-10-26T04:52:35.634517+00:00",
+  "selected_parts": 69,
+  "unique_native_events": 65,
+  "native_anchors_checked": 65,
+  "platforms": [
+    "chatgpt",
+    "claude-ai",
+    "claude-code",
+    "codex-local",
+    "gemini"
+  ],
+  "artifact_sources": 10,
+  "verbatim_spans": 28,
+  "explicit_verbatim_characters": 5461,
+  "manuscript_cjk_characters": 31112,
+  "old_manuscript_bytes_unchanged": 44246,
+  "prior_concepts_mapped": 21,
+  "new_concepts": 34,
+  "semantic_relations": 44,
+  "timeline_entries": 38,
+  "local_links_checked": 278,
+  "current_events": 212353,
+  "negative_checks": [
+    "one changed source byte fails CID",
+    "altered quotation fails exact source and manuscript interval"
+  ],
+  "preserved_intermediate_review": "unactivated-v1-review.json records three semantic directions corrected before activation",
+  "verification_scope": "separate source-reparsing and span code; same codec; Codex review, not independent Claude/human acceptance",
+  "baseline_scope": "all previous collections retained; new dossier closure byte checked, whole reference DAG checked; no fresh byte audit of every historical source",
+  "dossier_snapshot": "bafyreibmn23kutnklu7pbxknffwrzklpr2ior5z5bglnewhwg575keqhhe",
+  "federated_snapshot": "bafyreibemvkrjo4gqekjzwc6v757o6kpoyz324boy4i77fqaa6veypr6jq",
+  "document_sha256": "78a2f5491eb1656c012c9daa49c437e16ef9a900015083d0eee3d48a8587f242",
+  "public_release": false
+}

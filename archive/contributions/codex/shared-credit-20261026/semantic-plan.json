@@ -1,0 +1,42 @@
+{
+  "schema": "sc/semantic-plan@1",
+  "new_concept": {
+    "label": "可核对贡献、及时分享与可检验执行的正向反馈",
+    "definition": "作者提出贡献记录技术和可信承认可能促进更早分享并扩大合作；编辑进一步展开独立发现、反例与提出和执行分离的条件。"
+  },
+  "relations": [
+    {
+      "concept": "C13",
+      "refs": [
+        "CREDIT-REQUEST",
+        "R34499"
+      ],
+      "scope": "版本与来源记录支持贡献查证；不把记录等同于公平判断"
+    },
+    {
+      "concept": "C23",
+      "refs": [
+        "CREDIT-REQUEST",
+        "R34511"
+      ],
+      "scope": "动态权重参与评估，结合验证、反馈和执行条件降低错误执行概率"
+    },
+    {
+      "concept": "C31",
+      "refs": [
+        "CREDIT-REQUEST",
+        "MATH-REQUEST"
+      ],
+      "scope": "数学灵感、独立发现、证明及共同贡献的承认"
+    },
+    {
+      "concept": "C32",
+      "refs": [
+        "CREDIT-REQUEST",
+        "R54886"
+      ],
+      "scope": "分享得到可信承认后可能促进更多合作；加速是有条件的机制假说"
+    }
+  ],
+  "basis": "author-requested editorial extension; no empirical validation"
+}

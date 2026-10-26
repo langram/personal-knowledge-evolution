@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "current_event_counts": {
+    "codex-windows": 83924,
+    "claude-windows": 22403,
+    "gemini": 2897,
+    "claude-ai": 2132,
+    "semantic-pilot": 2,
+    "codex-mac": 62449,
+    "claude-mac": 26513,
+    "claude-mac-memory": 16,
+    "semantic-pairs": 20
+  },
+  "unique_current_events": 200334,
+  "source_event_union_equals_current_view": true,
+  "cross_platform_candidate_scope_verified": true,
+  "history_only_events_excluded": 2159,
+  "acyclic_verified_vertices": 715429,
+  "paired_request_search": {
+    "results": 2,
+    "distinct_occurrences_preserved": true,
+    "actors_unknown": true,
+    "anchors_present": true
+  },
+  "fixture_checks": [
+    "same-text distinct events",
+    "historical event excluded",
+    "opaque absent from text search",
+    "CJK and emoji",
+    "role filter",
+    "negative query"
+  ],
+  "limits": "Search/index and evidence integrity verification; not theory truth, authorship, or user endorsement"
+}

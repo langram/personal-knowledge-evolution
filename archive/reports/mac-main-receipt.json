@@ -1,0 +1,24 @@
+{
+  "recorded_at": "2026-10-24T09:04:25.649649+00:00",
+  "status": "received-sha256-and-container-safety-verified",
+  "source": "C:\\Users\\langr\\OneDrive\\PKST-transfer\\pkst-mac-20261024.tar",
+  "received": "C:\\Users\\langr\\Documents\\Codex\\2026-10-24\\ni\\outputs\\personal-thought-archive\\coordination\\.private\\mac-inbox\\pkst-mac-20261024.tar",
+  "bytes": 781793280,
+  "sha256": "6ec0bbc81f11c95e3a9c62a515d937fac01f15375e56d39860c057c493e24c37",
+  "tar_members": 990,
+  "top_level_files": [
+    {
+      "name": "manifest.jsonl",
+      "bytes": 583976
+    },
+    {
+      "name": "create_mac_archive.py",
+      "bytes": 5820
+    },
+    {
+      "name": "collection-report.txt",
+      "bytes": 669
+    }
+  ],
+  "source_member_hashes": "pending manifest inspection"
+}

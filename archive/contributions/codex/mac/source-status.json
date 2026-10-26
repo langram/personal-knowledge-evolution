@@ -1,0 +1,38 @@
+{
+  "schema": "pkst.source-status@0.1",
+  "recorded_at": "2026-10-24T09:19:09.019611+00:00",
+  "platform": "codex-local",
+  "host": "macbook",
+  "status": "captured-converted-and-evidence-verified",
+  "root": "bafyreicxdtt2iyk4al7jfe3j6ivdaa2a2n3o2eh4arywoblxpboucsoply",
+  "source_files": 936,
+  "events": 62449,
+  "counts": {
+    "session_meta": 936,
+    "event_msg": 401096,
+    "response_item": 541980,
+    "emitted-occurrence": 62449,
+    "turn_context": 5612,
+    "compacted": 1431,
+    "world_state": 1883,
+    "inter_agent_communication_metadata": 3991,
+    "token_usage_record": 15308
+  },
+  "roles": {
+    "developer": 1369,
+    "user": 5475,
+    "assistant": 55605
+  },
+  "parse_failures": [],
+  "car": "contributions/codex/mac/.private/mac-evidence.car",
+  "car_sha256": "1b8e9ea7f4eb82fc8f7afc414ce080a15ac183c9f7785509815be83252e59da8",
+  "raw_blocks": 941,
+  "full_source_verification": "reports/mac-main-source-verification.json",
+  "full_native_field_verification": "reports/mac-codex-evidence-verification.json",
+  "limits": [
+    "Only fixed captured sessions and archived_sessions",
+    "Other record types remain raw-only",
+    "Semantic extraction not performed over all Mac messages",
+    "User channel alone does not establish authorship"
+  ]
+}

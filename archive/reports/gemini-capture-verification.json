@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "checks": [
+    "Original ZIP byte identity",
+    "Unicode and CRLF preservation",
+    "Duplicate names keep distinct member ordinals",
+    "Archive paths never used as filesystem paths",
+    "Member CID recomputation",
+    "CRC corruption explicitly reported; valid members retained"
+  ],
+  "scope": "Synthetic capture verifier, not actual Gemini account coverage"
+}

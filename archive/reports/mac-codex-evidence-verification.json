@@ -1,0 +1,32 @@
+{
+  "recorded_at": "2026-10-24T09:09:42.559336+00:00",
+  "status": "passed",
+  "root": "bafyreicxdtt2iyk4al7jfe3j6ivdaa2a2n3o2eh4arywoblxpboucsoply",
+  "source_files": 936,
+  "verified": {
+    "native_text_blocks": 66854,
+    "events": 62449,
+    "non_text_blocks": 17
+  },
+  "roles": {
+    "developer": 1369,
+    "user": 5475,
+    "assistant": 55605
+  },
+  "checks": [
+    "all source-selected messages accounted for",
+    "source native identity",
+    "message native identity or exact fallback",
+    "parents",
+    "roles and unverified user actor",
+    "native event timestamp value",
+    "ordered exact native text",
+    "non-text digest/projection",
+    "byte anchors",
+    "Mac host provenance"
+  ],
+  "limitations": [
+    "not every source record type is a message",
+    "not semantic truth or authorship verification"
+  ]
+}

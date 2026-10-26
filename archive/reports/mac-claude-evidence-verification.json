@@ -1,0 +1,50 @@
+{
+  "recorded_at": "2026-10-24T09:13:05.797087+00:00",
+  "status": "passed",
+  "snapshot": "bafyreihnkebgdmyqnbir753n5edkr5x7u4h4h4yu3d6icpn7ty32ulm4q4",
+  "source_files": 51,
+  "unique_events": 26513,
+  "verified": {
+    "anchors": 26513,
+    "non_text_parts": 23729,
+    "block_references": 26066,
+    "native_text_parts": 2337,
+    "provenance_activities": 51
+  },
+  "roles": {
+    "attachment": 9179,
+    "assistant": 10426,
+    "user": 6205,
+    "system": 616,
+    "prompt-history": 87
+  },
+  "car_verification": {
+    "header": {
+      "roots": [
+        {
+          "$link": "bafyreihnkebgdmyqnbir753n5edkr5x7u4h4h4yu3d6icpn7ty32ulm4q4"
+        }
+      ],
+      "version": 1
+    },
+    "blocks": 103571,
+    "external_raw_verified": 52,
+    "schemas": {
+      "pkst/snapshot@0.1": 1,
+      "pkst/activity@0.1": 51,
+      "pkst/occurrence@0.1": 26513,
+      "pkst/projection@0.1": 18774,
+      "pkst/source@0.1": 56,
+      "pkst/extraction-record@0.1": 26513,
+      "pkst/block-reference@0.1": 26066,
+      "pkst/opaque-block@0.1": 3593,
+      "pkst/content@0.1": 2004
+    },
+    "status": "all-blocks-and-reference-closure-verified"
+  },
+  "limits": [
+    "1 dangling native parent and 4 missing pasted contents preserved",
+    "raw capture does not prove all prior Mac history survived",
+    "not theory truth or user authorship verification"
+  ]
+}

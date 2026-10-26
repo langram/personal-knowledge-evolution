@@ -1,0 +1,115 @@
+{
+  "schema": "pkst.federated-catalog-report@0.1",
+  "recorded_at": "2026-10-24T08:34:54.445606Z",
+  "run": "20261024T083500Z",
+  "snapshot": "bafyreihc757cxzmkiuozat5l5mamdhtf6bdxjhdzqiq2umd3llxkgg7nfi",
+  "pinned_sources": [
+    {
+      "collection": "codex-windows",
+      "root": "bafyreihf77xzistkxg3ai2i5tfiwpedrndgatwrrnjvfkwulbjrckiaxzu",
+      "report": "contributions\\codex\\.private\\windows-evidence.report.json",
+      "report_sha256": "b62fd917aba1ce62d84a97446910987f9a9cd485a03ab8c99860b6e16a4555d7"
+    },
+    {
+      "collection": "claude-windows",
+      "root": "bafyreianxmej6c3xojir3it6bf2sjxido6b6fcvbo2l5nwmf2ra2rcxzne",
+      "report": "contributions\\claude\\conversion-summary-20261024T072716Z.json",
+      "report_sha256": "0c01b9712af99231d3cb5cd97b4208ecfc86db0921e23f6b29ae7bd0ebaa94c1"
+    },
+    {
+      "collection": "gemini",
+      "root": "bafyreihzmmps7pewfyca6cvpaioudygdvezykfn77r4rqybfiplpcvutkm",
+      "report": "contributions\\codex\\gemini\\.private\\gemini-evidence.report.json",
+      "report_sha256": "f1fe443c756a25f0380b3ad4af3c1ade246f9919ba943cbc21153a268bdf8156"
+    },
+    {
+      "collection": "claude-ai",
+      "root": "bafyreifdtjynqzwqsnkq2obupxpum4oma752q4j4i44usbdrkutym7zkem",
+      "report": "contributions\\claude\\claude-ai-conversion-summary-20261024T081738Z.json",
+      "report_sha256": "a2bedd1636bcb9b04da3bda3c72b30a44767219e47dcf5b920841edb2a250019"
+    },
+    {
+      "collection": "semantic-pilot",
+      "root": "bafyreiaj7h6bn44jsy7kijnkkhkscj5hn3eyrdksnlpgsgdzxid7jjfn5u",
+      "report": "contributions\\codex\\pilot\\report.json",
+      "report_sha256": "78decbfec3b5f5fe35f876be0ac9c1aa0203bb3c421c1725525fabbfdcd4172f"
+    }
+  ],
+  "current_counts_by_collection": {
+    "codex-windows": {
+      "pkst/activity@0.1": 1,
+      "pkst/content@0.1": 117757,
+      "pkst/extraction-record@0.1": 83924,
+      "pkst/occurrence@0.1": 83924,
+      "pkst/opaque-block@0.1": 17,
+      "pkst/snapshot@0.1": 3065,
+      "pkst/source@0.1": 3004,
+      "raw": 3067
+    },
+    "claude-windows": {
+      "pkst/activity@0.1": 283,
+      "pkst/block-reference@0.1": 22532,
+      "pkst/content@0.1": 2426,
+      "pkst/extraction-record@0.1": 22762,
+      "pkst/occurrence@0.1": 22403,
+      "pkst/opaque-block@0.1": 3244,
+      "pkst/projection@0.1": 14457,
+      "pkst/snapshot@0.1": 1,
+      "pkst/source@0.1": 90,
+      "raw": 284
+    },
+    "gemini": {
+      "pkst/activity@0.1": 1,
+      "pkst/block-reference@0.1": 2897,
+      "pkst/content@0.1": 1421,
+      "pkst/extraction-record@0.1": 2897,
+      "pkst/gemini-attachment@0.1": 335,
+      "pkst/occurrence@0.1": 2897,
+      "pkst/projection@0.1": 1451,
+      "pkst/snapshot@0.1": 1,
+      "pkst/source@0.1": 463,
+      "raw": 149
+    },
+    "claude-ai": {
+      "pkst/activity@0.1": 13,
+      "pkst/block-reference@0.1": 6442,
+      "pkst/content@0.1": 2425,
+      "pkst/extraction-record@0.1": 2132,
+      "pkst/occurrence@0.1": 2132,
+      "pkst/opaque-block@0.1": 557,
+      "pkst/projection@0.1": 3244,
+      "pkst/snapshot@0.1": 1,
+      "pkst/source@0.1": 154,
+      "raw": 15
+    },
+    "semantic-pilot": {
+      "pkst/activity@0.1": 1,
+      "pkst/concept@0.1": 1,
+      "pkst/content@0.1": 2,
+      "pkst/extraction-record@0.1": 2,
+      "pkst/occurrence@0.1": 2,
+      "pkst/relation@0.1": 5,
+      "pkst/snapshot@0.1": 1,
+      "pkst/source@0.1": 2,
+      "pkst/statement@0.1": 4,
+      "raw": 3
+    }
+  },
+  "unique_current_events": 111356,
+  "current_events_with_anchors": 111356,
+  "unique_current_blocks_including_raw": 412840,
+  "all_verified_blocks_including_history_and_federation": 423978,
+  "raw_blocks_verified": 3515,
+  "exact_long_text_candidate_groups": 10,
+  "database": "contributions\\codex\\catalog\\.private\\20261024T083500Z\\catalog.sqlite",
+  "status": "CID, canonical encoding, full dependency closure, current membership and anchors verified",
+  "query_rule": "current snapshot closure only; native text only; literal substring search; no historical parents",
+  "limits": [
+    "source capture gaps remain",
+    "role user/human does not establish authorship",
+    "exact matches are not originality, copy direction, causality or endorsement",
+    "SQLite is derived and rebuildable",
+    "full intellectual graph not extracted"
+  ],
+  "elapsed_seconds": 235.001
+}

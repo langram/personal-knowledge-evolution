@@ -1,0 +1,2935 @@
+{
+  "chapter": "15",
+  "title": "动态权重的社会神经网络",
+  "status": "expanded-copyedited",
+  "review": {
+    "central_question": "动态权重如何把基层知识、共同规则、个人AI与反馈连接起来",
+    "reasoning": "知识与职位错位→去除固定身份绑定→领域判断和反馈→个人代理使参与可持续→局部自动调节与整体协调→权重规则自身的修正→两种分配",
+    "examples": [
+      "维修预算与现场故障",
+      "垃圾邮件线索",
+      "三种故障判断",
+      "日常代理与重大选择",
+      "铁路长期规划"
+    ],
+    "objections": [
+      "算法选出最高领导",
+      "一次正确产生终身特权",
+      "每人对每事开会",
+      "评分者不受评分",
+      "权重持有人隐藏错误"
+    ],
+    "voice": "保留作者定义、公共模型与个人模型、调节机制及角色互换；补充例子与递进解释",
+    "status": "已核对选材；计分细节作为展开建议，未冒称作者已定算法",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "source-adaptation",
+      "ref": "R46622",
+      "source_span": [
+        171,
+        506
+      ],
+      "source_sha256": "2d30b18a5eebd8ee6eed0075a10f0e4d7f66bf7f1e4a9b17faada8ff6fa041ed",
+      "text": "在金字塔式的组织形式下，有一个很明显的现象，最基层的需求，对最基层需求了解最清楚的，其实是基层的员工，但是基层员工并没有真正的权力来决定基层的这些方针政策和各种做法，而这些权力是在上层领导手里。但上层领导在这些具体问题上，对基层的了解往往远不如基层。尽管制定政策需要宏观考虑，但宏观和微观之间，底层的实际需求和整体的组织之间，必须有一个合理的决策权分配。这种金字塔式的决策形式，可能同时损失决策的准确性和效率。我设想的改进方向，就是动态分配权重，考察每个人在相应领域中的判断，谁的预测越准确，认知和方案越有效，他的意见在这类决策中的比重就可以更高。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            171,
+            171
+          ],
+          "output_span": [
+            0,
+            12
+          ],
+          "before": "",
+          "after": "在金字塔式的组织形式下，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            178,
+            194
+          ],
+          "output_span": [
+            19,
+            21
+          ],
+          "before": "例子，就是往往在这样的组织形式下",
+          "after": "现象"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            275,
+            277
+          ],
+          "output_span": [
+            102,
+            102
+          ],
+          "before": "其实",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            279,
+            281
+          ],
+          "output_span": [
+            104,
+            111
+          ],
+          "before": "方面",
+          "after": "些具体问题上，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            282,
+            283
+          ],
+          "output_span": [
+            112,
+            113
+          ],
+          "before": "底",
+          "after": "基"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            287,
+            287
+          ],
+          "output_span": [
+            117,
+            119
+          ],
+          "before": "",
+          "after": "往往"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            290,
+            291
+          ],
+          "output_span": [
+            122,
+            123
+          ],
+          "before": "上",
+          "after": "基"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            295,
+            298
+          ],
+          "output_span": [
+            127,
+            127
+          ],
+          "before": "就是说",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            302,
+            304
+          ],
+          "output_span": [
+            131,
+            131
+          ],
+          "before": "可能",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            312,
+            321
+          ],
+          "output_span": [
+            139,
+            139
+          ],
+          "before": "是呢，你必须得这个",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            326,
+            326
+          ],
+          "output_span": [
+            144,
+            146
+          ],
+          "before": "",
+          "after": "之间"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            335,
+            340
+          ],
+          "output_span": [
+            155,
+            157
+          ],
+          "before": "宏观的顶层",
+          "after": "整体"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            345,
+            345
+          ],
+          "output_span": [
+            162,
+            163
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            356,
+            357
+          ],
+          "output_span": [
+            174,
+            174
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            360,
+            367
+          ],
+          "output_span": [
+            177,
+            177
+          ],
+          "before": "也就是说现在的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            379,
+            392
+          ],
+          "output_span": [
+            189,
+            195
+          ],
+          "before": "实际上是极度落后的，不光是",
+          "after": "可能同时损失"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            394,
+            396
+          ],
+          "output_span": [
+            197,
+            213
+          ],
+          "before": "上会",
+          "after": "的准确性和效率。我设想的改进方向"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            399,
+            428
+          ],
+          "output_span": [
+            216,
+            216
+          ],
+          "before": "实际上决策正确的概率不高，决策的效率也低，远不如我说的这种",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            435,
+            437
+          ],
+          "output_span": [
+            223,
+            225
+          ],
+          "before": "根据",
+          "after": "考察"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            440,
+            443
+          ],
+          "output_span": [
+            228,
+            231
+          ],
+          "before": "对某些",
+          "after": "在相应"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            445,
+            449
+          ],
+          "output_span": [
+            233,
+            237
+          ],
+          "before": "谁更擅长",
+          "after": "中的判断"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            454,
+            456
+          ],
+          "output_span": [
+            242,
+            245
+          ],
+          "before": "概率",
+          "after": "越准确"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            457,
+            463
+          ],
+          "output_span": [
+            246,
+            246
+          ],
+          "before": "或者说自己的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            465,
+            471
+          ],
+          "output_span": [
+            248,
+            252
+          ],
+          "before": "能够正确或者",
+          "after": "和方案越"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            473,
+            478
+          ],
+          "output_span": [
+            254,
+            254
+          ],
+          "before": "的概率越高",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            480,
+            480
+          ],
+          "output_span": [
+            256,
+            259
+          ],
+          "before": "",
+          "after": "的意见"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            482,
+            484
+          ],
+          "output_span": [
+            261,
+            262
+          ],
+          "before": "整个",
+          "after": "类"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            486,
+            495
+          ],
+          "output_span": [
+            264,
+            264
+          ],
+          "before": "最终决定决策结果当",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            499,
+            501
+          ],
+          "output_span": [
+            268,
+            268
+          ],
+          "before": "权重",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            502,
+            503
+          ],
+          "output_span": [
+            269,
+            271
+          ],
+          "before": "要",
+          "after": "可以"
+        }
+      ],
+      "retained_characters": 200,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "为什么熟悉问题的人常常不能决定，能够决定的人又未必熟悉问题？因为一个人的决策权，往往首先来自他处在什么职位，其次才来自他对眼前这件事情知道多少。职位承担了整合信息和组织行动的功能，但也容易把不同领域、不同情境中的判断权，一并交到同一个人手里。\n\n例如，一家维修组织的负责人可能非常擅长安排预算，却不一定比正在检修设备的工作人员更清楚某个异响意味着什么。反过来，工作人员熟悉这一台设备，也不代表他已经知道整个组织的资金安排。需要解决的事情，并不是在这两个人中选出一个永远正确的人，而是让两种知识在相应的问题上发挥作用。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 决策节点为什么要从固定的人和职位中解放出来",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R34496",
+      "source_span": [
+        75,
+        188
+      ],
+      "source_sha256": "44d2825a0153494128b3188dcaf2f2d79c0a62e407e5137341f80f3bd5562451",
+      "text": "我所设想的动态权重的社会神经网络，其决策节点不再绑定具体的人类精英个体或团体，而是由集体智慧汇聚成的算法和规则来承担。我希望它成为一个比资本主义制度更适应新时代智力劳动自动化的新生产力的生产关系架构。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            76,
+            76
+          ],
+          "output_span": [
+            1,
+            4
+          ],
+          "before": "",
+          "after": "所设想"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            77,
+            79
+          ],
+          "output_span": [
+            5,
+            5
+          ],
+          "before": "这个",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            90,
+            91
+          ],
+          "output_span": [
+            16,
+            18
+          ],
+          "before": "(",
+          "after": "，其"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            93,
+            96
+          ],
+          "output_span": [
+            20,
+            20
+          ],
+          "before": "网络的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            124,
+            124
+          ],
+          "output_span": [
+            48,
+            49
+          ],
+          "before": "",
+          "after": "成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            127,
+            128
+          ],
+          "output_span": [
+            52,
+            53
+          ],
+          "before": "/",
+          "after": "和"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            130,
+            154
+          ],
+          "output_span": [
+            55,
+            65
+          ],
+          "before": "，也许可以叫做知本主义/智本主义制度？)设想，是",
+          "after": "来承担。我希望它成为"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            188,
+            188
+          ],
+          "output_span": [
+            99,
+            100
+          ],
+          "before": "",
+          "after": "。"
+        }
+      ],
+      "retained_characters": 82,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这句话需要展开。如果把一位官员换成一个 AI，却仍然只有这个 AI 能看见全部信息、解释规则和宣布结果，那么组织结构并没有发生根本改变。即使它一时非常聪明，其他参与者依然只能等待它的决定。\n\n而在共同的知识网络中，一项能力可以由许多人贡献，一条规则可以留下提出、验证和修改的过程，一个方案可以依赖多个领域中的可靠判断。决策节点因任务而形成，随证据而调整，也能够被新的、更好的构造替换。人仍然作出贡献，仍然承担实际行动，但贡献不必被固定职位包住，规则也不需要成为某个人不可分割的权威。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R34496",
+      "source_span": [
+        11549,
+        11679
+      ],
+      "source_sha256": "e8ec7cb12f478505a35f002455d8d1391ceb22239d38a8acd009e8bc17cd447e",
+      "text": "我所要解决的一个缺欠，就是政策、规则与具体领导者的权威绑定在一起。面子问题、政治责任问题，会使人很难把对某项规则的修正，与对自己地位的否定分开。动态权重的决策系统，要从这种绑定关系中走出来。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            11549,
+            11581
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "事实上中国的政府也没有管理一切，决策一切，否则哪里来的市场经济？",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11582,
+            11591
+          ],
+          "output_span": [
+            1,
+            3
+          ],
+          "before": "设想的制度，不正是",
+          "after": "所要"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            11593,
+            11599
+          ],
+          "output_span": [
+            5,
+            5
+          ],
+          "before": "中国威权体制",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            11600,
+            11600
+          ],
+          "output_span": [
+            6,
+            8
+          ],
+          "before": "",
+          "after": "一个"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            11602,
+            11602
+          ],
+          "output_span": [
+            10,
+            24
+          ],
+          "before": "",
+          "after": "，就是政策、规则与具体领导者"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11603,
+            11609
+          ],
+          "output_span": [
+            25,
+            33
+          ],
+          "before": "吗？你提到的",
+          "after": "权威绑定在一起。"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11613,
+            11616
+          ],
+          "output_span": [
+            37,
+            38
+          ],
+          "before": "，或者",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11623,
+            11636
+          ],
+          "output_span": [
+            45,
+            54
+          ],
+          "before": "全都来自于威权体制下，政策",
+          "after": "会使人很难把对某项"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            11638,
+            11638
+          ],
+          "output_span": [
+            56,
+            60
+          ],
+          "before": "",
+          "after": "的修正，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11639,
+            11641
+          ],
+          "output_span": [
+            61,
+            66
+          ],
+          "before": "具体",
+          "after": "对自己地位"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11642,
+            11651
+          ],
+          "output_span": [
+            67,
+            68
+          ],
+          "before": "领导权威的具体人绑",
+          "after": "否"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11652,
+            11653
+          ],
+          "output_span": [
+            69,
+            71
+          ],
+          "before": "了",
+          "after": "分开"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            11654,
+            11658
+          ],
+          "output_span": [
+            72,
+            72
+          ],
+          "before": "而在一个",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            11667,
+            11668
+          ],
+          "output_span": [
+            81,
+            81
+          ],
+          "before": "下",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11669,
+            11673
+          ],
+          "output_span": [
+            82,
+            84
+          ],
+          "before": "并不存在",
+          "after": "要从"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11675,
+            11677
+          ],
+          "output_span": [
+            86,
+            94
+          ],
+          "before": "情况",
+          "after": "绑定关系中走出来"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            11678,
+            11679
+          ],
+          "output_span": [
+            95,
+            95
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 37,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 从垃圾邮件的判断，理解一个能够学习的决策过程",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49135",
+      "source_span": [
+        1852,
+        2186
+      ],
+      "source_sha256": "b1ddd5b6e917eb99b13cfc47046e30345a0c4a620b41cdb5d6e530d51559eb56",
+      "text": "在这个网络中，每个智慧个体(不论是生物人，还是人工智能)，平等互联，可以自由的在自己喜欢的领域里自由创造，自由发表意见，每个个体在任何领域都具有一个平等的初始权重，并像人工智能网络一样，随着不停的反馈，根据它在某个领域内的创造和意见，对该系统的影响，进行正负反馈，根据新的反馈动态调整其在该领域意见的权重。\n\n这种安排所要改变的，是过去人类社会中静态、固化的决策权重，比如独裁制和寡头制，领导人的权重远远大于普通人，但因为其权力过大，所以发现错误进行反馈修正的难度极高，速度极慢，往往需要暴力革命才能完成决策权重的重新分配。而依赖固定任期选举的代议机制，则把重要的权重调整放在几年一轮的程序中，发现错误进行反馈修正的难度和速度虽然优于独裁寡头制，但还是会严重滞后，且分配的合理性无法得到充分的满足。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1984,
+            1986
+          ],
+          "output_span": [
+            132,
+            138
+          ],
+          "before": "随时",
+          "after": "根据新的反馈"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2001,
+            2001
+          ],
+          "output_span": [
+            153,
+            155
+          ],
+          "before": "",
+          "after": "\n\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2002,
+            2007
+          ],
+          "output_span": [
+            156,
+            166
+          ],
+          "before": "样就消除了",
+          "after": "种安排所要改变的，是"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2013,
+            2015
+          ],
+          "output_span": [
+            172,
+            173
+          ],
+          "before": "那种",
+          "after": "中"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2017,
+            2017
+          ],
+          "output_span": [
+            175,
+            178
+          ],
+          "before": "",
+          "after": "、固化"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2018,
+            2018
+          ],
+          "output_span": [
+            179,
+            181
+          ],
+          "before": "",
+          "after": "决策"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2020,
+            2022
+          ],
+          "output_span": [
+            183,
+            183
+          ],
+          "before": "策略",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2102,
+            2104
+          ],
+          "output_span": [
+            263,
+            275
+          ],
+          "before": "民主",
+          "after": "依赖固定任期选举的代议机"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2105,
+            2106
+          ],
+          "output_span": [
+            276,
+            281
+          ],
+          "before": "中",
+          "after": "，则把重要"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2107,
+            2124
+          ],
+          "output_span": [
+            282,
+            288
+          ],
+          "before": "一人一票也好，代理人制也好，都需要",
+          "after": "权重调整放在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2129,
+            2133
+          ],
+          "output_span": [
+            293,
+            296
+          ],
+          "before": "权重分配",
+          "after": "程序中"
+        }
+      ],
+      "retained_characters": 299,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        982,
+        1196
+      ],
+      "source_sha256": "c84479a9e23b5acdbb1983a371b022fed7a0f3a3f1f921b775b1442aab2c6feb",
+      "text": "从博弈论上讲，要改善共同决策，就需要让参与者能够更充分地理解情境、交换信息和作出判断。其中一个重要方面是信息：所有的信息都能够得到完整的记录和分析。有了 AI 和计算机之后，这个任务就有了不断改进的技术条件。当然，这并不是说一次性就能把所有信息都收集到，而是一个迭代进化的目标。也就是说，只要是人类当前科学水平能够收集到、并且对整个系统有用的信息，除了那些可以封装在底层子对象内部、对外部没有影响的数据之外，所有能够提高整体效率的有用数据，都可以共享出来。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            989,
+            989
+          ],
+          "output_span": [
+            7,
+            25
+          ],
+          "before": "",
+          "after": "要改善共同决策，就需要让参与者能够更"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            991,
+            999
+          ],
+          "output_span": [
+            27,
+            46
+          ],
+          "before": "博弈的游戏才是整",
+          "after": "地理解情境、交换信息和作出判断。其中一"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1000,
+            1024
+          ],
+          "output_span": [
+            47,
+            49
+          ],
+          "before": "系统达到最优化的前提。充分博弈取决于两个方面。一",
+          "after": "重要"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1067,
+            1071
+          ],
+          "output_span": [
+            92,
+            103
+          ],
+          "before": "可以完成",
+          "after": "有了不断改进的技术条件"
+        }
+      ],
+      "retained_characters": 178,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        1309,
+        1541
+      ],
+      "source_sha256": "5711eb55790517f4ed8914111fb24fa077c91adf91e652959d128b7f85450871",
+      "text": "这样的机制提供了两个相互配合的方向：一是信息可以通过计算机和数字存储设备进行充分的共享和存储，并且可以跟踪、防止篡改，有关共同决定的信息能够被参与者核验；二是在 AI 的帮助下，尽可能拉平参与者在获取知识和进行推理方面的能力差距，让每一个参与博弈的节点都有更好的理性判断条件。当然，这种对等不是绝对意义上的，但至少在当前的进化水平下，就当前所能共享的信息程度，以及每个个体受当前水平限制的博弈能力、也就是理性思维能力而言，大家都是对等的。在这种情况下，就可以实现我所设想的分布式动态权重决策机制。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1309,
+            1313
+          ],
+          "output_span": [
+            0,
+            2
+          ],
+          "before": "前面所说",
+          "after": "这样"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1316,
+            1318
+          ],
+          "output_span": [
+            5,
+            7
+          ],
+          "before": "满足",
+          "after": "提供"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1319,
+            1325
+          ],
+          "output_span": [
+            8,
+            14
+          ],
+          "before": "进行完全博弈",
+          "after": "两个相互配合"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1326,
+            1332
+          ],
+          "output_span": [
+            15,
+            17
+          ],
+          "before": "技术底层支持",
+          "after": "方向"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1374,
+            1375
+          ],
+          "output_span": [
+            59,
+            59
+          ],
+          "before": "所",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1376,
+            1376
+          ],
+          "output_span": [
+            60,
+            66
+          ],
+          "before": "",
+          "after": "关共同决定的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1378,
+            1382
+          ],
+          "output_span": [
+            68,
+            76
+          ],
+          "before": "都透明化",
+          "after": "能够被参与者核验"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1395,
+            1395
+          ],
+          "output_span": [
+            89,
+            92
+          ],
+          "before": "",
+          "after": "尽可能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1397,
+            1401
+          ],
+          "output_span": [
+            94,
+            97
+          ],
+          "before": "了所有人",
+          "after": "参与者"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1402,
+            1402
+          ],
+          "output_span": [
+            98,
+            106
+          ],
+          "before": "",
+          "after": "获取知识和进行推"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1403,
+            1408
+          ],
+          "output_span": [
+            107,
+            107
+          ],
+          "before": "性思维能力",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1411,
+            1411
+          ],
+          "output_span": [
+            110,
+            112
+          ],
+          "before": "",
+          "after": "能力"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1414,
+            1416
+          ],
+          "output_span": [
+            115,
+            116
+          ],
+          "before": "这样",
+          "after": "让"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1427,
+            1430
+          ],
+          "output_span": [
+            127,
+            131
+          ],
+          "before": "是完全",
+          "after": "有更好的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1432,
+            1433
+          ],
+          "output_span": [
+            133,
+            137
+          ],
+          "before": "人",
+          "after": "判断条件"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1438,
+            1438
+          ],
+          "output_span": [
+            142,
+            145
+          ],
+          "before": "",
+          "after": "种对等"
+        }
+      ],
+      "retained_characters": 194,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55365",
+      "source_span": [
+        5155,
+        5599
+      ],
+      "source_sha256": "42f425d3258d4ffa85c4f8faa8cced819ec487691ca4e28de46c0e90b45e80f7",
+      "text": "面对确定性问题时，通过计算机预先编写的程序，快速自动地提供答案和解决方案；遇到简单的不确定性问题时，通过 AI 智能体的协作来提供答案和解决方案。\n\n遇到涉及社会政治经济层面的复杂不确定性问题时，我希望能够通过社会智能神经网络的算法，考察各个人类和 AI 智能个体或组织节点，在历史上对该类问题的判断准确性，分配不同的权重，准确率高的节点，权重高，准确率低的节点，权重低，然后综合这些节点的判断及其权重，计算和提供多种不同的解决方案和其对应的权重，然后通过虚拟的或真实的社会的政治和经济试点，进行实验，根据反馈，进一步决定如何推广这些解决方案，而每次的反馈结果，会修改各个节点的决策权重值。\n\n我希望这种动态的智能决策体系，能够比固定在职位和身份上的决策体系更加科学、准确，也更容易纠错。这个设想的一个启发，来自垃圾邮件的判断机制。我觉得Merkle 框架为这个复杂政治经济决策算法提供底层的技术支持。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            5155,
+            5157
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "比如",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5183,
+            5184
+          ],
+          "output_span": [
+            26,
+            27
+          ],
+          "before": "的",
+          "after": "地"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5193,
+            5194
+          ],
+          "output_span": [
+            36,
+            37
+          ],
+          "before": "，",
+          "after": "；"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5209,
+            5209
+          ],
+          "output_span": [
+            52,
+            53
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5211,
+            5211
+          ],
+          "output_span": [
+            55,
+            56
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5227,
+            5228
+          ],
+          "output_span": [
+            72,
+            75
+          ],
+          "before": "，",
+          "after": "。\n\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5251,
+            5290
+          ],
+          "output_span": [
+            98,
+            103
+          ],
+          "before": "不再通过传统的威权体制下，由相关专家决定，或者民主体制下，靠选举投票决定，而是",
+          "after": "我希望能够"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5304,
+            5306
+          ],
+          "output_span": [
+            117,
+            119
+          ],
+          "before": "计算",
+          "after": "考察"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5311,
+            5311
+          ],
+          "output_span": [
+            124,
+            125
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5313,
+            5313
+          ],
+          "output_span": [
+            127,
+            128
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5333,
+            5335
+          ],
+          "output_span": [
+            148,
+            150
+          ],
+          "before": "解答",
+          "after": "判断"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5338,
+            5340
+          ],
+          "output_span": [
+            153,
+            153
+          ],
+          "before": "概率",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5375,
+            5377
+          ],
+          "output_span": [
+            188,
+            190
+          ],
+          "before": "根据",
+          "after": "综合"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5382,
+            5384
+          ],
+          "output_span": [
+            195,
+            199
+          ],
+          "before": "加权",
+          "after": "判断及其"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5469,
+            5471
+          ],
+          "output_span": [
+            284,
+            284
+          ],
+          "before": "之前",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5481,
+            5482
+          ],
+          "output_span": [
+            294,
+            300
+          ],
+          "before": "，",
+          "after": "。\n\n我希望"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5494,
+            5495
+          ],
+          "output_span": [
+            312,
+            316
+          ],
+          "before": "肯",
+          "after": "能够比固"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5496,
+            5502
+          ],
+          "output_span": [
+            317,
+            320
+          ],
+          "before": "比传统的政治",
+          "after": "在职位"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5503,
+            5507
+          ],
+          "output_span": [
+            321,
+            324
+          ],
+          "before": "经济体中",
+          "after": "身份上"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5512,
+            5513
+          ],
+          "output_span": [
+            329,
+            331
+          ],
+          "before": "要",
+          "after": "更加"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5515,
+            5516
+          ],
+          "output_span": [
+            333,
+            334
+          ],
+          "before": "和",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5518,
+            5520
+          ],
+          "output_span": [
+            336,
+            343
+          ],
+          "before": "得多",
+          "after": "，也更容易纠错"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5523,
+            5530
+          ],
+          "output_span": [
+            346,
+            356
+          ],
+          "before": "算法是我当初被",
+          "after": "设想的一个启发，来自"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            5534,
+            5541
+          ],
+          "output_span": [
+            360,
+            360
+          ],
+          "before": "算法启发而想到",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5542,
+            5564
+          ],
+          "output_span": [
+            361,
+            365
+          ],
+          "before": "，之前在chatgpt的过往会话中，也提到过",
+          "after": "判断机制"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            5568,
+            5569
+          ],
+          "output_span": [
+            369,
+            370
+          ],
+          "before": "m",
+          "after": "M"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            5574,
+            5574
+          ],
+          "output_span": [
+            375,
+            376
+          ],
+          "before": "",
+          "after": " "
+        }
+      ],
+      "retained_characters": 335,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "设想我们第一次收到一封陌生邮件。它的标题、发件地址、内容和链接，都可能提供一些线索。但是，某一个词出现了，并不意味着这封邮件一定是垃圾邮件；一个过去可靠的地址，也可能在某一天被盗用。判断需要综合不同线索，并在用户纠正和新邮件到来时继续调整。\n\n我从中得到的启发，是不要把某一个线索永久封为权威，而要让它在反馈中改变自己的作用。把这个思路用于共同决策，也不是给一个人贴上“可靠”或“不可靠”的终身标签。同一个人对机械维修很有经验，对农作物病害可能并不了解；同一个方案在一种环境下有效，换了条件可能就失效。权重因此应该附着在具体领域、具体问题及其适用条件上。\n\n再拿维修举例。三个人分别判断某台机器的问题来自轴承、电路和安装误差。在维修之前，把判断、理由和各自掌握的材料记下来；维修之后，查看故障实际出现在哪里，哪些观察起了作用，哪些判断忽略了重要条件。这个结果可以帮助下一次判断，却不能简单推成“猜对的人今后在一切事情上都更有权力”。\n\n如果机器换了型号，原来很有用的经验也许就需要重新校准。如果某个人始终只在最容易的问题上发言，他的高准确率也不能和承担困难问题的人直接比较。所谓动态，就包括这些条件的变化，而不只是把一个分数每天加减一次。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 个人 AI 怎样使广泛参与成为日常能力",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R34498",
+      "source_span": [
+        1408,
+        1745
+      ],
+      "source_sha256": "3b8f3826640555f2fa89d7307799411e548610b960a1e90c3c5b72e5d1156dd9",
+      "text": "也有很多人，将自己和别人总结的经验和技能写进技能文档，让AI调用它，就相当于是让某个人来对某个问题进行选择和判断。如果我们的merkle-DAG系统，将一个人的数字空间都记录下来，这个人的技能、认知以及偏好都在保证隐私安全的情况下记录下来，并且记录其拥有者的ID，让后续修改能够被核验和追踪，这就相当于为知识和能力留下更广泛的来源标记。这个人的所有数字空间中的数据代码设置偏好认知以及机能，对所有感兴趣的问题的意见和看法，都在这个空间中，当遇到团体需要共同判断的问题时，绝大多数情况下，不需要用户自己的主动参与，AI 就可以依据这个人的数字空间中的记录，协助形成意见和看法。如果是重要的议题，且用户本身对这个感兴趣，那么可以由AI提请用户参与，经过讨论后，提交用户主动参与后的意见。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            1420,
+            1421
+          ],
+          "output_span": [
+            12,
+            12
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1431,
+            1436
+          ],
+          "output_span": [
+            22,
+            24
+          ],
+          "before": "skill",
+          "after": "技能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1506,
+            1507
+          ],
+          "output_span": [
+            94,
+            95
+          ],
+          "before": "机",
+          "after": "技"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1508,
+            1509
+          ],
+          "output_span": [
+            96,
+            97
+          ],
+          "before": "，",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1544,
+            1547
+          ],
+          "output_span": [
+            132,
+            139
+          ],
+          "before": "且不会",
+          "after": "让后续修改能够"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1548,
+            1550
+          ],
+          "output_span": [
+            140,
+            145
+          ],
+          "before": "篡改",
+          "after": "核验和追踪"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1556,
+            1558
+          ],
+          "output_span": [
+            151,
+            159
+          ],
+          "before": "一种",
+          "after": "为知识和能力留下"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1562,
+            1566
+          ],
+          "output_span": [
+            163,
+            165
+          ],
+          "before": "知识产权",
+          "after": "来源"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1623,
+            1628
+          ],
+          "output_span": [
+            222,
+            222
+          ],
+          "before": "6中提到的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1632,
+            1632
+          ],
+          "output_span": [
+            226,
+            230
+          ],
+          "before": "",
+          "after": "共同判断"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1633,
+            1635
+          ],
+          "output_span": [
+            231,
+            231
+          ],
+          "before": "决策",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1662,
+            1662
+          ],
+          "output_span": [
+            258,
+            259
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1663,
+            1667
+          ],
+          "output_span": [
+            260,
+            263
+          ],
+          "before": "能自动根",
+          "after": "可以依"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1668,
+            1670
+          ],
+          "output_span": [
+            264,
+            268
+          ],
+          "before": "自身",
+          "after": "这个人的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1679,
+            1684
+          ],
+          "output_span": [
+            277,
+            281
+          ],
+          "before": "提供自己的",
+          "after": "协助形成"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1689,
+            1690
+          ],
+          "output_span": [
+            286,
+            286
+          ],
+          "before": "了",
+          "after": ""
+        }
+      ],
+      "retained_characters": 299,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R34511",
+      "source_span": [
+        106,
+        522
+      ],
+      "source_sha256": "b3c8f5246a8a8377e9c122f2e63f9f166d669858f98fe7c7e012d44252f8ef6c",
+      "text": "一方面，可以将能够共同使用的知识和信息，做好静态语义空间和动态理论/知识/策略等进化空间的标记工作，把不断形成和修正的理论共识，用于构建共同的公共知识模型底座，另一方面，如果我们将每个人愿意保留的数字空间内容，通过 Merkle-DAG 架构记录下来，做好静态的语义空间以及个人认知和思考以及知识进化空间的标记工作，将这些数据作为后训练的数据，在公共知识底座之上，形成基于个人信息、偏好以及认知的个人模型，这个模型就可以成为帮助这个人表达个人权益及意见的理性智能，获得本人授权后，简单、例行的小事情可以由 AI 代理完成判断，重大事情，由 AI 和人类用户共同讨论后提供意见。这些过程也可以通过 Merkle 系统记录下来，用于未来通过反馈，进行权重调节，同时随着用户在数字空间中通过不断的学习，以及参与决策的过程，不断修正进化的认知进化数据，通过持续的后训练，不断的微调的模型，也会影响接下来用户决策的结果。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            110,
+            112
+          ],
+          "output_span": [
+            4,
+            6
+          ],
+          "before": "我们",
+          "after": "可以"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            113,
+            116
+          ],
+          "output_span": [
+            7,
+            13
+          ],
+          "before": "全人类",
+          "after": "能够共同使用"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            117,
+            125
+          ],
+          "output_span": [
+            14,
+            14
+          ],
+          "before": "数字空间中的所有",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            161,
+            166
+          ],
+          "output_span": [
+            50,
+            58
+          ],
+          "before": "基于所有人",
+          "after": "把不断形成和修正"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            172,
+            180
+          ],
+          "output_span": [
+            64,
+            68
+          ],
+          "before": "训练出一个全人类",
+          "after": "用于构建"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            182,
+            184
+          ],
+          "output_span": [
+            70,
+            70
+          ],
+          "before": "认可",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            189,
+            190
+          ],
+          "output_span": [
+            75,
+            75
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            208,
+            208
+          ],
+          "output_span": [
+            93,
+            97
+          ],
+          "before": "",
+          "after": "愿意保留"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            213,
+            217
+          ],
+          "output_span": [
+            102,
+            102
+          ],
+          "before": "中的所有",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            219,
+            220
+          ],
+          "output_span": [
+            104,
+            105
+          ],
+          "before": "都",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            222,
+            223
+          ],
+          "output_span": [
+            107,
+            109
+          ],
+          "before": "m",
+          "after": " M"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            232,
+            232
+          ],
+          "output_span": [
+            118,
+            119
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            285,
+            286
+          ],
+          "output_span": [
+            172,
+            173
+          ],
+          "before": "对",
+          "after": "在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            292,
+            297
+          ],
+          "output_span": [
+            179,
+            181
+          ],
+          "before": "模型的权重",
+          "after": "之上"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            298,
+            300
+          ],
+          "output_span": [
+            182,
+            184
+          ],
+          "before": "进行",
+          "after": "形成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            306,
+            307
+          ],
+          "output_span": [
+            190,
+            191
+          ],
+          "before": "，",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            324,
+            327
+          ],
+          "output_span": [
+            208,
+            214
+          ],
+          "before": "是代表",
+          "after": "可以成为帮助"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            330,
+            331
+          ],
+          "output_span": [
+            217,
+            219
+          ],
+          "before": "的",
+          "after": "表达"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            344,
+            344
+          ],
+          "output_span": [
+            232,
+            240
+          ],
+          "before": "",
+          "after": "获得本人授权后，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            346,
+            365
+          ],
+          "output_span": [
+            242,
+            245
+          ],
+          "before": "的，routine的或者trivial",
+          "after": "、例行"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            369,
+            370
+          ],
+          "output_span": [
+            249,
+            260
+          ],
+          "before": "的",
+          "after": "可以由 AI 代理完成"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            372,
+            381
+          ],
+          "output_span": [
+            262,
+            262
+          ],
+          "before": "由AI代理自动完成",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            388,
+            388
+          ],
+          "output_span": [
+            269,
+            270
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            390,
+            390
+          ],
+          "output_span": [
+            272,
+            273
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            405,
+            407
+          ],
+          "output_span": [
+            288,
+            288
+          ],
+          "before": "所有",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            412,
+            414
+          ],
+          "output_span": [
+            293,
+            295
+          ],
+          "before": "全程",
+          "after": "可以"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            416,
+            417
+          ],
+          "output_span": [
+            297,
+            299
+          ],
+          "before": "m",
+          "after": " M"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            422,
+            422
+          ],
+          "output_span": [
+            304,
+            305
+          ],
+          "before": "",
+          "after": " "
+        }
+      ],
+      "retained_characters": 334,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这使“人人参与”有了与过去不同的含义。过去一说所有人共同决定，人们马上想到每个人要读完成堆文件、参加无数会议、对所有问题投票。对于一个需要工作、学习和照顾家庭的人，这样的参与几乎不可能持续。\n\n个人 AI 可以先理解问题与本人有什么关系，哪些条件属于本人已经明确表达的偏好，哪些部分又出现了新的选择。对于熟悉的例行事务，它可以按照已有授权协助处理；对于真正需要本人选择的事情，它把争议、理由和影响解释清楚，再由本人决定。这样，参与的深度可以因兴趣和问题而不同，而每个人的意见不必因为缺少时间或专业术语就被排除。\n\n同时，一个人也可以改变自己。个人模型记录的是他怎样形成判断，不应该把过去的偏好变成一套永远不能修改的性格判决。本人学习到了新知识，生活条件改变了，或者只是认真思考后有了新的看法，这些变化都应该进入后续的判断。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 反馈为什么比一次性的权威判断更重要",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        1799,
+        1906
+      ],
+      "source_sha256": "42aed512a226effb9b702ebbfc452232b088b765aca6afc9af68d1a0dc8a3a7f",
+      "text": "我所关注的一条进化方向，是用越来越好的控制方式来接管或替代旧的、底层的控制方式。当然，这并不是说底层控制方式就彻底落伍、被淘汰了。实际上，它们是在事物的不同层级上，分别调控各自层级所需要处理的事务。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            1799,
+            1804
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "其实这也是",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1805,
+            1807
+          ],
+          "output_span": [
+            1,
+            4
+          ],
+          "before": "想说",
+          "after": "所关注"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1808,
+            1813
+          ],
+          "output_span": [
+            5,
+            7
+          ],
+          "before": "：这个世界",
+          "after": "一条"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1815,
+            1816
+          ],
+          "output_span": [
+            9,
+            9
+          ],
+          "before": "的",
+          "after": ""
+        }
+      ],
+      "retained_characters": 94,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54886",
+      "source_span": [
+        2608,
+        3290
+      ],
+      "source_sha256": "4342f4b56d469c0ad5cc08722b85b9eae0532d3d56df70e1c4b9f9933702e79a",
+      "text": "在国家层面、文明层面也是如此。权力和资本所控制的系统，也就是经济系统和对人进行管理的政治系统，如果按照权力和资本的本质来运行，就有点像人的生理本能驱动一样。它能够解决人类社会大多数比较基本层面的任务，就像人体内的许多自动调节，并不需要我们每一次都经过有意识的思考，就能够持续进行。同样，对一个国家、一个文明来讲，往往不需要高层的决策，靠市场调节、靠人与人之间自然的权力博弈，就可以完成日常社会生活中绝大多数的政治和经济活动。\n\n但是，人如果没有大脑参与、通过理智做出选择，那么在面对更复杂的任务或者与外界互动时，就会产生很多危险。比如开车过程中遭遇某种情况，熟练动作和新的判断需要配合：有时应该立即按已有训练作出反应，有时则需要识别出环境已经变化。也就是说，一个高级的人类能够根据情况，把有意识的判断、经过训练的熟练动作和身体的自动调节结合起来解决问题。\n\n但这必须有一个更好的调节机制。人类文明的运作也是这样：在不同事务之间如何切换，是靠市场经济的自然竞争、所谓“看不见的手”自动调节，还是靠国家产业政策来完成某些任务，这需要根据不同情况分别处理，也需要一个高级的决策系统。\n\n总之一句话：必须要有一个更好的调节方式，来解决现行政治经济体制下的各种缺点。比如，完全放任底层的市场经济规律来控制，而不做有意识的、通过理智做出的决定。我说的这种理智是群体理智：靠所有人共同思考问题、提供解决办法，然后通过这个动态决策系统，形成能够共同实施、接受检验和修正的方案，而不把一切都留给未经协调的市场结果。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            2711,
+            2711
+          ],
+          "output_span": [
+            103,
+            105
+          ],
+          "before": "",
+          "after": "体内"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2712,
+            2716
+          ],
+          "output_span": [
+            106,
+            123
+          ],
+          "before": "副交感神",
+          "after": "许多自动调节，并不需要我们每一次都"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2717,
+            2722
+          ],
+          "output_span": [
+            124,
+            124
+          ],
+          "before": "根本不用通",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2723,
+            2725
+          ],
+          "output_span": [
+            125,
+            131
+          ],
+          "before": "大脑",
+          "after": "有意识的思考"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2728,
+            2749
+          ],
+          "output_span": [
+            134,
+            138
+          ],
+          "before": "控制血液循环、呼吸和消化。这种体内的自动运",
+          "after": "够持续进"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2750,
+            2772
+          ],
+          "output_span": [
+            139,
+            139
+          ],
+          "before": "，不需要大脑参与理智推断，就可以完成很多任务",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2912,
+            2939
+          ],
+          "output_span": [
+            279,
+            285
+          ],
+          "before": "如果在理智控制下，可能就会化险为夷；如果由生理肌肉记忆",
+          "after": "熟练动作和新"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2940,
+            2945
+          ],
+          "output_span": [
+            286,
+            308
+          ],
+          "before": "本能来驱动",
+          "after": "判断需要配合：有时应该立即按已有训练作出反应"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2948,
+            2965
+          ],
+          "output_span": [
+            311,
+            312
+          ],
+          "before": "反倒适得其反，当然有时也会救命，这",
+          "after": "则"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2967,
+            2972
+          ],
+          "output_span": [
+            314,
+            323
+          ],
+          "before": "看情况而定",
+          "after": "识别出环境已经变化"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2993,
+            2995
+          ],
+          "output_span": [
+            344,
+            347
+          ],
+          "before": "大脑",
+          "after": "有意识"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2996,
+            2999
+          ],
+          "output_span": [
+            348,
+            351
+          ],
+          "before": "高级神",
+          "after": "判断、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            3000,
+            3000
+          ],
+          "output_span": [
+            352,
+            366
+          ],
+          "before": "",
+          "after": "过训练的熟练动作和身体的自动"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3002,
+            3020
+          ],
+          "output_span": [
+            368,
+            368
+          ],
+          "before": "和副交感神经、身体内的本能驱动很好地",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3262,
+            3269
+          ],
+          "output_span": [
+            610,
+            611
+          ],
+          "before": "选出大家最终达",
+          "after": "形"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            3270,
+            3270
+          ],
+          "output_span": [
+            612,
+            614
+          ],
+          "before": "",
+          "after": "能够"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3271,
+            3272
+          ],
+          "output_span": [
+            615,
+            626
+          ],
+          "before": "识",
+          "after": "同实施、接受检验和修正"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            3275,
+            3280
+          ],
+          "output_span": [
+            629,
+            629
+          ],
+          "before": "来解决问题",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3283,
+            3285
+          ],
+          "output_span": [
+            632,
+            643
+          ],
+          "before": "是靠",
+          "after": "把一切都留给未经协调的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            3287,
+            3289
+          ],
+          "output_span": [
+            645,
+            647
+          ],
+          "before": "经济",
+          "after": "结果"
+        }
+      ],
+      "retained_characters": 534,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "长期规划与快速纠错，也可以在这个层次上重新理解。一条铁路的建设需要多年协调，不能今天刚确定路线，明天就因为一次情绪变化全部重来。但如果地质条件、运输需求或成本发生了重要变化，继续坚持原方案也可能造成更大的损失。\n\n好的长期承诺，应当包含怎样识别变化、什么情况需要重新评估。共同记忆让我们知道当初为什么作出决定，持续反馈让我们知道这些理由是否还成立。这样，修正计划就可以成为执行计划的一部分，而不必先经历一次最高职位的更替。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 权重会不会重新变成特权",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54733",
+      "source_span": [
+        0,
+        119
+      ],
+      "source_sha256": "62bfdf444815bc03e3c62145f0a1bff6ae207b7c89c783db5ff46a5a2c711df8",
+      "text": "对于动态权重会不会重新集中成少数人的权力，我的一个判断是，不能忽略能力差异与权力积累之间的区别，人类能力上的差异，与权力和财富在反复的不对等博弈中所产生的巨大累积，并不是同一种现象。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            0,
+            1
+          ],
+          "output_span": [
+            0,
+            1
+          ],
+          "before": "关",
+          "after": "对"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2,
+            6
+          ],
+          "output_span": [
+            2,
+            2
+          ],
+          "before": "你提到的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10,
+            13
+          ],
+          "output_span": [
+            6,
+            9
+          ],
+          "before": "也可能",
+          "after": "会不会"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            15,
+            15
+          ],
+          "output_span": [
+            11,
+            12
+          ],
+          "before": "",
+          "after": "集"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            16,
+            18
+          ],
+          "output_span": [
+            13,
+            17
+          ],
+          "before": "心化",
+          "after": "成少数人"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            19,
+            21
+          ],
+          "output_span": [
+            18,
+            20
+          ],
+          "before": "风险",
+          "after": "权力"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            23,
+            34
+          ],
+          "output_span": [
+            22,
+            29
+          ],
+          "before": "觉得从物理学机制上来讲",
+          "after": "的一个判断是，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            35,
+            37
+          ],
+          "output_span": [
+            30,
+            30
+          ],
+          "before": "太可",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            38,
+            38
+          ],
+          "output_span": [
+            31,
+            47
+          ],
+          "before": "",
+          "after": "忽略能力差异与权力积累之间的区别"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            41,
+            45
+          ],
+          "output_span": [
+            50,
+            50
+          ],
+          "before": "的智商和",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            47,
+            47
+          ],
+          "output_span": [
+            52,
+            60
+          ],
+          "before": "",
+          "after": "上的差异，与权力"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            48,
+            83
+          ],
+          "output_span": [
+            61,
+            66
+          ],
+          "before": "很多物理性质的分布一样，其实是正态分布的，所有的幂分布都是由于打破平衡",
+          "after": "财富在反复"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            87,
+            99
+          ],
+          "output_span": [
+            70,
+            76
+          ],
+          "before": "行为经过长时间连锁反应下",
+          "after": "博弈中所产生"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            100,
+            102
+          ],
+          "output_span": [
+            77,
+            81
+          ],
+          "before": "产物",
+          "after": "巨大累积"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            103,
+            113
+          ],
+          "output_span": [
+            82,
+            90
+          ],
+          "before": "比如财富和权力的分布",
+          "after": "并不是同一种现象"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            114,
+            119
+          ],
+          "output_span": [
+            91,
+            91
+          ],
+          "before": "你觉得呢？",
+          "after": ""
+        }
+      ],
+      "retained_characters": 26,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这条思路所针对的，是一种越赢越能够规定比赛规则的循环。如果过去的成功换来了对资金、信息和准入条件的控制，那么后来的人即使判断更好，也未必能够进入比较。此时所谓“能力优势”已经混入了资源和地位的优势。\n\n所以，动态权重需要与前面所说的公共知识、个人工具和后面要讨论的资源分配放在一起理解。新参与者必须能够获得学习和检验自己判断的条件，失败的记录不能只对弱势者可见，成功者也不能把验证自己结果的通道握在自己手里。\n\n还有一个更直接的问题：如果某人因为过去的判断获得较高权重，他会不会为了维持这个权重而隐瞒错误？这正说明评分也需要面对系统的反馈。及时发现自己的错误、提供反例、帮助修正规则，本来就是有价值的知识贡献。如果记录只奖励“从来没错过”，人们就有理由隐藏失败；如果修正过程也能得到承认，那么改变判断就不必等于失去一切。\n\n谁来修改权重规则，也不能被留给一个永远不接受评价的职位。规则本身要作为共同研究的对象：它使用了什么资料，在什么任务中有效，是否遗漏了重要反馈，换一种规则会发生什么。不同候选机制可以先在可比较的任务中检验，再决定它们适合承担多大的作用。动态权重的含义，必须一直延伸到产生权重的机制本身。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R34496",
+      "source_span": [
+        4790,
+        4907
+      ],
+      "source_sha256": "6465a83bea490a6a3cbf9e86e6f278d3ec0ccaa9d7f5b6d0b88af387f2408a1b",
+      "text": "我设想的新体制，在政治层面上，每个人都是管理者，也都是被管理者，在经济层面上，既是生产者，也是消费者，从知识教育层面上，每个人既是学生，也是老师。共同事务的管理，来自所有人作为参与节点所形成的文明大脑，来自它持续产生和修正的智慧与知识。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            4863,
+            4863
+          ],
+          "output_span": [
+            73,
+            78
+          ],
+          "before": "",
+          "after": "共同事务的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4865,
+            4873
+          ],
+          "output_span": [
+            80,
+            80
+          ],
+          "before": "文明体中所有人的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4874,
+            4875
+          ],
+          "output_span": [
+            81,
+            83
+          ],
+          "before": "是",
+          "after": "来自"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4880,
+            4889
+          ],
+          "output_span": [
+            88,
+            92
+          ],
+          "before": "其中的一个神经元，",
+          "after": "参与节点"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            4897,
+            4898
+          ],
+          "output_span": [
+            100,
+            106
+          ],
+          "before": "所",
+          "after": "，来自它持续"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4900,
+            4900
+          ],
+          "output_span": [
+            108,
+            111
+          ],
+          "before": "",
+          "after": "和修正"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            4903,
+            4903
+          ],
+          "output_span": [
+            114,
+            115
+          ],
+          "before": "",
+          "after": "与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4906,
+            4907
+          ],
+          "output_span": [
+            118,
+            118
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 97,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "不过，让每个人成为共同决策的一部分，还需要回答一个更切身的问题：如果一个人的判断权重下降，他的生活会不会也被削减？如果某个人在专业领域里作出了更大的贡献，他是不是就应该永久拥有更多共同资源？这两个问题把我们带到制度中另一项关键的构造：个人需求和集体资源必须分开讨论。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

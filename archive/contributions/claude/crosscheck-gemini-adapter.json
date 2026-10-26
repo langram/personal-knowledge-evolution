@@ -1,0 +1,94 @@
+{
+  "ran_at": "2026-10-24T07:59:35Z",
+  "checks": {
+    "zip_members": {
+      "pass": true,
+      "zip_raw_ok": true,
+      "members": 149,
+      "manifest_rows": 149,
+      "mismatches": 0,
+      "distinct_member_raw_cids": 144,
+      "duplicate_member_names": 0
+    },
+    "occurrences": {
+      "pass": true,
+      "occurrences": 2897,
+      "problems": {},
+      "examples": {}
+    },
+    "attachments": {
+      "pass": true,
+      "objects": 335,
+      "status": {
+        "resolved": 262,
+        "missing": 73
+      },
+      "problems": {},
+      "missing_objects": 73,
+      "missing_distinct_names": 36,
+      "missing_with_same_stem_member": 35,
+      "same_stem_extension_pairs": {
+        "03226->txt": 1,
+        "png->jpg": 1,
+        "md-><none>": 27,
+        "rtf->doc": 1,
+        "png->heic": 2,
+        "zip-><none>": 3
+      },
+      "missing_without_counterpart": [
+        "屏幕截图 2025-09-29 203324-7ec54369a836475d.png"
+      ]
+    }
+  },
+  "findings": {
+    "zip_archive_raw_linked_from_objects": true,
+    "snapshot_protocol": "bafkreids4w2sc4l7uwnhrsjofo3hwyxiafaqyzl5rgn6tqjm3nysxd44fq",
+    "snapshot_roots": 150,
+    "document_raw": "bafkreideukoih3truyiguj5yybmqd2e4hbuwjuqjtpd2f33lop7iceqoxa",
+    "document_raw_used_by_all_extraction_records": true,
+    "document_duplicate_keys": null,
+    "entries": 1454,
+    "title_first_words": {
+      "Prompted": 1427,
+      "Created": 20,
+      "Cleared": 6,
+      "Selected": 1
+    },
+    "detail_url_shapes": {
+      "app-exact": 1436
+    },
+    "entries_by_distinct_app_ids": {
+      "0": 27,
+      "1": 1418,
+      ">=2": 9
+    },
+    "distinct_app_ids_all_entries": 437,
+    "distinct_app_ids_single_id_entries": 427,
+    "prompted_prefix": {
+      "exact 'Prompted '": 1427,
+      "case/space-insensitive": 1427
+    },
+    "role_actor_process": {
+      "Prompted|unknown|unknown": 1427,
+      "safeHtmlItem|ai|unknown": 1443,
+      "activity:Cleared|unknown|unknown": 6,
+      "activity:Created|unknown|unknown": 20,
+      "activity:Selected|unknown|unknown": 1
+    },
+    "time_format_by_role": {
+      "Prompted|rfc3339|millisecond": 1426,
+      "safeHtmlItem|unknown|unknown": 1443,
+      "activity|rfc3339|millisecond": 27,
+      "Prompted|rfc3339|second": 1
+    },
+    "entries_without_occurrence": [],
+    "safeHtmlItem_nodes_in_document": 1443,
+    "entries_with_multiple_safeHtmlItem": 14,
+    "entries_with_prompt_and_no_html": 0,
+    "entry_time_shapes": {
+      "frac_digits=3,Z=True": 1453,
+      "frac_digits=0,Z=True": 1
+    }
+  },
+  "all_pass": true
+}

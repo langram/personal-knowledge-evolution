@@ -1,0 +1,46 @@
+{
+  "run": "20261024T072716Z",
+  "recorded_at": "2026-10-24T07:27:16Z",
+  "snapshot": "bafyreianxmej6c3xojir3it6bf2sjxido6b6fcvbo2l5nwmf2ra2rcxzne",
+  "protocol_raw_cid": "bafkreids4w2sc4l7uwnhrsjofo3hwyxiafaqyzl5rgn6tqjm3nysxd44fq",
+  "protocol_sha256": "72e5b521717fa59a78c92e2bb67b62e801410c657d899be9c12cdb712b8f9c2c",
+  "implementation": "claude_import_n3.py@sha256:1cf9c4dff0faf0ccddc4f3118c1337cffc1464b41c231c357ed54f2e51135656;pkst_cbor_claude.py@sha256:697a7be406d6058046743f820ef33c591e8c18350040e2453c87f4776d761b3c;python-3.14.5;profile=python-json-v1",
+  "objects_dir": "contributions/claude/objects",
+  "object_files": 88696,
+  "written_this_run": 498,
+  "objects_by_schema": {
+    "pkst/source@0.1": 90,
+    "pkst/content@0.1": 2426,
+    "pkst/occurrence@0.1": 22403,
+    "pkst/extraction-record@0.1": 22762,
+    "pkst/block-reference@0.1": 22532,
+    "pkst/projection@0.1": 14457,
+    "pkst/opaque-block@0.1": 3244,
+    "pkst/activity@0.1": 285,
+    "pkst/snapshot@0.1": 1
+  },
+  "activities": 285,
+  "totals": {
+    "lines": 31403,
+    "occurrences": 22762,
+    "missing_native_id": 0,
+    "dangling_parent_ids": 0,
+    "missing_paste_content": 10,
+    "parse_errors": 0,
+    "partial_tails": 0
+  },
+  "gaps": {
+    "transcripts_without_occurrences": 12
+  },
+  "present_not_parsed": {
+    "claude-code-project-other": 40,
+    "claude-code-tool-result": 11,
+    "claude-code-subagent-meta": 110,
+    "claude-desktop-session-meta": 23,
+    "claude-desktop-side-notes": 2
+  },
+  "verify": {
+    "rehash_failures": 0,
+    "dangling_links": 0
+  }
+}

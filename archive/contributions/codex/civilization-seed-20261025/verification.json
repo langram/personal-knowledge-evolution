@@ -1,0 +1,23 @@
+{
+  "schema": "pkst.seed-verification@0.1",
+  "recorded_at": "2026-10-25T07:12:36.854383+00:00",
+  "status": "pass",
+  "native_recent_messages": 18,
+  "selected_history_events": 5,
+  "verbatim_quote_spans": 22,
+  "native_quote_anchors": 13,
+  "draft_and_research_files": 16,
+  "new_current_events": 18,
+  "total_current_events": 200352,
+  "query": "从我一个人做起",
+  "query_pass": true,
+  "negative_checks": [
+    "one changed raw byte fails CID",
+    "altered quote fails exact span"
+  ],
+  "preserved_failure": "First quote selection S17 included a nonexistent leading 先; fail-fast assertion rejected it; corrected to exact native wording before finalization.",
+  "scope": "separate code path checks native messages and quotation anchors; reused codec; Codex self-verification, not Claude or human review",
+  "baseline_scope": "prior 715429-block verification reused; dossier closure freshly hashed; no claim of a fresh all-corpus raw audit",
+  "dossier_snapshot": "bafyreifa6mltqj2ilftqyjwklmy3v4n5jo36pnfq7pw2eblqgqqsiknzra",
+  "federated_snapshot": "bafyreiauugyncevkugqbyf7b3yip45mwezazg42alxabksx3rej6atv5zu"
+}

@@ -1,0 +1,2391 @@
+{
+  "chapter": "12",
+  "title": "MerkleVM 与可以生长的软件种子",
+  "status": "expanded-copyedited",
+  "review": {
+    "reasoning": "以个人为中心的虚拟空间→跨设备任务→公共与私有内容→包装旧生态→渐进替换→授权边界→自举",
+    "examples": [
+      "手机发起远端下载",
+      "文件跨本地局域网云访问",
+      "公共程序内容共享",
+      "逐层包装电脑应用任务",
+      "资料副本试验",
+      "鸡生蛋与蛋生鸡"
+    ],
+    "objections": [
+      "虚拟空间忽视物理约束吗",
+      "内容去重等于权限共享吗",
+      "任何电脑登录都安全吗",
+      "自举是否自行扩大权限"
+    ],
+    "voice": "长段保留作者口述设备愿景、软件种子与沙箱方案；清理口述重复并修正无条件安全和当前实现断言",
+    "status": "初校；愿景与已部署能力不混写",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "source-adaptation",
+      "ref": "R54800",
+      "source_span": [
+        232,
+        423
+      ],
+      "source_sha256": "c633253dcd8fdd9a4b66967326f16ef4b093d82adf66b7dea881a2372d21eecc",
+      "text": "可以把用户数字空间中能够使用的数据和代码，放进一个由语义关系组织的 Merkle-DAG。用它描述每个用户能够访问的功能和数据。在这些代码和数据的基础上，构造一个个人虚拟机，只不过这个虚拟机并不是指的具体某一台物理设备，而是这个用户所能访问、所能控制、所能用到的全部功能和数据组成的虚拟机。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            232,
+            240
+          ],
+          "output_span": [
+            0,
+            2
+          ],
+          "before": "这样的话，实际上",
+          "after": "可以"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            241,
+            243
+          ],
+          "output_span": [
+            3,
+            3
+          ],
+          "before": "整个",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            245,
+            249
+          ],
+          "output_span": [
+            5,
+            5
+          ],
+          "before": "的自己的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            254,
+            255
+          ],
+          "output_span": [
+            10,
+            10
+          ],
+          "before": "所",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            256,
+            256
+          ],
+          "output_span": [
+            11,
+            13
+          ],
+          "before": "",
+          "after": "够使"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            257,
+            258
+          ],
+          "output_span": [
+            14,
+            14
+          ],
+          "before": "到",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            264,
+            267
+          ],
+          "output_span": [
+            20,
+            26
+          ],
+          "before": "全都用",
+          "after": "，放进一个由"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            269,
+            286
+          ],
+          "output_span": [
+            28,
+            32
+          ],
+          "before": "空间，在语义空间里面建立起一个巨大",
+          "after": "关系组织"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            289,
+            290
+          ],
+          "output_span": [
+            35,
+            36
+          ],
+          "before": "o",
+          "after": "e"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            291,
+            294
+          ],
+          "output_span": [
+            37,
+            41
+          ],
+          "before": "co ",
+          "after": "kle-"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            297,
+            300
+          ],
+          "output_span": [
+            44,
+            44
+          ],
+          "before": " 的树",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            301,
+            303
+          ],
+          "output_span": [
+            45,
+            45
+          ],
+          "before": "然后",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            305,
+            306
+          ],
+          "output_span": [
+            47,
+            47
+          ],
+          "before": "来",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            308,
+            309
+          ],
+          "output_span": [
+            49,
+            50
+          ],
+          "before": "这",
+          "after": "每"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            312,
+            321
+          ],
+          "output_span": [
+            53,
+            53
+          ],
+          "before": "，每一个用户自己所",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            325,
+            330
+          ],
+          "output_span": [
+            57,
+            57
+          ],
+          "before": "的数字空间",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            337,
+            342
+          ],
+          "output_span": [
+            64,
+            67
+          ],
+          "before": "然后就是把",
+          "after": "在这些"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            347,
+            354
+          ],
+          "output_span": [
+            72,
+            79
+          ],
+          "before": "整个用这个搭起",
+          "after": "的基础上，构造"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            356,
+            356
+          ],
+          "output_span": [
+            81,
+            83
+          ],
+          "before": "",
+          "after": "个人"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            404,
+            409
+          ],
+          "output_span": [
+            131,
+            133
+          ],
+          "before": "这个所有的",
+          "after": "全部"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            414,
+            414
+          ],
+          "output_span": [
+            138,
+            140
+          ],
+          "before": "",
+          "after": "组成"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            415,
+            419
+          ],
+          "output_span": [
+            141,
+            141
+          ],
+          "before": "这样一个",
+          "after": ""
+        }
+      ],
+      "retained_characters": 109,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这个虚拟机的中心，是个人能够使用什么、希望完成什么。物理设备仍然存在，但用户不必在每次表达需求时，先替系统完成资源分配。手机、桌面电脑、家庭存储和云端资源，可以成为同一个个人空间的不同组成部分。\n\n这使“我的电脑”获得了一种新的含义：它不只是一台放在桌上的机器，也可以是围绕本人组织的一组数据、能力和受控资源。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 一台手机，怎样使用分散在其他地方的能力",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54800",
+      "source_span": [
+        423,
+        1019
+      ],
+      "source_sha256": "0f980278bedace0e5064ecdb8d46d07b9ad12c87aaef49dd6886950a846e494c",
+      "text": "有了这个虚拟空间之后，用户可以直接在其中表达任务，不必每次先考虑具体使用哪台设备、命令在哪台设备上运行、数据保存在哪台设备上。我只要提出需求或者提出我想要访问的资源，然后它就可以直接在底层自动完成这个任务。比如说，我现在拿着手机，通过它使用这个空间。比如我提出任务，下载一份可以合法取得的大型视频资料。如果手机空间有限，就不适合让全部工作都留在手机上，长期后台下载还会占用电量，更适合交给能够持续运行的设备。用户可以提出需求和约束，只要下这个命令，然后这个虚拟机可以在授权范围内把这个任务通过网络分配到另外自己家里的一台台式机上，或者是合适的 NAS 上，让它来执行这个任务。\n\n访问一个文件时也一样，就是不管这个文件究竟在哪儿，只要说出了想要访问的资源，系统就可以自动寻找：如果在本地，就直接在本地打开，如果要是在云端就从云端下载，如果在局域网上那就直接通过局域网来访问。也就是说，每一台物理设备上运行的入口，只不过提供了一个窗口，是使用它的一个界面，但实际上运行体系是在整个数字空间当中自动完成的。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            425,
+            494
+          ],
+          "output_span": [
+            2,
+            2
+          ],
+          "before": "这虚拟机呢，它就实际上这跟用户手里的任何一台手机、电脑、平板不一样，它是一个虚拟的。有了它之后，我想是不是能完成这样一个功能，就用户直接在",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            498,
+            502
+          ],
+          "output_span": [
+            6,
+            10
+          ],
+          "before": "机上操作",
+          "after": "空间之后"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            503,
+            504
+          ],
+          "output_span": [
+            11,
+            25
+          ],
+          "before": "他",
+          "after": "用户可以直接在其中表达任务，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            505,
+            514
+          ],
+          "output_span": [
+            26,
+            32
+          ],
+          "before": "用担心底层究竟我该",
+          "after": "必每次先考虑"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            522,
+            531
+          ],
+          "output_span": [
+            40,
+            41
+          ],
+          "before": "，这个应用我发布的",
+          "after": "、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            533,
+            536
+          ],
+          "output_span": [
+            43,
+            43
+          ],
+          "before": "是应用",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            539,
+            542
+          ],
+          "output_span": [
+            46,
+            46
+          ],
+          "before": "具体的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            545,
+            551
+          ],
+          "output_span": [
+            49,
+            52
+          ],
+          "before": "。我要访问的",
+          "after": "运行、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            553,
+            553
+          ],
+          "output_span": [
+            54,
+            56
+          ],
+          "before": "",
+          "after": "保存"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            556,
+            561
+          ],
+          "output_span": [
+            59,
+            59
+          ],
+          "before": "具体的物理",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            613,
+            620
+          ],
+          "output_span": [
+            111,
+            112
+          ],
+          "before": "的实际上是这台",
+          "after": "着"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            623,
+            636
+          ],
+          "output_span": [
+            115,
+            120
+          ],
+          "before": "但是呢，我这台手机上运行着",
+          "after": "通过它使用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            638,
+            641
+          ],
+          "output_span": [
+            122,
+            124
+          ],
+          "before": "虚拟机",
+          "after": "空间"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            642,
+            644
+          ],
+          "output_span": [
+            125,
+            125
+          ],
+          "before": "然后",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            647,
+            651
+          ],
+          "output_span": [
+            128,
+            132
+          ],
+          "before": "要下命令",
+          "after": "提出任务"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            652,
+            661
+          ],
+          "output_span": [
+            133,
+            133
+          ],
+          "before": "我要用 BT 软件",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            664,
+            667
+          ],
+          "output_span": [
+            136,
+            144
+          ],
+          "before": "个非常",
+          "after": "份可以合法取得的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            668,
+            669
+          ],
+          "output_span": [
+            145,
+            146
+          ],
+          "before": "的",
+          "after": "型"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            671,
+            673
+          ],
+          "output_span": [
+            148,
+            150
+          ],
+          "before": "文件",
+          "after": "资料"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            674,
+            682
+          ],
+          "output_span": [
+            151,
+            161
+          ],
+          "before": "这种情况基本上是",
+          "after": "如果手机空间有限，就"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            683,
+            693
+          ],
+          "output_span": [
+            162,
+            171
+          ],
+          "before": "可……一般用户是不会",
+          "after": "适合让全部工作都留"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            697,
+            713
+          ],
+          "output_span": [
+            175,
+            175
+          ],
+          "before": "来下，因为手机空间比较小。然后呢",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            718,
+            718
+          ],
+          "output_span": [
+            180,
+            198
+          ],
+          "before": "",
+          "after": "下载还会占用电量，更适合交给能够持续"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            720,
+            744
+          ],
+          "output_span": [
+            200,
+            200
+          ],
+          "before": " BT 软件能耗比较大，一般都是在台式机上来完成",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            745,
+            745
+          ],
+          "output_span": [
+            201,
+            203
+          ],
+          "before": "",
+          "after": "设备"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            746,
+            747
+          ],
+          "output_span": [
+            204,
+            204
+          ],
+          "before": "但",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            749,
+            756
+          ],
+          "output_span": [
+            206,
+            215
+          ],
+          "before": "完全不必担心这",
+          "after": "可以提出需求和约束"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            772,
+            777
+          ],
+          "output_span": [
+            231,
+            239
+          ],
+          "before": "就会自动地",
+          "after": "可以在授权范围内"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            826,
+            834
+          ],
+          "output_span": [
+            288,
+            290
+          ],
+          "before": "有的时候也是我要",
+          "after": "\n\n"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            836,
+            837
+          ],
+          "output_span": [
+            292,
+            292
+          ],
+          "before": "某",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            841,
+            841
+          ],
+          "output_span": [
+            296,
+            300
+          ],
+          "before": "",
+          "after": "时也一样"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            858,
+            859
+          ],
+          "output_span": [
+            317,
+            317
+          ],
+          "before": "你",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            862,
+            863
+          ],
+          "output_span": [
+            320,
+            320
+          ],
+          "before": "我",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            871,
+            873
+          ],
+          "output_span": [
+            328,
+            333
+          ],
+          "before": "它会",
+          "after": "系统就可以"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            875,
+            878
+          ],
+          "output_span": [
+            335,
+            338
+          ],
+          "before": "，比如",
+          "after": "寻找："
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            883,
+            883
+          ],
+          "output_span": [
+            343,
+            344
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            930,
+            939
+          ],
+          "output_span": [
+            391,
+            391
+          ],
+          "before": "将来呢，这台虚拟机",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            943,
+            953
+          ],
+          "output_span": [
+            395,
+            395
+          ],
+          "before": "，就是你手里的每一个",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            955,
+            956
+          ],
+          "output_span": [
+            397,
+            397
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            958,
+            962
+          ],
+          "output_span": [
+            399,
+            399
+          ],
+          "before": "，都是在",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            963,
+            964
+          ],
+          "output_span": [
+            400,
+            400
+          ],
+          "before": "它",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            967,
+            973
+          ],
+          "output_span": [
+            403,
+            405
+          ],
+          "before": "这个虚拟软件",
+          "after": "入口"
+        }
+      ],
+      "retained_characters": 325,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这种调度需要知道设备是否在线、剩余空间、网络条件、耗电与允许承担的任务。如果家庭电脑关机了，系统应当能够说明这一点，或者在已有授权范围内选择其他路径。对用户隐藏不必要的复杂性，不等于假装限制不存在。\n\n数据也需要有清楚的版本。手机上看到的是哪一份内容，远端处理用了哪一版，结果回到哪里，这些关系都可以被记录。这样，个人空间跨越设备以后，仍然能够保持可理解、可检查。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 从个人空间到共同网络，哪些内容可以共享",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R54800",
+      "source_span": [
+        1019,
+        1461
+      ],
+      "source_sha256": "6d8fffde26723f17649a43ad3253041774fcd1e7a211a45a8f9a405db4421281",
+      "text": "如果这个机制逐步形成，每个用户都可以拥有按 Merkle-DAG 组织的个人空间。这些个人空间中的代码与数据，有一部分其实是重复的。比如公开发布的资料、同一版本的开源程序，可能被许多人共同使用。对于可以共享的相同内容，可以通过内容身份识别重复，避免每个个人空间都保存互不相关的逻辑副本；实际可靠性仍需要多个物理副本。因此，个人可见的资源集合与底层实际占用空间，不必简单相加。也就是说所有的这些用户的 Merkle 图 里面的数据和代码都可以整合到一个整个的星球文明当中的一个巨大的 Merkle-DAG 里头。对适合共享的内容，可以按访问需要与可靠性要求安排存储和分发。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            1019,
+            1021
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "而且",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1027,
+            1035
+          ],
+          "output_span": [
+            6,
+            10
+          ],
+          "before": "将来运行好了之后",
+          "after": "逐步形成"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1036,
+            1037
+          ],
+          "output_span": [
+            11,
+            11
+          ],
+          "before": "就",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1038,
+            1039
+          ],
+          "output_span": [
+            12,
+            12
+          ],
+          "before": "一",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1043,
+            1043
+          ],
+          "output_span": [
+            16,
+            19
+          ],
+          "before": "",
+          "after": "可以拥"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1044,
+            1051
+          ],
+          "output_span": [
+            20,
+            21
+          ],
+          "before": "自己的这样一个",
+          "after": "按"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1053,
+            1054
+          ],
+          "output_span": [
+            23,
+            24
+          ],
+          "before": "o",
+          "after": "e"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1055,
+            1058
+          ],
+          "output_span": [
+            25,
+            29
+          ],
+          "before": "co ",
+          "after": "kle-"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1062,
+            1062
+          ],
+          "output_span": [
+            33,
+            35
+          ],
+          "before": "",
+          "after": "组织"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1063,
+            1064
+          ],
+          "output_span": [
+            36,
+            36
+          ],
+          "before": "一",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1065,
+            1079
+          ],
+          "output_span": [
+            37,
+            40
+          ],
+          "before": "树，是这样的结构的一个虚拟机",
+          "after": "人空间"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1080,
+            1087
+          ],
+          "output_span": [
+            41,
+            41
+          ],
+          "before": "实际上这所有的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1089,
+            1089
+          ],
+          "output_span": [
+            43,
+            49
+          ],
+          "before": "",
+          "after": "个人空间中的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1091,
+            1092
+          ],
+          "output_span": [
+            51,
+            52
+          ],
+          "before": "和",
+          "after": "与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1094,
+            1104
+          ],
+          "output_span": [
+            54,
+            54
+          ],
+          "before": "所形成的这些数字空间",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1105,
+            1106
+          ],
+          "output_span": [
+            55,
+            56
+          ],
+          "before": "每",
+          "after": "有"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1107,
+            1125
+          ],
+          "output_span": [
+            57,
+            59
+          ],
+          "before": "个人的独自的那个数字空间当中的什么，",
+          "after": "部分"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1127,
+            1131
+          ],
+          "output_span": [
+            61,
+            61
+          ],
+          "before": "有很多都",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1138,
+            1139
+          ],
+          "output_span": [
+            68,
+            90
+          ],
+          "before": "很",
+          "after": "公开发布的资料、同一版本的开源程序，可能被许"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1140,
+            1141
+          ],
+          "output_span": [
+            91,
+            92
+          ],
+          "before": "公",
+          "after": "人"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1142,
+            1142
+          ],
+          "output_span": [
+            93,
+            166
+          ],
+          "before": "",
+          "after": "同使用。对于可以共享的相同内容，可以通过内容身份识别重复，避免每个个人空间都保存互不相关的逻辑副本；实际可靠性仍需要多个物理副本。因此，个人可见的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1144,
+            1166
+          ],
+          "output_span": [
+            168,
+            173
+          ],
+          "before": "，你要看的肖申克救赎跟另外一个电脑上要看的，",
+          "after": "集合与底层"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1168,
+            1206
+          ],
+          "output_span": [
+            175,
+            176
+          ],
+          "before": "上可能是同一个视频文件。实际上就是相当于就跟现在云存储一样，实际上它为每一个",
+          "after": "占"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1207,
+            1287
+          ],
+          "output_span": [
+            177,
+            177
+          ],
+          "before": "户存储的数据当中有很大一部分实际上都是通过类似于这个哈希去重之后，它只保留一个备份，只保留一个数字的那个版本。然后呢，就是现在好多提供云存储都是每人提供多少TB",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1290,
+            1302
+          ],
+          "output_span": [
+            180,
+            180
+          ],
+          "before": "实际上总的那个存储空间并",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1303,
+            1315
+          ],
+          "output_span": [
+            181,
+            185
+          ],
+          "before": "是所有用户的这个存储空间",
+          "after": "必简单相"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1316,
+            1330
+          ],
+          "output_span": [
+            186,
+            186
+          ],
+          "before": "在一起，因为有很多都是重复的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1345,
+            1346
+          ],
+          "output_span": [
+            201,
+            202
+          ],
+          "before": "o",
+          "after": "e"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1347,
+            1349
+          ],
+          "output_span": [
+            203,
+            206
+          ],
+          "before": "co",
+          "after": "kle"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1350,
+            1354
+          ],
+          "output_span": [
+            207,
+            208
+          ],
+          "before": "Tree",
+          "after": "图"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1388,
+            1389
+          ],
+          "output_span": [
+            242,
+            243
+          ],
+          "before": "o",
+          "after": "e"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1390,
+            1393
+          ],
+          "output_span": [
+            244,
+            248
+          ],
+          "before": "co ",
+          "after": "kle-"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1397,
+            1402
+          ],
+          "output_span": [
+            252,
+            252
+          ],
+          "before": "Tree ",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1405,
+            1424
+          ],
+          "output_span": [
+            255,
+            261
+          ],
+          "before": "然后把这些数据和代码在全球通过类似于那",
+          "after": "对适合共享的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1426,
+            1426
+          ],
+          "output_span": [
+            263,
+            282
+          ],
+          "before": "",
+          "after": "，可以按访问需要与可靠性要求安排存储和"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1428,
+            1460
+          ],
+          "output_span": [
+            284,
+            284
+          ],
+          "before": "网络一样，做好拓扑的设置，然后呢把它储存到全球的巨大的云空间当中",
+          "after": ""
+        }
+      ],
+      "retained_characters": 116,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "共享内容并不要求共享所有人的私人资料。一份公开程序可以被许多人引用，各自的日记、账户和授权则属于不同边界。底层内容相同，也不意味着一个用户自动获得另一个用户的权限。\n\n同样，个人空间能够迁移，不等于任意陌生终端都值得信任。数据在传输和保存时加密，不能消除正在使用的设备截取输入或屏幕的风险。这个框架要增加的是选择设备和服务的能力，同时让每次访问的条件能够被理解。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 种子怎样先利用旧系统，再逐步改造它",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55647",
+      "source_span": [
+        68,
+        637
+      ],
+      "source_sha256": "8eb3c600dd166f80db6833a0489a36820b89473d138f16649dc4c2985944b74b",
+      "text": "我设想这样一种机制，我们设计的一个软件种子的部署，都有一个明确的旧生态中的目标对象(对象可大可小，比如是某个用户及其所能支配的本地和云端所有硬件和软件资源，可以是某台具体的个人电脑/手机/平板及其上的软硬件，可以是某个具体硬件上的某个具体的应用，或者某个智能体，某个程序，也可以是用户布置的某个长期任务所用到或涉及的硬件，代码以及数据。)，这个种子会被部署到这个目标对象所在的硬件平台上，然后通过持续分析、构造与反馈，将这个旧生态对象用merkle框架包裹起来，先为旧生态对象生成一层 Merkle 包装，使它能够与其他merkle生态中的其他对象进行交互。从整个merkle生态的外部环境中看，这个经过包裹的旧生态对象，与一个merkle新生态中的新生态对象，从外部表现来看，可以按共同接口被识别和使用。\n\n然后，这个包裹旧生态对象的种子，一方面可以直接开始利用旧生态对象的数据和功能，开始投入实际工作。一方面，开始对内部的旧生态进行拆解，逐步改造为merkle化的新生态，这个过程中，很可能会再次重复上述的部署与包装的迭代过程，比如一个包裹某个用户及其所能支配的本地和云端所有硬件和软件资源的种子对象，在继续分解过程中，会分别对用户的具体某台个人电脑/手机/平板及其上的软硬件进行包裹，然后再细分到，对某台电脑上的某个应用或某个任务进行包裹。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            69,
+            70
+          ],
+          "output_span": [
+            1,
+            2
+          ],
+          "before": "在",
+          "after": "设"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            71,
+            78
+          ],
+          "output_span": [
+            3,
+            3
+          ],
+          "before": "，是不是可以用",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            90,
+            91
+          ],
+          "output_span": [
+            15,
+            16
+          ],
+          "before": "这",
+          "after": "一"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            92,
+            92
+          ],
+          "output_span": [
+            17,
+            19
+          ],
+          "before": "",
+          "after": "软件"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            95,
+            97
+          ],
+          "output_span": [
+            22,
+            24
+          ],
+          "before": "投放",
+          "after": "部署"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            249,
+            251
+          ],
+          "output_span": [
+            176,
+            178
+          ],
+          "before": "投放",
+          "after": "部署"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            271,
+            279
+          ],
+          "output_span": [
+            198,
+            208
+          ],
+          "before": "自我发育自我成长",
+          "after": "持续分析、构造与反馈"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            302,
+            305
+          ],
+          "output_span": [
+            231,
+            232
+          ],
+          "before": "一方面",
+          "after": "先"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            315,
+            316
+          ],
+          "output_span": [
+            242,
+            244
+          ],
+          "before": "m",
+          "after": " M"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            321,
+            321
+          ],
+          "output_span": [
+            249,
+            250
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            325,
+            326
+          ],
+          "output_span": [
+            254,
+            255
+          ],
+          "before": "他",
+          "after": "它"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            410,
+            415
+          ],
+          "output_span": [
+            339,
+            343
+          ],
+          "before": "没有任何不",
+          "after": "可以按共"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            416,
+            416
+          ],
+          "output_span": [
+            344,
+            352
+          ],
+          "before": "",
+          "after": "接口被识别和使用"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            417,
+            417
+          ],
+          "output_span": [
+            353,
+            355
+          ],
+          "before": "",
+          "after": "\n\n"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            419,
+            419
+          ],
+          "output_span": [
+            357,
+            358
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            423,
+            424
+          ],
+          "output_span": [
+            362,
+            362
+          ],
+          "before": "着",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            517,
+            521
+          ],
+          "output_span": [
+            455,
+            458
+          ],
+          "before": "种子投放",
+          "after": "部署与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            522,
+            523
+          ],
+          "output_span": [
+            459,
+            460
+          ],
+          "before": "裹",
+          "after": "装"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            636,
+            637
+          ],
+          "output_span": [
+            573,
+            573
+          ],
+          "before": "\r",
+          "after": ""
+        }
+      ],
+      "retained_characters": 531,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "“包装”在这里有具体含义：明确原系统提供什么功能、接收什么输入、产生什么输出，以及依赖哪些环境。最初可以继续调用原来的软件，让用户马上得到用途；随后再分析其中哪些部分值得拆开，哪些重复工作可以形成热路径，哪些接口可以被更清楚的结构替代。\n\n这使旧系统成为可以进入新框架的材料。迁移不必等到一切都重写完成才开始，也不必一次拆掉正在使用的全部工具。每次替换，都应当说明外部约定是否仍然满足，哪些行为改变了，怎样在需要时返回原来路径。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49187",
+      "source_span": [
+        833,
+        1072
+      ],
+      "source_sha256": "e29ab2b18d41d0074a26e6c5623c22b769315a3d40e8856c409a9e6b72f32ece",
+      "text": "对于原本属于计算机语言核心与标准库的微观功能，初期只需要套壳某个现成的语言(javascript/python等)，后期可以从底层一点点的替换成一个从底层就支持merkle-DAG标识符的新计算机语言，若语义约定与实现的边界清楚，内核替换就有机会减少对上层模块的影响。这个过程可能会很漫长，但是只要每次替换都能做到功能的等价性，那么就有条件把迁移的影响控制在清楚的范围内，如果有感的话，也应该是替换为更高效的模块后速度更快了的感受。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            833,
+            843
+          ],
+          "output_span": [
+            0,
+            2
+          ],
+          "before": "我之前说的也可以实现",
+          "after": "对于"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            854,
+            855
+          ],
+          "output_span": [
+            13,
+            14
+          ],
+          "before": "和",
+          "after": "与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            942,
+            958
+          ],
+          "output_span": [
+            101,
+            102
+          ],
+          "before": "因为如果这个merkle-DAG",
+          "after": "若"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            960,
+            967
+          ],
+          "output_span": [
+            104,
+            109
+          ],
+          "before": "框架本身对语义",
+          "after": "约定与实现"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            968,
+            973
+          ],
+          "output_span": [
+            110,
+            114
+          ],
+          "before": "天然封装性",
+          "after": "边界清楚"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            974,
+            976
+          ],
+          "output_span": [
+            115,
+            115
+          ],
+          "before": "这种",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            978,
+            979
+          ],
+          "output_span": [
+            117,
+            117
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            981,
+            983
+          ],
+          "output_span": [
+            119,
+            122
+          ],
+          "before": "，不",
+          "after": "就有机"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            984,
+            991
+          ],
+          "output_span": [
+            123,
+            126
+          ],
+          "before": "影响到其他任何",
+          "after": "减少对"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            995,
+            995
+          ],
+          "output_span": [
+            130,
+            133
+          ],
+          "before": "",
+          "after": "的影响"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1028,
+            1038
+          ],
+          "output_span": [
+            166,
+            173
+          ],
+          "before": "会是很平滑很无痛无感",
+          "after": "就有条件把迁移"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1039,
+            1041
+          ],
+          "output_span": [
+            174,
+            185
+          ],
+          "before": "过程",
+          "after": "影响控制在清楚的范围内"
+        }
+      ],
+      "retained_characters": 176,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 让 AI 能够工作，也让个人保有控制",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48769",
+      "source_span": [
+        0,
+        352
+      ],
+      "source_sha256": "368d55f58f8c25a32f213cc7e2c5969fa661d25d11649d97f806a150d1a21c7c",
+      "text": "可以设想一个跨平台的沙箱智能AI Agent，它可以运行在windows/linux/macos上，使其活动首先限定在明确的运行环境内，它的系统操作者不是人类，而是安装在这个沙箱中的AI大模型驱动的Agent(可以是云端，也可以本地大模型)，它可以访问获准使用的宿主机资源，但是更像是一台被赋予了本地资源访问权限的另一台由AI控制的虚拟主机，它可以在自己的虚拟主机中挂载宿主机的文件系统，其读写访问权限，可以由AI虚拟主机提出申请，但需要宿主机一侧授权；AI 虚拟主机内的数据读写删增权限和程序安装升级卸载和执行功能可以在预先给定的范围内由 AI 执行。宿主机的人类用户可以在自己掌握相关计算机专业知识和技能的前提下，通过自己在宿主机上创建或下载想要的文件或内容，通过在宿主机上安装自己想要的工具和软件包来完成想做的任务。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            0,
+            3
+          ],
+          "output_span": [
+            0,
+            3
+          ],
+          "before": "如果我",
+          "after": "可以设"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            4,
+            5
+          ],
+          "output_span": [
+            4,
+            4
+          ],
+          "before": "做",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            51,
+            53
+          ],
+          "output_span": [
+            50,
+            51
+          ],
+          "before": "同时",
+          "after": "使"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            54,
+            54
+          ],
+          "output_span": [
+            52,
+            62
+          ],
+          "before": "",
+          "after": "活动首先限定在明确的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            58,
+            68
+          ],
+          "output_span": [
+            66,
+            67
+          ],
+          "before": "不会影响外部操作系统",
+          "after": "内"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            125,
+            126
+          ],
+          "output_span": [
+            124,
+            124
+          ],
+          "before": "与",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            128,
+            128
+          ],
+          "output_span": [
+            126,
+            131
+          ],
+          "before": "",
+          "after": "获准使用的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            214,
+            219
+          ],
+          "output_span": [
+            217,
+            219
+          ],
+          "before": "是必须通过",
+          "after": "需要"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            222,
+            229
+          ],
+          "output_span": [
+            222,
+            227
+          ],
+          "before": "批准，这个但是",
+          "after": "一侧授权；"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            231,
+            231
+          ],
+          "output_span": [
+            229,
+            230
+          ],
+          "before": "",
+          "after": " "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            235,
+            236
+          ],
+          "output_span": [
+            234,
+            235
+          ],
+          "before": "上",
+          "after": "内"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            259,
+            261
+          ],
+          "output_span": [
+            258,
+            271
+          ],
+          "before": "都有",
+          "after": "可以在预先给定的范围内由 "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            263,
+            267
+          ],
+          "output_span": [
+            273,
+            276
+          ],
+          "before": "自己掌控",
+          "after": " 执行"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            351,
+            352
+          ],
+          "output_span": [
+            360,
+            361
+          ],
+          "before": "，",
+          "after": "。"
+        }
+      ],
+      "retained_characters": 315,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48769",
+      "source_span": [
+        352,
+        437
+      ],
+      "source_sha256": "6db380b1ac4e2b7042a63cfe5068fe18cba54b337b275024c769169cc66efd2f",
+      "text": "不具备相应专业知识的用户，也可以通过AI虚拟主机，用自然语言下达命令和表达想要做的事情，以及想要完成的任务，虚拟机上的AI Agent自动帮助用户完成任务。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            352,
+            355
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "或者在",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            358,
+            363
+          ],
+          "output_span": [
+            3,
+            5
+          ],
+          "before": "任何计算机",
+          "after": "相应"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            367,
+            370
+          ],
+          "output_span": [
+            9,
+            9
+          ],
+          "before": "和技能",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            371,
+            374
+          ],
+          "output_span": [
+            10,
+            12
+          ],
+          "before": "情况下",
+          "after": "用户"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            375,
+            375
+          ],
+          "output_span": [
+            13,
+            16
+          ],
+          "before": "",
+          "after": "也可以"
+        }
+      ],
+      "retained_characters": 71,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这里的目标，是把经常重复的细碎操作放进明确范围，使用户不必对每一个内部步骤重新作决定；同时，范围之外的现实影响不能因为 AI 已经在内部成功运行，就自动获得权限。\n\n一个脚本可以在自己的资料副本上自由试验，与它能够修改用户唯一的原始文件，是不同的安排。一个服务能够提出购买硬件的建议，与它能够花费共同资金，也不是同一件事。个人控制需要体现在这些实际作用发生的地方。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 自举：让构造工具逐渐参与自己的成长",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49234",
+      "source_span": [
+        193,
+        515
+      ],
+      "source_sha256": "616bd1790afcc8e5b9225ca6c44cecc07f8603178f40a0fab8ef56e365633b1b",
+      "text": "我的尝试，是从一个尚未完全进化成AGI的原始鸡(LLM)开始，试图让它在这个构造框架的帮助下，逐步具备孕育第一个AGI鸡的蛋的功能。所以项目中所有的奖励函数对应的都是外部世界中顶层高阶范畴中的复杂复合对象，它们的评价条件往往是多元的，而这些具体评价，可以继续追问它们与共同构造原则的关系。持续学习的问题，则需要在运行中的反馈与修正里展开。就像鸡生蛋，蛋生鸡这个动态循环过程一样，我想做的就是通过这个构造框架的开发应用反馈成长的动态过程，逐步构造具有更强持续学习与自主构造能力的模型，让原始鸡催生出第一个能够继续成长的智能种子，然后开启AGI今后鸡生蛋，蛋生鸡的不动点自我迭代循环。这个方向需要靠实际的自举过程一步步推进。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            193,
+            194
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "而",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            199,
+            200
+          ],
+          "output_span": [
+            5,
+            5
+          ],
+          "before": "则",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            233,
+            235
+          ],
+          "output_span": [
+            38,
+            42
+          ],
+          "before": "项目",
+          "after": "构造框架"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            299,
+            305
+          ],
+          "output_span": [
+            106,
+            112
+          ],
+          "before": "奖励函数肯定",
+          "after": "评价条件往往"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            310,
+            313
+          ],
+          "output_span": [
+            117,
+            140
+          ],
+          "before": "但是我",
+          "after": "而这些具体评价，可以继续追问它们与共同构造原则"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            314,
+            342
+          ],
+          "output_span": [
+            141,
+            143
+          ],
+          "before": "项目所遵循的第一性原理中的那个最根本的奖励函数也是唯一的",
+          "after": "关系"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            343,
+            350
+          ],
+          "output_span": [
+            144,
+            144
+          ],
+          "before": "你说的第三个，",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            358,
+            378
+          ],
+          "output_span": [
+            152,
+            155
+          ],
+          "before": "其实就是这个不动点的自我指向的态射/路径",
+          "after": "则需要"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            381,
+            382
+          ],
+          "output_span": [
+            158,
+            159
+          ],
+          "before": "时",
+          "after": "中"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            383,
+            387
+          ],
+          "output_span": [
+            160,
+            168
+          ],
+          "before": "动态特征",
+          "after": "反馈与修正里展开"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            418,
+            420
+          ],
+          "output_span": [
+            199,
+            203
+          ],
+          "before": "项目",
+          "after": "构造框架"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            435,
+            437
+          ],
+          "output_span": [
+            218,
+            220
+          ],
+          "before": "最终",
+          "after": "逐步"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            438,
+            445
+          ],
+          "output_span": [
+            221,
+            237
+          ],
+          "before": "建一个Oak版",
+          "after": "造具有更强持续学习与自主构造能力"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            446,
+            448
+          ],
+          "output_span": [
+            238,
+            238
+          ],
+          "before": "AI",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            451,
+            454
+          ],
+          "output_span": [
+            241,
+            242
+          ],
+          "before": "完成从",
+          "after": "让"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            463,
+            474
+          ],
+          "output_span": [
+            251,
+            257
+          ],
+          "before": "具备完备AGI DNA",
+          "after": "能够继续成长"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            475,
+            476
+          ],
+          "output_span": [
+            258,
+            262
+          ],
+          "before": "蛋",
+          "after": "智能种子"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            504,
+            507
+          ],
+          "output_span": [
+            290,
+            290
+          ],
+          "before": "你觉得",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            509,
+            515
+          ],
+          "output_span": [
+            292,
+            310
+          ],
+          "before": "想法可行吗？",
+          "after": "方向需要靠实际的自举过程一步步推进。"
+        }
+      ],
+      "retained_characters": 212,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "鸡与蛋的类比表达了两条起点不同的路径：可以先设想一个最简机制怎样长出复杂智能，也可以先利用已经存在的智能，构造更好的表示、工具和学习过程。我的实践选择后一个入口，让现有 AI 与人共同工作，逐渐形成能够帮助自身改进的能力。\n\n自举也不意味着所有改动都立即替换正在运行的系统。新方法可以先在副本和明确任务中接受检验，证明有用以后再进入下一轮。能够保存旧版本、理解改变原因、失败时返回可用状态，正是这种成长得以持续的条件。\n\n由此，MerkleVM 的远景既是个人数字空间，也是共同构造网络中的一个入口。它从现有设备、现有应用和真实需求开始，逐步把分散能力组织起来。要让这种成长不依赖一人不断手工搬运讨论，研究与开发本身也需要新的合作方式。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

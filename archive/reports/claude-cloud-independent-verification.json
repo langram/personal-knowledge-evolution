@@ -1,0 +1,67 @@
+{
+  "schema": "pkst.claude-cloud-independent-verification@0.1",
+  "root": "bafyreifdtjynqzwqsnkq2obupxpum4oma752q4j4i44usbdrkutym7zkem",
+  "car_sha256": "efad43bc4156711d7dbb738da6bba54ba74918b23b1a2bc79253cd5190b00f74",
+  "verification": {
+    "header": {
+      "roots": [
+        {
+          "$link": "bafyreifdtjynqzwqsnkq2obupxpum4oma752q4j4i44usbdrkutym7zkem"
+        }
+      ],
+      "version": 1
+    },
+    "blocks": 27727,
+    "external_raw_verified": 16,
+    "schemas": {
+      "pkst/snapshot@0.1": 2,
+      "pkst/activity@0.1": 26,
+      "pkst/extraction-record@0.1": 4264,
+      "pkst/occurrence@0.1": 4227,
+      "pkst/source@0.1": 154,
+      "pkst/content@0.1": 2425,
+      "pkst/block-reference@0.1": 12828,
+      "pkst/projection@0.1": 3244,
+      "pkst/opaque-block@0.1": 557
+    },
+    "status": "all-blocks-and-reference-closure-verified"
+  },
+  "current_snapshot_objects": 17099,
+  "current_occurrences": 2132,
+  "current_roles": {
+    "material:project-doc": 16,
+    "material:project": 5,
+    "assistant": 1047,
+    "human": 1048,
+    "derived-memory:file": 14,
+    "derived-memory:project": 1,
+    "derived-memory:conversations": 1
+  },
+  "raw_documents_used": 7,
+  "native_messages_checked": 2095,
+  "extraction_records_checked": 2132,
+  "block_references_checked": 6442,
+  "block_uses_by_schema": {
+    "pkst/content@0.1": 2585,
+    "pkst/opaque-block@0.1": 557,
+    "pkst/projection@0.1": 3300
+  },
+  "status": "passed",
+  "scope": "hashes, closure, full current raw fields, role/time/parent/opaque handling; not truth or user adoption",
+  "peer_importer_or_decoder_used": false,
+  "verifier_repair_history": [
+    {
+      "stage": "initial independent verifier",
+      "result": "stopped before completion",
+      "cause": "Verifier initially accepted only Z suffix; project/memory source timestamps use +00:00.",
+      "resolution": "Verifier accepts explicit RFC3339 offsets and preserves original strings; full verification rerun passed.",
+      "peer_data_changed_for_this_repair": false
+    }
+  ],
+  "source_count_note": {
+    "current_reachable_sources": 154,
+    "sources_constructed_by_peer": 157,
+    "empty_conversation_sources_not_reachable_from_root": 3,
+    "empty_conversation_headers": "preserved in raw export; generated standalone source objects are outside CAR closure"
+  }
+}

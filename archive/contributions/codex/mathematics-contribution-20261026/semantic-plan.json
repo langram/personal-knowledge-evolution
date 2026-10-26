@@ -1,0 +1,92 @@
+{
+  "schema": "mathematics-chapter.semantic-plan@1",
+  "new_concept": {
+    "label": "从数学灵感到共同创造的贡献链",
+    "definition": "以未完成灵感进入可追溯的协作网络为例，分析信息共享、贡献承认、个人需求保障、公共资源安排和AI共同治理如何相互支持；属于作者方案的编辑展开。"
+  },
+  "relations": [
+    {
+      "concept": "C13",
+      "section": "三",
+      "refs": [
+        "R34499",
+        "R34488"
+      ],
+      "scope": "内容与版本记录帮助核对贡献来源，不独自证明思想首创"
+    },
+    {
+      "concept": "C14",
+      "section": "二、三",
+      "refs": [
+        "R1857",
+        "R46621"
+      ],
+      "scope": "个人知识的语义与演化结构为研究过程提供来源"
+    },
+    {
+      "concept": "C22",
+      "section": "六",
+      "refs": [
+        "SEED-R16-0"
+      ],
+      "scope": "文明智能为跨个体协作的远期设想"
+    },
+    {
+      "concept": "C23",
+      "section": "六",
+      "refs": [
+        "R34496",
+        "R34511",
+        "R46622"
+      ],
+      "scope": "动态领域权重用于相关问题判断与反馈"
+    },
+    {
+      "concept": "C25",
+      "section": "五",
+      "refs": [
+        "R54886",
+        "R34488"
+      ],
+      "scope": "个人需要与公共研究资源分离，改变封闭动机"
+    },
+    {
+      "concept": "C26",
+      "section": "三、六、七",
+      "refs": [
+        "SEED-R14-0",
+        "R34488"
+      ],
+      "scope": "开放组织与共同生产用于工具控制和贡献承认"
+    },
+    {
+      "concept": "C27",
+      "section": "三",
+      "refs": [
+        "R46621",
+        "SEED-R14-0"
+      ],
+      "scope": "研究材料的支配与用途选择"
+    },
+    {
+      "concept": "C31",
+      "section": "四、七",
+      "refs": [
+        "MATH-REQUEST",
+        "R54886"
+      ],
+      "scope": "灵感经接续、反例、验证成为知识增量的假想例子"
+    },
+    {
+      "concept": "C32",
+      "section": "一、五、八",
+      "refs": [
+        "MATH-REQUEST",
+        "R54886",
+        "R34488"
+      ],
+      "scope": "信息共享的合作条件；未证明全局最优"
+    }
+  ],
+  "basis": "editorial application of prior concepts at author request; not independent validation or author adoption"
+}

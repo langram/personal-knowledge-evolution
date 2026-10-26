@@ -1,0 +1,34 @@
+{
+  "ran_at": "2026-10-24T08:18:46Z",
+  "car_root": "bafyreifdtjynqzwqsnkq2obupxpum4oma752q4j4i44usbdrkutym7zkem",
+  "root_member_blocks_checked": 17099,
+  "root_parents": 1,
+  "problems": {},
+  "problem_examples": {},
+  "coverage": {
+    "messages_in_export": 2095,
+    "messages_anchored": 2095,
+    "project_docs_in_export": 16,
+    "project_docs_anchored": 16,
+    "memory_entries_in_export": 16,
+    "memory_entries_anchored": 16,
+    "occurrences_without_extraction_record": 0
+  },
+  "tree": {
+    "sentinel_roots": 149,
+    "fork_points": 13,
+    "parents_outside_conversation_excluding_sentinel": 0
+  },
+  "block_references_checked": 6442,
+  "role_actor_process": {
+    "material:project|unknown|unknown": 5,
+    "derived-memory:file|unknown|unknown": 14,
+    "derived-memory:conversations|unknown|unknown": 1,
+    "derived-memory:project|unknown|unknown": 1,
+    "material:project-doc|unknown|unknown": 16,
+    "human|unknown|unknown": 1047,
+    "assistant|ai|unknown": 1047,
+    "human|tool|unknown": 1
+  },
+  "pass": true
+}

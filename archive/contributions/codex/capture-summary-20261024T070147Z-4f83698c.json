@@ -1,0 +1,19 @@
+{
+  "run": "20261024T070147Z-4f83698c",
+  "roots": [
+    "C:\\Users\\langr\\.codex\\sessions",
+    "C:\\Users\\langr\\.codex\\archived_sessions"
+  ],
+  "files": 3064,
+  "captured_bytes": 3209424689,
+  "counts": {
+    "captured": 3064,
+    "unstable": 0,
+    "failed": 0
+  },
+  "elapsed_seconds": 25.608,
+  "manifest": "C:\\Users\\langr\\Documents\\Codex\\2026-10-24\\ni\\outputs\\personal-thought-archive\\contributions\\codex\\.private\\capture-20261024T070147Z-4f83698c.jsonl",
+  "manifest_sha256": "ec396ddbc6b6d1fd07c19ebc49511b0b8e6ea9af97810bc05bfad368ad4a9467",
+  "completed_at": "2026-10-24T07:02:14.071019+00:00",
+  "scope": "existing JSONL and Zstandard JSONL files only; no database-only messages or attachments"
+}

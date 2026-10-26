@@ -1,0 +1,1719 @@
+{
+  "chapter": "04",
+  "title": "物理世界与层层构造的自然",
+  "status": "expanded-copyedited",
+  "review": {
+    "reasoning": "构造能力本身的来历→层级基本构件→共同基础与多样性→非平衡稳定→并行探索与积累→可研究的物理问题",
+    "examples": [
+      "乐高与小球思想模型",
+      "碳硅构造问题",
+      "共同软件接口",
+      "火焰的持续交换",
+      "多样化并行探索"
+    ],
+    "objections": [
+      "复杂描述证明存在更小粒子吗",
+      "局部有序违反熵增吗",
+      "物理类比能够直接证明制度吗",
+      "结构越复杂必然越好吗"
+    ],
+    "voice": "保留作者关于物理层级与构造的提问；不沿用其已明确承认有误的开放弦闭合弦粒子映射",
+    "status": "初校；数学与物理猜想未冒充实验证实",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "editorial-addition",
+      "text": "一套讨论构造的框架，如果只能用来重新描述已经看见的东西，还没有走到我所期待的位置。我希望它能够帮助我们追问，为什么这些结构能够出现，为什么有些结构只能存在片刻，有些却能保存、复制，继续成为其他结构的材料。\n\n物理世界是这个问题最直接的起点。这里已经有大量能够精确计算和比较的理论。新的框架需要进入这些具体关系，而不能只在外面宣布一切都符合某个原则。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 积木为什么能够构造，积木本身又从哪里来",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48527",
+      "source_span": [
+        616,
+        1091
+      ],
+      "source_sha256": "7fe0dc2239a7bfaa86724f50d6662edf2cf1c54967936341dcda8cb18b9edb13",
+      "text": "拿乐高积木来作一个直观类比，虽然它能够组合出千变万化的各种形状，但它本身不可能是最基本的形状，因为它表面存在的凸起和凹陷部分本身就是复杂的形状，正是这些复杂的形状之间的互相嵌合，给予了它构建万物的能力，但积木本身其实就是由更简单的形状组成的，只不过其他形状的物体，缺乏嵌合的能力，所以无法有效的组合成更复杂的形状而已。我们还可以把这个类比继续简化，想象一个由无数散落的小球组成的构造世界，并假定这个世界有一套适合构建的规则，允许由简单的形状自由组合成复杂的形状，而一旦某个形状涌现出新的特性，而这个特性具有有意义的功能，它就可能获得被保留或复制的机会，并按照这个高级特性所具备的功能，在更高阶的层次继续这套自由组合的规则，直至更高阶的特性和功能的涌现，如此循环往复，这个简化图景，使我想到真实宇宙从基本物理结构到生命与智慧的层层构造。而在这条路径的起始节点，这个思想模型中那些“无数散落的小球”所遵循的最基本规则，至少应当包括：存在性规则，变化性规则，存在和变化的稳定性规则，因为从逻辑上分析，这几条应该是形成稳定复杂结构的最基本规则。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            616,
+            618
+          ],
+          "output_span": [
+            0,
+            1
+          ],
+          "before": "就像",
+          "after": "拿"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            622,
+            622
+          ],
+          "output_span": [
+            5,
+            13
+          ],
+          "before": "",
+          "after": "来作一个直观类比"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            630,
+            631
+          ],
+          "output_span": [
+            21,
+            22
+          ],
+          "before": "处",
+          "after": "出"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            682,
+            683
+          ],
+          "output_span": [
+            73,
+            74
+          ],
+          "before": "式",
+          "after": "是"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            770,
+            770
+          ],
+          "output_span": [
+            161,
+            162
+          ],
+          "before": "",
+          "after": "还"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            772,
+            777
+          ],
+          "output_span": [
+            164,
+            176
+          ],
+          "before": "假设宇宙是",
+          "after": "把这个类比继续简化，想象"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            790,
+            790
+          ],
+          "output_span": [
+            189,
+            193
+          ],
+          "before": "",
+          "after": "构造世界"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            791,
+            796
+          ],
+          "output_span": [
+            194,
+            201
+          ],
+          "before": "只不过宇宙",
+          "after": "并假定这个世界"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            855,
+            857
+          ],
+          "output_span": [
+            260,
+            260
+          ],
+          "before": "那么",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            859,
+            859
+          ],
+          "output_span": [
+            262,
+            274
+          ],
+          "before": "",
+          "after": "可能获得被保留或复制的机"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            860,
+            864
+          ],
+          "output_span": [
+            275,
+            275
+          ],
+          "before": "大量涌现",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            922,
+            922
+          ],
+          "output_span": [
+            333,
+            346
+          ],
+          "before": "",
+          "after": "这个简化图景，使我想到真实"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            924,
+            941
+          ],
+          "output_span": [
+            348,
+            348
+          ],
+          "before": "就是按照这套规则不断的涌现，演化，",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            942,
+            961
+          ],
+          "output_span": [
+            349,
+            359
+          ],
+          "before": "宇宙大爆炸时空的涌现，直至人类这样高级",
+          "after": "基本物理结构到生命与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            963,
+            965
+          ],
+          "output_span": [
+            361,
+            361
+          ],
+          "before": "生命",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            966,
+            982
+          ],
+          "output_span": [
+            362,
+            366
+          ],
+          "before": "诞生，就是沿着这条路径进化而来的",
+          "after": "层层构造"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            995,
+            1000
+          ],
+          "output_span": [
+            379,
+            385
+          ],
+          "before": "最初的宇宙",
+          "after": "这个思想模型"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1003,
+            1004
+          ],
+          "output_span": [
+            388,
+            389
+          ],
+          "before": "\"",
+          "after": "“"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1011,
+            1012
+          ],
+          "output_span": [
+            396,
+            397
+          ],
+          "before": "\"",
+          "after": "”"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1022,
+            1022
+          ],
+          "output_span": [
+            407,
+            409
+          ],
+          "before": "",
+          "after": "至少"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1023,
+            1036
+          ],
+          "output_span": [
+            410,
+            413
+          ],
+          "before": "该就是我们前面提到的那几条",
+          "after": "当包括"
+        }
+      ],
+      "retained_characters": 381,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这个例子最值得注意的，不是“小球”这种形状，而是构造能力本身也有来历。一块积木的连接能力，来自它已经形成的表面结构；这些表面结构，又可以还原为更小尺度上的材料与制造过程。到了下一层，已经搭好的部件还可以继续担当积木。\n\n于是，我们不必预先把某一种形状指定为所有层级永远相同的基本粒子，而可以沿着构造关系追问：在哪个层级把什么当作基本单元？它的哪些性质允许更高层构造？我们又为什么能够在这一层暂时忽略更低层细节？\n\n弦理论等物理理论提供了各自严格的对象与关系，不能把名称中的“弦”直接当成日常绳子，也不能凭开放、闭合这样的形象，就替代粒子性质的具体推导。一个结构的描述复杂，值得继续寻找更简洁的表达，但复杂本身并不证明它一定由某个我们已经命名的更小实体组成。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 为什么有些构件特别善于形成丰富结构",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48731",
+      "source_span": [
+        1724,
+        1911
+      ],
+      "source_sha256": "34a562d9a1ec17d12b965bc237b17e23268642d314f5ad98234c6a465522a85f",
+      "text": "在从较简单构件形成复杂结构的过程中，在不同层级上，有些对象，相对于其他范畴和对象，具有更强的生成构建更复杂结构的能力，比如在原子层面上，碳和硅元素相对于其他元素，具有构建更复杂结构的能力，这些元素的成键方式与结构特征，怎样赋予了它们丰富的构造能力？",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1725,
+            1728
+          ],
+          "output_span": [
+            1,
+            3
+          ],
+          "before": "宇宙由",
+          "after": "从较"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1730,
+            1731
+          ],
+          "output_span": [
+            5,
+            9
+          ],
+          "before": "到",
+          "after": "构件形成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1733,
+            1747
+          ],
+          "output_span": [
+            11,
+            13
+          ],
+          "before": "，由低级到高级，从微观到宏观",
+          "after": "结构"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1748,
+            1750
+          ],
+          "output_span": [
+            14,
+            14
+          ],
+          "before": "演化",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1761,
+            1762
+          ],
+          "output_span": [
+            25,
+            25
+          ],
+          "before": "总",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1764,
+            1767
+          ],
+          "output_span": [
+            27,
+            27
+          ],
+          "before": "范畴或",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1834,
+            1837
+          ],
+          "output_span": [
+            94,
+            94
+          ],
+          "before": "考虑到",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1842,
+            1857
+          ],
+          "output_span": [
+            99,
+            108
+          ],
+          "before": "原子外层电子数正好是满额的一半",
+          "after": "成键方式与结构特征"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1858,
+            1893
+          ],
+          "output_span": [
+            109,
+            113
+          ],
+          "before": "其失去电子和获得电子形成化学键的能力是对偶的，是不是因为这个原因，给与",
+          "after": "怎样赋予"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1894,
+            1900
+          ],
+          "output_span": [
+            114,
+            118
+          ],
+          "before": "这些原子更强",
+          "after": "它们丰富"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1902,
+            1908
+          ],
+          "output_span": [
+            120,
+            121
+          ],
+          "before": "建复杂结构的",
+          "after": "造"
+        }
+      ],
+      "retained_characters": 98,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R55207",
+      "source_span": [
+        142,
+        297
+      ],
+      "source_sha256": "8421a1b7295edc19772496702aa23e6765afe0cabefc5904e3b03cd334771f5b",
+      "text": "在众多原子中，为什么碳原子会成为碳基智能生物涌现的基本核心粒子？而硅原子则成为构造计算机以及AI设备的主要核心构造粒子？能否从它们保持自身结构与建立外部联系的具体条件出发，研究这种构造能力？沿着这个问题，我又想到人类社会：人与人能力和权力的平等，能否为更复杂的合作提供更好的条件？",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            142,
+            144
+          ],
+          "output_span": [
+            0,
+            1
+          ],
+          "before": "就像",
+          "after": "在"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            146,
+            147
+          ],
+          "output_span": [
+            3,
+            3
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            149,
+            151
+          ],
+          "output_span": [
+            5,
+            6
+          ],
+          "before": "里面",
+          "after": "中"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            205,
+            205
+          ],
+          "output_span": [
+            60,
+            88
+          ],
+          "before": "",
+          "after": "能否从它们保持自身结构与建立外部联系的具体条件出发，研究"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            206,
+            220
+          ],
+          "output_span": [
+            89,
+            92
+          ],
+          "before": "些原子外层电子丢失和获得电子",
+          "after": "种构造"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            222,
+            226
+          ],
+          "output_span": [
+            94,
+            101
+          ],
+          "before": "的对称性",
+          "after": "？沿着这个问题"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            227,
+            253
+          ],
+          "output_span": [
+            102,
+            106
+          ],
+          "before": "是不是因为它们的构造，最符合最小/最大化规律？再比如",
+          "after": "我又想到"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            257,
+            263
+          ],
+          "output_span": [
+            110,
+            111
+          ],
+          "before": "博弈过程中，",
+          "after": "："
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            275,
+            281
+          ],
+          "output_span": [
+            123,
+            127
+          ],
+          "before": "是不是构造最",
+          "after": "能否为更"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            283,
+            289
+          ],
+          "output_span": [
+            129,
+            129
+          ],
+          "before": "高级社会结构",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            290,
+            297
+          ],
+          "output_span": [
+            130,
+            140
+          ],
+          "before": "最优方案等等。",
+          "after": "合作提供更好的条件？"
+        }
+      ],
+      "retained_characters": 81,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "从碳到社会，中间隔着许多层，不能把成键规则直接当成社会规则。但“构件怎样联系，联系怎样继续组合”这一问题，可以在不同层级提出。在化学中，需要具体研究键、环境和反应；在社会中，需要研究人的能力、信息、资源和相互影响。共同的提问方式，只有在各层获得具体内容以后，才有解释力。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-urxaqe",
+      "source_span": [
+        0,
+        266
+      ],
+      "source_sha256": "8a8182c216c5ca5e80bbbfdde1f6b0ac8e57e7c9fb6d1b72b4c4fbed9c2083ee",
+      "text": "这种约束和自由，稳定和变化的对称性，与最小化/最大化原理的关系，就在于最小化/最大化是一对耦合的互相关联的规律，所以这种约束和自由，稳定和变化的关系，很可能包含理解最小化与最大化何以同时发生的条件。而且这种能力上的对称性，并不影响功能的多样性，碳原子可以参与丰富连接的能力，并不影响有机物功能的多样性，许多多细胞生物的体细胞共享大部分遗传信息，也不影响细胞功能的多样性，同样的人类/AI个体的能力权力的平等，也不等于功能的单一化，恰恰相反，我希望研究，怎样的共同基础能够赋予和释放这些构件在功能上的多样性。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            72,
+            75
+          ],
+          "output_span": [
+            72,
+            74
+          ],
+          "before": "对称性",
+          "after": "关系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            79,
+            84
+          ],
+          "output_span": [
+            78,
+            80
+          ],
+          "before": "就是这个原",
+          "after": "包含"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            85,
+            93
+          ],
+          "output_span": [
+            81,
+            82
+          ],
+          "before": "中，真正能够达成",
+          "after": "解"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            96,
+            97
+          ],
+          "output_span": [
+            85,
+            86
+          ],
+          "before": "/",
+          "after": "与"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            100,
+            100
+          ],
+          "output_span": [
+            89,
+            95
+          ],
+          "before": "",
+          "after": "何以同时发生"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            128,
+            131
+          ],
+          "output_span": [
+            123,
+            134
+          ],
+          "before": "元素在",
+          "after": "原子可以参与丰富连接的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            133,
+            142
+          ],
+          "output_span": [
+            136,
+            136
+          ],
+          "before": "上的对称性/平等性",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            157,
+            157
+          ],
+          "output_span": [
+            151,
+            153
+          ],
+          "before": "",
+          "after": "许多"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            163,
+            165
+          ],
+          "output_span": [
+            159,
+            160
+          ],
+          "before": "每个",
+          "after": "体"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            167,
+            175
+          ],
+          "output_span": [
+            162,
+            171
+          ],
+          "before": "的DNA的一致性",
+          "after": "共享大部分遗传信息"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            224,
+            241
+          ],
+          "output_span": [
+            220,
+            225
+          ],
+          "before": "正是有了这种对称性/平等性/一致性",
+          "after": "我希望研究"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            242,
+            244
+          ],
+          "output_span": [
+            226,
+            231
+          ],
+          "before": "这些",
+          "after": "怎样的共同"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            245,
+            249
+          ],
+          "output_span": [
+            232,
+            233
+          ],
+          "before": "本对象才",
+          "after": "础"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            250,
+            252
+          ],
+          "output_span": [
+            234,
+            235
+          ],
+          "before": "真正",
+          "after": "够"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            257,
+            259
+          ],
+          "output_span": [
+            240,
+            245
+          ],
+          "before": "自身",
+          "after": "这些构件在"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            261,
+            261
+          ],
+          "output_span": [
+            247,
+            248
+          ],
+          "before": "",
+          "after": "上"
+        }
+      ],
+      "retained_characters": 200,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "用软件来体会这一点，也很直观。同一种基础接口可以被不同程序使用，并不要求每个程序完成同一种工作。恰恰是共同的连接条件，使不同功能能够组合。共同基础与功能多样性之间，可能存在相互支持的关系；这种关系不能只靠“相同”或“不同”两个词来判断。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 有序结构与熵增，为什么能够同时存在",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "BRAINSTORM",
+      "source_span": [
+        132,
+        220
+      ],
+      "source_sha256": "595af32a093b69e1bca34023eabd1b18223d68dd6b086a2e4f6bb652a3811943",
+      "text": "一个引人注意的问题是：在热力学描述的不可逆变化过程中，却能够产生有序结构，一方面，我们讨论熵的增加，另一方面，又看见局部形成复杂的结构。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            132,
+            134
+          ],
+          "output_span": [
+            0,
+            12
+          ],
+          "before": "比如",
+          "after": "一个引人注意的问题是：在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            137,
+            143
+          ],
+          "output_span": [
+            15,
+            21
+          ],
+          "before": "定律一方面将",
+          "after": "描述的不可逆"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            145,
+            161
+          ],
+          "output_span": [
+            23,
+            23
+          ],
+          "before": "的终点描述为一切混沌的热寂，但这",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            166,
+            166
+          ],
+          "output_span": [
+            28,
+            30
+          ],
+          "before": "",
+          "after": "能够"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            168,
+            174
+          ],
+          "output_span": [
+            32,
+            32
+          ],
+          "before": "了与之对称的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            182,
+            194
+          ],
+          "output_span": [
+            40,
+            49
+          ],
+          "before": "宇宙似乎在变得越来越混乱",
+          "after": "，我们讨论熵的增加"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            200,
+            210
+          ],
+          "output_span": [
+            55,
+            62
+          ],
+          "before": "宇宙中却涌现出越来越",
+          "after": "又看见局部形成"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            212,
+            214
+          ],
+          "output_span": [
+            64,
+            64
+          ],
+          "before": "高级",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            215,
+            217
+          ],
+          "output_span": [
+            65,
+            65
+          ],
+          "before": "耗散",
+          "after": ""
+        }
+      ],
+      "retained_characters": 32,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这两种现象并不要求违反热力学第二定律。一个开放系统可以通过与环境交换能量和物质，在局部维持有序；考察完整过程时，还需要把环境一起计算。Prigogine 对耗散结构的研究，讨论了非平衡条件怎样成为某些有序动态结构出现的条件。[Prigogine：时间、结构与涨落](https://pubmed.ncbi.nlm.nih.gov/17738519/)\n\n这使“稳定”的含义进一步丰富了。有些结构像一块石头，主要依靠自身材料与环境条件保持形状；另一些结构则依靠持续的流动维持。一团火焰的形状可以暂时稳定，但燃料和空气一直在进入，产物与热量一直在离开。停止交换之后，原先的过程就不再继续。\n\n因此，不能把所有稳定性都等同于静止，也不能把所有有序结构都理解成内部能量不断降低。要研究一个过程，必须写清楚系统边界、交换条件、所比较的状态以及评价的量。只有这样，最小化或最大化才不会沦为对任何结果都能套用的词。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 更复杂的结构，是否一定带来更快的演化",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48731",
+      "source_span": [
+        2533,
+        2783
+      ],
+      "source_sha256": "19a72e196969e559c263dbf55c1a6a105abb312fe528902133edb94ec1ccc08a",
+      "text": "如果从动态进化的角度出发，考察这个生成复杂结构能力的范畴论问题，可以把影响复杂结构生成的众多因素，抽象成不同的描述维度。如果我们将进化进程的时间轴，也作为一个维度/因子，那么，具有更丰富联系的结构，能否使更多不同方向的尝试并行发生，从而加快探索，比如，在一个复杂社会中，不同人和组织沿着多样的方向并行发展，能否加快发现新方法的过程？",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            2565,
+            2566
+          ],
+          "output_span": [
+            32,
+            35
+          ],
+          "before": "将",
+          "after": "可以把"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2579,
+            2579
+          ],
+          "output_span": [
+            48,
+            49
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2585,
+            2585
+          ],
+          "output_span": [
+            55,
+            57
+          ],
+          "before": "",
+          "after": "描述"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2587,
+            2657
+          ],
+          "output_span": [
+            59,
+            59
+          ],
+          "before": "，就像弦理论中的10维和11维空间维度，就是宇宙时空结构生成背后的10个或11个影响因子，就像人工智能中，一个复杂事物，用高维张量来表示一样",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2685,
+            2690
+          ],
+          "output_span": [
+            87,
+            90
+          ],
+          "before": "一个范畴中",
+          "after": "，具有"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2691,
+            2693
+          ],
+          "output_span": [
+            91,
+            95
+          ],
+          "before": "复杂",
+          "after": "丰富联系"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2694,
+            2696
+          ],
+          "output_span": [
+            96,
+            96
+          ],
+          "before": "拓扑",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2699,
+            2700
+          ],
+          "output_span": [
+            99,
+            100
+          ],
+          "before": "是",
+          "after": "能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2701,
+            2707
+          ],
+          "output_span": [
+            101,
+            108
+          ],
+          "before": "意味着在进化",
+          "after": "使更多不同方向"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2708,
+            2711
+          ],
+          "output_span": [
+            109,
+            115
+          ],
+          "before": "维度上",
+          "after": "尝试并行发生"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2712,
+            2726
+          ],
+          "output_span": [
+            116,
+            118
+          ],
+          "before": "可以以更高的并发线程数，起到",
+          "after": "从而"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2727,
+            2733
+          ],
+          "output_span": [
+            119,
+            122
+          ],
+          "before": "速进化的作用",
+          "after": "快探索"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2736,
+            2736
+          ],
+          "output_span": [
+            125,
+            127
+          ],
+          "before": "",
+          "after": "，在"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2740,
+            2748
+          ],
+          "output_span": [
+            131,
+            131
+          ],
+          "before": "的社会结构，使得",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2751,
+            2751
+          ],
+          "output_span": [
+            134,
+            135
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2757,
+            2758
+          ],
+          "output_span": [
+            141,
+            143
+          ],
+          "before": "的",
+          "after": "沿着"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2760,
+            2766
+          ],
+          "output_span": [
+            145,
+            145
+          ],
+          "before": "化，而多样化",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2767,
+            2767
+          ],
+          "output_span": [
+            146,
+            148
+          ],
+          "before": "",
+          "after": "方向"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2772,
+            2773
+          ],
+          "output_span": [
+            153,
+            155
+          ],
+          "before": "会",
+          "after": "能否"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2774,
+            2779
+          ],
+          "output_span": [
+            156,
+            162
+          ],
+          "before": "速社会进化",
+          "after": "快发现新方法"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2782,
+            2783
+          ],
+          "output_span": [
+            165,
+            166
+          ],
+          "before": "。",
+          "after": "？"
+        }
+      ],
+      "retained_characters": 118,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这里也有两种方向。更多不同尝试，可以扩大被探索的可能空间；但如果尝试之间不能交流，或者互相干扰，增加数量也可能只增加重复与协调负担。真正需要研究的，是多样性怎样被保留，有效结果怎样传播，失败怎样被其他人理解。\n\n这正是自然结构与知识结构之间一个值得连接的地方：新成果能否成为下一轮的共同材料，决定了探索能否积累。一个结果只发生一次而没有留下可继续使用的结构，与一个能够被复制、理解和组合的结果，具有不同的演化后果。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 怎样让宏大的问题进入可研究的范围",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "META-ahm4vm",
+      "source_span": [
+        0,
+        202
+      ],
+      "source_sha256": "8c0690d0ad3722c506333fdc7213f6bd701e2f34ee17e5441c8c517fa9ad4210",
+      "text": "要想真正构造这个理论，需要把这些关系逐层说明，但很可能不是我一个人能够完成的，这需要跨越整个人类各个学科层级的深度知识才能做到，我可以做这样的假设，在每个学科内的连贯的逻辑体系之间，可以尝试用严格的数学表达，描述高阶学科中的基本对象和基本规律，与低阶学科中特定复杂结构之间的对应关系，并刻画两个范畴中的演化规律是如何相互衔接，以及共同原理在其中是否成立的。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            11,
+            11
+          ],
+          "output_span": [
+            11,
+            14
+          ],
+          "before": "",
+          "after": "需要把"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            12,
+            20
+          ],
+          "output_span": [
+            15,
+            22
+          ],
+          "before": "是必须要做的事情",
+          "after": "些关系逐层说明"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            22,
+            23
+          ],
+          "output_span": [
+            24,
+            24
+          ],
+          "before": "是",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            90,
+            95
+          ],
+          "output_span": [
+            91,
+            96
+          ],
+          "before": "必须有一个",
+          "after": "可以尝试用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            103,
+            105
+          ],
+          "output_span": [
+            104,
+            106
+          ],
+          "before": "来将",
+          "after": "描述"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            109,
+            111
+          ],
+          "output_span": [
+            110,
+            110
+          ],
+          "before": "范畴",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            128,
+            130
+          ],
+          "output_span": [
+            127,
+            127
+          ],
+          "before": "范畴",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            131,
+            132
+          ],
+          "output_span": [
+            128,
+            128
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            134,
+            136
+          ],
+          "output_span": [
+            130,
+            130
+          ],
+          "before": "高阶",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            143,
+            172
+          ],
+          "output_span": [
+            137,
+            141
+          ],
+          "before": "同伦等价，用这个不动点-最小化/最大化-涌现定理准确的描述",
+          "after": "对应关系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            189,
+            192
+          ],
+          "output_span": [
+            158,
+            167
+          ],
+          "before": "被这个",
+          "after": "相互衔接，以及共同"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            194,
+            200
+          ],
+          "output_span": [
+            169,
+            176
+          ],
+          "before": "所约束和驱动",
+          "after": "在其中是否成立"
+        }
+      ],
+      "retained_characters": 141,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49383",
+      "source_span": [
+        65,
+        502
+      ],
+      "source_sha256": "b87ba9862cb21b7cbaa75c222370a54c1bbeb117721ad3660829015ef6d497b8",
+      "text": "是否能够找到上述不动点-最小化/最大化-涌现规律的范畴论的对应表达，又或者为已有的范畴论，通过这条研究路径提供描述数学模型动态演化的能力，让数学和科学一样，不是一个简单的发现规律的静态理论，而是不断构造和涌现高阶数学结构的演化系统。并将该理论，应用到这些具有成熟数学模型的科学学科中，给出一个基于新理论框架的重构理论,它既能够兼容旧理论，又能够提供更强的解释能力和构造能力？比如，弦理论提供了巨大的可能性空间，怎样区分其中与我们的世界相符的候选描述？在物理和化学研究中，为什么有的结构可以持续存在，有的却转瞬即逝、无法保持稳定，为什么在特定环境中，有些粒子或结构更容易保留下来？是不是可以用这个理论来解释？再比如广义相对论和量子力学之间的张力是不是也能够通过这个理论来解释？我希望考察这个理论是否有可能在已有成熟数学模型的科学学科中找到呼应或对应的结构和理论，以及是否存在对它们重构的可能性。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            71,
+            77
+          ],
+          "output_span": [
+            6,
+            8
+          ],
+          "before": "我前面提到的",
+          "after": "上述"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            117,
+            120
+          ],
+          "output_span": [
+            48,
+            53
+          ],
+          "before": "个定理",
+          "after": "条研究路径"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            272,
+            275
+          ],
+          "output_span": [
+            205,
+            212
+          ],
+          "before": "为什么",
+          "after": "怎样区分其中与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            280,
+            289
+          ],
+          "output_span": [
+            217,
+            219
+          ],
+          "before": "是由卡拉比-丘流形",
+          "after": "相符"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            290,
+            298
+          ],
+          "output_span": [
+            220,
+            224
+          ],
+          "before": "高阶弦结构构成的",
+          "after": "候选描述"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            299,
+            302
+          ],
+          "output_span": [
+            225,
+            226
+          ],
+          "before": "是不是",
+          "after": "在"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            304,
+            305
+          ],
+          "output_span": [
+            228,
+            229
+          ],
+          "before": "/",
+          "after": "和"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            307,
+            309
+          ],
+          "output_span": [
+            231,
+            233
+          ],
+          "before": "空间",
+          "after": "研究"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            322,
+            323
+          ],
+          "output_span": [
+            246,
+            246
+          ],
+          "before": "性",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            328,
+            330
+          ],
+          "output_span": [
+            251,
+            252
+          ],
+          "before": "则是",
+          "after": "却"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            334,
+            334
+          ],
+          "output_span": [
+            256,
+            257
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            340,
+            343
+          ],
+          "output_span": [
+            263,
+            263
+          ],
+          "before": "的存在",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            347,
+            349
+          ],
+          "output_span": [
+            267,
+            277
+          ],
+          "before": "正电",
+          "after": "在特定环境中，有些粒"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            350,
+            363
+          ],
+          "output_span": [
+            278,
+            288
+          ],
+          "before": "和负电子的存在性差别这么大",
+          "after": "或结构更容易保留下来"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            412,
+            428
+          ],
+          "output_span": [
+            337,
+            337
+          ],
+          "before": "你可以尝试用你已有的知识，尝试用",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            429,
+            448
+          ],
+          "output_span": [
+            338,
+            342
+          ],
+          "before": "前面提到的这个原理来构造答案。我想看看",
+          "after": "希望考察"
+        }
+      ],
+      "retained_characters": 346,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这些问题不应当被一种漂亮的类比提前结束。一个值得采用的结果，应当让我们更清楚地知道哪些结构相容，哪些预测能够区分不同方案，哪些计算或构造因为新的表达而变得更容易。没有达到这些要求的地方，仍然保留为研究问题。\n\n当自然界中的结构不仅能够保持和复制，还能够根据外部差别选择自己的反应，构造过程就又出现了新的层次。接下来要讨论的意识与智能，正从这个“能够区别、能够响应、能够积累”的问题进入。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}

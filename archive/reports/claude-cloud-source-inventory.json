@@ -1,0 +1,31 @@
+{
+  "schema": "pkst.claude-cloud-source-inventory@0.1",
+  "source": "official conversations-000.zip received on 2026-10-24",
+  "conversations": 151,
+  "empty_conversations": 3,
+  "message_records": 2095,
+  "unique_message_ids": 2095,
+  "sender": {
+    "human": 1048,
+    "assistant": 1047
+  },
+  "content_types": {
+    "text": 2543,
+    "tool_use": 1313,
+    "tool_result": 1311,
+    "token_budget": 46,
+    "thinking": 557,
+    "injected_prompt_block": 11,
+    "document": 1
+  },
+  "parent_field_present": 2095,
+  "parent_classification": {
+    "all-zero-root": 149,
+    "present": 1946
+  },
+  "conversation_created_min": "2024-10-24T10:09:09.361267Z",
+  "conversation_updated_max": "2026-10-23T05:09:19.151619Z",
+  "branch_completeness": "unknown; direct parent links to be retained by adapter",
+  "thinking_content": "raw-only; not read as personal speech",
+  "verification": "source inventory; canonical conversion delegated to Claude"
+}

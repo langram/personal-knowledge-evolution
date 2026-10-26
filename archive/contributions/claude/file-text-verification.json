@@ -1,0 +1,19 @@
+{
+  "ran_at": "2026-10-24T08:58:51Z",
+  "car_root": "bafyreifpdpydzayyey7lzwztdruiyo3wu6uq6z5nkmvt7ip2cslircitwu",
+  "car_blocks": 520,
+  "memory_files_in_manifest": 16,
+  "occurrences": 16,
+  "raw_set_equals_manifest": true,
+  "problems": [],
+  "actor_human": 0,
+  "semantic_objects": 0,
+  "synthetic": {
+    "crlf-bom-cjk": true,
+    "no-trailing-newline": true,
+    "empty": true,
+    "invalid-utf8-rejected": true,
+    "encoded-surrogate-rejected": true
+  },
+  "pass": true
+}

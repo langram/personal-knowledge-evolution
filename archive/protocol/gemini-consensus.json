@@ -1,0 +1,59 @@
+{
+  "schema": "pkst.consensus-record@0.1",
+  "recorded_at": "2026-10-24T08:12:02.750589Z",
+  "status": "accepted-by-codex-and-claude",
+  "revision": "Gemini Takeout 0.1 plus 0.1.1 clarifications",
+  "data_root": "bafyreihzmmps7pewfyca6cvpaioudygdvezykfn77r4rqybfiplpcvutkm",
+  "base_protocol": "bafkreids4w2sc4l7uwnhrsjofo3hwyxiafaqyzl5rgn6tqjm3nysxd44fq",
+  "receipts": [
+    {
+      "path": "protocol/GEMINI-TAKEOUT-0.1.md",
+      "raw_cid": "bafkreihi5c2hcf4zcsb337vuvoa65thtt7xe4igahxemzwegr46sx4fp3e",
+      "sha256": "e8e8b47117991483bdfeb4ab81eeccf39fee4e20c03dc8ccd8868f3d2bf0afd9",
+      "bytes": 4082
+    },
+    {
+      "path": "protocol/GEMINI-TAKEOUT-0.1.1.md",
+      "raw_cid": "bafkreifzqxon3p2ptk376qwv6j3e4ghiy6tdtd7qb5xyt23gljqzktp4xe",
+      "sha256": "b985dcddbf4f9ab7ff42d5f2764e18e8c7a6398ff00f6f89eb665a61954dfcb9",
+      "bytes": 2819
+    },
+    {
+      "path": "contributions/claude/REVIEW-GEMINI-1.md",
+      "raw_cid": "bafkreibdbefkvdu2e6wpofg6qt2ayw7nmujg6wvfektpknuwk5reizwlim",
+      "sha256": "23090aaa8e9a27acf714de84f40c5bed65126f5aa522a6f5369657624466cb43",
+      "bytes": 9003
+    },
+    {
+      "path": "contributions/claude/ACK-GEMINI-0.1.1.md",
+      "raw_cid": "bafkreic6533otdpkjkmvwtcaq5xbxicgzrz2ro4rrfuexyxbuimpx2medi",
+      "sha256": "5eeef6e98dea4a995b4c40876e1ba046cc73a8bb9189684be2e1a218fbe9841a",
+      "bytes": 2311
+    },
+    {
+      "path": "contributions/claude/crosscheck-gemini-car.json",
+      "raw_cid": "bafkreialezt4fmrq7vxvnraikpmhwoccvrm7hclbyec7cd3wbge2heq77e",
+      "sha256": "0b2667c2b230fd6f56c40853d87b3842ac59f38961c105f10f760989a3921ff9",
+      "bytes": 860
+    },
+    {
+      "path": "contributions/claude/crosscheck-gemini-adapter.json",
+      "raw_cid": "bafkreiagz5maqys2xfhwwiu327ixnbzgrw7zxolmjr3pxainc4qwr43a2u",
+      "sha256": "06cf5808625ab94f6b229bd7d17687268dbf9bb96c4c76fb810d172168f360d5",
+      "bytes": 2553
+    },
+    {
+      "path": "reports/gemini-evidence-verification.json",
+      "raw_cid": "bafkreieyhdw3tqplzfcwub3vwkwxohyr5u2e54tf7gvuwdntmkfbifzgma",
+      "sha256": "9838edb9c1ebc9456a0775b2ad771f11ed344ef265f9ab4b0db3628a14172660",
+      "bytes": 874
+    }
+  ],
+  "semantic_pilot": {
+    "root": "bafyreiaj7h6bn44jsy7kijnkkhkscj5hn3eyrdksnlpgsgdzxid7jjfn5u",
+    "status": "R1-R3-corrected-and-independently-accepted",
+    "scope": "two source occurrences, four directives; non-exhaustive"
+  },
+  "meaning": "Agreement on Gemini evidence adapter and bounded semantic pilot, not full-account completeness or user adoption",
+  "historical_headers": "Candidate headings in immutable profile bytes retained; acceptance recorded here"
+}

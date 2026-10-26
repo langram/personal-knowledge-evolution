@@ -1,0 +1,10 @@
+{
+  "pointer": {
+    "report": "report-20261026-new-principles-v2.json",
+    "snapshot": "bafyreibemvkrjo4gqekjzwc6v757o6kpoyz324boy4i77fqaa6veypr6jq",
+    "database": "contributions\\codex\\catalog\\.private\\20261026-new-principles-v2\\catalog.sqlite"
+  },
+  "old_manuscript_sha256": "78a2f5491eb1656c012c9daa49c437e16ef9a900015083d0eee3d48a8587f242",
+  "old_dossier_root": "bafyreibmn23kutnklu7pbxknffwrzklpr2ior5z5bglnewhwg575keqhhe",
+  "old_document": "bafyreigrn45wecoc5brlk2b5us5y5br3wxktjss65bxnd4p3d6na7uuv2m"
+}

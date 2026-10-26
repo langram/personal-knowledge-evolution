@@ -1,0 +1,15 @@
+{
+  "schema": "pkst.new-principles-status@1",
+  "status": "activated",
+  "recorded_at": "2026-10-26T04:54:19.583095+00:00",
+  "current": {
+    "report": "report-20261026-new-principles-v2.json",
+    "snapshot": "bafyreibemvkrjo4gqekjzwc6v757o6kpoyz324boy4i77fqaa6veypr6jq",
+    "database": "contributions\\codex\\catalog\\.private\\20261026-new-principles-v2\\catalog.sqlite"
+  },
+  "verification": "contributions\\codex\\new-principles-20261026\\verification.json",
+  "verification_sha256": "67decc1f03ef0725c9d8324d03f35d96463fb05e413892432a89c578086ea126",
+  "integration_report_sha256": "3c043d6212d83c7a60923d0f89e8a1d2179fc0c75ed8a8f125fa7fb18cefdf32",
+  "integration_report_note": "The immutable integration report records its creation-time staged state. This receipt records activation after verification.",
+  "local_only": true
+}

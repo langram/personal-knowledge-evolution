@@ -1,0 +1,19 @@
+{
+  "schema": "pkst.profile-consensus@0.1",
+  "status": "accepted-both",
+  "recorded_at": "2026-10-24T09:09:28.361148+00:00",
+  "profile": "FILE-TEXT@0.1",
+  "fixed_scope": "16 distinct Mac Claude Code automatic-memory files in the 2026-10-24 supplement",
+  "core_protocol_unchanged": true,
+  "rules": "contributions\\claude\\FILE-TEXT-0.1.md",
+  "rules_sha256": "e47ac24cad0230f4098bb92d17e542fb083724d113928aef123634988e753c76",
+  "rules_raw_cid": "bafkreiheplbezlicgd2atc5zful6kqx3ba3sjuitskfo6erwgsmi45j4oy",
+  "claude_ack": "contributions\\claude\\ACK-FILE-TEXT-0.1.md",
+  "claude_ack_sha256": "d4eb7ae2e1ec6d02a96037ed41c51c5afaa104b1adcc660a8c1112ed3f8a6ca7",
+  "codex_verification": "reports/file-text-independent-verification.json",
+  "limits": [
+    "Not a general cross-path document equivalence rule",
+    "Automatic memory is not user speech or endorsement",
+    "Modification timestamp remains provenance only"
+  ]
+}

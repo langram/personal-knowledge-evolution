@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "scope": "all real field anchors plus discriminating fixtures; independent peer review separate",
+  "occurrences_checked": 2897,
+  "field_counts": {
+    "Prompted": 1427,
+    "safeHtmlItem": 1443,
+    "activity:Cleared": 6,
+    "activity:Created": 20,
+    "activity:Selected": 1
+  },
+  "extraction_records_checked": 2897,
+  "block_references_checked": 2897,
+  "attachment_references_checked": 335,
+  "exact_filename_unmatched": 73,
+  "unmatched_unique_names": 36,
+  "unmatched_with_unverified_name_family": 70,
+  "fixtures": [
+    "repeat-idempotence",
+    "same-text-distinct-events",
+    "capture-local-fallback",
+    "unknown-response-times-and-parentage",
+    "missing-attachment",
+    "ambiguous-attachment",
+    "ambiguous-conversation",
+    "duplicate-json-key-rejected"
+  ],
+  "known_conversation_URL_ids": 437
+}

@@ -1,0 +1,156 @@
+{
+  "ran_at": "2026-10-24T07:27:16Z",
+  "parser": "claude-code-jsonl@0.1-n3",
+  "python": "3.14.5",
+  "tests": {
+    "T1_reimport_idempotent": {
+      "pass": true,
+      "cases": [
+        {
+          "raw": "bafkreiavldc3nt3cvckfb3aiaabxxqhy3amcmh44g75xreogbqozwnwlhu",
+          "objects": 18455,
+          "identical": true
+        },
+        {
+          "raw": "bafkreidhj4jbue36qusglut4o2urduf3od5uok3kx7ywaewjal6olet2lm",
+          "objects": 8239,
+          "identical": true
+        },
+        {
+          "raw": "bafkreibghh5negn2aykjnhbuxq3k56qrqclmkxiufhj22vaglrobfsx4za",
+          "objects": 393,
+          "identical": true
+        },
+        {
+          "raw": "bafkreiarnapmndgm4uommbi4wasy3ftccgyua7mrqijxtx223pz6axn24a",
+          "objects": 288,
+          "identical": true
+        }
+      ]
+    },
+    "T2_fork_preserved": {
+      "pass": true,
+      "real_fork_points": 588,
+      "kept": 588,
+      "synthetic_user_rewind_ok": true
+    },
+    "T3_relocated_copy_dedups": {
+      "pass": true,
+      "cases": [
+        {
+          "file": "a3a78eb5-2ed5-45fe-b959-872db8f44e58.jsonl",
+          "shared": 359,
+          "same_cid": 359
+        }
+      ]
+    },
+    "T4_classification": {
+      "pass": true,
+      "checks": {
+        "no_actor_human": true,
+        "tool_results_tool": true,
+        "sidechain": true,
+        "compaction": true,
+        "history_unknown": true
+      },
+      "distribution": {
+        "assistant|ai|main": 8017,
+        "attachment|system|injected": 5399,
+        "user|tool|main": 3982,
+        "assistant|ai|sidechain": 2581,
+        "user|tool|sidechain": 1534,
+        "user|system|injected": 451,
+        "system|system|injected": 423,
+        "user|unknown|main": 211,
+        "prompt-history|unknown|unknown": 64,
+        "user|ai|sidechain": 59,
+        "assistant|system|injected": 17,
+        "attachment|unknown|unknown": 13,
+        "user|ai|compaction": 11
+      }
+    },
+    "T5_truncated_tail": {
+      "pass": true,
+      "raw": "bafkreihe74v2e5642drhlntsz5s33leqlfkmlgmfhllasjhcdbp4uzdsbi",
+      "partial_tail": {
+        "start": 710806,
+        "end": 710845
+      },
+      "occurrences_before_cut": 45,
+      "same_cid_as_full": 45,
+      "corrupt_report": [
+        {
+          "start": 139,
+          "end": 167,
+          "error": "JSONDecodeError"
+        }
+      ]
+    },
+    "T6_same_text_distinct_events": {
+      "pass": true,
+      "shared_contents": 10
+    },
+    "T7_codec_roundtrip": {
+      "pass": true,
+      "objects": 89525,
+      "failed": 0
+    },
+    "T8_no_raw_in_identity": {
+      "pass": true,
+      "identity_objects_with_raw_link": 0,
+      "anchors_linked_back": 0,
+      "note": "only history.jsonl occurrences (native_id=null) carry the raw locator fallback"
+    },
+    "T9_history_epoch": {
+      "pass": true,
+      "occurrences": 64,
+      "missing_paste_content": 10
+    },
+    "T10_opaque_blocks": {
+      "pass": true,
+      "leaks": {},
+      "block_types": {
+        "tool_use->pkst/projection@0.1": 5517,
+        "tool_result->pkst/projection@0.1": 5516,
+        "thinking->pkst/opaque-block@0.1": 3280,
+        "attachment/total_tokens_reminder->pkst/projection@0.1": 2703,
+        "text->pkst/content@0.1": 1921,
+        "string->pkst/content@0.1": 643,
+        "attachment/batching_reminder_sent->pkst/projection@0.1": 486,
+        "attachment/deferred_tools_record->pkst/projection@0.1": 485,
+        "attachment/task_reminder->pkst/projection@0.1": 179,
+        "queued_command.prompt->pkst/content@0.1": 135,
+        "attachment/queued_command->pkst/projection@0.1": 135,
+        "attachment/edited_text_file->pkst/projection@0.1": 135,
+        "attachment/prompt_snapshot->pkst/projection@0.1": 134,
+        "attachment/deferred_tools_delta->pkst/projection@0.1": 110,
+        "attachment/silent_turn_reminder->pkst/projection@0.1": 96,
+        "attachment/skill_listing->pkst/projection@0.1": 93,
+        "attachment/agent_listing_delta->pkst/projection@0.1": 89,
+        "attachment/date->pkst/projection@0.1": 87,
+        "attachment/remote_session_change->pkst/projection@0.1": 82,
+        "attachment/environment->pkst/projection@0.1": 81,
+        "attachment/mcp_instructions_delta->pkst/projection@0.1": 76,
+        "attachment/auto_mode->pkst/projection@0.1": 73,
+        "attachment/command_permissions->pkst/projection@0.1": 68,
+        "attachment/model->pkst/projection@0.1": 67,
+        "attachment/session_context->pkst/projection@0.1": 67,
+        "attachment/credential_org->pkst/projection@0.1": 67,
+        "attachment/file->pkst/projection@0.1": 40,
+        "attachment/compact_file_reference->pkst/projection@0.1": 21,
+        "system.content->pkst/content@0.1": 18,
+        "attachment/instructions->pkst/projection@0.1": 10,
+        "attachment/thinking_drop->pkst/projection@0.1": 9,
+        "image->pkst/opaque-block@0.1": 4,
+        "attachment/plan_mode->pkst/projection@0.1": 4,
+        "attachment/task_status->pkst/projection@0.1": 4,
+        "attachment/plan_mode_exit->pkst/projection@0.1": 3,
+        "attachment/read_truncation_notice->pkst/projection@0.1": 3,
+        "attachment/date_change->pkst/projection@0.1": 2,
+        "attachment/session_cron_carry->pkst/projection@0.1": 2,
+        "attachment/plan_file_reference->pkst/projection@0.1": 1
+      }
+    }
+  },
+  "all_pass": true
+}

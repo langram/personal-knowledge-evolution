@@ -1,0 +1,97 @@
+{
+  "run": "20261024T081127Z",
+  "started_at": "2026-10-24T08:11:27.909880Z",
+  "finished_at": "2026-10-24T08:11:28.219665Z",
+  "inbox": "coordination/.private/claude-cloud-inbox",
+  "capturer_sha256": "7df1499940e0356089622b576adea1ec606c1fe378426ef6ebcae2e0d7cb2473",
+  "zips": 4,
+  "members": 9,
+  "all_receipt_hashes_match": true,
+  "all_zip_crc_ok": true,
+  "all_stable": true,
+  "failures": [],
+  "manifest": "raw/_claude-ai-capture-20261024T081127Z.jsonl",
+  "manifest_sha256": "7332c48045d3ee4b26921976680894a61e7592906469b109534bd73835073e81",
+  "archives": [
+    {
+      "name": "conversations-000.zip",
+      "cid": "bafkreifkysa2y3isr2hbnpzp7tlctgvpziw2ictq5ljr6uffqf4h434hs4",
+      "bytes": 10133493,
+      "sha256": "aac481ac6d128e8e16bf2ffcd6299aafca2da40a70ead31f50a581787e6f8797"
+    },
+    {
+      "name": "light_metadata-000.zip",
+      "cid": "bafkreicnlktfi5ul2lwy3iyowp5vg2kdxy4qa4r733hra7cfiddcvaz3t4",
+      "bytes": 1939,
+      "sha256": "4d5aa654768bd2ed8da30eb3fb536943be3900723fdecf107c4540c62a833b9f"
+    },
+    {
+      "name": "memories-000.zip",
+      "cid": "bafkreiblpepc7o4hzpu4esrgz7wtvmnmd7lfo7co2gn5ixcofvvhtdkqdy",
+      "bytes": 13161,
+      "sha256": "2b791e2fbb87cbe9c24a26cfed3ab1ac1fd6577c4ed19bd45c4e2d6a798d501e"
+    },
+    {
+      "name": "projects-000.zip",
+      "cid": "bafkreid3n5sv37j57ho67lkogtcdayj7hmowzih6r64p43wne2s5y42nae",
+      "bytes": 233686,
+      "sha256": "7b6f655dfd3df9ddefad4e34c430613f3b1d6ca0fe8fb8fe6ecd26a5dc734d01"
+    }
+  ],
+  "members_detail": [
+    {
+      "archive_name": "conversations-000.zip",
+      "member_path": "conversations.json",
+      "cid": "bafkreiayojn3wfjj4rptulrs335f3ry6ph5t7lxr54irnxnmcvqmd4cify",
+      "bytes": 50381588
+    },
+    {
+      "archive_name": "light_metadata-000.zip",
+      "member_path": "users.json",
+      "cid": "bafkreigrlljcrio3svstiqzpqsa73vtsqxlpm5mtsohgii2ipetxqvykrm",
+      "bytes": 154
+    },
+    {
+      "archive_name": "light_metadata-000.zip",
+      "member_path": "login_history.json",
+      "cid": "bafkreibtrzjuhiuxc57ieqrgvixxxvicrx67dmzp3lpi7z2degh4c6k7da",
+      "bytes": 19841
+    },
+    {
+      "archive_name": "memories-000.zip",
+      "member_path": "memories/dbe6ce19-801c-48ad-a04a-364bfc51bfbf.json",
+      "cid": "bafkreiavgdin3pc2sgnbzny5q4cte44ystxcewxtk5q4vfuiyr6nztlyye",
+      "bytes": 39591
+    },
+    {
+      "archive_name": "projects-000.zip",
+      "member_path": "projects/1559ef91-aed0-4b05-aed7-d6cbc07cae5d.json",
+      "cid": "bafkreihoglcaysa4ut6q5toneialpxy5nrsu5hw7ovg2q6ostswdk3x7yu",
+      "bytes": 19414
+    },
+    {
+      "archive_name": "projects-000.zip",
+      "member_path": "projects/019eaff1-982e-72ca-a2e7-976633fe072b.json",
+      "cid": "bafkreieqdefyceikbm4ahvehjfkshvwes36svb6xd6meeji5265e7hpkpq",
+      "bytes": 559342
+    },
+    {
+      "archive_name": "projects-000.zip",
+      "member_path": "projects/01a08106-c64c-778d-aea0-c30cfe4ac628.json",
+      "cid": "bafkreidzwoxkllm2l4xub7264llu374vuwmzwqe742jr57mrpr426dcvou",
+      "bytes": 428
+    },
+    {
+      "archive_name": "projects-000.zip",
+      "member_path": "projects/01a0c44f-4e08-71f3-8e3f-b1a607665ee0.json",
+      "cid": "bafkreic2dbpilishzduw5jsmvuwlv6fjr56wpyjoi2gw4kglexvk3rtw7y",
+      "bytes": 255018
+    },
+    {
+      "archive_name": "projects-000.zip",
+      "member_path": "projects/01a0c4f9-697b-7440-85b4-b78585c4a62f.json",
+      "cid": "bafkreibauhbavejt3tvjlksn2phb7lwhc5mmpuajq6xh5edv3ehkeiwrgu",
+      "bytes": 416
+    }
+  ]
+}

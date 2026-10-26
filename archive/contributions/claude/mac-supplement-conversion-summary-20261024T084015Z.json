@@ -1,0 +1,33 @@
+{
+  "run": "20261024T084015Z",
+  "recorded_at": "2026-10-24T08:40:15Z",
+  "snapshot": "bafyreie7qmmbqxk3i6yafgmshftn56po2xexbpozktbi4bsze23ghetdf4",
+  "protocol_raw_cid": "bafkreids4w2sc4l7uwnhrsjofo3hwyxiafaqyzl5rgn6tqjm3nysxd44fq",
+  "rules_raw_cid": "bafkreia76le5se6ppknjmnkeqnz3kikluyblw7cebfymzuyaiqfqys5sga",
+  "tar_cid": "bafkreigim6d5yqipstlbmsitmgcz4efrye2tda54swr3na42uskudhzpwu",
+  "activities": 438,
+  "objects": 439,
+  "written_this_run": 439,
+  "categories": {
+    "supplement-control": 2,
+    "claude-code-project-other": 3,
+    "claude-code-subagent-meta": 90,
+    "claude-code-tool-result": 87,
+    "claude-code-project-memory": 16,
+    "claude-code-sessions-index": 1,
+    "claude-desktop-session-meta": 6,
+    "claude-local-agent-mode-meta": 2,
+    "claude-local-agent-skill-file": 230
+  },
+  "occurrences": 0,
+  "car": "contributions/claude/.private/mac-claude-supplement.car",
+  "car_sha256": "d2cb5d1e5f93482a48e44472e147d19e2652b08098e3914fb225cda18eccbae4",
+  "car_blocks": 439,
+  "implementation": {
+    "adapter": "mac-claude-supplement@0.1-raw-only",
+    "convert_sha256": "390ad0b4ea24575beae470f63828d4f70659ec1d427f6285d132ecaf1324f9e6",
+    "codec_sha256": "697a7be406d6058046743f820ef33c591e8c18350040e2453c87f4776d761b3c",
+    "python": "3.14.5",
+    "rules": "bafkreia76le5se6ppknjmnkeqnz3kikluyblw7cebfymzuyaiqfqys5sga"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "pkst.gemini-takeout-capture@0.1",
+  "recorded_at": "2026-10-24T07:52:11.509400+00:00",
+  "platform": "gemini",
+  "namespace": "owner-google-account",
+  "format": "official-google-takeout-zip",
+  "original": {
+    "raw_cid": "bafkreibe53out4ehmeiqbjipgsn37auqyihtwqpcmg4sac75kx5kelh6hq",
+    "sha256": "24eedd49f087611100a50f349bbf8290c20f3b41e261b9200bfd55faa22cfe3c",
+    "bytes": 129219182
+  },
+  "member_count": 149,
+  "directory_entries": 0,
+  "captured_members": 149,
+  "failures": [],
+  "declared_expanded_bytes": 140770732,
+  "manifest": ".private\\members-20261024T075209.921809Z-ce65184b.jsonl",
+  "manifest_sha256": "992e1a639f0a7c91080a29488239e10b9a2b350bd63663cbef9d593f679c1f20",
+  "status": "captured",
+  "implementation_sha256": "0af93325837ed2fb94e494cf3df89a8f6482236f6c90c6fb45054fe8812d5672",
+  "limitations": [
+    "Capture does not prove complete account history",
+    "No semantic extraction performed",
+    "ZIP member timestamps lack a source timezone; they are not conversation timestamps"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "activated-after-verification",
+  "recorded_at": "2026-10-26T09:44:50.997686+00:00",
+  "pointer": {
+    "report": "report-20261026-mathematics-contribution-v1.json",
+    "snapshot": "bafyreihprzxzavykdnvbvc3c4thf2e6ynhladzx7wz3loskfekelg7di6e",
+    "database": "contributions\\codex\\catalog\\.private\\20261026-mathematics-contribution-v1\\catalog.sqlite"
+  },
+  "verification": "verification.json",
+  "text_verification": "text-verification.json",
+  "author_adoption": false,
+  "public_release": false
+}

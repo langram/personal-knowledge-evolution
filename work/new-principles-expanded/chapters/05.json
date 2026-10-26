@@ -1,0 +1,2773 @@
+{
+  "chapter": "05",
+  "title": "意识、信息与自我驱动的智能",
+  "status": "expanded-copyedited",
+  "review": {
+    "reasoning": "区分→测量与行动→层级反应→内外边界与观察者→抽象压缩→持续自我对话→外部反馈→共同智能",
+    "examples": [
+      "恒温装置",
+      "麦克斯韦妖",
+      "运动信号组合",
+      "杯子概念",
+      "阅读中未解决的问题"
+    ],
+    "objections": [
+      "分类器是否等于意识",
+      "自我对话是否证明主观体验",
+      "压缩越小是否越聪明",
+      "内部循环如何避免强化错误"
+    ],
+    "voice": "保留作者完整自我对话设想、智能压缩论述和细胞层级展开；未计入AI回复",
+    "status": "初校；分类器形式术语修正，自我意识机制仍为假说",
+    "copyedit": "逐章阅读、病句及替换残留修正、长段分段、关键设想与引用归属复查；编辑稿待作者审阅"
+  },
+  "items": [
+    {
+      "kind": "editorial-addition",
+      "text": "一个结构能够保持自身，并不意味着它已经能够理解外界。一个恒温装置能够根据温度开关，也不意味着它已经具有人的意识。可是，如果把复杂智能完全当成一个突然出现、无法继续分析的整体，我们又会失去研究它的入口。\n\n我的思路，是沿着区别、反应、记忆、组合和自我维持这些环节，考察简单能力怎样参与更复杂能力的构造。由低层到高层，并不要求每一层都已经具备下一层的全部性质。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 从能够区分，到能够根据区别采取行动",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        10588,
+        10947
+      ],
+      "source_sha256": "d3091b1de3a358da575d53a7e10970798b51eb5e5588112a5da6f505fed1c606",
+      "text": "在数学工具中，一个引起我注意的结构是**子对象分类器 (Subobject Classifier)**。在数学中，一种特殊的范畴——**topos范畴**，具有非常强的可构造性，其内部逻辑结构异常丰富，甚至可以作为其他数学理论（如集合论）的替代基础。子对象分类器是其重要结构之一。子对象分类器可以被想象成一个范畴内部的、通用的“真值判断器”。直观地说，对于某个对象中的子对象，可以用从该对象指向 Ω 的特征态射来刻画它，并满足相应的拉回条件。这个真值对象Ω内部就包含了“真”与“假”的抽象结构。这种结构使我们能够在相应范畴内部讨论逻辑。我希望借助这些联系，研究数学中的区分与逻辑结构，怎样用于描述实际的信息处理。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            10589,
+            10596
+          ],
+          "output_span": [
+            1,
+            5
+          ],
+          "before": "宇宙的演化过程",
+          "after": "数学工具"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            10598,
+            10602
+          ],
+          "output_span": [
+            7,
+            7
+          ],
+          "before": "涌现出的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10604,
+            10606
+          ],
+          "output_span": [
+            9,
+            15
+          ],
+          "before": "重要",
+          "after": "引起我注意的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            10608,
+            10609
+          ],
+          "output_span": [
+            17,
+            17
+          ],
+          "before": "就",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            10717,
+            10734
+          ],
+          "output_span": [
+            125,
+            125
+          ],
+          "before": "其强大能力的核心原因，就在于它拥有",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            10740,
+            10740
+          ],
+          "output_span": [
+            131,
+            139
+          ],
+          "before": "",
+          "after": "是其重要结构之一"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            10772,
+            10772
+          ],
+          "output_span": [
+            171,
+            176
+          ],
+          "before": "",
+          "after": "直观地说，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10774,
+            10777
+          ],
+          "output_span": [
+            178,
+            183
+          ],
+          "before": "范畴内",
+          "after": "某个对象中"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            10778,
+            10782
+          ],
+          "output_span": [
+            184,
+            184
+          ],
+          "before": "任何一个",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10785,
+            10786
+          ],
+          "output_span": [
+            187,
+            188
+          ],
+          "before": "（",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10788,
+            10811
+          ],
+          "output_span": [
+            190,
+            195
+          ],
+          "before": "理解为一个属性或一个子集），分类器都能给出一个",
+          "after": "用从该对象"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10813,
+            10815
+          ],
+          "output_span": [
+            197,
+            201
+          ],
+          "before": "一个",
+          "after": " Ω 的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10816,
+            10834
+          ],
+          "output_span": [
+            202,
+            203
+          ],
+          "before": "殊“真值对象”（通常表示为Ω）的唯一",
+          "after": "征"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            10836,
+            10836
+          ],
+          "output_span": [
+            205,
+            220
+          ],
+          "before": "",
+          "after": "来刻画它，并满足相应的拉回条件"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10863,
+            10875
+          ],
+          "output_span": [
+            247,
+            256
+          ],
+          "before": "本质上，子对象分类器的存",
+          "after": "这种结构使我们能够"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10876,
+            10882
+          ],
+          "output_span": [
+            257,
+            259
+          ],
+          "before": "，意味着这个",
+          "after": "相应"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            10884,
+            10887
+          ],
+          "output_span": [
+            261,
+            261
+          ],
+          "before": "拥有了",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10888,
+            10890
+          ],
+          "output_span": [
+            262,
+            265
+          ],
+          "before": "置的",
+          "after": "部讨论"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            10892,
+            10896
+          ],
+          "output_span": [
+            267,
+            267
+          ],
+          "before": "推理能力",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10897,
+            10910
+          ],
+          "output_span": [
+            268,
+            277
+          ],
+          "before": "范畴论中子对象分类器的概念",
+          "after": "我希望借助这些联系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10911,
+            10914
+          ],
+          "output_span": [
+            278,
+            280
+          ],
+          "before": "恰好是",
+          "after": "研究"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            10915,
+            10929
+          ],
+          "output_span": [
+            281,
+            281
+          ],
+          "before": "理逻辑中的“命题”和计算机科",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10932,
+            10943
+          ],
+          "output_span": [
+            284,
+            300
+          ],
+          "before": "“类型”这两个概念存在",
+          "after": "区分与逻辑结构，怎样用于描述实际"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            10944,
+            10946
+          ],
+          "output_span": [
+            301,
+            305
+          ],
+          "before": "前提",
+          "after": "信息处理"
+        }
+      ],
+      "retained_characters": 207,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这里的“判断器”是便于理解的说法。数学里的 Ω、终对象 1，以及从 1 到 Ω 的 true 态射，各自承担不同角色；它们不是一块已经接好电、会自行判断世界的物理装置。一个抽象结构怎样被真实系统实现，还需要说明输入、状态、能量和行动之间的关系。[Fong 与 Spivak：应用范畴论中的子对象分类器](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/a4175d61479a35340d6307ae5e48ef5a_18-s097iap19textbook.pdf)",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48731",
+      "source_span": [
+        102,
+        296
+      ],
+      "source_sha256": "3032f59ea78280d5e41aa462e041a792ab0da5abc4a8742b1ad633aa49fb51d5",
+      "text": "麦克斯韦妖并不等于子对象分类器。但是，如果要描述它区分快慢分子的功能，就需要一种表达区分条件的结构，而这个小妖，本身既具备探测结构和探测能力，又具备根据探测结果，产生应激性，改变自身状态，从而实现门控的功能。这一整套结构，显然比一个单独的分类关系更加复杂，如果从范畴论角度考察，除了分类关系，还需要哪些结构来描述根据结果改变状态、采取行动，以及保存影响？",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            102,
+            110
+          ],
+          "output_span": [
+            0,
+            4
+          ],
+          "before": "Maxwell ",
+          "after": "麦克斯韦"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            111,
+            113
+          ],
+          "output_span": [
+            5,
+            6
+          ],
+          "before": "显然",
+          "after": "并"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            122,
+            123
+          ],
+          "output_span": [
+            15,
+            16
+          ],
+          "before": "，",
+          "after": "。"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            125,
+            125
+          ],
+          "output_span": [
+            18,
+            24
+          ],
+          "before": "",
+          "after": "，如果要描述"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            126,
+            131
+          ],
+          "output_span": [
+            25,
+            31
+          ],
+          "before": "想实现测量",
+          "after": "区分快慢分子"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            135,
+            145
+          ],
+          "output_span": [
+            35,
+            43
+          ],
+          "before": "显然其内部具有子对象",
+          "after": "就需要一种表达区"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            146,
+            150
+          ],
+          "output_span": [
+            44,
+            46
+          ],
+          "before": "类器这样",
+          "after": "条件"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            151,
+            153
+          ],
+          "output_span": [
+            47,
+            47
+          ],
+          "before": "抽象",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            177,
+            178
+          ],
+          "output_span": [
+            71,
+            72
+          ],
+          "before": "有",
+          "after": "又"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            210,
+            215
+          ],
+          "output_span": [
+            104,
+            104
+          ],
+          "before": "如你所说，",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            216,
+            217
+          ],
+          "output_span": [
+            105,
+            105
+          ],
+          "before": "个",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            222,
+            225
+          ],
+          "output_span": [
+            110,
+            114
+          ],
+          "before": "应该是",
+          "after": "，显然比"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            227,
+            231
+          ],
+          "output_span": [
+            116,
+            119
+          ],
+          "before": "比子对象",
+          "after": "单独的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            233,
+            234
+          ],
+          "output_span": [
+            121,
+            123
+          ],
+          "before": "器",
+          "after": "关系"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            235,
+            235
+          ],
+          "output_span": [
+            124,
+            125
+          ],
+          "before": "",
+          "after": "加"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            237,
+            240
+          ],
+          "output_span": [
+            127,
+            127
+          ],
+          "before": "的组织",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            254,
+            257
+          ],
+          "output_span": [
+            141,
+            141
+          ],
+          "before": "子对象",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            259,
+            260
+          ],
+          "output_span": [
+            143,
+            145
+          ],
+          "before": "器",
+          "after": "关系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            262,
+            265
+          ],
+          "output_span": [
+            147,
+            149
+          ],
+          "before": "应该有",
+          "after": "需要"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            267,
+            272
+          ],
+          "output_span": [
+            151,
+            151
+          ],
+          "before": "范畴论中的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            274,
+            274
+          ],
+          "output_span": [
+            153,
+            169
+          ],
+          "before": "",
+          "after": "来描述根据结果改变状态、采取行动"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            275,
+            295
+          ],
+          "output_span": [
+            170,
+            176
+          ],
+          "before": "比如是否有哪个范畴论中的概念与应激性对应",
+          "after": "以及保存影响"
+        }
+      ],
+      "retained_characters": 112,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这个思想实验的启发，在于把“得到信息”与“运用信息”放进同一过程。假想的小妖能够区分快慢分子，还要能控制门，保存必要的状态，并在以后继续工作。若要完整计算代价，就不能只数开门后获得的效果，而把控制装置及其记忆过程留在系统之外。Bennett 对计算热力学的研究，特别讨论了记录擦除等逻辑不可逆操作在完整循环中的地位。[Bennett：计算的热力学](https://research.ibm.com/publications/the-thermodynamics-of-computation-a-review)\n\n因此，智能也不能只按最后一句答案来理解。它怎样获得信息，哪些内容引起注意，怎样保留经验，行动之后又怎样接收结果，都属于同一个构造问题。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 从细胞反应到人的意识，中间的层次怎样展开",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R48751",
+      "source_span": [
+        312,
+        851
+      ],
+      "source_sha256": "213c2a182c87ad159edaa96b96e4ee6dbc2eeac629d956444a12b33b7d380a07",
+      "text": "从生物学角度出发来看，人类高级意识的研究，需要考察大脑中无数神经元的生物应激性所产生的生物电信号的复合作用。如果尝试用层级构造的语言描述，可以把神经元及其联系作为其中的低层对象与关系。而神经元细胞的生物电应激性不过是所有人体细胞应激性的一种特殊形式，是人这个生命体范畴中的一个子范畴，人类的其他器官和组织形成了其他的子范畴，这些子范畴之间的复杂的生命过程，可以作为需要描述的相互作用。在这个范畴中，人体其他器官范畴中的低阶细胞范畴的应激性所感受到的外界刺激信号，与大脑范畴中的神经元应激性进行相互的输入输出，构成了高阶复合处理的高级功能，共同参与人的感知与反应。从范畴论的抽象角度考察这个过程，我们可以将人类从意识到肉体，再到细胞甚至有机分子的各个层面的对象，分别考察其区分、反应与组合的结构。\n\n具备对偶体所强调的存在性、变化性以及可构造性与稳定性的低层构件，一旦参与更高层结构的构建，那么它提供的反应能力，就可能成为高层信息处理的组成部分，为更高层的相互作用提供探测功能，从而能够在与其他范畴构建更高阶范畴时，提供更高效的构建手段。因为一旦有了探测功能，那么构建过程就不再只是随机，而是可以更有组织有效率的进行。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            325,
+            329
+          ],
+          "output_span": [
+            13,
+            13
+          ],
+          "before": "所具备的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            333,
+            333
+          ],
+          "output_span": [
+            17,
+            20
+          ],
+          "before": "",
+          "after": "的研究"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            334,
+            352
+          ],
+          "output_span": [
+            21,
+            25
+          ],
+          "before": "作为意识范畴这一高阶范畴，其实是一种",
+          "after": "需要考察"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            381,
+            388
+          ],
+          "output_span": [
+            54,
+            72
+          ],
+          "before": "是由无数个低阶",
+          "after": "如果尝试用层级构造的语言描述，可以把"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            391,
+            393
+          ],
+          "output_span": [
+            75,
+            79
+          ],
+          "before": "范畴",
+          "after": "及其联系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            395,
+            396
+          ],
+          "output_span": [
+            81,
+            86
+          ],
+          "before": "子",
+          "after": "其中的低层"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            398,
+            415
+          ],
+          "output_span": [
+            88,
+            91
+          ],
+          "before": "，通过神经元链接的态射，构建而成的",
+          "after": "与关系"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            502,
+            507
+          ],
+          "output_span": [
+            178,
+            191
+          ],
+          "before": "对应其态射",
+          "after": "可以作为需要描述的相互作用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            585,
+            590
+          ],
+          "output_span": [
+            269,
+            273
+          ],
+          "before": "从而完成了",
+          "after": "共同参与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            591,
+            597
+          ],
+          "output_span": [
+            274,
+            274
+          ],
+          "before": "类所有有意识",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            600,
+            601
+          ],
+          "output_span": [
+            277,
+            278
+          ],
+          "before": "和",
+          "after": "与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            603,
+            605
+          ],
+          "output_span": [
+            280,
+            280
+          ],
+          "before": "行为",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            636,
+            637
+          ],
+          "output_span": [
+            311,
+            312
+          ],
+          "before": "在",
+          "after": "再"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            655,
+            667
+          ],
+          "output_span": [
+            330,
+            330
+          ],
+          "before": "都可以看作一个具有子对象",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            668,
+            670
+          ],
+          "output_span": [
+            331,
+            343
+          ],
+          "before": "类器",
+          "after": "别考察其区分、反应与组合"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            671,
+            676
+          ],
+          "output_span": [
+            344,
+            346
+          ],
+          "before": "高阶对偶子",
+          "after": "结构"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            677,
+            677
+          ],
+          "output_span": [
+            347,
+            349
+          ],
+          "before": "",
+          "after": "\n\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            681,
+            682
+          ],
+          "output_span": [
+            353,
+            357
+          ],
+          "before": "子",
+          "after": "体所强调"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            686,
+            687
+          ],
+          "output_span": [
+            361,
+            362
+          ],
+          "before": "，",
+          "after": "、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            690,
+            691
+          ],
+          "output_span": [
+            365,
+            365
+          ],
+          "before": "，",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            695,
+            696
+          ],
+          "output_span": [
+            369,
+            370
+          ],
+          "before": "建",
+          "after": "造"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            697,
+            698
+          ],
+          "output_span": [
+            371,
+            372
+          ],
+          "before": "/",
+          "after": "与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            703,
+            706
+          ],
+          "output_span": [
+            377,
+            380
+          ],
+          "before": "阶范畴",
+          "after": "层构件"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            709,
+            714
+          ],
+          "output_span": [
+            383,
+            383
+          ],
+          "before": "作为子对象",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            716,
+            717
+          ],
+          "output_span": [
+            385,
+            386
+          ],
+          "before": "到",
+          "after": "更"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            718,
+            721
+          ],
+          "output_span": [
+            387,
+            390
+          ],
+          "before": "阶范畴",
+          "after": "层结构"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            724,
+            725
+          ],
+          "output_span": [
+            393,
+            393
+          ],
+          "before": "中",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            729,
+            731
+          ],
+          "output_span": [
+            397,
+            405
+          ],
+          "before": "本身",
+          "after": "提供的反应能力，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            733,
+            735
+          ],
+          "output_span": [
+            407,
+            409
+          ],
+          "before": "以作",
+          "after": "能成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            737,
+            741
+          ],
+          "output_span": [
+            411,
+            416
+          ],
+          "before": "阶范畴中",
+          "after": "层信息处理"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            742,
+            745
+          ],
+          "output_span": [
+            417,
+            420
+          ],
+          "before": "子对象",
+          "after": "组成部"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            746,
+            757
+          ],
+          "output_span": [
+            421,
+            421
+          ],
+          "before": "类器中国的关键判断元件",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            759,
+            759
+          ],
+          "output_span": [
+            423,
+            424
+          ],
+          "before": "",
+          "after": "更"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            760,
+            772
+          ],
+          "output_span": [
+            425,
+            428
+          ],
+          "before": "阶范畴提供与其他范畴之间",
+          "after": "层的相"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            773,
+            776
+          ],
+          "output_span": [
+            429,
+            431
+          ],
+          "before": "动时，",
+          "after": "作用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            832,
+            833
+          ],
+          "output_span": [
+            487,
+            490
+          ],
+          "before": "在",
+          "after": "再只是"
+        }
+      ],
+      "retained_characters": 395,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这里需要走完的逻辑链，是从能够产生可区别的反应，走到能够把反应组织起来，再走到能够保存和利用经验。每多一层，并不是简单地给前一层换一个名字，而是要考察新的联系怎样带来新的功能。\n\n例如，一个单独的信号只告诉我们某处发生了变化；把多个信号联系起来，才可能判断物体在移动；再把过去的经验带入，才可能预期它接下来会到哪里。区分、联系、记忆和预测之间的关系，比“有没有一个神秘的意识开关”更容易形成具体研究。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "ORIGINAL",
+      "source_span": [
+        11393,
+        11624
+      ],
+      "source_sha256": "9fe2a23e5ab4541a3e259c0b291e83e01414769c652095fbf64c29cf2cfd6341",
+      "text": "在所有探测功能中，有一个是最原始、最基础也是最特殊的，它可以从一种特殊的区分开始考察——区分**自身**和**外部环境**。这种区分，对于研究一个系统如何维持自身、与环境互动，具有特殊意义。当结构能够根据内外差别改变自己的反应，我们便可以进一步研究它承担了怎样的“观察者”角色，它能将世界区分为“我”和“非我”。我希望沿着这个方向，研究它怎样与人类意识中“我”的概念联系起来，怎样参与自我意识和知识体系的构建。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            11421,
+            11431
+          ],
+          "output_span": [
+            28,
+            31
+          ],
+          "before": "来源于子对象分类器的",
+          "after": "可以从"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11432,
+            11433
+          ],
+          "output_span": [
+            32,
+            33
+          ],
+          "before": "个",
+          "after": "种"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            11435,
+            11435
+          ],
+          "output_span": [
+            35,
+            37
+          ],
+          "before": "",
+          "after": "的区"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11436,
+            11437
+          ],
+          "output_span": [
+            38,
+            42
+          ],
+          "before": "类",
+          "after": "开始考察"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11458,
+            11459
+          ],
+          "output_span": [
+            63,
+            71
+          ],
+          "before": "是",
+          "after": "种区分，对于研究"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11461,
+            11463
+          ],
+          "output_span": [
+            73,
+            98
+          ],
+          "before": "对象",
+          "after": "系统如何维持自身、与环境互动，具有特殊意义。当结构"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11465,
+            11475
+          ],
+          "output_span": [
+            100,
+            110
+          ],
+          "before": "独立参与高阶范畴构建",
+          "after": "根据内外差别改变自己"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11476,
+            11492
+          ],
+          "output_span": [
+            111,
+            113
+          ],
+          "before": "前提条件。在拥有子对象分类器之前",
+          "after": "反应"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            11493,
+            11493
+          ],
+          "output_span": [
+            114,
+            120
+          ],
+          "before": "",
+          "after": "我们便可以进"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11494,
+            11508
+          ],
+          "output_span": [
+            121,
+            127
+          ],
+          "before": "个结构只是被动地存在。在拥有",
+          "after": "步研究它承担"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11509,
+            11526
+          ],
+          "output_span": [
+            128,
+            131
+          ],
+          "before": "这个能力之后，这个结构就成为了一个",
+          "after": "怎样的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            11531,
+            11531
+          ],
+          "output_span": [
+            136,
+            138
+          ],
+          "before": "",
+          "after": "角色"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            11549,
+            11549
+          ],
+          "output_span": [
+            156,
+            161
+          ],
+          "before": "",
+          "after": "我希望沿着"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11551,
+            11581
+          ],
+          "output_span": [
+            163,
+            165
+          ],
+          "before": "功能是所有耗散结构体区别于其他结构、产生互动和竞争的基本机制",
+          "after": "方向"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11582,
+            11584
+          ],
+          "output_span": [
+            166,
+            172
+          ],
+          "before": "也是",
+          "after": "研究它怎样与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11592,
+            11594
+          ],
+          "output_span": [
+            180,
+            181
+          ],
+          "before": "这个",
+          "after": "的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11596,
+            11601
+          ],
+          "output_span": [
+            183,
+            187
+          ],
+          "before": "产生的根源",
+          "after": "联系起来"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            11602,
+            11605
+          ],
+          "output_span": [
+            188,
+            192
+          ],
+          "before": "是人类",
+          "after": "怎样参与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            11610,
+            11614
+          ],
+          "output_span": [
+            197,
+            197
+          ],
+          "before": "所有智慧",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            11618,
+            11618
+          ],
+          "output_span": [
+            201,
+            202
+          ],
+          "before": "",
+          "after": "的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            11620,
+            11623
+          ],
+          "output_span": [
+            204,
+            204
+          ],
+          "before": "的原点",
+          "after": ""
+        }
+      ],
+      "retained_characters": 110,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49500",
+      "source_span": [
+        34,
+        206
+      ],
+      "source_sha256": "184d74ebbb99cb95a0c95201a400f832642c4d27dd4a896017078279480952c2",
+      "text": "“是否存在与观察者无关的绝对事实”，这个问题本身暗示了几个前提：\n\n1. 存在观察者这个对象；\n2. 事实这个对象是可观察的，无论它的自身状态是否与观察者有关。\n\n问题在于，如果我们预设了存在观察者的前提，那么观察者本身难道不是一个存在的事实吗？如果我们自指一下，也许最初的事实其实就是观察者自身？观察者所感知到的第一个事实，就是自身的存在性？",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            50,
+            51
+          ],
+          "output_span": [
+            16,
+            17
+          ],
+          "before": "“",
+          "after": "”"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            52,
+            54
+          ],
+          "output_span": [
+            18,
+            18
+          ],
+          "before": "其实",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            55,
+            57
+          ],
+          "output_span": [
+            19,
+            22
+          ],
+          "before": "句话",
+          "after": "个问题"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            67,
+            67
+          ],
+          "output_span": [
+            32,
+            33
+          ],
+          "before": "",
+          "after": "\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            113,
+            114
+          ],
+          "output_span": [
+            79,
+            81
+          ],
+          "before": "；",
+          "after": "。\n"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            168,
+            169
+          ],
+          "output_span": [
+            135,
+            135
+          ],
+          "before": "早",
+          "after": ""
+        }
+      ],
+      "retained_characters": 165,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "提出这些问题，并不要求把世界归结为“只有我的感受存在”。它要求我们把观察者也纳入研究：观察者怎样形成，怎样改变，被观察的对象怎样影响它，它又怎样把这种影响记录为知识。观察关系本身，也是世界中实际发生的关系。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 抽象与压缩，为什么与理解有关",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49067",
+      "source_span": [
+        31,
+        444
+      ],
+      "source_sha256": "a87225d0098f3b05d90781464dc25c5917d4f8cfef8d0a00db661cfa8e115e7b",
+      "text": "一个智能体所具备的智能究竟是什么？为什么在描述人类或 AI 的学习与推理时，会用到大量向量与矩阵运算，人类文明在最早期的智能活动，就是发明了语言文字以及最初的算术和数学方程，除了显而易见的数学部分，哪怕是语言文字部分，这些对象也可以从分量组合的角度来描述，比如把声母与韵母当作不同的描述分量，组合起来刻画音节。有人说智能的本质是抽象/压缩，其实无论是拼音文字还是数学平面上的坐标点（x，y），通过较少分量描述丰富组合的方式，使我想到抽象与压缩的关系。从这个视角看，智能的一项重要能力似乎就是从一个高维复杂对象空间中的某个高阶范畴中的复杂结构，分解为不同低阶范畴分量轴坐标所组成的向量，再通过分解与组合，进行归纳、推理、学习和实践，从某种意义上讲，智能的重要方向之一，就是寻找更有效的抽象与压缩方式。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            52,
+            52
+          ],
+          "output_span": [
+            21,
+            23
+          ],
+          "before": "",
+          "after": "描述"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            54,
+            55
+          ],
+          "output_span": [
+            25,
+            27
+          ],
+          "before": "/",
+          "after": "或 "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            57,
+            59
+          ],
+          "output_span": [
+            29,
+            30
+          ],
+          "before": "这样",
+          "after": " "
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            60,
+            75
+          ],
+          "output_span": [
+            31,
+            31
+          ],
+          "before": "智能体所蕴含的智能在动态演化（",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            77,
+            78
+          ],
+          "output_span": [
+            33,
+            34
+          ],
+          "before": "/",
+          "after": "与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            80,
+            84
+          ],
+          "output_span": [
+            36,
+            37
+          ],
+          "before": "）过程中",
+          "after": "时"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            85,
+            98
+          ],
+          "output_span": [
+            38,
+            41
+          ],
+          "before": "其数学模型为什么涉及了这些",
+          "after": "会用到"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            100,
+            101
+          ],
+          "output_span": [
+            43,
+            43
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            103,
+            104
+          ],
+          "output_span": [
+            45,
+            46
+          ],
+          "before": "/",
+          "after": "与"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            171,
+            171
+          ],
+          "output_span": [
+            113,
+            121
+          ],
+          "before": "",
+          "after": "也可以从分量组合"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            172,
+            183
+          ],
+          "output_span": [
+            122,
+            127
+          ],
+          "before": "本质，也是一种向量对象",
+          "after": "角度来描述"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            186,
+            192
+          ],
+          "output_span": [
+            130,
+            131
+          ],
+          "before": "拼音文字中的",
+          "after": "把"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            194,
+            195
+          ],
+          "output_span": [
+            133,
+            134
+          ],
+          "before": "和",
+          "after": "与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            197,
+            199
+          ],
+          "output_span": [
+            136,
+            136
+          ],
+          "before": "就相",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            200,
+            217
+          ],
+          "output_span": [
+            137,
+            138
+          ],
+          "before": "于语音平面中的x，y坐标轴，每一个",
+          "after": "作"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            220,
+            220
+          ],
+          "output_span": [
+            141,
+            152
+          ],
+          "before": "",
+          "after": "描述分量，组合起来刻画"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            222,
+            234
+          ],
+          "output_span": [
+            154,
+            154
+          ],
+          "before": "，就是这个语音平面上的点",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            276,
+            282
+          ],
+          "output_span": [
+            196,
+            208
+          ],
+          "before": "这种积/余积",
+          "after": "通过较少分量描述丰富组合"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            283,
+            290
+          ],
+          "output_span": [
+            209,
+            211
+          ],
+          "before": "双积体系的建模",
+          "after": "方式"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            291,
+            299
+          ],
+          "output_span": [
+            212,
+            219
+          ],
+          "before": "似乎就是那个最大",
+          "after": "使我想到抽象与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            301,
+            311
+          ],
+          "output_span": [
+            221,
+            224
+          ],
+          "before": "率模型/最小抽象模型",
+          "after": "的关系"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            312,
+            312
+          ],
+          "output_span": [
+            225,
+            232
+          ],
+          "before": "",
+          "after": "从这个视角看，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            315,
+            317
+          ],
+          "output_span": [
+            235,
+            241
+          ],
+          "before": "本质",
+          "after": "一项重要能力"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            368,
+            370
+          ],
+          "output_span": [
+            292,
+            293
+          ],
+          "before": "然后",
+          "after": "再"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            372,
+            379
+          ],
+          "output_span": [
+            295,
+            300
+          ],
+          "before": "积和余积的操作",
+          "after": "分解与组合"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            380,
+            394
+          ],
+          "output_span": [
+            301,
+            303
+          ],
+          "before": "实现拉回和推出，还原和涌现，",
+          "after": "进行"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            396,
+            397
+          ],
+          "output_span": [
+            305,
+            306
+          ],
+          "before": "和",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            399,
+            400
+          ],
+          "output_span": [
+            308,
+            309
+          ],
+          "before": "，",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            416,
+            416
+          ],
+          "output_span": [
+            325,
+            333
+          ],
+          "before": "",
+          "after": "的重要方向之一，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            420,
+            424
+          ],
+          "output_span": [
+            337,
+            341
+          ],
+          "before": "这个最佳",
+          "after": "更有效的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            426,
+            427
+          ],
+          "output_span": [
+            343,
+            344
+          ],
+          "before": "/",
+          "after": "与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            429,
+            444
+          ],
+          "output_span": [
+            346,
+            349
+          ],
+          "before": "的能力，这个压缩/抽象的过程，",
+          "after": "方式。"
+        }
+      ],
+      "retained_characters": 248,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "学会一个词，并不只是把许多经历删掉，只留下几个字。真正有用的抽象，需要使人在新的场景中认出相关关系，并据此行动。知道“杯子”这个概念，既能把不同形状的器物归在一起，也能帮助判断什么可以盛水、什么不适合拿来盛热水。\n\n压缩如果丢掉了任务所需要的区别，就会损害理解；抽象如果保留了恰当的关系，就能使有限的记忆支持更多新的组合。所以，压缩率不是唯一目的，压缩之后还能恢复什么、预测什么、构造什么，同样关键。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 自我驱动，为什么不能只靠等待别人提问",
+      "reason": "节标题"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49196",
+      "source_span": [
+        17,
+        435
+      ],
+      "source_sha256": "d1d946527cae216456c8fc0a648c93ce92d68dbd815d74590007772a79bc67bd",
+      "text": "人与被动工具的一项区别，在于主动性，这种主动性是一种自我驱动，就像代码的自我迭代功能一样，代码是这种迭代功能的静态表达，不是动态执行。单纯等待输入再给出回复的 AI 对话方式，缺少持续自我驱动的机制。拿一次由人发起、模型响应的聊天来说，主动发起者是人，模型响应输入，就像电脑手机汽车和各种工具一样。人机对话的上下文，在系统中有一份，在人的记忆中也有一份，不同的是，我还有一个对话的上下文，就是我和我自己的对话，里面都是我自己的思考，包括看书获得的固有的静态知识，类似模型中已经学习的知识，但是还有我从与他人的聊天上下文中提取的引起我注意力的内容，也有我和其他人或者影视书籍，以及通过感官获取的各种记忆上下文中引起我注意力的内容，这种自我注意力机制，会不断的将自己感兴趣的内容，添加到一个属于自己的，自我对话的上下文，或者叫自我反思上下文，在这个上下文中不断的聊天，并根据新的摄入的内容，调整压缩上下文，这种持续的自我对话，也许是理解自我意识的一条线索。",
+      "edits": [
+        {
+          "operation": "insert",
+          "source_span": [
+            17,
+            17
+          ],
+          "output_span": [
+            0,
+            4
+          ],
+          "before": "",
+          "after": "人与被动"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            19,
+            21
+          ],
+          "output_span": [
+            6,
+            6
+          ],
+          "before": "和人",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            22,
+            22
+          ],
+          "output_span": [
+            7,
+            9
+          ],
+          "before": "",
+          "after": "一项"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            27,
+            31
+          ],
+          "output_span": [
+            14,
+            14
+          ],
+          "before": "是否具有",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            84,
+            84
+          ],
+          "output_span": [
+            67,
+            80
+          ],
+          "before": "",
+          "after": "单纯等待输入再给出回复的 "
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            86,
+            98
+          ],
+          "output_span": [
+            82,
+            92
+          ],
+          "before": "大模型最大的问题就是没有",
+          "after": " 对话方式，缺少持续"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            103,
+            106
+          ],
+          "output_span": [
+            97,
+            97
+          ],
+          "before": "原动力",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            110,
+            114
+          ],
+          "output_span": [
+            101,
+            112
+          ],
+          "before": "你我之间",
+          "after": "一次由人发起、模型响应"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            120,
+            125
+          ],
+          "output_span": [
+            118,
+            118
+          ],
+          "before": "这个对话的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            130,
+            132
+          ],
+          "output_span": [
+            123,
+            123
+          ],
+          "before": "永远",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            133,
+            134
+          ],
+          "output_span": [
+            124,
+            125
+          ],
+          "before": "我",
+          "after": "人"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            135,
+            141
+          ],
+          "output_span": [
+            126,
+            128
+          ],
+          "before": "你只是被动的",
+          "after": "模型"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            143,
+            143
+          ],
+          "output_span": [
+            130,
+            132
+          ],
+          "before": "",
+          "after": "输入"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            170,
+            176
+          ],
+          "output_span": [
+            159,
+            162
+          ],
+          "before": "你的记忆那里",
+          "after": "系统中"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            181,
+            182
+          ],
+          "output_span": [
+            167,
+            168
+          ],
+          "before": "我",
+          "after": "人"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            185,
+            187
+          ],
+          "output_span": [
+            171,
+            172
+          ],
+          "before": "这里",
+          "after": "中"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            246,
+            251
+          ],
+          "output_span": [
+            231,
+            233
+          ],
+          "before": "就像你的大",
+          "after": "类似"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            253,
+            254
+          ],
+          "output_span": [
+            235,
+            235
+          ],
+          "before": "库",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            255,
+            255
+          ],
+          "output_span": [
+            236,
+            240
+          ],
+          "before": "",
+          "after": "已经学习"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            256,
+            258
+          ],
+          "output_span": [
+            241,
+            241
+          ],
+          "before": "静态",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            267,
+            269
+          ],
+          "output_span": [
+            250,
+            253
+          ],
+          "before": "和你",
+          "after": "与他人"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            417,
+            417
+          ],
+          "output_span": [
+            401,
+            411
+          ],
+          "before": "",
+          "after": "这种持续的自我对话，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            419,
+            421
+          ],
+          "output_span": [
+            413,
+            413
+          ],
+          "before": "这就",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            422,
+            425
+          ],
+          "output_span": [
+            414,
+            416
+          ],
+          "before": "人类的",
+          "after": "理解"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            429,
+            430
+          ],
+          "output_span": [
+            420,
+            420
+          ],
+          "before": "中",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            431,
+            435
+          ],
+          "output_span": [
+            421,
+            426
+          ],
+          "before": "灵魂吧？",
+          "after": "一条线索。"
+        }
+      ],
+      "retained_characters": 350,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49196",
+      "source_span": [
+        435,
+        534
+      ],
+      "source_sha256": "65e185b27534055c685dacaa4f0f466fe03addb48df19e95c54e5b924be998ff",
+      "text": "AI 系统的设计，可以尝试采用这种方式，建立一个全局的自我对话的上下文，然后从不同交流与观察的上下文中，根据当前关心的问题，提取认为有价值的内容，放到自己的上下文中，主动发起聊天，自我对话。",
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            435,
+            441
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "我觉得现在的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            443,
+            446
+          ],
+          "output_span": [
+            2,
+            5
+          ],
+          "before": "大模型",
+          "after": " 系统"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            449,
+            451
+          ],
+          "output_span": [
+            8,
+            8
+          ],
+          "before": "方式",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            454,
+            454
+          ],
+          "output_span": [
+            11,
+            13
+          ],
+          "before": "",
+          "after": "尝试"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            455,
+            456
+          ],
+          "output_span": [
+            14,
+            15
+          ],
+          "before": "取",
+          "after": "用"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            479,
+            485
+          ],
+          "output_span": [
+            38,
+            41
+          ],
+          "before": "所有与其他人",
+          "after": "从不同"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            487,
+            487
+          ],
+          "output_span": [
+            43,
+            46
+          ],
+          "before": "",
+          "after": "与观察"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            495,
+            497
+          ],
+          "output_span": [
+            54,
+            58
+          ],
+          "before": "自己",
+          "after": "当前关心"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            498,
+            501
+          ],
+          "output_span": [
+            59,
+            62
+          ],
+          "before": "注意力",
+          "after": "问题，"
+        }
+      ],
+      "retained_characters": 76,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "可以设想，一个系统在阅读时发现某个问题没有解决，并不立即把它丢在一次聊天的结尾，而是保留为以后继续研究的线索。下一次获得相关材料，它能够发现联系，重新检查原有判断，或者提出一个可以帮助区分答案的实验。这样，新的输入就不只是触发一段孤立的回复，而是进入持续的活动。\n\n不过，自己不断说话，并不等于不断获得知识。如果一个系统只把自己的猜测喂给自己，又把重复出现当成证据，它可能越来越确信原来的错误。因此，自我反思还需要连接外部观察、不同观点和实际行动的结果。主动性与反馈必须一起设计。",
+      "reason": "衔接、展开或例证"
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "R49196",
+      "source_span": [
+        904,
+        1143
+      ],
+      "source_sha256": "04fb93837644e9d4c6118494eb1b62f4f2397569b3dd974ec784adb71df716f4",
+      "text": "一方面，丰富的联系可能产生新的功能；另一方面，持续自我对话中的反省，使我们能够进一步研究持续自指与稳定结构的关系。我关心的是，一个能够研究自身边界的系统，能否在此基础上继续构造新的能力。持续的自我对话，可能是这种构造过程的一部分。如果未来的AI大模型，能自我维护这样一个自我对话的上下文，并把经过检验的新经验用于后续学习，也许效果要比现在的AI大模型训练方式更好，这值得通过具体系统来研究。",
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            908,
+            928
+          ],
+          "output_span": [
+            4,
+            11
+          ],
+          "before": "more is different，量变",
+          "after": "丰富的联系可能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            930,
+            933
+          ],
+          "output_span": [
+            13,
+            18
+          ],
+          "before": "质变，",
+          "after": "新的功能；"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            935,
+            936
+          ],
+          "output_span": [
+            20,
+            20
+          ],
+          "before": "个",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            939,
+            939
+          ],
+          "output_span": [
+            23,
+            25
+          ],
+          "before": "",
+          "after": "持续"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            943,
+            943
+          ],
+          "output_span": [
+            29,
+            30
+          ],
+          "before": "",
+          "after": "中"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            944,
+            946
+          ],
+          "output_span": [
+            31,
+            31
+          ],
+          "before": "动态",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            948,
+            950
+          ],
+          "output_span": [
+            33,
+            33
+          ],
+          "before": "对话",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            951,
+            954
+          ],
+          "output_span": [
+            34,
+            61
+          ],
+          "before": "本身就",
+          "after": "使我们能够进一步研究持续自指与稳定结构的关系。我关心的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            955,
+            955
+          ],
+          "output_span": [
+            62,
+            63
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            957,
+            964
+          ],
+          "output_span": [
+            65,
+            69
+          ],
+          "before": "相当于范畴论中",
+          "after": "能够研究"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            965,
+            966
+          ],
+          "output_span": [
+            70,
+            73
+          ],
+          "before": "指",
+          "after": "身边界"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            967,
+            1009
+          ],
+          "output_span": [
+            74,
+            74
+          ],
+          "before": "不动点。我不记得是否之前跟你提过我的一个想法，就是哥德尔不完备性定理，本身描述的不是",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1011,
+            1011
+          ],
+          "output_span": [
+            76,
+            89
+          ],
+          "before": "",
+          "after": "，能否在此基础上继续构造新"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1012,
+            1021
+          ],
+          "output_span": [
+            90,
+            95
+          ],
+          "before": "不完备性，而是系统",
+          "after": "能力。持续"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1022,
+            1046
+          ],
+          "output_span": [
+            96,
+            96
+          ],
+          "before": "可涌现性，而那个不动点就是涌现点。所以我说的那个",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1050,
+            1054
+          ],
+          "output_span": [
+            100,
+            100
+          ],
+          "before": "的上下文",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1055,
+            1058
+          ],
+          "output_span": [
+            101,
+            103
+          ],
+          "before": "也许就",
+          "after": "可能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1060,
+            1068
+          ],
+          "output_span": [
+            105,
+            114
+          ],
+          "before": "个不动点/涌现点",
+          "after": "种构造过程的一部分"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1099,
+            1116
+          ],
+          "output_span": [
+            145,
+            160
+          ],
+          "before": "定期将这些上下文喂给自己，自我训练",
+          "after": "把经过检验的新经验用于后续学习"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1138,
+            1140
+          ],
+          "output_span": [
+            182,
+            184
+          ],
+          "before": "你觉",
+          "after": "这值"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1141,
+            1143
+          ],
+          "output_span": [
+            185,
+            195
+          ],
+          "before": "呢？",
+          "after": "通过具体系统来研究。"
+        }
+      ],
+      "retained_characters": 89,
+      "author_assessment": "作者发言；已人工区分嵌入的 AI 回复"
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "由此，意识与智能的研究就与整套构造框架接在一起了。稳定的记忆使经验能够积累，区别与抽象使经验能够被使用，行动和反馈使已有知识能够改变，而与其他智能体的交流又扩大了可利用的经验范围。\n\n当多个这样的个体相互联系时，问题会进一步改变：它们怎样形成合作，怎样处理不同判断，怎样把各自的经验变成共同能力？个体智能与社会组织之间的联系，需要从这些具体关系继续展开。",
+      "reason": "衔接、展开或例证"
+    }
+  ]
+}
