@@ -1,0 +1,31 @@
+{
+  "chapter_cjk_characters": 14572,
+  "combined_cjk_characters": 98361,
+  "previous_chapter_cjk": 11434,
+  "body_unicode_characters": 16716,
+  "source_adapted_characters": 6841,
+  "literal_aligned_source_characters": 4621,
+  "source_blocks": 42,
+  "editorial_blocks": 37,
+  "source_entries_used": [
+    "CREDIT-REQUEST",
+    "INTELLIGENCE-REQUEST",
+    "MATH-REQUEST",
+    "R1857",
+    "R34488",
+    "R34496",
+    "R34499",
+    "R34511",
+    "R46621",
+    "R46622",
+    "R54886",
+    "SEED-R14-0",
+    "SEED-R16-0"
+  ],
+  "retained_previous_passages": 79,
+  "new_body_characters": 3763,
+  "new_literal_aligned_source_characters": 332,
+  "chapter_sha256": "825898cad9ec48ec6e66458409199a61995380100bd659f6db9308a6b0315b11",
+  "combined_sha256": "7f6daf93e6f9568cb944571db07b61cf252174b32588de3dcfb75b78f325465a",
+  "boundary": "Source-adapted does not mean verbatim; first-person editorial writing does not assert author acceptance."
+}
