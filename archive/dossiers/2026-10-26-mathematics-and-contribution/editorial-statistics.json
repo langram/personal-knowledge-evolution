@@ -1,0 +1,25 @@
+{
+  "chapter_cjk_characters": 8013,
+  "combined_cjk_characters": 91802,
+  "body_unicode_characters": 9007,
+  "source_adapted_characters": 4156,
+  "literal_aligned_source_characters": 3165,
+  "source_blocks": 22,
+  "editorial_blocks": 18,
+  "source_entries_used": [
+    "MATH-REQUEST",
+    "R1857",
+    "R34488",
+    "R34496",
+    "R34499",
+    "R34511",
+    "R46621",
+    "R46622",
+    "R54886",
+    "SEED-R14-0",
+    "SEED-R16-0"
+  ],
+  "chapter_sha256": "02d2cf4f249f9d552740aee1d4a5d0f574138451c4fe2e6554a61df03d9f4d06",
+  "combined_sha256": "0d6ed5767acdf2449ef3d4045b8854c1880a6aa4b31172945aadc40f79eca8d2",
+  "boundary": "Source-adapted is not verbatim; literal alignment includes punctuation and is not authorship or acceptance proof."
+}

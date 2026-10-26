@@ -1,0 +1,16 @@
+{
+  "schema": "mathematics-chapter.insertion@1",
+  "baseline_file": "dossiers\\2026-10-26-new-principles-expanded\\01-manuscript.md",
+  "baseline_sha256": "5bf4a465f5a4ef146c785719c4f8f96e9af5e9bc2a8f728bb63c3bbf5493bcf3",
+  "insert_at_codepoint": 95066,
+  "insert_at_utf8_byte": 275122,
+  "inserted_bytes": 26852,
+  "inserted_characters": 9294,
+  "chapter_file": "01-chapter.md",
+  "combined_file": "02-new-principles.md",
+  "chapter_sha256": "02d2cf4f249f9d552740aee1d4a5d0f574138451c4fe2e6554a61df03d9f4d06",
+  "combined_sha256": "0d6ed5767acdf2449ef3d4045b8854c1880a6aa4b31172945aadc40f79eca8d2",
+  "placement": "after 科学、教育与文明的持续创造; before 后记",
+  "prior_body_unchanged": true,
+  "author_acceptance": false
+}
