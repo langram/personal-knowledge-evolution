@@ -1,0 +1,58 @@
+[
+  {
+    "path": "work\\chatgpt-theory-hits.json",
+    "reason": "working search or native transcript cache"
+  },
+  {
+    "path": "work\\claude-existing-draft.txt",
+    "reason": "working search or native transcript cache"
+  },
+  {
+    "path": "work\\new-principles-title-hits.json",
+    "reason": "working search or native transcript cache"
+  },
+  {
+    "path": "work\\theory-context-hits.json",
+    "reason": "working search or native transcript cache"
+  },
+  {
+    "path": "work\\theory-recent-events.json",
+    "reason": "working search or native transcript cache"
+  },
+  {
+    "path": "work\\gemini-capture-probe-a929706f\\capture\\capture-summary-20261024T074612.069216Z-b1afc514.json",
+    "reason": "working search or native transcript cache"
+  },
+  {
+    "path": "work\\gemini-capture-probe-a929706f\\corrupt-capture\\capture-summary-20261024T074612.104148Z-81a16553.json",
+    "reason": "working search or native transcript cache"
+  },
+  {
+    "path": "work\\new-principles\\inventory.json",
+    "reason": "derived retrieval or external capture cache"
+  },
+  {
+    "path": "work\\public-intelligence\\web-captures.json",
+    "reason": "derived retrieval or external capture cache"
+  },
+  {
+    "path": "work\\public-intelligence\\web\\gnu-initial.json",
+    "reason": "derived retrieval or external capture cache"
+  },
+  {
+    "path": "work\\public-intelligence\\web\\gnu-selling.json",
+    "reason": "derived retrieval or external capture cache"
+  },
+  {
+    "path": "work\\public-intelligence\\web\\inference-energy.json",
+    "reason": "derived retrieval or external capture cache"
+  },
+  {
+    "path": "work\\public-intelligence\\web\\jefferson.json",
+    "reason": "derived retrieval or external capture cache"
+  },
+  {
+    "path": "work\\public-intelligence\\web\\quotation-attribution.json",
+    "reason": "derived retrieval or external capture cache"
+  }
+]

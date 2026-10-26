@@ -1,0 +1,36 @@
+{
+  "boundary": "Public conversation and editorial projection, not a byte-complete raw backup. All preserved editorial versions are included; overwritten/unrecorded intermediate edits cannot be reconstructed.",
+  "catalog_events": 212357,
+  "editorial_objects": 1596,
+  "events_by_platform": {
+    "chatgpt": 8240,
+    "claude-ai": 2085,
+    "claude-ai-memory": 16,
+    "claude-ai-project": 21,
+    "claude-code": 3706,
+    "claude-code-memory": 16,
+    "codex-local": 140947,
+    "gemini": 2870
+  },
+  "gemini_html_projections": 1443,
+  "native_codex_channels": {
+    "None": 140947
+  },
+  "omission_counts": {
+    "no-publishable-text": 21511,
+    "non-conversation-record": 20975,
+    "tool-or-internal-record": 11970
+  },
+  "omitted_events": 54456,
+  "public_objects": 357542,
+  "published_events": 157901,
+  "raw_backup_public": false,
+  "record_kinds": {
+    "conversation": 157697,
+    "material": 204
+  },
+  "redacted_entries": 22,
+  "schema": "pkst-public/coverage@1",
+  "source_blocks_cid_verified": 408086,
+  "source_snapshot": "bafyreib6ixs2it5nxvg7j2gfhgnxrrnardp24qwg2nes6eemfr5zyl5ide"
+}

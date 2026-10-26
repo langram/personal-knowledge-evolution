@@ -1,0 +1,252 @@
+[
+  {
+    "findings": [
+      {
+        "characters": 14,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreiewsakoafervzjn2bdkvaoldefuqss2ivnwleizm5k5b4thme7lhm",
+    "public_cid": "bafyreieqp2id7qz3nlzw24gikcwsikokupg5otlzp2rpivqnjee35s7yxa",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 14,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreidnkuzgnufqwztlk7hjnjjm7eswbziwz7yysvou2sw64op6hwx6ae",
+    "public_cid": "bafyreihf7o6y3g5fww6kqjbbjh5ik6l6yyhp4iq5ctumecevdnigf67dpi",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 14,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreie5uzhtklqajd3xkzdxqj6fognro2ja5gkt7qd6qulbvdgayj4jo4",
+    "public_cid": "bafyreiga3q3ondnn65cmjg4nnrdotvbicnl5xb7cimrrsghugs6oxuj4yu",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 14,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreicbufaer2ahjvghjumjw3q2ewg75n6glkqyv727ijkb6rsrvwyqfi",
+    "public_cid": "bafyreicucmc2rzsr4zcfh3vbganx47wplwjef5ono4n2dpix2c3lmolfu4",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 14,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreigvw64vhyce3e5qkoooiour3u3vvmqx67ssg467wtaf2lxgyt44tu",
+    "public_cid": "bafyreid5bikj2yjbxltm3iwp6ayc2hxwvtlmc6ptqdclyaqjpwzr6ep3oy",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 14,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreif33dkr5tydu2zx4oqgwg77cj66vmxtahl6dtijn4ws2cauksgjc4",
+    "public_cid": "bafyreifoy4brzgorz7fim5cscnwwsd7qlsnk6env73nrlhb7nypvl3jev4",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 267,
+        "kind": "signed-url"
+      }
+    ],
+    "original_cid": "bafyreiaem2kj67s5mob2zkobs5gxm36invsi3w72tmbrdd3rbzvixqrf4e",
+    "public_cid": "bafyreiawoimlbfdn4yf44ivhc43kwf2uhbs5vsbhg5dfpwzdsnohoc2ubm",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 7,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreiazztnhez4cwrhxnrwyv4mrqa64ke2nbpvkowltwyxriayf3xlawm",
+    "public_cid": "bafyreihknmt3mvld25ffw5bvkgkvjfdjuejsczliupx6nbvzeqkgnhf6i4",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 14,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreidkns354pexonohodm5il5kcpmd4dxdvtigf3q4uznvw4qjgp376u",
+    "public_cid": "bafyreiaxbd7tpbpfe2mft3gl7lqv75fmmkoyq6hhwx76e5lvlyhh4z6wou",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 14,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreihaqyx2klj5rwm3vedpkldhsyq4i7qd3xvitroqcbpgfmpejom2eu",
+    "public_cid": "bafyreifkrd4f335v425e76fdhsbnkkuxoimnuqcc5pgg4p3vp3becykcaq",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 19,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreid4q75uar7a65ev7wrpwshlltlbapaxcxlx5flnf4nrzxesgbul6u",
+    "public_cid": "bafyreigs5hsk3k343dn27qvw7ilnrv3fjepgbkgcfjw7eza6kcujlzwbsu",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 8,
+        "kind": "credential-value"
+      },
+      {
+        "characters": 8,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreiawzt7rzvdxesjvs4albyk2r2xrnv3oc4dr7w4qv6mwm5pwkn4sfu",
+    "public_cid": "bafyreiel4eyi4bsrgcvvujbaqquglx73dn3fh4hgnzrcedv42fr7m4tmaa",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 8,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreifefnh2xxtpldhdizckhi27jyukm74ubcfoz3o2u45miv4gefpoku",
+    "public_cid": "bafyreieaxrvzyfdthnw44gaunwj7fjrvayzxzaxhqu6gsrqy5endqhwb2i",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 14,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreihkm5pg2ezgakzzi6plnslqhvvmx4xpl7ozw2au2upkpkjxg3pwra",
+    "public_cid": "bafyreiephprfk73xqukyycecuoywfzk6lh5pklfzprk7sxh4obwtjgxqoi",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 15,
+        "kind": "credential-value"
+      },
+      {
+        "characters": 42,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreid5ll2mze6fga7toi6at3f4yc3cytwl4p7jhrtyje2cgduczylbzu",
+    "public_cid": "bafyreid7j5rkpbe2wz3hejpyvtjmrdo7ibgwi47xzurfj4kr7zaivoqeoq",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 10,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreicj5no7nvzbs26lfitn2uu7bg74cwudsvmck72pfoozmen7r7azta",
+    "public_cid": "bafyreiejcoepcm7bstbyo44szygl5uvfqjz7awjidln2t5ggdh4xah2mgq",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 19,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreicrmggdaducciccxaouii4x6k4oh6pksrhnipngtea2efof5lgv3e",
+    "public_cid": "bafyreigfrjxc6qus6hoscztkiru6jhrx7nfq4s5saymlzesqasudi54eza",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 14,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreib5xjp5wz4vgke7dihu23zjqxgyx7papjlmz6laujdgvr6bwsrv5i",
+    "public_cid": "bafyreibdbfzdwfmgkgvrlfvzs4gyvfjhf4fqp2zvvrq4iviqgxxr6pd5ou",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 8,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreigvsi6pfg62aj6beztcfha5lmwtjlraihaw7zo76isdwb7yyl7a3m",
+    "public_cid": "bafyreic4q6xkwvwxb37xz3iheown23hy7mnjoclhaf52dl56jhdug6ji3m",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 14,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreiaaa77mxu75cl6gxm4r26bibjpomoam7wwlixrff7zhoytzolyjry",
+    "public_cid": "bafyreih65roq7z77yx5d5r23yb53vxv4gbda6mskkvulrwf65zttazdnby",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 8,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreihvoiwjbb4ad536tlt6sdoba56x5nczzj2cvgg5akwobcggoarjou",
+    "public_cid": "bafyreicb3zcx3yiio6ckaggrry7fi7smqkynnbbgr2ewsz5xxtz2kf6coq",
+    "source_kind": "content"
+  },
+  {
+    "findings": [
+      {
+        "characters": 8,
+        "kind": "credential-value"
+      }
+    ],
+    "original_cid": "bafyreiattsv637pg6ccc3qembfnofvmcqf2mvzqvwpphzgedciokpkalni",
+    "public_cid": "bafyreidcqrl4e7xauohyxxfhhodryqxgq5ngmbryo7aznohmwnwgtesp3q",
+    "source_kind": "content"
+  }
+]

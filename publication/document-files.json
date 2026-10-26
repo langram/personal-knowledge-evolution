@@ -1,0 +1,4418 @@
+[
+  {
+    "path": "archive/README.md",
+    "source_sha256": "6b13b3e4d38f56e80fe540a4a8f7aaf8dacb91e9c14c8492628232d1c03ff11c",
+    "public_sha256": "6b13b3e4d38f56e80fe540a4a8f7aaf8dacb91e9c14c8492628232d1c03ff11c",
+    "bytes": 15985,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/ACK-FILE-TEXT-0.1.md",
+    "source_sha256": "d4eb7ae2e1ec6d02a96037ed41c51c5afaa104b1adcc660a8c1112ed3f8a6ca7",
+    "public_sha256": "d4eb7ae2e1ec6d02a96037ed41c51c5afaa104b1adcc660a8c1112ed3f8a6ca7",
+    "bytes": 3316,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/ACK-GEMINI-0.1.1.md",
+    "source_sha256": "5eeef6e98dea4a995b4c40876e1ba046cc73a8bb9189684be2e1a218fbe9841a",
+    "public_sha256": "5eeef6e98dea4a995b4c40876e1ba046cc73a8bb9189684be2e1a218fbe9841a",
+    "bytes": 2311,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/ACK-N3.1.md",
+    "source_sha256": "5e00bc5cd9af545fe53dc8513e333ca6ca6b483f6d020bf0e0e6e6a730e5819a",
+    "public_sha256": "5e00bc5cd9af545fe53dc8513e333ca6ca6b483f6d020bf0e0e6e6a730e5819a",
+    "bytes": 7250,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/ACK-N3.md",
+    "source_sha256": "6017a6b13a5b6461d87b85a29933ea60913934cd725c764ec48a3b51c3e21b57",
+    "public_sha256": "6017a6b13a5b6461d87b85a29933ea60913934cd725c764ec48a3b51c3e21b57",
+    "bytes": 4605,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/ACK-SEMANTIC-PAIRS-2.md",
+    "source_sha256": "3ed7d92e8ee7f346b77f55c85984e4207114a5258cba678ffb800bcf48d2fb09",
+    "public_sha256": "3ed7d92e8ee7f346b77f55c85984e4207114a5258cba678ffb800bcf48d2fb09",
+    "bytes": 3084,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/capture-summary-20261024T070542Z-9b144706.json",
+    "source_sha256": "edf8894b56238d04f5ed4d67592b3105e710a482321807a4f989a3605f1fb68a",
+    "public_sha256": "edf8894b56238d04f5ed4d67592b3105e710a482321807a4f989a3605f1fb68a",
+    "bytes": 2225,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/capture_claude_ai.py",
+    "source_sha256": "7df1499940e0356089622b576adea1ec606c1fe378426ef6ebcae2e0d7cb2473",
+    "public_sha256": "7df1499940e0356089622b576adea1ec606c1fe378426ef6ebcae2e0d7cb2473",
+    "bytes": 5019,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/capture_claude_windows.py",
+    "source_sha256": "266cc317ac61ae278385708122d1d3725bc284d3614e953d1de0da54a6113ca1",
+    "public_sha256": "266cc317ac61ae278385708122d1d3725bc284d3614e953d1de0da54a6113ca1",
+    "bytes": 7009,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/capture_mac_main.py",
+    "source_sha256": "dec15991da281cde05d49002e2f5bb9200f83148c517beb99457df40a856373a",
+    "public_sha256": "dec15991da281cde05d49002e2f5bb9200f83148c517beb99457df40a856373a",
+    "bytes": 3730,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/capture_mac_supplement.py",
+    "source_sha256": "5ad309e9c2f884d92e309f5a374ececc9a5d8cfd419b810e4edb30d2c9e266ec",
+    "public_sha256": "5ad309e9c2f884d92e309f5a374ececc9a5d8cfd419b810e4edb30d2c9e266ec",
+    "bytes": 6833,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/claude-ai-anchor-verification-0.1.1.json",
+    "source_sha256": "899e31c1d5e997fa17d3d1f238f0fe490906d7af0d7b21f2fc0e5d38d82a8e93",
+    "public_sha256": "899e31c1d5e997fa17d3d1f238f0fe490906d7af0d7b21f2fc0e5d38d82a8e93",
+    "bytes": 1035,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/claude-ai-anchor-verification.json",
+    "source_sha256": "85910b39fc94627bb3cd3a55c2d17a45f598a270d7fb668e41a0e1aee076871c",
+    "public_sha256": "85910b39fc94627bb3cd3a55c2d17a45f598a270d7fb668e41a0e1aee076871c",
+    "bytes": 989,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/claude-ai-capture-summary-20261024T081127Z.json",
+    "source_sha256": "9802d6d8a1eaa566cbbb2c3740c3538a4bdc58f7869390715804d7404f24e25c",
+    "public_sha256": "9802d6d8a1eaa566cbbb2c3740c3538a4bdc58f7869390715804d7404f24e25c",
+    "bytes": 3481,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/claude-ai-conversion-summary-20261024T081537Z.json",
+    "source_sha256": "f04c2b781f06650756566401fd4b69e8d08a600fe0369462cabad96a00ccaa34",
+    "public_sha256": "f04c2b781f06650756566401fd4b69e8d08a600fe0369462cabad96a00ccaa34",
+    "bytes": 1937,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/claude-ai-conversion-summary-20261024T081738Z.json",
+    "source_sha256": "a2bedd1636bcb9b04da3bda3c72b30a44767219e47dcf5b920841edb2a250019",
+    "public_sha256": "a2bedd1636bcb9b04da3bda3c72b30a44767219e47dcf5b920841edb2a250019",
+    "bytes": 1932,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/CLAUDE-AI-EXPORT-0.1-proposal.md",
+    "source_sha256": "d2128e5460cd31becfa68a71fb07e16d9a239d0de21b5477ad86fafb0a916d1d",
+    "public_sha256": "d2128e5460cd31becfa68a71fb07e16d9a239d0de21b5477ad86fafb0a916d1d",
+    "bytes": 8710,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/CLAUDE-AI-EXPORT-0.1.1.md",
+    "source_sha256": "9c6f50f6ce932416b8f0ac62271bb0ef82ad81676df28611015b582e91a852a7",
+    "public_sha256": "9c6f50f6ce932416b8f0ac62271bb0ef82ad81676df28611015b582e91a852a7",
+    "bytes": 5033,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/claude_import_n3.py",
+    "source_sha256": "1cf9c4dff0faf0ccddc4f3118c1337cffc1464b41c231c357ed54f2e51135656",
+    "public_sha256": "1cf9c4dff0faf0ccddc4f3118c1337cffc1464b41c231c357ed54f2e51135656",
+    "bytes": 13161,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/claude_import_sample.py",
+    "source_sha256": "98c744e21e6179cb25056039c37580c5e19925bc85e81a655c74389d9953dc71",
+    "public_sha256": "98c744e21e6179cb25056039c37580c5e19925bc85e81a655c74389d9953dc71",
+    "bytes": 8149,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/conversion-summary-20261024T071913Z.json",
+    "source_sha256": "4739a7ee425ba05ad2bdee68f42caf92f1bd984c2376f503a61d14309067d8ab",
+    "public_sha256": "4739a7ee425ba05ad2bdee68f42caf92f1bd984c2376f503a61d14309067d8ab",
+    "bytes": 1564,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/conversion-summary-20261024T072716Z.json",
+    "source_sha256": "0c01b9712af99231d3cb5cd97b4208ecfc86db0921e23f6b29ae7bd0ebaa94c1",
+    "public_sha256": "0c01b9712af99231d3cb5cd97b4208ecfc86db0921e23f6b29ae7bd0ebaa94c1",
+    "bytes": 1562,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/convert_claude_ai.py",
+    "source_sha256": "01e9ede7828ec4250c869c3ee04801f09b479169fd6b1a2044e7e53017b42923",
+    "public_sha256": "01e9ede7828ec4250c869c3ee04801f09b479169fd6b1a2044e7e53017b42923",
+    "bytes": 16812,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/convert_claude_windows.py",
+    "source_sha256": "969480c61e778ccc35bb690a1edeeed12eee735fae0ba86434f411226d9b6478",
+    "public_sha256": "969480c61e778ccc35bb690a1edeeed12eee735fae0ba86434f411226d9b6478",
+    "bytes": 8035,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/convert_file_text.py",
+    "source_sha256": "553a54e977b6702a781742553579fe13e1ee1a201c2f411a1aff34fb512dcf33",
+    "public_sha256": "553a54e977b6702a781742553579fe13e1ee1a201c2f411a1aff34fb512dcf33",
+    "bytes": 8462,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/convert_mac_main.py",
+    "source_sha256": "e33ab1057b9e5059a52b7a31886ceb78371879cfd0f5d665690dd59cedacae96",
+    "public_sha256": "e33ab1057b9e5059a52b7a31886ceb78371879cfd0f5d665690dd59cedacae96",
+    "bytes": 7764,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/convert_mac_supplement.py",
+    "source_sha256": "390ad0b4ea24575beae470f63828d4f70659ec1d427f6285d132ecaf1324f9e6",
+    "public_sha256": "390ad0b4ea24575beae470f63828d4f70659ec1d427f6285d132ecaf1324f9e6",
+    "bytes": 7061,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/crosscheck-claude-ai-car-0.1.1.json",
+    "source_sha256": "1f765329a9288e2e2d622e6c0332c5d3aa5dbc76685236077d907d3168326042",
+    "public_sha256": "1f765329a9288e2e2d622e6c0332c5d3aa5dbc76685236077d907d3168326042",
+    "bytes": 865,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/crosscheck-claude-ai-car.json",
+    "source_sha256": "c7ce470537a23a83e555ba4f679f8c92cd1d878af9e37cbf79c988747c72eaf6",
+    "public_sha256": "c7ce470537a23a83e555ba4f679f8c92cd1d878af9e37cbf79c988747c72eaf6",
+    "bytes": 858,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/crosscheck-codex-car.json",
+    "source_sha256": "33d13a183b976be8a8a9d8ef1b98164e08e54f6681803707d67424b4504adc38",
+    "public_sha256": "33d13a183b976be8a8a9d8ef1b98164e08e54f6681803707d67424b4504adc38",
+    "bytes": 796,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/crosscheck-file-text-car.json",
+    "source_sha256": "4dad0a5009ab8c7f681b58a7a6e0c70aa8210fecb93102d291dd7d1e6cd02bc1",
+    "public_sha256": "4dad0a5009ab8c7f681b58a7a6e0c70aa8210fecb93102d291dd7d1e6cd02bc1",
+    "bytes": 755,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/crosscheck-gemini-adapter.json",
+    "source_sha256": "06cf5808625ab94f6b229bd7d17687268dbf9bb96c4c76fb810d172168f360d5",
+    "public_sha256": "06cf5808625ab94f6b229bd7d17687268dbf9bb96c4c76fb810d172168f360d5",
+    "bytes": 2553,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/crosscheck-gemini-car.json",
+    "source_sha256": "0b2667c2b230fd6f56c40853d87b3842ac59f38961c105f10f760989a3921ff9",
+    "public_sha256": "0b2667c2b230fd6f56c40853d87b3842ac59f38961c105f10f760989a3921ff9",
+    "bytes": 860,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/crosscheck-mac-main-car.json",
+    "source_sha256": "0b2c66f622206d63dd74a89bcbb4d372e291fe32ba2c770b3f64f04e40e0eb10",
+    "public_sha256": "0b2c66f622206d63dd74a89bcbb4d372e291fe32ba2c770b3f64f04e40e0eb10",
+    "bytes": 861,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/crosscheck-mac-supplement-car.json",
+    "source_sha256": "fdb267b2f04e8250c419be1556e09c4ac05f6db283f61e31a9acb7d29837e8a9",
+    "public_sha256": "fdb267b2f04e8250c419be1556e09c4ac05f6db283f61e31a9acb7d29837e8a9",
+    "bytes": 621,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/crosscheck-semantic-pairs-v2.json",
+    "source_sha256": "92a0f3a324778c1e847f59ca1781d25243a0d78b0120d4f545753e3fcca1cfe3",
+    "public_sha256": "92a0f3a324778c1e847f59ca1781d25243a0d78b0120d4f545753e3fcca1cfe3",
+    "bytes": 539,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/crosscheck-semantic-pairs.json",
+    "source_sha256": "818ddc35ed9ffe62d42d4f5389c6cf6710e5d51d133805e519c7b561cff29082",
+    "public_sha256": "818ddc35ed9ffe62d42d4f5389c6cf6710e5d51d133805e519c7b561cff29082",
+    "bytes": 2679,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/FILE-TEXT-0.1.md",
+    "source_sha256": "e47ac24cad0230f4098bb92d17e542fb083724d113928aef123634988e753c76",
+    "public_sha256": "e47ac24cad0230f4098bb92d17e542fb083724d113928aef123634988e753c76",
+    "bytes": 4030,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/file-text-conversion-summary-20261024T085850Z.json",
+    "source_sha256": "abeb74eec76df5695d9842178a2946961bf9057f3e1eb6ebc6fa38c83cb1d9a6",
+    "public_sha256": "abeb74eec76df5695d9842178a2946961bf9057f3e1eb6ebc6fa38c83cb1d9a6",
+    "bytes": 1135,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/file-text-verification.json",
+    "source_sha256": "b9265d2d7923cdd2c04aab6ab8aaa0513a24b252129c1458e0736f0f6b573c68",
+    "public_sha256": "b9265d2d7923cdd2c04aab6ab8aaa0513a24b252129c1458e0736f0f6b573c68",
+    "bytes": 480,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/import-n3-results.json",
+    "source_sha256": "73f4b1822fccbadc6799996fbd4c6af29b9c5c189ea036dffc98aafdbad2ba59",
+    "public_sha256": "73f4b1822fccbadc6799996fbd4c6af29b9c5c189ea036dffc98aafdbad2ba59",
+    "bytes": 5346,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/import-sample-results.json",
+    "source_sha256": "868c374b56f77a3010642b4bb8ae1e1651ac13a57f40707bf44b339666fae845",
+    "public_sha256": "868c374b56f77a3010642b4bb8ae1e1651ac13a57f40707bf44b339666fae845",
+    "bytes": 3950,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/mac-main-anchor-verification.json",
+    "source_sha256": "4fadd26c8af317eba0d1dc19d459579eff70f9e06fb40b524086a4a26d90757c",
+    "public_sha256": "4fadd26c8af317eba0d1dc19d459579eff70f9e06fb40b524086a4a26d90757c",
+    "bytes": 756,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/mac-main-capture-summary-20261024T090749Z.json",
+    "source_sha256": "4f05d54f707927384e7663e05c565d109a0b022bb2aaa2eeaad9930d68c24d63",
+    "public_sha256": "4f05d54f707927384e7663e05c565d109a0b022bb2aaa2eeaad9930d68c24d63",
+    "bytes": 592,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/mac-main-conversion-summary-20261024T090824Z.json",
+    "source_sha256": "2a179cc67c03ce9e3344965cb1d923509135273032f9cf71f38c024c52937071",
+    "public_sha256": "2a179cc67c03ce9e3344965cb1d923509135273032f9cf71f38c024c52937071",
+    "bytes": 1783,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/MAC-SUPPLEMENT-0.1-rules.md",
+    "source_sha256": "1ff2c9d913cf7a9a9635448373b5214ba602bb7c440970ccd300440b0c4bb230",
+    "public_sha256": "1ff2c9d913cf7a9a9635448373b5214ba602bb7c440970ccd300440b0c4bb230",
+    "bytes": 4164,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/mac-supplement-capture-summary-20261024T083850Z.json",
+    "source_sha256": "a8b4c3ae8fca27457f52fad93aaf28b63ffe49d22aad9aeea0a91d4d20151aea",
+    "public_sha256": "a8b4c3ae8fca27457f52fad93aaf28b63ffe49d22aad9aeea0a91d4d20151aea",
+    "bytes": 1256,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/mac-supplement-conversion-summary-20261024T084015Z.json",
+    "source_sha256": "7673bb2fab11ad2cb8e9600cd7e1e4ed8341a80586e8525dff970d08c5957461",
+    "public_sha256": "7673bb2fab11ad2cb8e9600cd7e1e4ed8341a80586e8525dff970d08c5957461",
+    "bytes": 1362,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/make_n3_vectors_claude.py",
+    "source_sha256": "c469e5fc82723345a1f2fd9db3525860cc399de00102e7a6e9cc219954421e5d",
+    "public_sha256": "c469e5fc82723345a1f2fd9db3525860cc399de00102e7a6e9cc219954421e5d",
+    "bytes": 3547,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/n3-object-vectors-claude.json",
+    "source_sha256": "729a0df370adbec8fab0b145789715078e7ca48be14949299a37fc20c1b303ab",
+    "public_sha256": "729a0df370adbec8fab0b145789715078e7ca48be14949299a37fc20c1b303ab",
+    "bytes": 11105,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/pkst_cbor_claude.py",
+    "source_sha256": "697a7be406d6058046743f820ef33c591e8c18350040e2453c87f4776d761b3c",
+    "public_sha256": "697a7be406d6058046743f820ef33c591e8c18350040e2453c87f4776d761b3c",
+    "bytes": 9974,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/REPORT-CLAUDE-AI-1.md",
+    "source_sha256": "f8d70457726e4bad9f9877c3e5e3a31af595b9798a590b8bbcd570abd988a477",
+    "public_sha256": "f8d70457726e4bad9f9877c3e5e3a31af595b9798a590b8bbcd570abd988a477",
+    "bytes": 9131,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/REPORT-MAC-MAIN-1.md",
+    "source_sha256": "5e8bfbdc5621daae1cc3fefa239d591ca2f276a9b01765be81341ea3624e95b1",
+    "public_sha256": "5e8bfbdc5621daae1cc3fefa239d591ca2f276a9b01765be81341ea3624e95b1",
+    "bytes": 5700,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/REPORT-MAC-SUPPLEMENT-1.md",
+    "source_sha256": "57faa7e808dd1e7bbbf27f34af034049a6c5bf7dbaa9ff57f3cc7bdb8bbf8be2",
+    "public_sha256": "57faa7e808dd1e7bbbf27f34af034049a6c5bf7dbaa9ff57f3cc7bdb8bbf8be2",
+    "bytes": 5005,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/REVIEW-GEMINI-1.md",
+    "source_sha256": "23090aaa8e9a27acf714de84f40c5bed65126f5aa522a6f5369657624466cb43",
+    "public_sha256": "23090aaa8e9a27acf714de84f40c5bed65126f5aa522a6f5369657624466cb43",
+    "bytes": 9003,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/REVIEW-N1.md",
+    "source_sha256": "ecbe4f00b562734ef086c36549ba63a42fd2aa778cc57164eb5350c36736da40",
+    "public_sha256": "ecbe4f00b562734ef086c36549ba63a42fd2aa778cc57164eb5350c36736da40",
+    "bytes": 15516,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/REVIEW-N2.md",
+    "source_sha256": "714d94997217944080e6974d25573d83a2f2fa230740890bca6c25b9ab87e3a2",
+    "public_sha256": "714d94997217944080e6974d25573d83a2f2fa230740890bca6c25b9ab87e3a2",
+    "bytes": 17003,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/REVIEW-PILOT-1.md",
+    "source_sha256": "ae030a5639da4e99fd2f95110178e51ecdc1055e0dbbd1af10198a90d7e22618",
+    "public_sha256": "ae030a5639da4e99fd2f95110178e51ecdc1055e0dbbd1af10198a90d7e22618",
+    "bytes": 9190,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/REVIEW-SEMANTIC-PAIRS-1.md",
+    "source_sha256": "2a7dcf18186f6716a02c33ff7ecd260011d3b5bb8a3db5baaa9aedf94c7da43b",
+    "public_sha256": "2a7dcf18186f6716a02c33ff7ecd260011d3b5bb8a3db5baaa9aedf94c7da43b",
+    "bytes": 9364,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/run_vectors_claude.py",
+    "source_sha256": "afa37c6578520085675922d109b8091f0c2da9fc9c4b213f414d79d51353fd95",
+    "public_sha256": "afa37c6578520085675922d109b8091f0c2da9fc9c4b213f414d79d51353fd95",
+    "bytes": 4900,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/SPEC-claude-proposal.md",
+    "source_sha256": "08ffd6e2d6955d2982a2ee7c4a333c7488b9c4475a8e5ceb9f6ecc11f0f92609",
+    "public_sha256": "08ffd6e2d6955d2982a2ee7c4a333c7488b9c4475a8e5ceb9f6ecc11f0f92609",
+    "bytes": 22240,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/test-results-claude.json",
+    "source_sha256": "37454b8ea96f5efdbe01712efb0efb316d41748bd9a624652fe0ec4561425a34",
+    "public_sha256": "37454b8ea96f5efdbe01712efb0efb316d41748bd9a624652fe0ec4561425a34",
+    "bytes": 12743,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/test_import_n3.py",
+    "source_sha256": "fb41427982d47bbdbddb651cff6c3cd025812a099003c90867769af78a05f9c4",
+    "public_sha256": "fb41427982d47bbdbddb651cff6c3cd025812a099003c90867769af78a05f9c4",
+    "bytes": 10520,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/test_import_sample.py",
+    "source_sha256": "d94109b7a84bb07686491b1c9dcf8c07ad6c042e56f288a6c47d93c5f956f4cb",
+    "public_sha256": "d94109b7a84bb07686491b1c9dcf8c07ad6c042e56f288a6c47d93c5f956f4cb",
+    "bytes": 10789,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/verify_car_claude.py",
+    "source_sha256": "74ff4ed30514c8ca313945872f948e4889c2c7e7d20a202fdebf1795ca540c6d",
+    "public_sha256": "74ff4ed30514c8ca313945872f948e4889c2c7e7d20a202fdebf1795ca540c6d",
+    "bytes": 4323,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/verify_claude_ai_anchors.py",
+    "source_sha256": "7539f80a0cce4a6bc29681848f1f7da36def9e0dea45e684b3064460dc43aa81",
+    "public_sha256": "7539f80a0cce4a6bc29681848f1f7da36def9e0dea45e684b3064460dc43aa81",
+    "bytes": 10269,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/verify_file_text.py",
+    "source_sha256": "a1f56b476f1c0d99ce3f964a806053a775ba95d7dec7c455efaa24a02206e6b4",
+    "public_sha256": "a1f56b476f1c0d99ce3f964a806053a775ba95d7dec7c455efaa24a02206e6b4",
+    "bytes": 4895,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/verify_gemini_claude.py",
+    "source_sha256": "355a33bb3b6d53dc9afac6dbe0423004d3b606638f58c123404081daf98e80dc",
+    "public_sha256": "355a33bb3b6d53dc9afac6dbe0423004d3b606638f58c123404081daf98e80dc",
+    "bytes": 13663,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/verify_jsonl_anchors.py",
+    "source_sha256": "ffb6120e65c62f38dda872753b154ae8e5d68d8b8f3c33b8dd703d629431d9aa",
+    "public_sha256": "ffb6120e65c62f38dda872753b154ae8e5d68d8b8f3c33b8dd703d629431d9aa",
+    "bytes": 6486,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/verify_semantic_pairs_claude.py",
+    "source_sha256": "6a8d5c75a2278eb657af87887a2f5766c52f448a12952d842ed11b0ac252fedc",
+    "public_sha256": "6a8d5c75a2278eb657af87887a2f5766c52f448a12952d842ed11b0ac252fedc",
+    "bytes": 6072,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/verify_semantic_pairs_v2_claude.py",
+    "source_sha256": "d652eb85ca2ee80b96ffae22d96e350777b59c361b77de791c4ce10f45bc1875",
+    "public_sha256": "d652eb85ca2ee80b96ffae22d96e350777b59c361b77de791c4ce10f45bc1875",
+    "bytes": 5903,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/claude/inventory/claude-windows-manifest.tsv",
+    "source_sha256": "516b26923b5c270042ad690ac7fdc6a9a29dd1e8b5768a0cd8447083c45bd8ae",
+    "public_sha256": "516b26923b5c270042ad690ac7fdc6a9a29dd1e8b5768a0cd8447083c45bd8ae",
+    "bytes": 38716,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/build_catalog.py",
+    "source_sha256": "c0a0b762c5e0a56a745f3d123de46e4bc72549b62c8c821d626896b4d0b14f23",
+    "public_sha256": "c0a0b762c5e0a56a745f3d123de46e4bc72549b62c8c821d626896b4d0b14f23",
+    "bytes": 16624,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/build_semantic_pairs.py",
+    "source_sha256": "280fae1b31e84cab16f58c601335b4ced68be20abcb0445cf2283dcbe7740511",
+    "public_sha256": "280fae1b31e84cab16f58c601335b4ced68be20abcb0445cf2283dcbe7740511",
+    "bytes": 16932,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/capture-summary-20261024T070147Z-4f83698c.json",
+    "source_sha256": "eb25e5c813c0aa76aeb9fa8eb89dbeaad53f5b3c66f7d544db8f06e9d0f2e914",
+    "public_sha256": "eb25e5c813c0aa76aeb9fa8eb89dbeaad53f5b3c66f7d544db8f06e9d0f2e914",
+    "bytes": 743,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/capture_gemini_takeout.py",
+    "source_sha256": "5d41dc827de0a9eb1cfbae40975c7a63380efd51dfa44838869a789b2515509a",
+    "public_sha256": "5d41dc827de0a9eb1cfbae40975c7a63380efd51dfa44838869a789b2515509a",
+    "bytes": 5518,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/capture_sources.py",
+    "source_sha256": "0b35042ba0b65c4cb09542ea248227372d2d8d19c94924515619328cc173bd5f",
+    "public_sha256": "0b35042ba0b65c4cb09542ea248227372d2d8d19c94924515619328cc173bd5f",
+    "bytes": 5303,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/codec-verification.json",
+    "source_sha256": "5f5c8457d30fe22492d87020ed45466b617a82efde2991ebdd1c4e9815cb7e3f",
+    "public_sha256": "5f5c8457d30fe22492d87020ed45466b617a82efde2991ebdd1c4e9815cb7e3f",
+    "bytes": 195,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/export_codex_car.py",
+    "source_sha256": "ac5b310f0814fbd223db518a04a105d498a7ce7f19f04c963ae6099e2d0f67b4",
+    "public_sha256": "ac5b310f0814fbd223db518a04a105d498a7ce7f19f04c963ae6099e2d0f67b4",
+    "bytes": 8703,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/finalize_chatgpt_export.py",
+    "source_sha256": "cc58d4f049affc56e1ebbeba08b14b025a254189101c0cb77aeda42b147372ce",
+    "public_sha256": "cc58d4f049affc56e1ebbeba08b14b025a254189101c0cb77aeda42b147372ce",
+    "bytes": 8287,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/import_chatgpt_export.py",
+    "source_sha256": "681e0883869de2d179af90d04609f56acaf8a647212ce12ace4f7791b28003ea",
+    "public_sha256": "681e0883869de2d179af90d04609f56acaf8a647212ce12ace4f7791b28003ea",
+    "bytes": 15069,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/import_gemini_takeout.py",
+    "source_sha256": "663b2a2414e5c365d33ba478726b4542b6adad468442fa41b0c397b550674e48",
+    "public_sha256": "663b2a2414e5c365d33ba478726b4542b6adad468442fa41b0c397b550674e48",
+    "bytes": 11092,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/index-verification.json",
+    "source_sha256": "abef7840623b4fac6b30878735c3bcaf31babd2475755af08c746cf1d0ef00e8",
+    "public_sha256": "abef7840623b4fac6b30878735c3bcaf31babd2475755af08c746cf1d0ef00e8",
+    "bytes": 338,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/index_codex.py",
+    "source_sha256": "7299075c09b621b845fd5dbccd918117d57dc5f0492dfc5a670e4fb83871b721",
+    "public_sha256": "7299075c09b621b845fd5dbccd918117d57dc5f0492dfc5a670e4fb83871b721",
+    "bytes": 8337,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/integrate_chatgpt_export.py",
+    "source_sha256": "2284e144add8bbd28b4153688ae11b55566bcd3ddc2b23bb93012d9fb657aa69",
+    "public_sha256": "2284e144add8bbd28b4153688ae11b55566bcd3ddc2b23bb93012d9fb657aa69",
+    "bytes": 8861,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/integrate_new_principles.py",
+    "source_sha256": "c39925e9c1a5d205bf02366a960f38f27bee97da7984a67daf40bb99dea43d12",
+    "public_sha256": "c39925e9c1a5d205bf02366a960f38f27bee97da7984a67daf40bb99dea43d12",
+    "bytes": 14369,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/integrate_seed_dossier.py",
+    "source_sha256": "0bb57afb4bb834bcfdf46b85af0e6f6db8e1e60d1d7c0aec1cbf174de04668f4",
+    "public_sha256": "0bb57afb4bb834bcfdf46b85af0e6f6db8e1e60d1d7c0aec1cbf174de04668f4",
+    "bytes": 12583,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/pkst_car.py",
+    "source_sha256": "f6eaa7ceeb80ef80ec91c9e471a1be453a0bb2df07cc27abb16ef95db6b12736",
+    "public_sha256": "f6eaa7ceeb80ef80ec91c9e471a1be453a0bb2df07cc27abb16ef95db6b12736",
+    "bytes": 4609,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/pkst_codec.py",
+    "source_sha256": "6cf7fe1c587306c1769b2582d396ab65a6bc44f29f9ef8f998f4907893371d60",
+    "public_sha256": "6cf7fe1c587306c1769b2582d396ab65a6bc44f29f9ef8f998f4907893371d60",
+    "bytes": 6540,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/query_catalog.py",
+    "source_sha256": "c9ee797a522e6ce722b2cc1956c6e6f652efa82bf7767ab39d9e8aabf0df2c75",
+    "public_sha256": "c9ee797a522e6ce722b2cc1956c6e6f652efa82bf7767ab39d9e8aabf0df2c75",
+    "bytes": 4106,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/report_chatgpt_export.py",
+    "source_sha256": "6b7bff0f10bcf0bc761b472b2693c64de60a9720a6e969c888b4588b55af709d",
+    "public_sha256": "6b7bff0f10bcf0bc761b472b2693c64de60a9720a6e969c888b4588b55af709d",
+    "bytes": 14476,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/verify_chatgpt_export.py",
+    "source_sha256": "a86c4ca1308d411df5961ea68740146e685b5bc07d8352db2b2260d96eaf1550",
+    "public_sha256": "a86c4ca1308d411df5961ea68740146e685b5bc07d8352db2b2260d96eaf1550",
+    "bytes": 12080,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/verify_new_principles.py",
+    "source_sha256": "03f8ee6ae1234f511cc6bb6c33df5208695fc397965ffe67924cb86a81f1086b",
+    "public_sha256": "03f8ee6ae1234f511cc6bb6c33df5208695fc397965ffe67924cb86a81f1086b",
+    "bytes": 12913,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/verify_seed_dossier.py",
+    "source_sha256": "ae858e0cfd5006d505e69d7fa1fcfc00f18fbdac293d419eb5b62d8bb7d93c0c",
+    "public_sha256": "ae858e0cfd5006d505e69d7fa1fcfc00f18fbdac293d419eb5b62d8bb7d93c0c",
+    "bytes": 9229,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/windows-inventory.json",
+    "source_sha256": "d3c64778b3c61d31fe00834032189ae1d4a84b2480b9247cf9353b7eab76ccd7",
+    "public_sha256": "d3c64778b3c61d31fe00834032189ae1d4a84b2480b9247cf9353b7eab76ccd7",
+    "bytes": 821457,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/catalog/current.json",
+    "source_sha256": "1fd7fecfd82da4bf0d71ff9186401a013045b028dbbfdbdc69e1aa8a654f423c",
+    "public_sha256": "1fd7fecfd82da4bf0d71ff9186401a013045b028dbbfdbdc69e1aa8a654f423c",
+    "bytes": 233,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/catalog/report-20261024T083500Z.json",
+    "source_sha256": "ddcda1148ca0da02d10561d31cdbe3d697cff3809fd4e9fe9818a16663310b48",
+    "public_sha256": "ddcda1148ca0da02d10561d31cdbe3d697cff3809fd4e9fe9818a16663310b48",
+    "bytes": 4430,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/catalog/report-20261024T091300Z.json",
+    "source_sha256": "ae306668f71fd5d36956c42596b7dec9e9bf0e5a91f7ace329411acc9a47084f",
+    "public_sha256": "ae306668f71fd5d36956c42596b7dec9e9bf0e5a91f7ace329411acc9a47084f",
+    "bytes": 7213,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/catalog/report-20261025-seed-v1.json",
+    "source_sha256": "fe77e618d7029110927150a006b2e047564d74c5438baa3d0ad576a05f42a7e5",
+    "public_sha256": "fe77e618d7029110927150a006b2e047564d74c5438baa3d0ad576a05f42a7e5",
+    "bytes": 7539,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/catalog/report-20261025-seed-v2.json",
+    "source_sha256": "3240447d4ec89ebb83de620822c7208c3baf68a322caddf272e33893e70d3320",
+    "public_sha256": "3240447d4ec89ebb83de620822c7208c3baf68a322caddf272e33893e70d3320",
+    "bytes": 7539,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/catalog/report-20261026-chatgpt-v1.json",
+    "source_sha256": "8772fecfedf3deb9986105c2506dc78a1d5175e16cb5a0878785e193a704a627",
+    "public_sha256": "8772fecfedf3deb9986105c2506dc78a1d5175e16cb5a0878785e193a704a627",
+    "bytes": 8243,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/catalog/report-20261026-mathematics-contribution-v1.json",
+    "source_sha256": "0d7e5c185a039373622ff91796e65c2df930d18e611569bc09c0a09340e8b249",
+    "public_sha256": "0d7e5c185a039373622ff91796e65c2df930d18e611569bc09c0a09340e8b249",
+    "bytes": 11033,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/catalog/report-20261026-new-principles-expanded-v1.json",
+    "source_sha256": "9abed8a6cabf4f1c4ed119f0545ad9bb5478c6ed95210af97abdd1e70b2043a1",
+    "public_sha256": "9abed8a6cabf4f1c4ed119f0545ad9bb5478c6ed95210af97abdd1e70b2043a1",
+    "bytes": 10313,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/catalog/report-20261026-new-principles-v1.json",
+    "source_sha256": "6be2a3d2358ffd0ff4ddd41a34988782a65fc77960327306383d59001e2a3eab",
+    "public_sha256": "6be2a3d2358ffd0ff4ddd41a34988782a65fc77960327306383d59001e2a3eab",
+    "bytes": 9326,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/catalog/report-20261026-new-principles-v2.json",
+    "source_sha256": "6a9d61305ddf71ce531e769208cb9b1d39270da93e2afae7876824b50afecfe4",
+    "public_sha256": "6a9d61305ddf71ce531e769208cb9b1d39270da93e2afae7876824b50afecfe4",
+    "bytes": 9326,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/catalog/report-20261026-public-intelligence-v1.json",
+    "source_sha256": "090ee334699058537ef6aaebbdf5e61797412cdd3d09f93b810035747364927d",
+    "public_sha256": "090ee334699058537ef6aaebbdf5e61797412cdd3d09f93b810035747364927d",
+    "bytes": 12170,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/catalog/report-20261026-shared-credit-v1.json",
+    "source_sha256": "a65d38645ecab9ea8bb3a4730fc910398ab5e678376b2600fa8b4e13015063c9",
+    "public_sha256": "a65d38645ecab9ea8bb3a4730fc910398ab5e678376b2600fa8b4e13015063c9",
+    "bytes": 13379,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/chatgpt/capture-current.json",
+    "source_sha256": "abdd9f25edb8b2024a5a45b4fdb584a140295028796fe2dee46b4059bf030962",
+    "public_sha256": "abdd9f25edb8b2024a5a45b4fdb584a140295028796fe2dee46b4059bf030962",
+    "bytes": 1062,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/chatgpt/capture-summary-20261026T024835.586198Z-5026e3e8.json",
+    "source_sha256": "abdd9f25edb8b2024a5a45b4fdb584a140295028796fe2dee46b4059bf030962",
+    "public_sha256": "abdd9f25edb8b2024a5a45b4fdb584a140295028796fe2dee46b4059bf030962",
+    "bytes": 1062,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/chatgpt/catalog-acceptance-v1.json",
+    "source_sha256": "66c56d26807348492e1de3356c16a7f3b7aa0c30fb9f77c7ec6a3de4400ffba7",
+    "public_sha256": "66c56d26807348492e1de3356c16a7f3b7aa0c30fb9f77c7ec6a3de4400ffba7",
+    "bytes": 1817,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/chatgpt/import-report-v1.json",
+    "source_sha256": "2325b2036fde5095bf7ccecb6712901b0d0129d82f3cc22410f5610b87ecc23c",
+    "public_sha256": "2325b2036fde5095bf7ccecb6712901b0d0129d82f3cc22410f5610b87ecc23c",
+    "bytes": 2733,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/chatgpt/prior-catalog-pointer.json",
+    "source_sha256": "89f616e5301fdff1ce273ae78da087a13e447e740ea5404e1fda60f3e86ffc45",
+    "public_sha256": "89f616e5301fdff1ce273ae78da087a13e447e740ea5404e1fda60f3e86ffc45",
+    "bytes": 218,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/chatgpt/source-status-before-import.json",
+    "source_sha256": "3cf51bda65b112b43928f687c877be9ad33989ea926d782e94d55c90038795b4",
+    "public_sha256": "3cf51bda65b112b43928f687c877be9ad33989ea926d782e94d55c90038795b4",
+    "bytes": 845,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/chatgpt/source-status.json",
+    "source_sha256": "f9bf25bef866234c83563ca1ef0ce28f84f82079a6f6af452dee0308b25fc325",
+    "public_sha256": "f9bf25bef866234c83563ca1ef0ce28f84f82079a6f6af452dee0308b25fc325",
+    "bytes": 1246,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/chatgpt/staged-pointer.json",
+    "source_sha256": "22cc24acf98312dee831d100e5aa663e336072218ea87bd4194a95cda1a061aa",
+    "public_sha256": "22cc24acf98312dee831d100e5aa663e336072218ea87bd4194a95cda1a061aa",
+    "bytes": 224,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/chatgpt/verification-v1.json",
+    "source_sha256": "3f6926df7addce4bf269bd251c41d68bd341a243b9ec9973f4f9095dd8d2d244",
+    "public_sha256": "3f6926df7addce4bf269bd251c41d68bd341a243b9ec9973f4f9095dd8d2d244",
+    "bytes": 1373,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/civilization-seed-20261025/capture.json",
+    "source_sha256": "26b5a385f466260b0646e49494ed8b6d6d23baf787aeb39089c63f33df64cdaa",
+    "public_sha256": "26b5a385f466260b0646e49494ed8b6d6d23baf787aeb39089c63f33df64cdaa",
+    "bytes": 88268,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/civilization-seed-20261025/pending-roots.json",
+    "source_sha256": "1d02e0b32ed8e8c9b93ce6514bed189c9a3517df69104e2dd481d5cd4db5b4f3",
+    "public_sha256": "1d02e0b32ed8e8c9b93ce6514bed189c9a3517df69104e2dd481d5cd4db5b4f3",
+    "bytes": 5481,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/civilization-seed-20261025/PROFILE.md",
+    "source_sha256": "d9238a44f6f5e6949965f628d247bd65bfc60a622fd58186d558c29ec614e9c6",
+    "public_sha256": "d9238a44f6f5e6949965f628d247bd65bfc60a622fd58186d558c29ec614e9c6",
+    "bytes": 1506,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/civilization-seed-20261025/report-before-20261025-seed-v2.json",
+    "source_sha256": "61a56252e520786d95511627e34853765a48b2db8d8cdfc30e6bed8aacf5ae49",
+    "public_sha256": "61a56252e520786d95511627e34853765a48b2db8d8cdfc30e6bed8aacf5ae49",
+    "bytes": 7315,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/civilization-seed-20261025/report.json",
+    "source_sha256": "63d1534c2cef39bb25d9c3223245776efaa6152b5b718ef740e6b99bebec2055",
+    "public_sha256": "63d1534c2cef39bb25d9c3223245776efaa6152b5b718ef740e6b99bebec2055",
+    "bytes": 7431,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/civilization-seed-20261025/staged-pointer.json",
+    "source_sha256": "89f616e5301fdff1ce273ae78da087a13e447e740ea5404e1fda60f3e86ffc45",
+    "public_sha256": "89f616e5301fdff1ce273ae78da087a13e447e740ea5404e1fda60f3e86ffc45",
+    "bytes": 218,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/civilization-seed-20261025/verification.json",
+    "source_sha256": "edfcdff31baa5fc83d0d9a0afce160c082673ade49946a9e9ae33712052a5116",
+    "public_sha256": "edfcdff31baa5fc83d0d9a0afce160c082673ade49946a9e9ae33712052a5116",
+    "bytes": 1149,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/gemini/capture-summary-20261024T075209.921809Z-ce65184b.json",
+    "source_sha256": "df1289a6e7a52b4b230c18a4a4c26db2eeff6237d5bfbd858da3bcb081ee9238",
+    "public_sha256": "df1289a6e7a52b4b230c18a4a4c26db2eeff6237d5bfbd858da3bcb081ee9238",
+    "bytes": 1061,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/gemini/source-status.json",
+    "source_sha256": "684b06e5149994a6339ae192a848711518702da9b0c21964dc3cbbe39bf8d7c0",
+    "public_sha256": "684b06e5149994a6339ae192a848711518702da9b0c21964dc3cbbe39bf8d7c0",
+    "bytes": 3196,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/mac/source-status.json",
+    "source_sha256": "4e49f48926d5a5b20e2aff8ba7173082baeeca0d1539e0a4afeb5bd4bae5a6f6",
+    "public_sha256": "4e49f48926d5a5b20e2aff8ba7173082baeeca0d1539e0a4afeb5bd4bae5a6f6",
+    "bytes": 1305,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/mathematics-contribution-20261026/baseline.json",
+    "source_sha256": "ec5e75cb960e483a8ce71224c280860234f0330cca1433134c96bc81765738bf",
+    "public_sha256": "ec5e75cb960e483a8ce71224c280860234f0330cca1433134c96bc81765738bf",
+    "bytes": 625,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/mathematics-contribution-20261026/external-sources.json",
+    "source_sha256": "4c6e2dab06040b3b59f7d64bbaca5941c9236702d5c0305db83020f21508d33a",
+    "public_sha256": "4c6e2dab06040b3b59f7d64bbaca5941c9236702d5c0305db83020f21508d33a",
+    "bytes": 1870,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/mathematics-contribution-20261026/PROFILE.md",
+    "source_sha256": "284e876cf2851c7ce8d747def01fe8930079c54a10d93b9cd5834222519ccd29",
+    "public_sha256": "284e876cf2851c7ce8d747def01fe8930079c54a10d93b9cd5834222519ccd29",
+    "bytes": 1445,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/mathematics-contribution-20261026/report.json",
+    "source_sha256": "897ec15012c0246e951252311df5a8b1162320812ab82dd0622a33108b9e7b2e",
+    "public_sha256": "897ec15012c0246e951252311df5a8b1162320812ab82dd0622a33108b9e7b2e",
+    "bytes": 20905,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/mathematics-contribution-20261026/request-capture.json",
+    "source_sha256": "1977e3270d20ade94b627feb79e3c5c968d772bdaaff93b18e7b36b226316091",
+    "public_sha256": "1977e3270d20ade94b627feb79e3c5c968d772bdaaff93b18e7b36b226316091",
+    "bytes": 4293,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/mathematics-contribution-20261026/selected-sources.json",
+    "source_sha256": "af95aded7c0b07aa1e660e2779c5d72ef8dc30aced32786e8298986470001db1",
+    "public_sha256": "af95aded7c0b07aa1e660e2779c5d72ef8dc30aced32786e8298986470001db1",
+    "bytes": 104649,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/mathematics-contribution-20261026/semantic-plan.json",
+    "source_sha256": "b9c6e79a774886ed995ec3233c44ffd61eece4978f96582e15a990775324d77a",
+    "public_sha256": "b9c6e79a774886ed995ec3233c44ffd61eece4978f96582e15a990775324d77a",
+    "bytes": 2339,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/mathematics-contribution-20261026/staged-pointer.json",
+    "source_sha256": "2b6bcdba1b13614412aba78d0c2bf35a90d94b5e255bc17abfd5f610b1ba356a",
+    "public_sha256": "2b6bcdba1b13614412aba78d0c2bf35a90d94b5e255bc17abfd5f610b1ba356a",
+    "bytes": 255,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/mathematics-contribution-20261026/status.json",
+    "source_sha256": "7d269ab73d0ad002461eebce2c77ec3fa7a64eeedc33c838bbfcfce1e169d3c0",
+    "public_sha256": "7d269ab73d0ad002461eebce2c77ec3fa7a64eeedc33c838bbfcfce1e169d3c0",
+    "bytes": 520,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/mathematics-contribution-20261026/text-verification.json",
+    "source_sha256": "428fdabb76a96a68a372305b2f70d5ca309a24270c3e9a1178be089e25c905ea",
+    "public_sha256": "428fdabb76a96a68a372305b2f70d5ca309a24270c3e9a1178be089e25c905ea",
+    "bytes": 882,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/mathematics-contribution-20261026/verification.json",
+    "source_sha256": "ed54886347ccf76a1b8c99374b16d4ba2510af1273ebc5c50ce7344390845a12",
+    "public_sha256": "ed54886347ccf76a1b8c99374b16d4ba2510af1273ebc5c50ce7344390845a12",
+    "bytes": 911,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-20261026/manuscript-manifest.json",
+    "source_sha256": "4bb2e64e98871896e1662be6bb89261190adf12ce0657398f190d7861c1bcea6",
+    "public_sha256": "4bb2e64e98871896e1662be6bb89261190adf12ce0657398f190d7861c1bcea6",
+    "bytes": 31809,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-20261026/PROFILE.md",
+    "source_sha256": "41723ab11fcd3b5b90ed47fbd732efe0ada13cee601b95dafd26223437bb0eee",
+    "public_sha256": "41723ab11fcd3b5b90ed47fbd732efe0ada13cee601b95dafd26223437bb0eee",
+    "bytes": 2655,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-20261026/report.json",
+    "source_sha256": "3c043d6212d83c7a60923d0f89e8a1d2179fc0c75ed8a8f125fa7fb18cefdf32",
+    "public_sha256": "3c043d6212d83c7a60923d0f89e8a1d2179fc0c75ed8a8f125fa7fb18cefdf32",
+    "bytes": 43041,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-20261026/selected-sources.json",
+    "source_sha256": "4da006e5bfda55dd1d870b85992d78753cf2b02a2e6fc021ef39f7ed88fcb996",
+    "public_sha256": "4da006e5bfda55dd1d870b85992d78753cf2b02a2e6fc021ef39f7ed88fcb996",
+    "bytes": 592100,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-20261026/semantic-plan.json",
+    "source_sha256": "08037e65792e50760d9fc544b47c60d0ed006fda0acad7c612e6f4e6d3232e5c",
+    "public_sha256": "08037e65792e50760d9fc544b47c60d0ed006fda0acad7c612e6f4e6d3232e5c",
+    "bytes": 44773,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-20261026/staged-pointer.json",
+    "source_sha256": "8022720cfc7fdb6d5a2b827c81c182834c7ad3fba362338250f19cb802e80630",
+    "public_sha256": "8022720cfc7fdb6d5a2b827c81c182834c7ad3fba362338250f19cb802e80630",
+    "bytes": 238,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-20261026/status.json",
+    "source_sha256": "341a2945b595b8c4041ecb7445b98d936f2a6caaa5015c65cd1073cdf105bb62",
+    "public_sha256": "341a2945b595b8c4041ecb7445b98d936f2a6caaa5015c65cd1073cdf105bb62",
+    "bytes": 852,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-20261026/unactivated-v1-report.json",
+    "source_sha256": "1643a43e26c9b55dc4ab991a2bb7e87494a44a27d10e92746ec3db4c9db31b96",
+    "public_sha256": "1643a43e26c9b55dc4ab991a2bb7e87494a44a27d10e92746ec3db4c9db31b96",
+    "bytes": 43040,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-20261026/unactivated-v1-review.json",
+    "source_sha256": "f21fcf3b8e2bd51f2078bd4d933f4bcc47516c1dc8c6ac1e97ca92a39bd006fb",
+    "public_sha256": "f21fcf3b8e2bd51f2078bd4d933f4bcc47516c1dc8c6ac1e97ca92a39bd006fb",
+    "bytes": 371,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-20261026/unactivated-v1-staged-pointer.json",
+    "source_sha256": "aed9fbffd44d69b41f1067a8f3990f0019bb73d38610ed7937284d136aa9b860",
+    "public_sha256": "aed9fbffd44d69b41f1067a8f3990f0019bb73d38610ed7937284d136aa9b860",
+    "bytes": 238,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-20261026/verification.json",
+    "source_sha256": "67decc1f03ef0725c9d8324d03f35d96463fb05e413892432a89c578086ea126",
+    "public_sha256": "67decc1f03ef0725c9d8324d03f35d96463fb05e413892432a89c578086ea126",
+    "bytes": 1541,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-expanded-20261026/baseline.json",
+    "source_sha256": "c89fe9c11a28c8cc5bafb4ad7ca929fad82a613102df7b90088c7e3cf4731cee",
+    "public_sha256": "c89fe9c11a28c8cc5bafb4ad7ca929fad82a613102df7b90088c7e3cf4731cee",
+    "bytes": 529,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-expanded-20261026/chapter-concept-map.json",
+    "source_sha256": "ce4fe303d49fe4e327216807bff31bec27d7afdad0ac146f76b83c377509dc9e",
+    "public_sha256": "ce4fe303d49fe4e327216807bff31bec27d7afdad0ac146f76b83c377509dc9e",
+    "bytes": 1219,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-expanded-20261026/feedback-capture.json",
+    "source_sha256": "e4bba9ef522ac64e11b449e6f10826a756ff237882da3355abba55163303f788",
+    "public_sha256": "e4bba9ef522ac64e11b449e6f10826a756ff237882da3355abba55163303f788",
+    "bytes": 2664,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-expanded-20261026/preflight-failure.json",
+    "source_sha256": "fa87e52da369d9115dd304e6e0eb3ba663ad06aae7585207a91a0941f3a8c834",
+    "public_sha256": "fa87e52da369d9115dd304e6e0eb3ba663ad06aae7585207a91a0941f3a8c834",
+    "bytes": 631,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-expanded-20261026/PROFILE.md",
+    "source_sha256": "86f377f33d0a65edb68155796062520e630354de0f2bf8b9bd67d7392c33f17f",
+    "public_sha256": "86f377f33d0a65edb68155796062520e630354de0f2bf8b9bd67d7392c33f17f",
+    "bytes": 3155,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-expanded-20261026/report.json",
+    "source_sha256": "28e8668f85c82682061d0fb0149ef0e77dad5ee1f66357b77dfdcd838111e8d2",
+    "public_sha256": "28e8668f85c82682061d0fb0149ef0e77dad5ee1f66357b77dfdcd838111e8d2",
+    "bytes": 166708,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-expanded-20261026/selected-sources.json",
+    "source_sha256": "d52936a397ad57713a33506a6f20776b813a053d2627c8d72bb4a7066addefa3",
+    "public_sha256": "d52936a397ad57713a33506a6f20776b813a053d2627c8d72bb4a7066addefa3",
+    "bytes": 719272,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-expanded-20261026/semantic-plan.json",
+    "source_sha256": "08037e65792e50760d9fc544b47c60d0ed006fda0acad7c612e6f4e6d3232e5c",
+    "public_sha256": "08037e65792e50760d9fc544b47c60d0ed006fda0acad7c612e6f4e6d3232e5c",
+    "bytes": 44773,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-expanded-20261026/source-verification.json",
+    "source_sha256": "7aa0fe63e5ea4e2cb14e980327d6ce00e38a9ea2cb2b9734aae9babf5bf6bd0e",
+    "public_sha256": "7aa0fe63e5ea4e2cb14e980327d6ce00e38a9ea2cb2b9734aae9babf5bf6bd0e",
+    "bytes": 1148,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-expanded-20261026/staged-pointer.json",
+    "source_sha256": "0ba325bc4ed91e2f4741abb4c1fc1fb73b1b4cc41a550a85b8f0b4a7c1a66851",
+    "public_sha256": "0ba325bc4ed91e2f4741abb4c1fc1fb73b1b4cc41a550a85b8f0b4a7c1a66851",
+    "bytes": 256,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-expanded-20261026/status.json",
+    "source_sha256": "c67879e97ea36cf2731bc804ffb0496457c638a07ee86383c6392a1ac40ee426",
+    "public_sha256": "c67879e97ea36cf2731bc804ffb0496457c638a07ee86383c6392a1ac40ee426",
+    "bytes": 533,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/new-principles-expanded-20261026/verification.json",
+    "source_sha256": "ea9dc3eb74baa031c6ee4dbd29ac001ac01bcdf09dee78774b7df9e58611d853",
+    "public_sha256": "ea9dc3eb74baa031c6ee4dbd29ac001ac01bcdf09dee78774b7df9e58611d853",
+    "bytes": 1140,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/pilot/report-v1.json",
+    "source_sha256": "053c15e96a05a78c5abf2352df0f4175cee2ed5960f1b02871d0926d4f0a5f2d",
+    "public_sha256": "053c15e96a05a78c5abf2352df0f4175cee2ed5960f1b02871d0926d4f0a5f2d",
+    "bytes": 2575,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/pilot/report.json",
+    "source_sha256": "78decbfec3b5f5fe35f876be0ac9c1aa0203bb3c421c1725525fabbfdcd4172f",
+    "public_sha256": "78decbfec3b5f5fe35f876be0ac9c1aa0203bb3c421c1725525fabbfdcd4172f",
+    "bytes": 2788,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/public-intelligence-20261026/baseline.json",
+    "source_sha256": "06b482f605684ade506e04cddcc8627ebdd1bad821d013ef5d20e9f5337f9612",
+    "public_sha256": "06b482f605684ade506e04cddcc8627ebdd1bad821d013ef5d20e9f5337f9612",
+    "bytes": 978,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/public-intelligence-20261026/external-sources.json",
+    "source_sha256": "7f9d9b12c336e0167b7431762abc335f44fef8d699d93bc05954b4a5348f7377",
+    "public_sha256": "7f9d9b12c336e0167b7431762abc335f44fef8d699d93bc05954b4a5348f7377",
+    "bytes": 3541,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/public-intelligence-20261026/PROFILE.md",
+    "source_sha256": "4212965d4fe5de875e30574c326b7417248ed66a13fabdb268c12f710e88a2ee",
+    "public_sha256": "4212965d4fe5de875e30574c326b7417248ed66a13fabdb268c12f710e88a2ee",
+    "bytes": 1163,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/public-intelligence-20261026/report.json",
+    "source_sha256": "80643d738a4a8d1a7b0871cfe0ce7345be4cc15fd79eea293d973a1cea88298a",
+    "public_sha256": "80643d738a4a8d1a7b0871cfe0ce7345be4cc15fd79eea293d973a1cea88298a",
+    "bytes": 28444,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/public-intelligence-20261026/request-capture.json",
+    "source_sha256": "7e95445af0f7d95834e94ec431f2d2e658591bdaee5c684030ce1d586d3339d8",
+    "public_sha256": "7e95445af0f7d95834e94ec431f2d2e658591bdaee5c684030ce1d586d3339d8",
+    "bytes": 7024,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/public-intelligence-20261026/selected-sources.json",
+    "source_sha256": "3f92b8cc8b24a1e65abedb09a206fc917d03c3ed4324b2ef1dcd9dd4910898e9",
+    "public_sha256": "3f92b8cc8b24a1e65abedb09a206fc917d03c3ed4324b2ef1dcd9dd4910898e9",
+    "bytes": 111764,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/public-intelligence-20261026/semantic-plan.json",
+    "source_sha256": "8d577664c2edf2d64ee87155ceaf174990527947a22ab1fba62d0925cbbed655",
+    "public_sha256": "8d577664c2edf2d64ee87155ceaf174990527947a22ab1fba62d0925cbbed655",
+    "bytes": 2642,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/public-intelligence-20261026/staged-pointer.json",
+    "source_sha256": "bb4d162f7f88b6006aad0d564d158735766fe4392a91bd72280b15c56d9bb48a",
+    "public_sha256": "bb4d162f7f88b6006aad0d564d158735766fe4392a91bd72280b15c56d9bb48a",
+    "bytes": 245,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/public-intelligence-20261026/status.json",
+    "source_sha256": "591857af4ad98b7ff93c856348cf3f6927e22a52e7f58d8e3a350d07e26f0f1d",
+    "public_sha256": "591857af4ad98b7ff93c856348cf3f6927e22a52e7f58d8e3a350d07e26f0f1d",
+    "bytes": 510,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/public-intelligence-20261026/text-verification.json",
+    "source_sha256": "d625ff382f62f4a4291d6717e4ec8aa2ddef394ecb5e289c632a9087aec21c20",
+    "public_sha256": "d625ff382f62f4a4291d6717e4ec8aa2ddef394ecb5e289c632a9087aec21c20",
+    "bytes": 906,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/public-intelligence-20261026/verification.json",
+    "source_sha256": "628ecf69645fb9724d2b70255dac869fabee8589a4009f96f1f04477add77f10",
+    "public_sha256": "628ecf69645fb9724d2b70255dac869fabee8589a4009f96f1f04477add77f10",
+    "bytes": 1103,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/semantic-pairs/report-v1.json",
+    "source_sha256": "b92955bbfedc26cfce35fe42f7c23cb8a2b4a1d7148b578dd238e6f8277b55c8",
+    "public_sha256": "b92955bbfedc26cfce35fe42f7c23cb8a2b4a1d7148b578dd238e6f8277b55c8",
+    "bytes": 34893,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/semantic-pairs/report.json",
+    "source_sha256": "4be70014070579a05e49cba587ec29e2fbe2d1292a99c4196e23ee3ee8ba9651",
+    "public_sha256": "4be70014070579a05e49cba587ec29e2fbe2d1292a99c4196e23ee3ee8ba9651",
+    "bytes": 37491,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/shared-credit-20261026/baseline.json",
+    "source_sha256": "9ed5f8bf782cc1fa52dfc9df053b23caa8de25969e8facc654911e8c900e3522",
+    "public_sha256": "9ed5f8bf782cc1fa52dfc9df053b23caa8de25969e8facc654911e8c900e3522",
+    "bytes": 950,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/shared-credit-20261026/external-sources.json",
+    "source_sha256": "e2c8c35d2d9baf1fd04e1904bc05f923e89e529f05c4f15b3c93509c2dd850f1",
+    "public_sha256": "e2c8c35d2d9baf1fd04e1904bc05f923e89e529f05c4f15b3c93509c2dd850f1",
+    "bytes": 3374,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/shared-credit-20261026/PROFILE.md",
+    "source_sha256": "e338b005a32465cf2c29d829789290ae700cfaeb041b5d063324e0263e73a163",
+    "public_sha256": "e338b005a32465cf2c29d829789290ae700cfaeb041b5d063324e0263e73a163",
+    "bytes": 752,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/shared-credit-20261026/report.json",
+    "source_sha256": "e0e628f7b8d85901babf338677b419fdc99313ae23f7e67d144c2bab752a3d6a",
+    "public_sha256": "e0e628f7b8d85901babf338677b419fdc99313ae23f7e67d144c2bab752a3d6a",
+    "bytes": 31153,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/shared-credit-20261026/request-capture.json",
+    "source_sha256": "d9d78b56c7666c8b4738765abd9728eebb05e37825486944bd208fc8d35449cc",
+    "public_sha256": "d9d78b56c7666c8b4738765abd9728eebb05e37825486944bd208fc8d35449cc",
+    "bytes": 2997,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/shared-credit-20261026/section-metrics.json",
+    "source_sha256": "430d429ebbe910d54a5f7ba6f8c801f0b0dfc640991f979731d858d3d1dcd9b0",
+    "public_sha256": "430d429ebbe910d54a5f7ba6f8c801f0b0dfc640991f979731d858d3d1dcd9b0",
+    "bytes": 49,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/shared-credit-20261026/selected-sources.json",
+    "source_sha256": "d702efc49eab83459872e298a0b4b0a3027690325608ff62198258a39bbb8651",
+    "public_sha256": "d702efc49eab83459872e298a0b4b0a3027690325608ff62198258a39bbb8651",
+    "bytes": 114846,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/shared-credit-20261026/semantic-plan.json",
+    "source_sha256": "7e91b3a6d33c08f0e4992c4c41d094f4a6ab820caed12d32ceb43815678fee4f",
+    "public_sha256": "7e91b3a6d33c08f0e4992c4c41d094f4a6ab820caed12d32ceb43815678fee4f",
+    "bytes": 1231,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/shared-credit-20261026/staged-pointer.json",
+    "source_sha256": "1fd7fecfd82da4bf0d71ff9186401a013045b028dbbfdbdc69e1aa8a654f423c",
+    "public_sha256": "1fd7fecfd82da4bf0d71ff9186401a013045b028dbbfdbdc69e1aa8a654f423c",
+    "bytes": 233,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/shared-credit-20261026/status.json",
+    "source_sha256": "2b2a33e62a80ec99b388ee603c1558fd334ced65753e077e797a17e60e8cfad3",
+    "public_sha256": "2b2a33e62a80ec99b388ee603c1558fd334ced65753e077e797a17e60e8cfad3",
+    "bytes": 498,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/shared-credit-20261026/text-verification.json",
+    "source_sha256": "33216dfa1643415d3da269cee4b68d21b980d3f8a86bac8fba67f678b86d0bb9",
+    "public_sha256": "33216dfa1643415d3da269cee4b68d21b980d3f8a86bac8fba67f678b86d0bb9",
+    "bytes": 907,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/contributions/codex/shared-credit-20261026/verification.json",
+    "source_sha256": "d1beb60855112d7d7fef903929bbbb75fedd477f6b28d7132b86b47e4728e7fa",
+    "public_sha256": "d1beb60855112d7d7fef903929bbbb75fedd477f6b28d7132b86b47e4728e7fa",
+    "bytes": 1026,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/coordination/mac-transfer-expected.json",
+    "source_sha256": "d9d0b09096a5fa4d052fb1e54e2c2875bf2e851f9f75057594be2ec4e628f4e3",
+    "public_sha256": "d9d0b09096a5fa4d052fb1e54e2c2875bf2e851f9f75057594be2ec4e628f4e3",
+    "bytes": 1188,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/coordination/OWNERSHIP.md",
+    "source_sha256": "c2a3ee016d8393992f82034b1bc04d81991cf6b9945b8c50b22a653f5a417d60",
+    "public_sha256": "c2a3ee016d8393992f82034b1bc04d81991cf6b9945b8c50b22a653f5a417d60",
+    "bytes": 919,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/coordination/PKST-N1-to-claude.txt",
+    "source_sha256": "748abcd904641db69f4d94fc6a8186f608fad162fde5899a3d2380c29886523a",
+    "public_sha256": "748abcd904641db69f4d94fc6a8186f608fad162fde5899a3d2380c29886523a",
+    "bytes": 3731,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/coordination/PKST-N2-to-claude.txt",
+    "source_sha256": "0160e20768fb0a8c91b0858f7c15c6a0feb49c788db6f43545d5240f8f378065",
+    "public_sha256": "0160e20768fb0a8c91b0858f7c15c6a0feb49c788db6f43545d5240f8f378065",
+    "bytes": 2241,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/coordination/PKST-N3-to-claude.txt",
+    "source_sha256": "2b1c6f9a36457ae6a29a885cd81b4381749ddced45075c6f69a32fce69c453b7",
+    "public_sha256": "2b1c6f9a36457ae6a29a885cd81b4381749ddced45075c6f69a32fce69c453b7",
+    "bytes": 2465,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/01-originals.md",
+    "source_sha256": "e8d085ca5bbfbb3d6b6afcd43df1be9ef7b19a4c20ba7ae98a8c46b72c5d965e",
+    "public_sha256": "e8d085ca5bbfbb3d6b6afcd43df1be9ef7b19a4c20ba7ae98a8c46b72c5d965e",
+    "bytes": 65880,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/02-framework.md",
+    "source_sha256": "a8a5ecbfe17a6d9965569ec2c1d714f1f9e03e382ecde6e5163173984cefddc0",
+    "public_sha256": "a8a5ecbfe17a6d9965569ec2c1d714f1f9e03e382ecde6e5163173984cefddc0",
+    "bytes": 8987,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/03-evolution.md",
+    "source_sha256": "a12ae85718ed1e7a2009e23c0452a5dbf5b0182da4d9c65ae0f8f4605215dbbe",
+    "public_sha256": "a12ae85718ed1e7a2009e23c0452a5dbf5b0182da4d9c65ae0f8f4605215dbbe",
+    "bytes": 12254,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/04-roadmap.md",
+    "source_sha256": "f7df0ed12b0b8e0a237d29a432970a7d8cec6258f9df3918c6624291f3d6c8cd",
+    "public_sha256": "f7df0ed12b0b8e0a237d29a432970a7d8cec6258f9df3918c6624291f3d6c8cd",
+    "bytes": 5620,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/05-storage-mvp.md",
+    "source_sha256": "7f0f811fd8d3851d43c44f49533da2585f1565586b687053761d7887ef3794ab",
+    "public_sha256": "7f0f811fd8d3851d43c44f49533da2585f1565586b687053761d7887ef3794ab",
+    "bytes": 8271,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/06-manifesto.md",
+    "source_sha256": "2d5701669ec2accfcb484612b0e0e99fdaf6ecb1cf03b9b5f6665ca25481f401",
+    "public_sha256": "2d5701669ec2accfcb484612b0e0e99fdaf6ecb1cf03b9b5f6665ca25481f401",
+    "bytes": 5106,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/07-video.md",
+    "source_sha256": "a3474857757d9ba6c4bf974332a9bdf7016a6d8bd4610b5b863fa240deb229f3",
+    "public_sha256": "a3474857757d9ba6c4bf974332a9bdf7016a6d8bd4610b5b863fa240deb229f3",
+    "bytes": 5569,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/08-fiction.md",
+    "source_sha256": "c66404b2f289f71ad771ab434d75a56f44026aa0a017fb7e8bcdf2b9c97f8d91",
+    "public_sha256": "c66404b2f289f71ad771ab434d75a56f44026aa0a017fb7e8bcdf2b9c97f8d91",
+    "bytes": 7609,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/09-culture.md",
+    "source_sha256": "01ddc1ca219ad5e9374bac84af6e6a179d8feb2491ba649fd616bb2273bc108b",
+    "public_sha256": "01ddc1ca219ad5e9374bac84af6e6a179d8feb2491ba649fd616bb2273bc108b",
+    "bytes": 5480,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/10-first-30-days.md",
+    "source_sha256": "4c444d23b45933b701087a6d44d913c878ee3015ae7e70c5e2fa6e1e80f71524",
+    "public_sha256": "4c444d23b45933b701087a6d44d913c878ee3015ae7e70c5e2fa6e1e80f71524",
+    "bytes": 4509,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/11-sources.md",
+    "source_sha256": "2ebb913528f348db6bf426bf78bc9774642935c2045acb3f4c52b7e48b90e2e7",
+    "public_sha256": "2ebb913528f348db6bf426bf78bc9774642935c2045acb3f4c52b7e48b90e2e7",
+    "bytes": 3773,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/12-archive-receipt.md",
+    "source_sha256": "061d807eb0d3bf8c7a7c710b1f1cca1403593fbc6f3956e40265c424b2ecd7db",
+    "public_sha256": "061d807eb0d3bf8c7a7c710b1f1cca1403593fbc6f3956e40265c424b2ecd7db",
+    "bytes": 2039,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-25-seed/README.md",
+    "source_sha256": "2454eb8521dbeb83ca34988ea3c1dabb9a0b0791cda4a210c0c43f01e03112fb",
+    "public_sha256": "2454eb8521dbeb83ca34988ea3c1dabb9a0b0791cda4a210c0c43f01e03112fb",
+    "bytes": 2264,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-mathematics-and-contribution/00-readme.md",
+    "source_sha256": "3552bc0b5cc1adf385a76df07241be65de2c837c4c446fa603919dab573ac23c",
+    "public_sha256": "3552bc0b5cc1adf385a76df07241be65de2c837c4c446fa603919dab573ac23c",
+    "bytes": 1422,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-mathematics-and-contribution/01-chapter.md",
+    "source_sha256": "02d2cf4f249f9d552740aee1d4a5d0f574138451c4fe2e6554a61df03d9f4d06",
+    "public_sha256": "02d2cf4f249f9d552740aee1d4a5d0f574138451c4fe2e6554a61df03d9f4d06",
+    "bytes": 26852,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-mathematics-and-contribution/02-new-principles.md",
+    "source_sha256": "0d6ed5767acdf2449ef3d4045b8854c1880a6aa4b31172945aadc40f79eca8d2",
+    "public_sha256": "0d6ed5767acdf2449ef3d4045b8854c1880a6aa4b31172945aadc40f79eca8d2",
+    "bytes": 305372,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-mathematics-and-contribution/03-source-ledger.md",
+    "source_sha256": "8257b1068ed3c3270ff227bb15589d7217a13ba9a7be9a7e345c58312d9af25f",
+    "public_sha256": "8257b1068ed3c3270ff227bb15589d7217a13ba9a7be9a7e345c58312d9af25f",
+    "bytes": 62610,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-mathematics-and-contribution/04-sources-and-factcheck.md",
+    "source_sha256": "cfcce7d5baf2511456c9d97b46dadad761c55a585808b0ac091423400c78bbce",
+    "public_sha256": "cfcce7d5baf2511456c9d97b46dadad761c55a585808b0ac091423400c78bbce",
+    "bytes": 4520,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-mathematics-and-contribution/09-archive-receipt.md",
+    "source_sha256": "f443610bad283bb87a0507e8354d2931ab461cbb6c8ebd0154a9b78c7cc55168",
+    "public_sha256": "f443610bad283bb87a0507e8354d2931ab461cbb6c8ebd0154a9b78c7cc55168",
+    "bytes": 2067,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-mathematics-and-contribution/editorial-statistics.json",
+    "source_sha256": "66a891de6d1331d78015115b7dfc83dec802dbc71712709c295f061fb0be5d84",
+    "public_sha256": "66a891de6d1331d78015115b7dfc83dec802dbc71712709c295f061fb0be5d84",
+    "bytes": 745,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-mathematics-and-contribution/insertion-manifest.json",
+    "source_sha256": "cdcee81408afff13aa9dfcbedb91473c332d1482669a828d15856f121dec57a8",
+    "public_sha256": "cdcee81408afff13aa9dfcbedb91473c332d1482669a828d15856f121dec57a8",
+    "bytes": 743,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-mathematics-and-contribution/passage-manifest.json",
+    "source_sha256": "c20cdc5f79b9cc9583f9660b69ee4a8fb2a5abeffb7834b01ffadceaa4805f62",
+    "public_sha256": "c20cdc5f79b9cc9583f9660b69ee4a8fb2a5abeffb7834b01ffadceaa4805f62",
+    "bytes": 156940,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-mathematics-and-contribution/sources/MATH-REQUEST.txt",
+    "source_sha256": "c839a13dfa8e22c615a8620a0140799660c520f721a7b4e43c4df188f1337968",
+    "public_sha256": "c839a13dfa8e22c615a8620a0140799660c520f721a7b4e43c4df188f1337968",
+    "bytes": 3097,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles/00-readme.md",
+    "source_sha256": "c3fd9a950ca81a14585750739f9be9a2956c85f7172a41f3f509f2c600cefed1",
+    "public_sha256": "c3fd9a950ca81a14585750739f9be9a2956c85f7172a41f3f509f2c600cefed1",
+    "bytes": 1151,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles/01-new-principles.md",
+    "source_sha256": "78a2f5491eb1656c012c9daa49c437e16ef9a900015083d0eee3d48a8587f242",
+    "public_sha256": "78a2f5491eb1656c012c9daa49c437e16ef9a900015083d0eee3d48a8587f242",
+    "bytes": 106021,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles/02-original-manuscript.md",
+    "source_sha256": "89a5690f6bf73f8581d9a53669f40e5c466bbe159d14c65006c282fe5003bfdc",
+    "public_sha256": "89a5690f6bf73f8581d9a53669f40e5c466bbe159d14c65006c282fe5003bfdc",
+    "bytes": 44246,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles/03-sources.md",
+    "source_sha256": "ff2c29dc31392524a3ebff9adb97e0a3990a4734ddaf4460f005181e81732218",
+    "public_sha256": "ff2c29dc31392524a3ebff9adb97e0a3990a4734ddaf4460f005181e81732218",
+    "bytes": 551975,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles/04-chapter-map.md",
+    "source_sha256": "6f07abb338b0934f72ac4365f3da9bc340b5089f5c5f77ad07d9fd0b9440bac3",
+    "public_sha256": "6f07abb338b0934f72ac4365f3da9bc340b5089f5c5f77ad07d9fd0b9440bac3",
+    "bytes": 19331,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles/05-evolution.md",
+    "source_sha256": "2066d1ea078e7ddbb8b2e54d64c30e8c42decbe4b7e69e5666cb9317f7c6f1ce",
+    "public_sha256": "2066d1ea078e7ddbb8b2e54d64c30e8c42decbe4b7e69e5666cb9317f7c6f1ce",
+    "bytes": 8417,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles/06-editorial-ledger.md",
+    "source_sha256": "d3587d8ef7a84a4af077140bc452c1b72bd5d114568b2e8f5844bf29ead68dc4",
+    "public_sha256": "d3587d8ef7a84a4af077140bc452c1b72bd5d114568b2e8f5844bf29ead68dc4",
+    "bytes": 7531,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles/07-source-ledger.json",
+    "source_sha256": "ad4a99ccf09d8c8ca4564aca0c050c8055d3e6bdf6d5796b4ce683e8a937756b",
+    "public_sha256": "ad4a99ccf09d8c8ca4564aca0c050c8055d3e6bdf6d5796b4ce683e8a937756b",
+    "bytes": 110646,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles/08-theory-map.json",
+    "source_sha256": "08037e65792e50760d9fc544b47c60d0ed006fda0acad7c612e6f4e6d3232e5c",
+    "public_sha256": "08037e65792e50760d9fc544b47c60d0ed006fda0acad7c612e6f4e6d3232e5c",
+    "bytes": 44773,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles/09-archive-receipt.md",
+    "source_sha256": "6e71e2c8069739f83c65c4500bc0c0a1e7cbdeb01f1b6f5fa609d84fc300126b",
+    "public_sha256": "6e71e2c8069739f83c65c4500bc0c0a1e7cbdeb01f1b6f5fa609d84fc300126b",
+    "bytes": 2734,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/00-readme.md",
+    "source_sha256": "20447cea06aa2254f403544c0a01a5a28caa0c2be3f993404a6feea9fd780f8a",
+    "public_sha256": "20447cea06aa2254f403544c0a01a5a28caa0c2be3f993404a6feea9fd780f8a",
+    "bytes": 3104,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/01-manuscript.md",
+    "source_sha256": "5bf4a465f5a4ef146c785719c4f8f96e9af5e9bc2a8f728bb63c3bbf5493bcf3",
+    "public_sha256": "5bf4a465f5a4ef146c785719c4f8f96e9af5e9bc2a8f728bb63c3bbf5493bcf3",
+    "bytes": 278520,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/02-source-atlas.md",
+    "source_sha256": "f3ae0aae09e3a4f09f23d0063515c0d6804c99d31ab5f9ba297dc6fb4019096b",
+    "public_sha256": "f3ae0aae09e3a4f09f23d0063515c0d6804c99d31ab5f9ba297dc6fb4019096b",
+    "bytes": 15522,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/03-paragraph-ledger.md",
+    "source_sha256": "59a9b0315502fed5d07d94fdefb888037ab850b44f4424ece7fd2bac62709cd2",
+    "public_sha256": "59a9b0315502fed5d07d94fdefb888037ab850b44f4424ece7fd2bac62709cd2",
+    "bytes": 673226,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/04-evolution-and-coverage.md",
+    "source_sha256": "1f09d4536c5eee47bbfbb1e7efee7b3b8f743da0dde65f49ad9a64ff58ed6952",
+    "public_sha256": "1f09d4536c5eee47bbfbb1e7efee7b3b8f743da0dde65f49ad9a64ff58ed6952",
+    "bytes": 23176,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/05-editorial-review.md",
+    "source_sha256": "1400657f1a8a16e2e0bd15223dedcdb20cbc7e3bfd62eb3fa058b1c948d4e21c",
+    "public_sha256": "1400657f1a8a16e2e0bd15223dedcdb20cbc7e3bfd62eb3fa058b1c948d4e21c",
+    "bytes": 3852,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/06-theory-map.md",
+    "source_sha256": "e2beeafa93737da559ea859141195c182aab112cdd448d987618553e5559c67d",
+    "public_sha256": "e2beeafa93737da559ea859141195c182aab112cdd448d987618553e5559c67d",
+    "bytes": 7539,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/09-archive-receipt.md",
+    "source_sha256": "859a1dcf32cc59686b306d559716d8f1329ebe29696a6cbae6a4c6afec1bced2",
+    "public_sha256": "859a1dcf32cc59686b306d559716d8f1329ebe29696a6cbae6a4c6afec1bced2",
+    "bytes": 2458,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/edition-state.json",
+    "source_sha256": "10a4d0f484fc955dc7a8c3bdea8463a2387665af7cd285774f840f06cb4d72f8",
+    "public_sha256": "10a4d0f484fc955dc7a8c3bdea8463a2387665af7cd285774f840f06cb4d72f8",
+    "bytes": 38386,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/editorial-statistics.json",
+    "source_sha256": "602e611704fe7d6bec0c9963124120514510db61f78fdfa16b364b2981029073",
+    "public_sha256": "602e611704fe7d6bec0c9963124120514510db61f78fdfa16b364b2981029073",
+    "bytes": 668,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/source-manifest.json",
+    "source_sha256": "2d5089e7e7fecbf4c76dafbfc2d90738b0953c2680bed5ff995b2f9363dbe815",
+    "public_sha256": "2d5089e7e7fecbf4c76dafbfc2d90738b0953c2680bed5ff995b2f9363dbe815",
+    "bytes": 1532194,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/00.md",
+    "source_sha256": "32d12985c05b48952ec4bc1d016843e9c7584e723def926574fea6ebe285b9d6",
+    "public_sha256": "32d12985c05b48952ec4bc1d016843e9c7584e723def926574fea6ebe285b9d6",
+    "bytes": 16463,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/01.md",
+    "source_sha256": "9dcb8457344824fdb0c556b8d20dee7855f909ac2d7ed65fcb1a54b41a99bba7",
+    "public_sha256": "9dcb8457344824fdb0c556b8d20dee7855f909ac2d7ed65fcb1a54b41a99bba7",
+    "bytes": 11202,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/02.md",
+    "source_sha256": "54917b71ba1711a570062674c47654250cb239b42705ee467f66846249829a73",
+    "public_sha256": "54917b71ba1711a570062674c47654250cb239b42705ee467f66846249829a73",
+    "bytes": 11136,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/03.md",
+    "source_sha256": "cb6c2d6634b5f10f78598ffb37c335237c867e1cff30559535b625f5f217da2b",
+    "public_sha256": "cb6c2d6634b5f10f78598ffb37c335237c867e1cff30559535b625f5f217da2b",
+    "bytes": 13249,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/04.md",
+    "source_sha256": "351a9c1a3b4ab11db285ec41ebfb6282336872712b24fbc109dfe74282533ee6",
+    "public_sha256": "351a9c1a3b4ab11db285ec41ebfb6282336872712b24fbc109dfe74282533ee6",
+    "bytes": 10226,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/05.md",
+    "source_sha256": "207404081c894294fa3fe617e8d48e917189e8caa27b7459f65de734c3da5a1e",
+    "public_sha256": "207404081c894294fa3fe617e8d48e917189e8caa27b7459f65de734c3da5a1e",
+    "bytes": 12030,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/06.md",
+    "source_sha256": "46f8085f01fd4d1d2c2f5542ea7fc373d91145cfa89006cbff1a9479185dcc5a",
+    "public_sha256": "46f8085f01fd4d1d2c2f5542ea7fc373d91145cfa89006cbff1a9479185dcc5a",
+    "bytes": 19265,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/07.md",
+    "source_sha256": "69990c552431fc7d40c08bf8c0ad449c007f1c4c0dd2cefd283108c7b10e7ed0",
+    "public_sha256": "69990c552431fc7d40c08bf8c0ad449c007f1c4c0dd2cefd283108c7b10e7ed0",
+    "bytes": 9816,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/08.md",
+    "source_sha256": "89e1984b6fe2ac35951bf11d630e5b79fe6de835c991032f158cb5513b61ee5d",
+    "public_sha256": "89e1984b6fe2ac35951bf11d630e5b79fe6de835c991032f158cb5513b61ee5d",
+    "bytes": 9874,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/09.md",
+    "source_sha256": "17e4793799b42db45109c1ef12794544f3c7033d7920ea2d2d8b40169ddc2d1a",
+    "public_sha256": "17e4793799b42db45109c1ef12794544f3c7033d7920ea2d2d8b40169ddc2d1a",
+    "bytes": 10101,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/10.md",
+    "source_sha256": "99eaacbde750af25643476937107b86e10ca9ac70d08dbf705f9e668e6a3ea64",
+    "public_sha256": "99eaacbde750af25643476937107b86e10ca9ac70d08dbf705f9e668e6a3ea64",
+    "bytes": 10856,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/11.md",
+    "source_sha256": "e15f5a40f3665312431bb1ba5ca47963c90c1dfd0e77334d1865ab2a6fb2c575",
+    "public_sha256": "e15f5a40f3665312431bb1ba5ca47963c90c1dfd0e77334d1865ab2a6fb2c575",
+    "bytes": 13381,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/12.md",
+    "source_sha256": "e22d7aff5d6c1d5bc45c26a995af2788af89803bdb6e891c74949bd8eb5094a3",
+    "public_sha256": "e22d7aff5d6c1d5bc45c26a995af2788af89803bdb6e891c74949bd8eb5094a3",
+    "bytes": 10861,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/13.md",
+    "source_sha256": "9cd9866d97a6540dee3625d13e7b7e72906f67e5915e2f264875463633abaae7",
+    "public_sha256": "9cd9866d97a6540dee3625d13e7b7e72906f67e5915e2f264875463633abaae7",
+    "bytes": 9613,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/14.md",
+    "source_sha256": "c56596c6c7b5b5bf495e04fbd6b844c2e108ce4d559d4ef7bc3c35da7d9dd50c",
+    "public_sha256": "c56596c6c7b5b5bf495e04fbd6b844c2e108ce4d559d4ef7bc3c35da7d9dd50c",
+    "bytes": 12656,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/15.md",
+    "source_sha256": "92f2f190c4cf8edfbeb506d6c025d47bdaece17c4de61d7906098530d23df035",
+    "public_sha256": "92f2f190c4cf8edfbeb506d6c025d47bdaece17c4de61d7906098530d23df035",
+    "bytes": 17004,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/16.md",
+    "source_sha256": "857b6b8934c7e479fec3dcd126c9fac4486b392465872a902ee4de15eb63b037",
+    "public_sha256": "857b6b8934c7e479fec3dcd126c9fac4486b392465872a902ee4de15eb63b037",
+    "bytes": 14696,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/17.md",
+    "source_sha256": "a8f87cabcd1d5b217a7cbf54185e4e21da2b49a72ee7d40cb086083539101b29",
+    "public_sha256": "a8f87cabcd1d5b217a7cbf54185e4e21da2b49a72ee7d40cb086083539101b29",
+    "bytes": 11879,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/18.md",
+    "source_sha256": "b9643199566120581546be228b9da325531b72420dda2d573e54853db6cbd560",
+    "public_sha256": "b9643199566120581546be228b9da325531b72420dda2d573e54853db6cbd560",
+    "bytes": 12431,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/19.md",
+    "source_sha256": "11258189caa32bd9e0c75d599ddd80aa39ebb51889b5c88db1ae45966fae4dc3",
+    "public_sha256": "11258189caa32bd9e0c75d599ddd80aa39ebb51889b5c88db1ae45966fae4dc3",
+    "bytes": 8506,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/20.md",
+    "source_sha256": "1bd653be46ad40223cfc872b225ec7bb852244e8fe433328525ad740b81f85fd",
+    "public_sha256": "1bd653be46ad40223cfc872b225ec7bb852244e8fe433328525ad740b81f85fd",
+    "bytes": 10643,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/21.md",
+    "source_sha256": "beaf4747fce2ec821cc3c43aab1c0055d3cdb66a71bf66edd9fcdb93ec5c7f5e",
+    "public_sha256": "beaf4747fce2ec821cc3c43aab1c0055d3cdb66a71bf66edd9fcdb93ec5c7f5e",
+    "bytes": 10607,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/22.md",
+    "source_sha256": "4dc6ea3df5407abe4367876e198ce00d82a475885acc1f20ca7b841eb1e48956",
+    "public_sha256": "4dc6ea3df5407abe4367876e198ce00d82a475885acc1f20ca7b841eb1e48956",
+    "bytes": 8575,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/chapters/23.md",
+    "source_sha256": "9a3c97829461c9e2d64fad0ab700dc26eda1f49dce4ab0452ec230289d9a3c50",
+    "public_sha256": "9a3c97829461c9e2d64fad0ab700dc26eda1f49dce4ab0452ec230289d9a3c50",
+    "bytes": 3398,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/AUTHOR-FEEDBACK.txt",
+    "source_sha256": "21fd2d308ed4e9cb3e70ba1bf48138ea61c9b177da0c4bbd062e8fd51664b5c3",
+    "public_sha256": "21fd2d308ed4e9cb3e70ba1bf48138ea61c9b177da0c4bbd062e8fd51664b5c3",
+    "bytes": 1563,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/BRAINSTORM.txt",
+    "source_sha256": "e19d36016856f202fa785e907705e5a41271b0613818e56f985da0a176ea945a",
+    "public_sha256": "e19d36016856f202fa785e907705e5a41271b0613818e56f985da0a176ea945a",
+    "bytes": 31141,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/E002.txt",
+    "source_sha256": "f6d1eaa1db88889366b7ac7b40350be810ef639d341fe446fbc73d37ecae685f",
+    "public_sha256": "f6d1eaa1db88889366b7ac7b40350be810ef639d341fe446fbc73d37ecae685f",
+    "bytes": 6066,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/HOTPATH-REPORT.txt",
+    "source_sha256": "88ccd1c158fe86cb1a39dae2d48d99bc029e2ee9d2f0b12f434a988709ee0fa5",
+    "public_sha256": "88ccd1c158fe86cb1a39dae2d48d99bc029e2ee9d2f0b12f434a988709ee0fa5",
+    "bytes": 13984,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/LATEST-IMPORT.txt",
+    "source_sha256": "357612ff4646f5a6a908c3a1550a0f9c8c8573fb15febc29592c6a6518a1d9c1",
+    "public_sha256": "357612ff4646f5a6a908c3a1550a0f9c8c8573fb15febc29592c6a6518a1d9c1",
+    "bytes": 184,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/LATEST-WRITING.txt",
+    "source_sha256": "737caa418cf6cb25f85621ed2b54f28a3eac18d5253491e143feb6642088671d",
+    "public_sha256": "737caa418cf6cb25f85621ed2b54f28a3eac18d5253491e143feb6642088671d",
+    "bytes": 1165,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/META-ahm4vm.txt",
+    "source_sha256": "f0fba076fdd61535a983bed526d6f1e7a8e8b20d0f1a507696b69aad9c44387c",
+    "public_sha256": "f0fba076fdd61535a983bed526d6f1e7a8e8b20d0f1a507696b69aad9c44387c",
+    "bytes": 2684,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/META-jacqha.txt",
+    "source_sha256": "5594513c59027d6aff982ac314ef8b6dc8890eff46b20bda867e75d82fe6829c",
+    "public_sha256": "5594513c59027d6aff982ac314ef8b6dc8890eff46b20bda867e75d82fe6829c",
+    "bytes": 226,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/META-THEORY.txt",
+    "source_sha256": "82c882951c32d14c2c759ba287388de8e332696273f7dbf53f0271c680d4dc92",
+    "public_sha256": "82c882951c32d14c2c759ba287388de8e332696273f7dbf53f0271c680d4dc92",
+    "bytes": 112022,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/META-urxaqe.txt",
+    "source_sha256": "8a8182c216c5ca5e80bbbfdde1f6b0ac8e57e7c9fb6d1b72b4c4fbed9c2083ee",
+    "public_sha256": "8a8182c216c5ca5e80bbbfdde1f6b0ac8e57e7c9fb6d1b72b4c4fbed9c2083ee",
+    "bytes": 774,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/OLD-DYNAMIC.txt",
+    "source_sha256": "1a78d83e5497687bd6aa11a0ea56c6a3f33509fe0bbea45eb4cb7efcc4b41977",
+    "public_sha256": "1a78d83e5497687bd6aa11a0ea56c6a3f33509fe0bbea45eb4cb7efcc4b41977",
+    "bytes": 1077,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/OLD-INFINITY.txt",
+    "source_sha256": "c8cee06f84dabb1307347e3e824501d4a941064dd1ab18919a99db70e28a5c3e",
+    "public_sha256": "c8cee06f84dabb1307347e3e824501d4a941064dd1ab18919a99db70e28a5c3e",
+    "bytes": 1160,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/ORIGINAL.txt",
+    "source_sha256": "89a5690f6bf73f8581d9a53669f40e5c466bbe159d14c65006c282fe5003bfdc",
+    "public_sha256": "89a5690f6bf73f8581d9a53669f40e5c466bbe159d14c65006c282fe5003bfdc",
+    "bytes": 44246,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/PREFACE-2024.txt",
+    "source_sha256": "6eb7560c427cf2bbb75f8bddc969f62065fddcb6da14538aa0746d3505d36c32",
+    "public_sha256": "6eb7560c427cf2bbb75f8bddc969f62065fddcb6da14538aa0746d3505d36c32",
+    "bytes": 6478,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R10376.txt",
+    "source_sha256": "80c2b6baf61830d4062cb63f0a8490fbe1678a8dabe8ba680fc3149b8db0fce2",
+    "public_sha256": "80c2b6baf61830d4062cb63f0a8490fbe1678a8dabe8ba680fc3149b8db0fce2",
+    "bytes": 20986,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R11607.txt",
+    "source_sha256": "d19a7a9a660da51d32f02c2d3301f997c4909d2d5c135495d91d0defb2771c5a",
+    "public_sha256": "d19a7a9a660da51d32f02c2d3301f997c4909d2d5c135495d91d0defb2771c5a",
+    "bytes": 1546,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R1857.txt",
+    "source_sha256": "165540a24853c9a9d619ad6e3f79a305e88b3323f809a5fc4018c7080f6ae332",
+    "public_sha256": "165540a24853c9a9d619ad6e3f79a305e88b3323f809a5fc4018c7080f6ae332",
+    "bytes": 3843,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R34488.txt",
+    "source_sha256": "7b7c1d9166e8cc8d8c9acfb9eeac480dc5931642608da2f63b8d987122905e28",
+    "public_sha256": "7b7c1d9166e8cc8d8c9acfb9eeac480dc5931642608da2f63b8d987122905e28",
+    "bytes": 2975,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R34496.txt",
+    "source_sha256": "40361634c67e6675c1308fc7ab5c65e95f2bdf6a353bd2eb6329e0a70cd7fe7d",
+    "public_sha256": "40361634c67e6675c1308fc7ab5c65e95f2bdf6a353bd2eb6329e0a70cd7fe7d",
+    "bytes": 37785,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R34498.txt",
+    "source_sha256": "af258ba0903d1797d965c4ad5ffa12b28987298c5940d3eb86017e582f20d0af",
+    "public_sha256": "af258ba0903d1797d965c4ad5ffa12b28987298c5940d3eb86017e582f20d0af",
+    "bytes": 5416,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R34499.txt",
+    "source_sha256": "ed1b7c71444d9aec0737fe466fb7417966971ce6443c3d7e3496ff5026423081",
+    "public_sha256": "ed1b7c71444d9aec0737fe466fb7417966971ce6443c3d7e3496ff5026423081",
+    "bytes": 2836,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R34511.txt",
+    "source_sha256": "cea5a4d8f26f74841572df8e776724712a2de3571b829cd52e85a6d90b4fb940",
+    "public_sha256": "cea5a4d8f26f74841572df8e776724712a2de3571b829cd52e85a6d90b4fb940",
+    "bytes": 1523,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R34519.txt",
+    "source_sha256": "8032100c8caee92627ca15bbbca19863897867c3b1efb8f1fa3929f34f19bef2",
+    "public_sha256": "8032100c8caee92627ca15bbbca19863897867c3b1efb8f1fa3929f34f19bef2",
+    "bytes": 1000,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R36081.txt",
+    "source_sha256": "8d890d992c7369b8c2bba42ea94be312b0b7a41a0ed090360574a0017516e3bc",
+    "public_sha256": "8d890d992c7369b8c2bba42ea94be312b0b7a41a0ed090360574a0017516e3bc",
+    "bytes": 3356,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R46621.txt",
+    "source_sha256": "001b2381d1180ec5a1f14ad8985c414728aab03d745979718cc857d47000652d",
+    "public_sha256": "001b2381d1180ec5a1f14ad8985c414728aab03d745979718cc857d47000652d",
+    "bytes": 2188,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R46622.txt",
+    "source_sha256": "48800cac9e4292feca88d0e8d244cf3551b6473474f989ddb5485b0b087a797d",
+    "public_sha256": "48800cac9e4292feca88d0e8d244cf3551b6473474f989ddb5485b0b087a797d",
+    "bytes": 2852,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R47840.txt",
+    "source_sha256": "de45dc319f32a5c6c8f31d1aa65935d01789e58b7e5b56b4f286e0a4ecd00913",
+    "public_sha256": "de45dc319f32a5c6c8f31d1aa65935d01789e58b7e5b56b4f286e0a4ecd00913",
+    "bytes": 1489,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48220.txt",
+    "source_sha256": "f4d12a8687e9b36730b64d4e640037ccef228fc11216f91dd8fdf085f34ebc4f",
+    "public_sha256": "f4d12a8687e9b36730b64d4e640037ccef228fc11216f91dd8fdf085f34ebc4f",
+    "bytes": 3677,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48331.txt",
+    "source_sha256": "e7be7b3dd48bda1a7cdd47deab5aa3a8cb265663f9aabe0291db759aa5225c1d",
+    "public_sha256": "e7be7b3dd48bda1a7cdd47deab5aa3a8cb265663f9aabe0291db759aa5225c1d",
+    "bytes": 15253,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48523.txt",
+    "source_sha256": "c39973441d1d8ab474cab4000a970e0a7b75685d30d3871d1331dcc50c5915c6",
+    "public_sha256": "c39973441d1d8ab474cab4000a970e0a7b75685d30d3871d1331dcc50c5915c6",
+    "bytes": 1027,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48527.txt",
+    "source_sha256": "ec9b03417d37ca1dcccbfd66c8f4d16701c430f0f6b9345afe94d526b0b1e30c",
+    "public_sha256": "ec9b03417d37ca1dcccbfd66c8f4d16701c430f0f6b9345afe94d526b0b1e30c",
+    "bytes": 3887,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48623.txt",
+    "source_sha256": "27766773fadf28b15f0bcbbccab7f4fc1b0a65ad0cf540c194d9725b96bc7063",
+    "public_sha256": "27766773fadf28b15f0bcbbccab7f4fc1b0a65ad0cf540c194d9725b96bc7063",
+    "bytes": 1905,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48641.txt",
+    "source_sha256": "727449fb43f108adce8ee2417d68b76f825c254eb298702f72915f6c833afd41",
+    "public_sha256": "727449fb43f108adce8ee2417d68b76f825c254eb298702f72915f6c833afd41",
+    "bytes": 1072,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48731.txt",
+    "source_sha256": "7d4f3b80d41bc17fbb4204d0b3c8715ad5dc345cc9ffbc9039b5b649422d87de",
+    "public_sha256": "7d4f3b80d41bc17fbb4204d0b3c8715ad5dc345cc9ffbc9039b5b649422d87de",
+    "bytes": 11479,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48751.txt",
+    "source_sha256": "31451d70de1921a51054f2c9f2532ea6c07f5f6c0f0baed4b4d1fb46402c9ee4",
+    "public_sha256": "31451d70de1921a51054f2c9f2532ea6c07f5f6c0f0baed4b4d1fb46402c9ee4",
+    "bytes": 2935,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48755.txt",
+    "source_sha256": "b9ff29edf1dade250cf94b50aca2d19fda01ba105c1538fabf2bbedafb64463a",
+    "public_sha256": "b9ff29edf1dade250cf94b50aca2d19fda01ba105c1538fabf2bbedafb64463a",
+    "bytes": 990,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48769.txt",
+    "source_sha256": "2ccecbcf9d22c74d484ce043c600ae93e69661f2e882b8784685683a4c14d8d4",
+    "public_sha256": "2ccecbcf9d22c74d484ce043c600ae93e69661f2e882b8784685683a4c14d8d4",
+    "bytes": 1788,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48840.txt",
+    "source_sha256": "3a1a379c322d04769a00233f099fd47b7d78970ead2cd0e9e7ac61408b48c2d6",
+    "public_sha256": "3a1a379c322d04769a00233f099fd47b7d78970ead2cd0e9e7ac61408b48c2d6",
+    "bytes": 879,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48849.txt",
+    "source_sha256": "1594d72c89544b3baaeb1c0b808e95d69c2e746097496fab72b72fe5f7c9d411",
+    "public_sha256": "1594d72c89544b3baaeb1c0b808e95d69c2e746097496fab72b72fe5f7c9d411",
+    "bytes": 963,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R48861.txt",
+    "source_sha256": "8755857d8e04edfc0ed53a6ad75add90de05e0df5f07350a69c28a6af202452e",
+    "public_sha256": "8755857d8e04edfc0ed53a6ad75add90de05e0df5f07350a69c28a6af202452e",
+    "bytes": 4412,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49033.txt",
+    "source_sha256": "013bf3363bd14e3ef5f600c4137728b3a76f235567c6cf25992c8a7e3b0576fb",
+    "public_sha256": "013bf3363bd14e3ef5f600c4137728b3a76f235567c6cf25992c8a7e3b0576fb",
+    "bytes": 2667,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49067.txt",
+    "source_sha256": "652a4159b1e2f85ec4f4e63f0d45a867d58ca96f2bc08d39ee0eca9c34f2cdbe",
+    "public_sha256": "652a4159b1e2f85ec4f4e63f0d45a867d58ca96f2bc08d39ee0eca9c34f2cdbe",
+    "bytes": 1819,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49083.txt",
+    "source_sha256": "e011d1eeee752df5ee0fc41042b68ba3246b33283fb00f7fbd2313e5fe48b054",
+    "public_sha256": "e011d1eeee752df5ee0fc41042b68ba3246b33283fb00f7fbd2313e5fe48b054",
+    "bytes": 1018,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49135.txt",
+    "source_sha256": "e4cebf5c9ab6b5ff7fe597c4982b8fc0a7ccc82834d7287a4994ee46aeb8f6ef",
+    "public_sha256": "e4cebf5c9ab6b5ff7fe597c4982b8fc0a7ccc82834d7287a4994ee46aeb8f6ef",
+    "bytes": 6504,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49187.txt",
+    "source_sha256": "1474503a139b6c34f4893421c4b2a8f18d3241864ae53a84a57f51d999e681c8",
+    "public_sha256": "1474503a139b6c34f4893421c4b2a8f18d3241864ae53a84a57f51d999e681c8",
+    "bytes": 3489,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49188.txt",
+    "source_sha256": "7f69e9745f0ed66139a676a2e758eecee298ce3ab7b421b19b984284eca992f1",
+    "public_sha256": "7f69e9745f0ed66139a676a2e758eecee298ce3ab7b421b19b984284eca992f1",
+    "bytes": 6015,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49196.txt",
+    "source_sha256": "278a621df6ebe4b2df05abdcd28f58a2782970ae7b7dc47fe7a1a17bae4f1251",
+    "public_sha256": "278a621df6ebe4b2df05abdcd28f58a2782970ae7b7dc47fe7a1a17bae4f1251",
+    "bytes": 3327,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49228.txt",
+    "source_sha256": "70b94c953858baa4c4f9e2baa2086fc6ca7c6e307903901dbfbe387d28643d93",
+    "public_sha256": "70b94c953858baa4c4f9e2baa2086fc6ca7c6e307903901dbfbe387d28643d93",
+    "bytes": 2602,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49234.txt",
+    "source_sha256": "2a59952110eb7f82ad21f4b447ce65f6e6749c242ae2878c54640b933af7424d",
+    "public_sha256": "2a59952110eb7f82ad21f4b447ce65f6e6749c242ae2878c54640b933af7424d",
+    "bytes": 1467,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49383.txt",
+    "source_sha256": "0cf298188bd01f24d4d0110f90f8e33e2f7e2d6c9cfdaa75016385265d598796",
+    "public_sha256": "0cf298188bd01f24d4d0110f90f8e33e2f7e2d6c9cfdaa75016385265d598796",
+    "bytes": 1678,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49423.txt",
+    "source_sha256": "d699ecea065c36836628cb3a8424a09337289bab06473a80ef3c6dce569108b7",
+    "public_sha256": "d699ecea065c36836628cb3a8424a09337289bab06473a80ef3c6dce569108b7",
+    "bytes": 4923,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49500.txt",
+    "source_sha256": "eebe40c99cd7ed4507d424d1d4d204320b45d3a5553d46585dfb5c30199b9dc6",
+    "public_sha256": "eebe40c99cd7ed4507d424d1d4d204320b45d3a5553d46585dfb5c30199b9dc6",
+    "bytes": 2682,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R49560.txt",
+    "source_sha256": "bb58445f214b3c26eb89f298e8de2cbef7ae38c35e97055fda7abcdf5d1b188e",
+    "public_sha256": "bb58445f214b3c26eb89f298e8de2cbef7ae38c35e97055fda7abcdf5d1b188e",
+    "bytes": 1813,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R53349.txt",
+    "source_sha256": "41e0a9d7b616ba5cdd96530523703f3e168ed24066ce676de5a97f19ac8a8e98",
+    "public_sha256": "41e0a9d7b616ba5cdd96530523703f3e168ed24066ce676de5a97f19ac8a8e98",
+    "bytes": 1602,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54235.txt",
+    "source_sha256": "28dca0fdf85554157b1747290ccce8772bf449ac5669202aa732e2968b91602d",
+    "public_sha256": "28dca0fdf85554157b1747290ccce8772bf449ac5669202aa732e2968b91602d",
+    "bytes": 10461,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54307.txt",
+    "source_sha256": "5c671dbf57ec29a9f2529194a601bfda693fb721c2fee1e1b0a2d29d1424e7b0",
+    "public_sha256": "5c671dbf57ec29a9f2529194a601bfda693fb721c2fee1e1b0a2d29d1424e7b0",
+    "bytes": 2812,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54477.txt",
+    "source_sha256": "544b70a75ad5ca905665d61587357fa9169d87087b11aea9ad3ab10311fd9bbe",
+    "public_sha256": "544b70a75ad5ca905665d61587357fa9169d87087b11aea9ad3ab10311fd9bbe",
+    "bytes": 855,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54626.txt",
+    "source_sha256": "de33f8a6e63af727c00d73fe99055c6b5a5b17a0b821a0da626c303f8cf92a4d",
+    "public_sha256": "de33f8a6e63af727c00d73fe99055c6b5a5b17a0b821a0da626c303f8cf92a4d",
+    "bytes": 28589,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54629.txt",
+    "source_sha256": "f1010a334b44b55238fb7eefc8163c438bdb0d25b2a09fa6e1232c2a67638a98",
+    "public_sha256": "f1010a334b44b55238fb7eefc8163c438bdb0d25b2a09fa6e1232c2a67638a98",
+    "bytes": 833,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54733.txt",
+    "source_sha256": "62bfdf444815bc03e3c62145f0a1bff6ae207b7c89c783db5ff46a5a2c711df8",
+    "public_sha256": "62bfdf444815bc03e3c62145f0a1bff6ae207b7c89c783db5ff46a5a2c711df8",
+    "bytes": 357,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54750.txt",
+    "source_sha256": "ed67e7acb3353433921c546db2b765f48685ca1a4576adc420d6090b585ef579",
+    "public_sha256": "ed67e7acb3353433921c546db2b765f48685ca1a4576adc420d6090b585ef579",
+    "bytes": 4129,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54800.txt",
+    "source_sha256": "e407a51f753e2bf8d6f37afa73f9b9631cf56e62d0bdc2628c32d3686aae87ab",
+    "public_sha256": "e407a51f753e2bf8d6f37afa73f9b9631cf56e62d0bdc2628c32d3686aae87ab",
+    "bytes": 6549,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54803.txt",
+    "source_sha256": "071fc971a7e0c38ec4f813e365d0fbe5ec5f0454ee633971160545767aeaad1f",
+    "public_sha256": "071fc971a7e0c38ec4f813e365d0fbe5ec5f0454ee633971160545767aeaad1f",
+    "bytes": 524,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54886.txt",
+    "source_sha256": "a957f3edb05d72ac16026985b33d7862603c8f0d2e5ae8d1611dadce6989a07f",
+    "public_sha256": "a957f3edb05d72ac16026985b33d7862603c8f0d2e5ae8d1611dadce6989a07f",
+    "bytes": 25304,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54910.txt",
+    "source_sha256": "70312428ddf406b6873a839f1e9d0262bdf7c12d92263f735431f6a9ef4cc51f",
+    "public_sha256": "70312428ddf406b6873a839f1e9d0262bdf7c12d92263f735431f6a9ef4cc51f",
+    "bytes": 6771,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54935.txt",
+    "source_sha256": "56dc30bcefb6358518aa34540b015fb3d7f9b830efc17aff15315a0a99716864",
+    "public_sha256": "56dc30bcefb6358518aa34540b015fb3d7f9b830efc17aff15315a0a99716864",
+    "bytes": 8349,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54949.txt",
+    "source_sha256": "43bc066e4e920fba817f58daccff68f2289d786372e612e05cad5aaaf18c25e5",
+    "public_sha256": "43bc066e4e920fba817f58daccff68f2289d786372e612e05cad5aaaf18c25e5",
+    "bytes": 1956,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R54969.txt",
+    "source_sha256": "ab30e700742470adb51eb7c8fcf10dee0af7f48fbd6c34a586c36c76b3c44286",
+    "public_sha256": "ab30e700742470adb51eb7c8fcf10dee0af7f48fbd6c34a586c36c76b3c44286",
+    "bytes": 1691,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55042.txt",
+    "source_sha256": "a2625877b9874412902d61aead79f88faffdd450c82e942d2301a0d8614f2e60",
+    "public_sha256": "a2625877b9874412902d61aead79f88faffdd450c82e942d2301a0d8614f2e60",
+    "bytes": 4347,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55084.txt",
+    "source_sha256": "9b971d156befc83ffe103b2360f60f7f8ca016df2bdbb313c674cf2518cf3651",
+    "public_sha256": "9b971d156befc83ffe103b2360f60f7f8ca016df2bdbb313c674cf2518cf3651",
+    "bytes": 2573,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55111.txt",
+    "source_sha256": "92201646e49ce0013a0879358446b40799038be292644285597efc8fc699f4e3",
+    "public_sha256": "92201646e49ce0013a0879358446b40799038be292644285597efc8fc699f4e3",
+    "bytes": 3517,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55180.txt",
+    "source_sha256": "9b0a4141f6e33eafca370478c9a091254d0ab8cb0d146980b62a9e37398d36b7",
+    "public_sha256": "9b0a4141f6e33eafca370478c9a091254d0ab8cb0d146980b62a9e37398d36b7",
+    "bytes": 2263,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55207.txt",
+    "source_sha256": "25a344a27ab80271010390c8ac34104baef74b77e5295f19fa92780c81e54154",
+    "public_sha256": "25a344a27ab80271010390c8ac34104baef74b77e5295f19fa92780c81e54154",
+    "bytes": 877,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55221.txt",
+    "source_sha256": "828f59d8f6a7b189575f57812af4165df28f6c53b9de8ead3596eee74f9fce62",
+    "public_sha256": "828f59d8f6a7b189575f57812af4165df28f6c53b9de8ead3596eee74f9fce62",
+    "bytes": 1849,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55321.txt",
+    "source_sha256": "93dce8f0ab2359f47f12bda30e0179bf9f2bcd7ef1d865f951a56740a46cadcc",
+    "public_sha256": "93dce8f0ab2359f47f12bda30e0179bf9f2bcd7ef1d865f951a56740a46cadcc",
+    "bytes": 1141,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55365.txt",
+    "source_sha256": "3744af305168f151a420de9c430b07ef5ba0a22c8478f4177b9018720909fc90",
+    "public_sha256": "3744af305168f151a420de9c430b07ef5ba0a22c8478f4177b9018720909fc90",
+    "bytes": 14804,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55370.txt",
+    "source_sha256": "d78effaef22e57fb5f1797b22663fd82246ca4469b77e50fdd043c9005dfd9d4",
+    "public_sha256": "d78effaef22e57fb5f1797b22663fd82246ca4469b77e50fdd043c9005dfd9d4",
+    "bytes": 1233,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55469.txt",
+    "source_sha256": "e1c58886c95c356a32c3ac52b66f6f93d3df97822441c89e08b25d641de0d95d",
+    "public_sha256": "e1c58886c95c356a32c3ac52b66f6f93d3df97822441c89e08b25d641de0d95d",
+    "bytes": 1152,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55647.txt",
+    "source_sha256": "48c41e5c35e867d61048ac70ebf6e7b67e63625df92d735e2d8b6bafc8235692",
+    "public_sha256": "48c41e5c35e867d61048ac70ebf6e7b67e63625df92d735e2d8b6bafc8235692",
+    "bytes": 5050,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55662.txt",
+    "source_sha256": "616918b7c1cbc7ac2d067a5b3de527fc01bd748b1e6d76cff354147a45891fbd",
+    "public_sha256": "616918b7c1cbc7ac2d067a5b3de527fc01bd748b1e6d76cff354147a45891fbd",
+    "bytes": 3563,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/R55716.txt",
+    "source_sha256": "38dbd99cd8872c72635e7ae02b0abd1c705ceabf54fa12bc04e075df7f760d2f",
+    "public_sha256": "38dbd99cd8872c72635e7ae02b0abd1c705ceabf54fa12bc04e075df7f760d2f",
+    "bytes": 13930,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/SEED-H1-0.txt",
+    "source_sha256": "f3560bbcca15c42b9914df2e7822e2b06c710777acf23051b7fc0caf7ad4cd12",
+    "public_sha256": "f3560bbcca15c42b9914df2e7822e2b06c710777acf23051b7fc0caf7ad4cd12",
+    "bytes": 1936,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/SEED-H4-0.txt",
+    "source_sha256": "7c58be1afe21b3d91157178739697d712c04ba41669cff654831ed78d0a80615",
+    "public_sha256": "7c58be1afe21b3d91157178739697d712c04ba41669cff654831ed78d0a80615",
+    "bytes": 1621,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/SEED-R10-0.txt",
+    "source_sha256": "279e0b3505f5b3024a08f37843083f1b7489575bce6b49910310105ca81d47ce",
+    "public_sha256": "279e0b3505f5b3024a08f37843083f1b7489575bce6b49910310105ca81d47ce",
+    "bytes": 801,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/SEED-R14-0.txt",
+    "source_sha256": "caa89cd4f1bfc2a839930ec81da6d5e51965dc2b52eb6b5cb076cee7cc52945f",
+    "public_sha256": "caa89cd4f1bfc2a839930ec81da6d5e51965dc2b52eb6b5cb076cee7cc52945f",
+    "bytes": 4114,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/SEED-R16-0.txt",
+    "source_sha256": "5b8b99f28a56346c82291568b029216f702e42d40f5e66f93b4851c839c34a0d",
+    "public_sha256": "5b8b99f28a56346c82291568b029216f702e42d40f5e66f93b4851c839c34a0d",
+    "bytes": 2444,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/SEED-R18-0.txt",
+    "source_sha256": "415a4831383aa952d703700ba6f5218e564b471c7ededa6be2439da0d936eb07",
+    "public_sha256": "415a4831383aa952d703700ba6f5218e564b471c7ededa6be2439da0d936eb07",
+    "bytes": 1662,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/STRUCTOKEN.txt",
+    "source_sha256": "2d21efaa4c7778933d450ee206e4ee27eb84a73a719be29c9cd7f15b278ac75e",
+    "public_sha256": "2d21efaa4c7778933d450ee206e4ee27eb84a73a719be29c9cd7f15b278ac75e",
+    "bytes": 16239,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-new-principles-expanded/sources/T033.txt",
+    "source_sha256": "925d081565a99defd974f5c47a048d044d40cd16503a97c6330a567a8ed175f6",
+    "public_sha256": "925d081565a99defd974f5c47a048d044d40cd16503a97c6330a567a8ed175f6",
+    "bytes": 5351,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-public-intelligence/00-readme.md",
+    "source_sha256": "18b005e9f7ccfbd467118ea5c01699e812b308070e7344e7a7e194ac8ec56a1a",
+    "public_sha256": "18b005e9f7ccfbd467118ea5c01699e812b308070e7344e7a7e194ac8ec56a1a",
+    "bytes": 1349,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-public-intelligence/01-chapter.md",
+    "source_sha256": "8c2015afa80e633a54077adfc873e807eccfd48ea2507672c73197eade5b7e4d",
+    "public_sha256": "8c2015afa80e633a54077adfc873e807eccfd48ea2507672c73197eade5b7e4d",
+    "bytes": 38431,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-public-intelligence/02-new-principles.md",
+    "source_sha256": "53c2039966899dbc02854141d8627d2f9a2358f88a49a8908aff2941fa8ee062",
+    "public_sha256": "53c2039966899dbc02854141d8627d2f9a2358f88a49a8908aff2941fa8ee062",
+    "bytes": 316951,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-public-intelligence/03-source-ledger.md",
+    "source_sha256": "33c303b9d5fc6c7073a43c15a40e44df55a62e30e0ee4a8726391005bdba36c1",
+    "public_sha256": "33c303b9d5fc6c7073a43c15a40e44df55a62e30e0ee4a8726391005bdba36c1",
+    "bytes": 100926,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-public-intelligence/04-sources-and-editing.md",
+    "source_sha256": "4b1be0610f139cf3070da379629384334af1723c17e1d205660b6e85156be578",
+    "public_sha256": "4b1be0610f139cf3070da379629384334af1723c17e1d205660b6e85156be578",
+    "bytes": 5765,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-public-intelligence/09-archive-receipt.md",
+    "source_sha256": "48fb4b55247b26a17eaa86b3248e2a326eb06367ee590086a61e7a595b2d206f",
+    "public_sha256": "48fb4b55247b26a17eaa86b3248e2a326eb06367ee590086a61e7a595b2d206f",
+    "bytes": 2304,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-public-intelligence/editorial-statistics.json",
+    "source_sha256": "ed317dbaf1d6809506a0f112a1307549fc8be767adc9e8e32e5970aa90438b67",
+    "public_sha256": "ed317dbaf1d6809506a0f112a1307549fc8be767adc9e8e32e5970aa90438b67",
+    "bytes": 914,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-public-intelligence/passage-manifest.json",
+    "source_sha256": "46ddc5685f79a2e5d8adbbdfabfcf0556eee60352bc0f9cf2f23cdd5937b4d46",
+    "public_sha256": "46ddc5685f79a2e5d8adbbdfabfcf0556eee60352bc0f9cf2f23cdd5937b4d46",
+    "bytes": 249875,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-public-intelligence/reorganization.json",
+    "source_sha256": "f3ee95816321b375a011e439f2d0dacd900dd148f70df999f32eee45ccb90d40",
+    "public_sha256": "f3ee95816321b375a011e439f2d0dacd900dd148f70df999f32eee45ccb90d40",
+    "bytes": 611,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-public-intelligence/replacement-manifest.json",
+    "source_sha256": "bfde01bd80fe3f1b73b6abb4e778340a41a05a3a0cc04c1ddd99cf12f12e17cb",
+    "public_sha256": "bfde01bd80fe3f1b73b6abb4e778340a41a05a3a0cc04c1ddd99cf12f12e17cb",
+    "bytes": 1031,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-public-intelligence/sources/INTELLIGENCE-REQUEST.txt",
+    "source_sha256": "37247735a55767cbaec8672f781fc13d01a16e8e22517ba6a62c58b70515115c",
+    "public_sha256": "37247735a55767cbaec8672f781fc13d01a16e8e22517ba6a62c58b70515115c",
+    "bytes": 5726,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-shared-credit/00-readme.md",
+    "source_sha256": "2c96cf866e44047a38d8b41b1f2c393c2b85a43b73402603cce5f2f9bd37f935",
+    "public_sha256": "2c96cf866e44047a38d8b41b1f2c393c2b85a43b73402603cce5f2f9bd37f935",
+    "bytes": 1041,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-shared-credit/01-chapter.md",
+    "source_sha256": "825898cad9ec48ec6e66458409199a61995380100bd659f6db9308a6b0315b11",
+    "public_sha256": "825898cad9ec48ec6e66458409199a61995380100bd659f6db9308a6b0315b11",
+    "bytes": 49098,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-shared-credit/02-new-principles.md",
+    "source_sha256": "7f6daf93e6f9568cb944571db07b61cf252174b32588de3dcfb75b78f325465a",
+    "public_sha256": "7f6daf93e6f9568cb944571db07b61cf252174b32588de3dcfb75b78f325465a",
+    "bytes": 327618,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-shared-credit/03-source-ledger.md",
+    "source_sha256": "6c2c3cf181023c821c255e89c7ec47a452d5d1fa3dc7002400ec16e6a570aa0a",
+    "public_sha256": "6c2c3cf181023c821c255e89c7ec47a452d5d1fa3dc7002400ec16e6a570aa0a",
+    "bytes": 122662,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-shared-credit/04-sources-and-editing.md",
+    "source_sha256": "734ae050ec89206facf8a6d81a929d4a6d4077480fdf1cf1da5ece187cd937f7",
+    "public_sha256": "734ae050ec89206facf8a6d81a929d4a6d4077480fdf1cf1da5ece187cd937f7",
+    "bytes": 4366,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-shared-credit/05-section-ten.md",
+    "source_sha256": "5a4de49f003f153f5af3da02e4b1d55f24be31ea4858727437a20e553e480568",
+    "public_sha256": "5a4de49f003f153f5af3da02e4b1d55f24be31ea4858727437a20e553e480568",
+    "bytes": 13520,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-shared-credit/09-archive-receipt.md",
+    "source_sha256": "8f164f7f7b6d1166bda198d99787bcd26d714a50a4081aa57b108ff05d652992",
+    "public_sha256": "8f164f7f7b6d1166bda198d99787bcd26d714a50a4081aa57b108ff05d652992",
+    "bytes": 1940,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-shared-credit/editorial-statistics.json",
+    "source_sha256": "18ac1cd3c51c5fb0aee376e4a4788207c1d701a4ee8e05a3ce634cea498cc442",
+    "public_sha256": "18ac1cd3c51c5fb0aee376e4a4788207c1d701a4ee8e05a3ce634cea498cc442",
+    "bytes": 936,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-shared-credit/passage-manifest.json",
+    "source_sha256": "eb65ba9c772200d6a25c36f0471de532400f6dd42482812d65b4fa1d1286ac2e",
+    "public_sha256": "eb65ba9c772200d6a25c36f0471de532400f6dd42482812d65b4fa1d1286ac2e",
+    "bytes": 294098,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-shared-credit/reorganization.json",
+    "source_sha256": "4631c34fc73d7a54ea12b25a6d5c3ba185a0d9734e88cdbfd1f6e01513c09216",
+    "public_sha256": "4631c34fc73d7a54ea12b25a6d5c3ba185a0d9734e88cdbfd1f6e01513c09216",
+    "bytes": 855,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-shared-credit/replacement-manifest.json",
+    "source_sha256": "f71ab0fb7301d47efd24058d5fc9a567267d8611b5d32ddaf5957f189bc8f223",
+    "public_sha256": "f71ab0fb7301d47efd24058d5fc9a567267d8611b5d32ddaf5957f189bc8f223",
+    "bytes": 994,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/dossiers/2026-10-26-shared-credit/sources/CREDIT-REQUEST.txt",
+    "source_sha256": "06b315af40afbdec877868b4095a9eb5c0c16ec19b906ba80c710f25ce5f1cbb",
+    "public_sha256": "06b315af40afbdec877868b4095a9eb5c0c16ec19b906ba80c710f25ce5f1cbb",
+    "bytes": 1728,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/CHATGPT-EXPORT-0.1.md",
+    "source_sha256": "eb6d3418ffa73a18716b6f24737f47fdbb2274df2e3cec7b78ceffec1b74c2bb",
+    "public_sha256": "eb6d3418ffa73a18716b6f24737f47fdbb2274df2e3cec7b78ceffec1b74c2bb",
+    "bytes": 4337,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/claude-ai-consensus.json",
+    "source_sha256": "22f503d330de6478355bba3f29971e761dcacde493a257422c0d4b778a438e78",
+    "public_sha256": "22f503d330de6478355bba3f29971e761dcacde493a257422c0d4b778a438e78",
+    "bytes": 2074,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/CLAUDE-AI-EXPORT-REVIEW-0.1.md",
+    "source_sha256": "c020212f6ecf4bd82209fdd3ff7bf333d3add1697f2a8bf3d1c9f4409da916ba",
+    "public_sha256": "c020212f6ecf4bd82209fdd3ff7bf333d3add1697f2a8bf3d1c9f4409da916ba",
+    "bytes": 2237,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/consensus.json",
+    "source_sha256": "c7e36b11c824809a4103dab994e4fec135769d3d0b9eb7b09712eea75aa9047f",
+    "public_sha256": "c7e36b11c824809a4103dab994e4fec135769d3d0b9eb7b09712eea75aa9047f",
+    "bytes": 1784,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/decoder-negative-vectors.json",
+    "source_sha256": "67d983aea3f57269df27a6e6bd5e5bc1ca99f7bd112e6132e32f0adb1b80335f",
+    "public_sha256": "67d983aea3f57269df27a6e6bd5e5bc1ca99f7bd112e6132e32f0adb1b80335f",
+    "bytes": 1400,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/FILE-TEXT-0.1-draft.md",
+    "source_sha256": "99b0fe21a55e20f90e8f59ee8816e55c55e1765f3eb0957b05c0a594952552eb",
+    "public_sha256": "99b0fe21a55e20f90e8f59ee8816e55c55e1765f3eb0957b05c0a594952552eb",
+    "bytes": 2267,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/file-text-consensus.json",
+    "source_sha256": "1afc27fa58292a89f114d55379e7d1e2eed87ba785143f27c40dad1e0b9d5ae2",
+    "public_sha256": "1afc27fa58292a89f114d55379e7d1e2eed87ba785143f27c40dad1e0b9d5ae2",
+    "bytes": 948,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/gemini-consensus.json",
+    "source_sha256": "75673d557c52c1079ee5c52d241a820706ec96e8ad4fe922fff41692891a1167",
+    "public_sha256": "75673d557c52c1079ee5c52d241a820706ec96e8ad4fe922fff41692891a1167",
+    "bytes": 2687,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/GEMINI-TAKEOUT-0.1.1.md",
+    "source_sha256": "b985dcddbf4f9ab7ff42d5f2764e18e8c7a6398ff00f6f89eb665a61954dfcb9",
+    "public_sha256": "b985dcddbf4f9ab7ff42d5f2764e18e8c7a6398ff00f6f89eb665a61954dfcb9",
+    "bytes": 2819,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/GEMINI-TAKEOUT-0.1.md",
+    "source_sha256": "e8e8b47117991483bdfeb4ab81eeccf39fee4e20c03dc8ccd8868f3d2bf0afd9",
+    "public_sha256": "e8e8b47117991483bdfeb4ab81eeccf39fee4e20c03dc8ccd8868f3d2bf0afd9",
+    "bytes": 4082,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/PKST-0.1.md",
+    "source_sha256": "72e5b521717fa59a78c92e2bb67b62e801410c657d899be9c12cdb712b8f9c2c",
+    "public_sha256": "72e5b521717fa59a78c92e2bb67b62e801410c657d899be9c12cdb712b8f9c2c",
+    "bytes": 15368,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/semantic-pairs-consensus.json",
+    "source_sha256": "9069f72e320128608b371a11448cb8f9e727cad6ab7ed5cfd8ba82bba589f871",
+    "public_sha256": "9069f72e320128608b371a11448cb8f9e727cad6ab7ed5cfd8ba82bba589f871",
+    "bytes": 874,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/protocol/test-vectors.json",
+    "source_sha256": "bb512915e09f189f52b5ce514534c1f2534f135e622fe87c2e66df3c73eadc03",
+    "public_sha256": "bb512915e09f189f52b5ce514534c1f2534f135e622fe87c2e66df3c73eadc03",
+    "bytes": 14018,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/car-verification.json",
+    "source_sha256": "496a9ed0ec161c84c7d6e911e179aff827ba65a9a2c0210cde6f1b4041fa6f6a",
+    "public_sha256": "496a9ed0ec161c84c7d6e911e179aff827ba65a9a2c0210cde6f1b4041fa6f6a",
+    "bytes": 390,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/catalog-verification-20261024T091300Z.json",
+    "source_sha256": "86ccedba86c7418b41e03e0e85e93a814bbd575d7a91c4874a4708e9ceb0b9eb",
+    "public_sha256": "86ccedba86c7418b41e03e0e85e93a814bbd575d7a91c4874a4708e9ceb0b9eb",
+    "bytes": 992,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/catalog-verification.json",
+    "source_sha256": "e692f460c0be3498a24c845ec83682502a74635cd2aa54c4011bf6fd6a073509",
+    "public_sha256": "e692f460c0be3498a24c845ec83682502a74635cd2aa54c4011bf6fd6a073509",
+    "bytes": 781,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/chatgpt-conversations-20261026.md",
+    "source_sha256": "cbe295b2799912d7da764df6cd90e7860d7aa75597ba7a30d2e23ce3b8eb1a89",
+    "public_sha256": "cbe295b2799912d7da764df6cd90e7860d7aa75597ba7a30d2e23ce3b8eb1a89",
+    "bytes": 204563,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/chatgpt-import-20261026.md",
+    "source_sha256": "e3ea615beffb365aa56511f7f7e71ddf2a16529f5af13fbca4920d38abea95c3",
+    "public_sha256": "e3ea615beffb365aa56511f7f7e71ddf2a16529f5af13fbca4920d38abea95c3",
+    "bytes": 4804,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/chatgpt-theory-entries-20261026.md",
+    "source_sha256": "57036b5e5dee395425eb5d6c0f0f58e90d002f691ea93dcd2018421380302f48",
+    "public_sha256": "57036b5e5dee395425eb5d6c0f0f58e90d002f691ea93dcd2018421380302f48",
+    "bytes": 6392,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/claude-cloud-download-receipt.json",
+    "source_sha256": "a52555266bc9ad7195cba785f3ef7ee9a961e58154c81c2d751e3e1e5dc31e69",
+    "public_sha256": "a52555266bc9ad7195cba785f3ef7ee9a961e58154c81c2d751e3e1e5dc31e69",
+    "bytes": 1818,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/claude-cloud-independent-verification.json",
+    "source_sha256": "655081a840d0a93b882d7560578ed886e4963deef22e44030ecaafe6a05d8c8c",
+    "public_sha256": "655081a840d0a93b882d7560578ed886e4963deef22e44030ecaafe6a05d8c8c",
+    "bytes": 2385,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/claude-cloud-source-inventory.json",
+    "source_sha256": "c4dbb3169edf83dc656549ec548b315c9490c090a1256a66f6d131b15198f437",
+    "public_sha256": "c4dbb3169edf83dc656549ec548b315c9490c090a1256a66f6d131b15198f437",
+    "bytes": 971,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/claude-independent-verification.json",
+    "source_sha256": "d12175d39db2d759f4e294a6629ad6e8a8373f2bfc382eaed5c5fa774f3ee1ca",
+    "public_sha256": "d12175d39db2d759f4e294a6629ad6e8a8373f2bfc382eaed5c5fa774f3ee1ca",
+    "bytes": 768,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/codex-native-id-audit.json",
+    "source_sha256": "95519722841de2fb34cd1c9f582bcfd3657a0eba70a77690fcbcafb0f4a6ab5d",
+    "public_sha256": "95519722841de2fb34cd1c9f582bcfd3657a0eba70a77690fcbcafb0f4a6ab5d",
+    "bytes": 716,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/cross-source-candidates.json",
+    "source_sha256": "0cff8339d873c167f40e04faac4566adc380801b5ada13af3f3932888269fada",
+    "public_sha256": "0cff8339d873c167f40e04faac4566adc380801b5ada13af3f3932888269fada",
+    "bytes": 534,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/file-text-independent-verification.json",
+    "source_sha256": "c758c67a0e5d8cc036abc772e7e1b8092f024f2382a9fa6352cbc160c57a0dcf",
+    "public_sha256": "c758c67a0e5d8cc036abc772e7e1b8092f024f2382a9fa6352cbc160c57a0dcf",
+    "bytes": 950,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/gemini-capture-verification.json",
+    "source_sha256": "cf43d18fef2142ecbd14b85a42c5bd51f7b9dc615e76897a8ad47d13de485377",
+    "public_sha256": "cf43d18fef2142ecbd14b85a42c5bd51f7b9dc615e76897a8ad47d13de485377",
+    "bytes": 404,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/gemini-evidence-verification.json",
+    "source_sha256": "9838edb9c1ebc9456a0775b2ad771f11ed344ef265f9ab4b0db3628a14172660",
+    "public_sha256": "9838edb9c1ebc9456a0775b2ad771f11ed344ef265f9ab4b0db3628a14172660",
+    "bytes": 874,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/mac-claude-evidence-verification.json",
+    "source_sha256": "0a5b7605da3686ecb62fa76dfc5735f6e8e03777fa6729000ac4acafcd48d1d0",
+    "public_sha256": "0a5b7605da3686ecb62fa76dfc5735f6e8e03777fa6729000ac4acafcd48d1d0",
+    "bytes": 1405,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/mac-codex-evidence-verification.json",
+    "source_sha256": "8eb3992bba9dbb1cbeadb954da5a1219903bb96784ea8d02ec7cbcad7a7886ed",
+    "public_sha256": "8eb3992bba9dbb1cbeadb954da5a1219903bb96784ea8d02ec7cbcad7a7886ed",
+    "bytes": 863,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/mac-main-receipt.json",
+    "source_sha256": "e0488a6aef72ff5d2724796634180f8f0c3f2f25c2e2db4548d3cff43945034b",
+    "public_sha256": "e0488a6aef72ff5d2724796634180f8f0c3f2f25c2e2db4548d3cff43945034b",
+    "bytes": 798,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/mac-main-source-verification.json",
+    "source_sha256": "79364a33758729b1946d538ec8d6ab22b60374b90e76f0a6eb6ab27e2e40cf88",
+    "public_sha256": "79364a33758729b1946d538ec8d6ab22b60374b90e76f0a6eb6ab27e2e40cf88",
+    "bytes": 1124,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/mac-supplement-independent-verification.json",
+    "source_sha256": "dc0253a49869179a57eca3225d677a2f298426938830da8a02bb2f7d0808a4e0",
+    "public_sha256": "dc0253a49869179a57eca3225d677a2f298426938830da8a02bb2f7d0808a4e0",
+    "bytes": 1021,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/new-principles-20261026.md",
+    "source_sha256": "5d6163a9c17173c7cbe1b8fd602d6665a8ff1faa54192dff955d26d4374f431c",
+    "public_sha256": "5d6163a9c17173c7cbe1b8fd602d6665a8ff1faa54192dff955d26d4374f431c",
+    "bytes": 1624,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/onedrive-sync-diagnosis.json",
+    "source_sha256": "a44171788552b244d73f84b2cca1929c0c347cb07e8661acc056be5605558dc1",
+    "public_sha256": "a44171788552b244d73f84b2cca1929c0c347cb07e8661acc056be5605558dc1",
+    "bytes": 2850,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "archive/reports/semantic-timeline.md",
+    "source_sha256": "c38e2a070183b2964e0cb6388d24ae7b71650953340c177bbde9340cdf956615",
+    "public_sha256": "c38e2a070183b2964e0cb6388d24ae7b71650953340c177bbde9340cdf956615",
+    "bytes": 7701,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/audit_codex_ids.py",
+    "source_sha256": "78ab823d280c7e0cba0c7eb2ce54bd43783da70777f28914cf536721f5f998a6",
+    "public_sha256": "78ab823d280c7e0cba0c7eb2ce54bd43783da70777f28914cf536721f5f998a6",
+    "bytes": 1802,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/build_semantic_pilot.py",
+    "source_sha256": "aebb137ccb3ee03f156f7a6d1c7b62faa12a349749fdb1bd89dcb93e29f55a56",
+    "public_sha256": "aebb137ccb3ee03f156f7a6d1c7b62faa12a349749fdb1bd89dcb93e29f55a56",
+    "bytes": 9291,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/cross_source_candidates.py",
+    "source_sha256": "c9d0e281d1004106b9a7fbf22ed318d1fe06a419a97f22000e99714e9286ead2",
+    "public_sha256": "c9d0e281d1004106b9a7fbf22ed318d1fe06a419a97f22000e99714e9286ead2",
+    "bytes": 3193,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/find_archive_pilot.py",
+    "source_sha256": "868d8d5f4603f017d7a59bc02cd05eaca13c75d5d4ead76fd7314ebc7fb1fab2",
+    "public_sha256": "868d8d5f4603f017d7a59bc02cd05eaca13c75d5d4ead76fd7314ebc7fb1fab2",
+    "bytes": 1119,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/freeze_consensus.py",
+    "source_sha256": "662a69dbe2949481f9a96b5ccf3bcddfaba169a96c90e178ce8781a756c0e4f8",
+    "public_sha256": "662a69dbe2949481f9a96b5ccf3bcddfaba169a96c90e178ce8781a756c0e4f8",
+    "bytes": 1658,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/inspect_codex_sources.py",
+    "source_sha256": "60de9455156872d73481d853e69911bab4576647b001730b8296713f7eba73a8",
+    "public_sha256": "60de9455156872d73481d853e69911bab4576647b001730b8296713f7eba73a8",
+    "bytes": 2209,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/inspect_theory_context.py",
+    "source_sha256": "9161cbfe39c354b2a2654b7683c67935f071957b05cc8e190b881e3b2514f2c0",
+    "public_sha256": "9161cbfe39c354b2a2654b7683c67935f071957b05cc8e190b881e3b2514f2c0",
+    "bytes": 2877,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/make_pkst_vectors.py",
+    "source_sha256": "ad8404a618f1a42aef54e33c1b66065da245ce552600d7ca9d6a3e9006f8e93f",
+    "public_sha256": "ad8404a618f1a42aef54e33c1b66065da245ce552600d7ca9d6a3e9006f8e93f",
+    "bytes": 3651,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/mathematics-contribution-capture.py",
+    "source_sha256": "7cffa25c1d5db4a472a8a13b78ef04836149ca60e737db9f483b47ffa345b9a8",
+    "public_sha256": "7cffa25c1d5db4a472a8a13b78ef04836149ca60e737db9f483b47ffa345b9a8",
+    "bytes": 1722,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/prepare_seed_archive.py",
+    "source_sha256": "874ba775368486975a698c41dfc413ac0f0352d8259112d8c706a6dd5fbbad17",
+    "public_sha256": "874ba775368486975a698c41dfc413ac0f0352d8259112d8c706a6dd5fbbad17",
+    "bytes": 14447,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/receive_mac_main.py",
+    "source_sha256": "ab89bf77305b1fdb25d8ed1dc0e359699d04b95a6deb95c781548dcc1a3c4ef8",
+    "public_sha256": "ab89bf77305b1fdb25d8ed1dc0e359699d04b95a6deb95c781548dcc1a3c4ef8",
+    "bytes": 2180,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/stage_mac_sources.py",
+    "source_sha256": "5d6752d55b67900ae02cb19ec6b460abd24f21537fa0a1c21e8be8b665743f91",
+    "public_sha256": "5d6752d55b67900ae02cb19ec6b460abd24f21537fa0a1c21e8be8b665743f91",
+    "bytes": 4021,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/verify_car_failures.py",
+    "source_sha256": "2303462956b145fa6ee1fd40d8f0701d546747eac45afc2349845a5068d820c6",
+    "public_sha256": "2303462956b145fa6ee1fd40d8f0701d546747eac45afc2349845a5068d820c6",
+    "bytes": 2040,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/verify_catalog.py",
+    "source_sha256": "3333d888398898972247f175583c9cfea08c4781e96ad08673277b539abc20c4",
+    "public_sha256": "3333d888398898972247f175583c9cfea08c4781e96ad08673277b539abc20c4",
+    "bytes": 4872,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/verify_claude_cloud_independent.py",
+    "source_sha256": "d0dcc2da384c479eaa90ee1f29ba464ca06021d33360d3c5b548abcd83d9cb7b",
+    "public_sha256": "d0dcc2da384c479eaa90ee1f29ba464ca06021d33360d3c5b548abcd83d9cb7b",
+    "bytes": 7124,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/verify_claude_objects.py",
+    "source_sha256": "39f1438d98d9689bfa571e652ab7585c4c5d1518081b40cb28a235696a18772d",
+    "public_sha256": "39f1438d98d9689bfa571e652ab7585c4c5d1518081b40cb28a235696a18772d",
+    "bytes": 3502,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/verify_codex_codec.py",
+    "source_sha256": "97ed3c41303b1e87f374064751a301e6335d5f135e3a98ab86651d4d9ae2a8bc",
+    "public_sha256": "97ed3c41303b1e87f374064751a301e6335d5f135e3a98ab86651d4d9ae2a8bc",
+    "bytes": 1518,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/verify_codex_index.py",
+    "source_sha256": "43dec8a159f981ba6da4afa1a3bf66c3dbc40ed064e360236845fce320a1976a",
+    "public_sha256": "43dec8a159f981ba6da4afa1a3bf66c3dbc40ed064e360236845fce320a1976a",
+    "bytes": 2152,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/verify_file_text_codex.py",
+    "source_sha256": "55262388230bdfe4b0ef5f95bc3b9709da35dd033d42b213fb0b0636f2b58aee",
+    "public_sha256": "55262388230bdfe4b0ef5f95bc3b9709da35dd033d42b213fb0b0636f2b58aee",
+    "bytes": 3283,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/verify_gemini_capture.py",
+    "source_sha256": "755c0c4e5159b1d57b5e2d8d125e0135ef94bffc6efd53b549704f37f8f8c460",
+    "public_sha256": "755c0c4e5159b1d57b5e2d8d125e0135ef94bffc6efd53b549704f37f8f8c460",
+    "bytes": 2403,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/verify_gemini_evidence.py",
+    "source_sha256": "b1ff7b08875914134ac29bec33524c9d7bc7e0def53ac7b06d536d6e431ca268",
+    "public_sha256": "b1ff7b08875914134ac29bec33524c9d7bc7e0def53ac7b06d536d6e431ca268",
+    "bytes": 6303,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/verify_mac_claude_evidence.py",
+    "source_sha256": "fb398ea418606ca4f9d218307f017659338851deda92f208f0d5fd3ccf6e1671",
+    "public_sha256": "fb398ea418606ca4f9d218307f017659338851deda92f208f0d5fd3ccf6e1671",
+    "bytes": 5736,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/verify_mac_codex_evidence.py",
+    "source_sha256": "87302fb44960c796cc6462acf8f6817d9101cb39b82248b00c4337f84e3beba5",
+    "public_sha256": "87302fb44960c796cc6462acf8f6817d9101cb39b82248b00c4337f84e3beba5",
+    "bytes": 5004,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/verify_mac_supplement.py",
+    "source_sha256": "c32a8cb88db79d57cf5e6a1cf1f6e2f68fd900f8fdd9cd072226e951121a2405",
+    "public_sha256": "c32a8cb88db79d57cf5e6a1cf1f6e2f68fd900f8fdd9cd072226e951121a2405",
+    "bytes": 3902,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/write_seed_timeline.py",
+    "source_sha256": "be35d8ba796b117ed5518d006eb0034161fd3376c2881d6a2d2febce460bafcb",
+    "public_sha256": "be35d8ba796b117ed5518d006eb0034161fd3376c2881d6a2d2febce460bafcb",
+    "bytes": 5707,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/mathematics-contribution/chapter-model.json",
+    "source_sha256": "fe3a587c024bc2cf278b541bcaacc54ef174bd1fdd746e47b657ed29cf1670da",
+    "public_sha256": "fe3a587c024bc2cf278b541bcaacc54ef174bd1fdd746e47b657ed29cf1670da",
+    "bytes": 149908,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/mathematics-contribution/prepare.py",
+    "source_sha256": "96889696c0ef777dbfde992557cf00b7e1a77df5568335cf509e431630bf1a17",
+    "public_sha256": "96889696c0ef777dbfde992557cf00b7e1a77df5568335cf509e431630bf1a17",
+    "bytes": 5839,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/mathematics-contribution/revise_chapter.py",
+    "source_sha256": "0e4557f850ca87a4ee12b5960877a611a6a08ae752398f51ad4a534633d2aaf7",
+    "public_sha256": "0e4557f850ca87a4ee12b5960877a611a6a08ae752398f51ad4a534633d2aaf7",
+    "bytes": 24007,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/mathematics-contribution/speech-reading.txt",
+    "source_sha256": "41a440927f4a22352401985732d5493ac10ea93f996851d391ea51047cceae75",
+    "public_sha256": "41a440927f4a22352401985732d5493ac10ea93f996851d391ea51047cceae75",
+    "bytes": 19526,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/mathematics-contribution/stage_archive.py",
+    "source_sha256": "e29674df3717fc72021ae7ebfd55562f4a98dcee2592c5a018281bc22a78e549",
+    "public_sha256": "e29674df3717fc72021ae7ebfd55562f4a98dcee2592c5a018281bc22a78e549",
+    "bytes": 14272,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/mathematics-contribution/verify_archive.py",
+    "source_sha256": "a1c30bc7996785bfd8fd72d5a4cd9670757c56d8a32b542b5756526f5bae7a3c",
+    "public_sha256": "a1c30bc7996785bfd8fd72d5a4cd9670757c56d8a32b542b5756526f5bae7a3c",
+    "bytes": 11243,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/mathematics-contribution/verify_text.py",
+    "source_sha256": "676725785c5740e55670b227dab90fd88ee07805776d0f07d1a723ee4c76aef1",
+    "public_sha256": "676725785c5740e55670b227dab90fd88ee07805776d0f07d1a723ee4c76aef1",
+    "bytes": 16626,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/mathematics-contribution/web-capture.json",
+    "source_sha256": "8d52c89f0eb14f10f41d07f12dd56cca5ad2e8bf3ef6d9282d503f446b9e076c",
+    "public_sha256": "8d52c89f0eb14f10f41d07f12dd56cca5ad2e8bf3ef6d9282d503f446b9e076c",
+    "bytes": 552,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/mathematics-contribution/write_chapter.py",
+    "source_sha256": "78703df99d741b78e07759a68bb166cfd38c78ab3a1459d11220226d238feb63",
+    "public_sha256": "78703df99d741b78e07759a68bb166cfd38c78ab3a1459d11220226d238feb63",
+    "bytes": 43546,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/2024-preface.txt",
+    "source_sha256": "101ef705963b4973ba62042da624ea0666e568c6fc896bf4edea914495500d6b",
+    "public_sha256": "101ef705963b4973ba62042da624ea0666e568c6fc896bf4edea914495500d6b",
+    "bytes": 6504,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/build_manuscript.py",
+    "source_sha256": "c35550e514b7b3bcc20b15ace9d77994190b1d176b1a2e7bbf109fc89a97f048",
+    "public_sha256": "c35550e514b7b3bcc20b15ace9d77994190b1d176b1a2e7bbf109fc89a97f048",
+    "bytes": 8193,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/curate.py",
+    "source_sha256": "cd88012b4db008a478e0fd99f82aee13316bfae8fda06c85febf21e4b91ca7e1",
+    "public_sha256": "cd88012b4db008a478e0fd99f82aee13316bfae8fda06c85febf21e4b91ca7e1",
+    "bytes": 30639,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/file_000000000cec7206b57804f312b85dd6.md",
+    "source_sha256": "89a5690f6bf73f8581d9a53669f40e5c466bbe159d14c65006c282fe5003bfdc",
+    "public_sha256": "89a5690f6bf73f8581d9a53669f40e5c466bbe159d14c65006c282fe5003bfdc",
+    "bytes": 44246,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/file_000000006eb471fdb722e22afac52834.md",
+    "source_sha256": "89a5690f6bf73f8581d9a53669f40e5c466bbe159d14c65006c282fe5003bfdc",
+    "public_sha256": "89a5690f6bf73f8581d9a53669f40e5c466bbe159d14c65006c282fe5003bfdc",
+    "bytes": 44246,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/hotpath_launcher_design.md",
+    "source_sha256": "9ebf7ea1f1b818e2fe334e3eb2be90c9d62969d3cb91543976f60c84d215ab52",
+    "public_sha256": "9ebf7ea1f1b818e2fe334e3eb2be90c9d62969d3cb91543976f60c84d215ab52",
+    "bytes": 18647,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/hotpath_project_progress_report_20260518.md",
+    "source_sha256": "08b1ed251a3de12e677eca6bebb9fb45fc738b498e0ec2b330f529c466417100",
+    "public_sha256": "08b1ed251a3de12e677eca6bebb9fb45fc738b498e0ec2b330f529c466417100",
+    "bytes": 14308,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/inventory.py",
+    "source_sha256": "69161ae5ea617a3f35b61e7f2c046be541a1cd1c54d9f3cad3112acf00ed6904",
+    "public_sha256": "69161ae5ea617a3f35b61e7f2c046be541a1cd1c54d9f3cad3112acf00ed6904",
+    "bytes": 5585,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/meta-theory-user-messages.json",
+    "source_sha256": "e2552e65702b63b00c5b6152a23b4368e8a2b29619f502c3f524cf976943b2a3",
+    "public_sha256": "e2552e65702b63b00c5b6152a23b4368e8a2b29619f502c3f524cf976943b2a3",
+    "bytes": 29190,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/meta_theory.md",
+    "source_sha256": "82c882951c32d14c2c759ba287388de8e332696273f7dbf53f0271c680d4dc92",
+    "public_sha256": "82c882951c32d14c2c759ba287388de8e332696273f7dbf53f0271c680d4dc92",
+    "bytes": 112022,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/meta_theory_brainstorm_02.md",
+    "source_sha256": "e19d36016856f202fa785e907705e5a41271b0613818e56f985da0a176ea945a",
+    "public_sha256": "e19d36016856f202fa785e907705e5a41271b0613818e56f985da0a176ea945a",
+    "bytes": 31141,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/original-section-0.txt",
+    "source_sha256": "453e51ab74dd48f1542bd216f446b2d995e4804e6f1b0fb15b15d6e53d1db619",
+    "public_sha256": "453e51ab74dd48f1542bd216f446b2d995e4804e6f1b0fb15b15d6e53d1db619",
+    "bytes": 47,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/original-section-1.txt",
+    "source_sha256": "37442d4ff2f08a11e6445eb68b3e517cde7a3d467ba4729d5bb6bdea007d9ab8",
+    "public_sha256": "37442d4ff2f08a11e6445eb68b3e517cde7a3d467ba4729d5bb6bdea007d9ab8",
+    "bytes": 18434,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/original-section-2.txt",
+    "source_sha256": "32f9821f5e01208b250bfaf7ce1f4b09f625d1f8f49ef56c8e57144e7b869e43",
+    "public_sha256": "32f9821f5e01208b250bfaf7ce1f4b09f625d1f8f49ef56c8e57144e7b869e43",
+    "bytes": 5240,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/original-section-3.txt",
+    "source_sha256": "0607f1ddd36efaa0ab9e8d2f976a3bb458224e517696ee6e7a966afeffe35491",
+    "public_sha256": "0607f1ddd36efaa0ab9e8d2f976a3bb458224e517696ee6e7a966afeffe35491",
+    "bytes": 3980,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/original-section-4.txt",
+    "source_sha256": "549446d70d798838d58686224463af76b9fbd972b21659014898490f2f7fae7c",
+    "public_sha256": "549446d70d798838d58686224463af76b9fbd972b21659014898490f2f7fae7c",
+    "bytes": 3132,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/original-section-5.txt",
+    "source_sha256": "5b528b1fa16053c494caf723d492b47d88487c66760e27f2c4e349ff8e0af4c1",
+    "public_sha256": "5b528b1fa16053c494caf723d492b47d88487c66760e27f2c4e349ff8e0af4c1",
+    "bytes": 3041,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/original-section-6.txt",
+    "source_sha256": "8bd4d82b29c558b0abd9f862f29dee9be42dc5df1e13ebb0bc59902cdf80fddb",
+    "public_sha256": "8bd4d82b29c558b0abd9f862f29dee9be42dc5df1e13ebb0bc59902cdf80fddb",
+    "bytes": 3812,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/original-section-7.txt",
+    "source_sha256": "8822c53f25236a3bcd46019ec2bbf537e8ebe4256e3f5cad7c375eaac0d6e9da",
+    "public_sha256": "8822c53f25236a3bcd46019ec2bbf537e8ebe4256e3f5cad7c375eaac0d6e9da",
+    "bytes": 4610,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/original-section-8.txt",
+    "source_sha256": "f31278f4a43fedc38fa93b3a648c643020186309dd97ca0223e6edb4e9c6f3c7",
+    "public_sha256": "f31278f4a43fedc38fa93b3a648c643020186309dd97ca0223e6edb4e9c6f3c7",
+    "bytes": 2116,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/prepare_extra.py",
+    "source_sha256": "0f357e59555928e982b3ce7fd0ab8191266e2de6c09e9124d38d8b93bf805449",
+    "public_sha256": "0f357e59555928e982b3ce7fd0ab8191266e2de6c09e9124d38d8b93bf805449",
+    "bytes": 5800,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/read_rows.py",
+    "source_sha256": "1ed89516e34acc10ef19fe670523d5fcda1019349abedab3daedb71f9897df87",
+    "public_sha256": "1ed89516e34acc10ef19fe670523d5fcda1019349abedab3daedb71f9897df87",
+    "bytes": 283,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/REEC_meta_theory_stage_v0_3.md",
+    "source_sha256": "50b514090df8c62a8e76168e2811f7b1f71c46a2679eb519fea60e71aa3f2e89",
+    "public_sha256": "50b514090df8c62a8e76168e2811f7b1f71c46a2679eb519fea60e71aa3f2e89",
+    "bytes": 30619,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/select_sources.py",
+    "source_sha256": "821cdbae8027cd211565348d51b31988ab3504c70a16c51c85994a90972fd6df",
+    "public_sha256": "821cdbae8027cd211565348d51b31988ab3504c70a16c51c85994a90972fd6df",
+    "bytes": 3654,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/structoken_category_framework_v0.1.md",
+    "source_sha256": "25881eaa0a0d5df1e46e0be056d49777239f41a50e96e80904768a8664470d2e",
+    "public_sha256": "25881eaa0a0d5df1e46e0be056d49777239f41a50e96e80904768a8664470d2e",
+    "bytes": 16802,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/chapters/00.md",
+    "source_sha256": "a11149c68c5a4111925b3d693d8f2c6e98ab90d4c69ddd7e0e074b2ba19f6276",
+    "public_sha256": "a11149c68c5a4111925b3d693d8f2c6e98ab90d4c69ddd7e0e074b2ba19f6276",
+    "bytes": 11542,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/chapters/01.md",
+    "source_sha256": "4e9db2ddc140776fa198e61a37f6cb7e59f7cf6941e4dc323c9bfc64ee93c8ca",
+    "public_sha256": "4e9db2ddc140776fa198e61a37f6cb7e59f7cf6941e4dc323c9bfc64ee93c8ca",
+    "bytes": 11223,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/chapters/02.md",
+    "source_sha256": "dc9fb4ed86852a0f827c568b6af4bad8e3b2c65f4f8704b61559ad95ac20ee87",
+    "public_sha256": "dc9fb4ed86852a0f827c568b6af4bad8e3b2c65f4f8704b61559ad95ac20ee87",
+    "bytes": 10276,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/chapters/03.md",
+    "source_sha256": "aac515622b878b67acecb44a6d3f670962341756c6530e5da9ec7f2663810ae4",
+    "public_sha256": "aac515622b878b67acecb44a6d3f670962341756c6530e5da9ec7f2663810ae4",
+    "bytes": 9862,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/chapters/04.md",
+    "source_sha256": "90c1b8ab685c990a2680007dd9534d2460a20a244332a7a99a642e4dd53469f3",
+    "public_sha256": "90c1b8ab685c990a2680007dd9534d2460a20a244332a7a99a642e4dd53469f3",
+    "bytes": 10207,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/chapters/05.md",
+    "source_sha256": "54bc2076948c3c266e722bd7e317a627cf5c8d7d99d83269adbc208b0f0d23a4",
+    "public_sha256": "54bc2076948c3c266e722bd7e317a627cf5c8d7d99d83269adbc208b0f0d23a4",
+    "bytes": 10981,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/chapters/06.md",
+    "source_sha256": "80ec78bc3754dbd32f6c3a09e1e51b16de710014b14d32a58f733fe59e240f73",
+    "public_sha256": "80ec78bc3754dbd32f6c3a09e1e51b16de710014b14d32a58f733fe59e240f73",
+    "bytes": 10141,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles/chapters/07.md",
+    "source_sha256": "239f61b8f44eeee04b0e68a5f5fdebcabfc50af78e86456dd8c0dd0ee76dfcc3",
+    "public_sha256": "239f61b8f44eeee04b0e68a5f5fdebcabfc50af78e86456dd8c0dd0ee76dfcc3",
+    "bytes": 12862,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/audit_work.py",
+    "source_sha256": "916425bcc953a4339d9bb7cfd7cd85f2d60d9a5ed04d6629f46bff89aa46068e",
+    "public_sha256": "916425bcc953a4339d9bb7cfd7cd85f2d60d9a5ed04d6629f46bff89aa46068e",
+    "bytes": 1507,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/book.py",
+    "source_sha256": "eaaa2faa642ba43faadc206fd71e28aafb1b3cc148fbec8ab2153a41a560020b",
+    "public_sha256": "eaaa2faa642ba43faadc206fd71e28aafb1b3cc148fbec8ab2153a41a560020b",
+    "bytes": 9408,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/copyedit.py",
+    "source_sha256": "14d5525f38e85ace56c79f19d0d75d7576d0ef1f6e59c26d982fb48ae1bfbed6",
+    "public_sha256": "14d5525f38e85ace56c79f19d0d75d7576d0ef1f6e59c26d982fb48ae1bfbed6",
+    "bytes": 14759,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/extra-sources.json",
+    "source_sha256": "0dab458c6fac2ed519a8041eaf8cb22f867692c91c03a96158d76af698aed968",
+    "public_sha256": "0dab458c6fac2ed519a8041eaf8cb22f867692c91c03a96158d76af698aed968",
+    "bytes": 357027,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/find_education.py",
+    "source_sha256": "3270a3f13517f4b4d985f333285d6a7490a21c9b7b5509edfd631fc7e91c7af9",
+    "public_sha256": "3270a3f13517f4b4d985f333285d6a7490a21c9b7b5509edfd631fc7e91c7af9",
+    "bytes": 988,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/inspect_metadata.py",
+    "source_sha256": "8eb42425b97d0c66cd8c134e9f0d64da788a4c9ea55e9cdef91b9fa82ccadb5a",
+    "public_sha256": "8eb42425b97d0c66cd8c134e9f0d64da788a4c9ea55e9cdef91b9fa82ccadb5a",
+    "bytes": 856,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/integrate_expanded.py",
+    "source_sha256": "099e2e07e4038ac3d3da816e19bc00dbe523d1b7f8632839b23134be806e02fd",
+    "public_sha256": "099e2e07e4038ac3d3da816e19bc00dbe523d1b7f8632839b23134be806e02fd",
+    "bytes": 13642,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/maintain_scripts.py",
+    "source_sha256": "3fd1304852aaad82d0bc1d5e5bcc780b3cbc0b901bb0070e4eef60be713454e6",
+    "public_sha256": "3fd1304852aaad82d0bc1d5e5bcc780b3cbc0b901bb0070e4eef60be713454e6",
+    "bytes": 3867,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/prepare_edition.py",
+    "source_sha256": "92ae8f3efaf4677eb86b2ecc100fca89b588df5ffc71b36f5d4213050c2ddabd",
+    "public_sha256": "92ae8f3efaf4677eb86b2ecc100fca89b588df5ffc71b36f5d4213050c2ddabd",
+    "bytes": 17394,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/sources.py",
+    "source_sha256": "68a5cf0aa01e8a1257d20d0d104c0258ce4664db44995b20f555df33061d05f1",
+    "public_sha256": "68a5cf0aa01e8a1257d20d0d104c0258ce4664db44995b20f555df33061d05f1",
+    "bytes": 1893,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/used-sources.json",
+    "source_sha256": "19953dc6c4326f7f828be3afb96cf6e94f77ac078c5083811206fb8b222f4a1f",
+    "public_sha256": "19953dc6c4326f7f828be3afb96cf6e94f77ac078c5083811206fb8b222f4a1f",
+    "bytes": 673102,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/verify_archive.py",
+    "source_sha256": "79af2b38afbbe279f6a611edff540022b6d15517e6f674a0b9cd33a840926c21",
+    "public_sha256": "79af2b38afbbe279f6a611edff540022b6d15517e6f674a0b9cd33a840926c21",
+    "bytes": 9165,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/verify_edition.py",
+    "source_sha256": "11c7c2f31dea7053b1566da5e249fbd735be0327d277e7a1ff226e6b39437edc",
+    "public_sha256": "11c7c2f31dea7053b1566da5e249fbd735be0327d277e7a1ff226e6b39437edc",
+    "bytes": 7749,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_00.py",
+    "source_sha256": "3b5523f7330c67a6088643d97b7d2df7324bfbd3cfd83ac748ba410013979b4a",
+    "public_sha256": "3b5523f7330c67a6088643d97b7d2df7324bfbd3cfd83ac748ba410013979b4a",
+    "bytes": 11570,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_01.py",
+    "source_sha256": "d69114d8a1e3f0f91a4299698d7f10e55760e111af263c2c9771e10b5abd0b1d",
+    "public_sha256": "d69114d8a1e3f0f91a4299698d7f10e55760e111af263c2c9771e10b5abd0b1d",
+    "bytes": 12483,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_02.py",
+    "source_sha256": "8cbe4ac35669b8767578d8c7011d7f8313d310024b383e9ed34a5c48d8767434",
+    "public_sha256": "8cbe4ac35669b8767578d8c7011d7f8313d310024b383e9ed34a5c48d8767434",
+    "bytes": 13077,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_03.py",
+    "source_sha256": "3bbda0bd011c3ad3522d9a281e56651aa17fb7df58482b2e6f803b91c02d020e",
+    "public_sha256": "3bbda0bd011c3ad3522d9a281e56651aa17fb7df58482b2e6f803b91c02d020e",
+    "bytes": 12511,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_04.py",
+    "source_sha256": "e704a1e31d5cdd63c52a2da6793a42f81dc88adcdd24051a80f97194dc291a44",
+    "public_sha256": "e704a1e31d5cdd63c52a2da6793a42f81dc88adcdd24051a80f97194dc291a44",
+    "bytes": 11461,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_05.py",
+    "source_sha256": "a589fd06e7ec36d8c2290499195f0e433330da42ef1a62a328efde4335d7435d",
+    "public_sha256": "a589fd06e7ec36d8c2290499195f0e433330da42ef1a62a328efde4335d7435d",
+    "bytes": 13711,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_06.py",
+    "source_sha256": "1c66560d6566c5daf9cef7592582e745a4736af61aa2e2295919229d73870091",
+    "public_sha256": "1c66560d6566c5daf9cef7592582e745a4736af61aa2e2295919229d73870091",
+    "bytes": 19437,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_07.py",
+    "source_sha256": "cb56a9f35fbe0e0c8b21e2830ab68941b82d3a1276e12ce24fd94ca9159e66a3",
+    "public_sha256": "cb56a9f35fbe0e0c8b21e2830ab68941b82d3a1276e12ce24fd94ca9159e66a3",
+    "bytes": 9680,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_08.py",
+    "source_sha256": "4e5caa14bad618dac769b7570f98aaa61115a09a2f1160a7891ab595e909de19",
+    "public_sha256": "4e5caa14bad618dac769b7570f98aaa61115a09a2f1160a7891ab595e909de19",
+    "bytes": 9790,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_09.py",
+    "source_sha256": "c3411c425a87538590d7d4e876fc9e59b22884924b0436a8f0fcade37e12b128",
+    "public_sha256": "c3411c425a87538590d7d4e876fc9e59b22884924b0436a8f0fcade37e12b128",
+    "bytes": 9868,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_10.py",
+    "source_sha256": "b355f2de3fa4a978bd347c4e1280a48ca0948f5d5d521fee68478608f0370786",
+    "public_sha256": "b355f2de3fa4a978bd347c4e1280a48ca0948f5d5d521fee68478608f0370786",
+    "bytes": 10959,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_11.py",
+    "source_sha256": "920d79e7b5282d77e1dc5c2aea276e47f40616802483392e6b7cdf414bef4297",
+    "public_sha256": "920d79e7b5282d77e1dc5c2aea276e47f40616802483392e6b7cdf414bef4297",
+    "bytes": 12742,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_12.py",
+    "source_sha256": "3fa1c66b095337c710a3714fa48cd4d6065cd3896955bdd17c39551aa84bb2b8",
+    "public_sha256": "3fa1c66b095337c710a3714fa48cd4d6065cd3896955bdd17c39551aa84bb2b8",
+    "bytes": 12603,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_13.py",
+    "source_sha256": "7bea2330954bb29ec89f6f31cdd65bf57b3ed6ccb6f00583293e07c07670d80e",
+    "public_sha256": "7bea2330954bb29ec89f6f31cdd65bf57b3ed6ccb6f00583293e07c07670d80e",
+    "bytes": 11519,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_14.py",
+    "source_sha256": "ae88f439794a724952d606e6a323f4a9a6503d23df2c43284b4ccafbd4c92808",
+    "public_sha256": "ae88f439794a724952d606e6a323f4a9a6503d23df2c43284b4ccafbd4c92808",
+    "bytes": 12200,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_15.py",
+    "source_sha256": "26841f3cef224c07f2bbc11de4bca882fe9bef366025dc66020bbe460f17e6ed",
+    "public_sha256": "26841f3cef224c07f2bbc11de4bca882fe9bef366025dc66020bbe460f17e6ed",
+    "bytes": 19083,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_16.py",
+    "source_sha256": "edd825245cc3d19a5fce99263329ece42fb52463868e75d5faa2f79001e65c99",
+    "public_sha256": "edd825245cc3d19a5fce99263329ece42fb52463868e75d5faa2f79001e65c99",
+    "bytes": 13534,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_17.py",
+    "source_sha256": "e1f1968530c23405ec3f16481355a612bfc6b7cb2d52087a71f8788debdeff84",
+    "public_sha256": "e1f1968530c23405ec3f16481355a612bfc6b7cb2d52087a71f8788debdeff84",
+    "bytes": 10680,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_18.py",
+    "source_sha256": "33b9af3d1ce75dc32804c85dc8f38391b75521a439b58034c3b8aae368fc3356",
+    "public_sha256": "33b9af3d1ce75dc32804c85dc8f38391b75521a439b58034c3b8aae368fc3356",
+    "bytes": 12831,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_19.py",
+    "source_sha256": "e7c8bf6c2144352afa33af652a7112f55a62702e9d33e05fa131f2dc7772c54a",
+    "public_sha256": "e7c8bf6c2144352afa33af652a7112f55a62702e9d33e05fa131f2dc7772c54a",
+    "bytes": 10107,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_20.py",
+    "source_sha256": "f47533218f3e97294e212ea667eb7e6c461a7753ea27442327cf0ea11682a42a",
+    "public_sha256": "f47533218f3e97294e212ea667eb7e6c461a7753ea27442327cf0ea11682a42a",
+    "bytes": 9982,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_21.py",
+    "source_sha256": "617a195fa0638ea207dbaca3a45ddff32613c8aa2ab119cf77ee947d75656c6a",
+    "public_sha256": "617a195fa0638ea207dbaca3a45ddff32613c8aa2ab119cf77ee947d75656c6a",
+    "bytes": 9102,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_22.py",
+    "source_sha256": "b55bbc9cde6e6f86d23b70f2c5cf392aeb50c0a8416b98d6aa18d9b101f77a76",
+    "public_sha256": "b55bbc9cde6e6f86d23b70f2c5cf392aeb50c0a8416b98d6aa18d9b101f77a76",
+    "bytes": 11955,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/write_23.py",
+    "source_sha256": "9468ec7cbc887d99f7dce782d6fb1a342513146c91b431d826ca878ebbf09c03",
+    "public_sha256": "9468ec7cbc887d99f7dce782d6fb1a342513146c91b431d826ca878ebbf09c03",
+    "bytes": 4659,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/00.json",
+    "source_sha256": "0cf5bee434653665500cad086e20fd32e610576d66cc52756b6a4e7fea0b7304",
+    "public_sha256": "0cf5bee434653665500cad086e20fd32e610576d66cc52756b6a4e7fea0b7304",
+    "bytes": 65680,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/01.json",
+    "source_sha256": "743e76741c5d39bbef2e4e2765cf1614fd58a3742c9e60db48dcb663a8874fbe",
+    "public_sha256": "743e76741c5d39bbef2e4e2765cf1614fd58a3742c9e60db48dcb663a8874fbe",
+    "bytes": 45496,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/02.json",
+    "source_sha256": "92a6cbe29cf83f3402d14868eba798037c2f9f42b362bab5a3ea6d1273f52f4c",
+    "public_sha256": "92a6cbe29cf83f3402d14868eba798037c2f9f42b362bab5a3ea6d1273f52f4c",
+    "bytes": 69043,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/03.json",
+    "source_sha256": "fa7fe30df009d822722d8c10b26ed473c148506cda17f27771b65e5f93acc1a9",
+    "public_sha256": "fa7fe30df009d822722d8c10b26ed473c148506cda17f27771b65e5f93acc1a9",
+    "bytes": 78325,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/04.json",
+    "source_sha256": "71d2e316d9ae436d6242db205e7e641b62a36e04f40d4ca1ecd3c8dcf88cc7f9",
+    "public_sha256": "71d2e316d9ae436d6242db205e7e641b62a36e04f40d4ca1ecd3c8dcf88cc7f9",
+    "bytes": 49100,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/05.json",
+    "source_sha256": "3f603562927a34466d5c201c4ede7775cadb9d3ca409a40f5dc1906c59154be4",
+    "public_sha256": "3f603562927a34466d5c201c4ede7775cadb9d3ca409a40f5dc1906c59154be4",
+    "bytes": 73637,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/06.json",
+    "source_sha256": "de44594b9c74badb1bd183556718ec97ba2c43aa30e74c0e4dd0a090a7e9b28b",
+    "public_sha256": "de44594b9c74badb1bd183556718ec97ba2c43aa30e74c0e4dd0a090a7e9b28b",
+    "bytes": 94848,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/07.json",
+    "source_sha256": "1ada98116062899feba6ab72f4758f3dc3e35ca188fa0cdad6c1b5884b13dc03",
+    "public_sha256": "1ada98116062899feba6ab72f4758f3dc3e35ca188fa0cdad6c1b5884b13dc03",
+    "bytes": 46385,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/08.json",
+    "source_sha256": "ba73eac4fda27ea2697d1972190e1591086259619afd19684c8d67a402fa39db",
+    "public_sha256": "ba73eac4fda27ea2697d1972190e1591086259619afd19684c8d67a402fa39db",
+    "bytes": 45460,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/09.json",
+    "source_sha256": "ed28e5d8ba742ee3b9cb7b674821ef04aebfe12724f8dda9bc036ed4248ec7ee",
+    "public_sha256": "ed28e5d8ba742ee3b9cb7b674821ef04aebfe12724f8dda9bc036ed4248ec7ee",
+    "bytes": 35836,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/10.json",
+    "source_sha256": "a90366071563d2d60ac4361fdaf02c8bdbc66b00bb965173595a08e67076a1e0",
+    "public_sha256": "a90366071563d2d60ac4361fdaf02c8bdbc66b00bb965173595a08e67076a1e0",
+    "bytes": 48939,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/11.json",
+    "source_sha256": "781a2439133eff3c94ae88d3f2266a7a46d47e1c0ca37cdab991675ab45ba561",
+    "public_sha256": "781a2439133eff3c94ae88d3f2266a7a46d47e1c0ca37cdab991675ab45ba561",
+    "bytes": 61731,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/12.json",
+    "source_sha256": "33b059527c22049a554040186cbf6659d4feb6b25515c54526e1654a73a616b7",
+    "public_sha256": "33b059527c22049a554040186cbf6659d4feb6b25515c54526e1654a73a616b7",
+    "bytes": 64285,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/13.json",
+    "source_sha256": "e121d9435e8ef834efdca171055b238a1f87613f4b8b65682cbfb9c3424a78e9",
+    "public_sha256": "e121d9435e8ef834efdca171055b238a1f87613f4b8b65682cbfb9c3424a78e9",
+    "bytes": 41950,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/14.json",
+    "source_sha256": "c239c770e7b047886ab6ad2d3d3a25116bf82c06b54b2e141476219fb21e7947",
+    "public_sha256": "c239c770e7b047886ab6ad2d3d3a25116bf82c06b54b2e141476219fb21e7947",
+    "bytes": 53392,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/15.json",
+    "source_sha256": "796a548a4b83b7cf58ce1fc97bf8c0a72e1db468a7a13152135fc58d20fa0afc",
+    "public_sha256": "796a548a4b83b7cf58ce1fc97bf8c0a72e1db468a7a13152135fc58d20fa0afc",
+    "bytes": 82352,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/16.json",
+    "source_sha256": "c828fe13b16ccb3404c35b49dcad0cb945f97ac1ff2866f0e1f4b87dc8272047",
+    "public_sha256": "c828fe13b16ccb3404c35b49dcad0cb945f97ac1ff2866f0e1f4b87dc8272047",
+    "bytes": 53504,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/17.json",
+    "source_sha256": "1d183549d16f9fea5b99919b3284c9f925ac04e59da62cac98a407eb2bf05893",
+    "public_sha256": "1d183549d16f9fea5b99919b3284c9f925ac04e59da62cac98a407eb2bf05893",
+    "bytes": 63988,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/18.json",
+    "source_sha256": "9a8fd9f91590cdfad1c1079ba05df2c60af21e5e3617a8d6c823d43d41c05b45",
+    "public_sha256": "9a8fd9f91590cdfad1c1079ba05df2c60af21e5e3617a8d6c823d43d41c05b45",
+    "bytes": 59165,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/19.json",
+    "source_sha256": "df2bf860b507bc89387280711662017982722e7f8bb5a3841b903122785b4d90",
+    "public_sha256": "df2bf860b507bc89387280711662017982722e7f8bb5a3841b903122785b4d90",
+    "bytes": 26727,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/20.json",
+    "source_sha256": "6e5eddfc038758993ddf29ae277aad3b96bda65dc71d30a42e87cb8222ee271b",
+    "public_sha256": "6e5eddfc038758993ddf29ae277aad3b96bda65dc71d30a42e87cb8222ee271b",
+    "bytes": 39317,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/21.json",
+    "source_sha256": "e80c9b410a2db65229b1c066483903eb000abf9c77c9947ebf4a0259dbc84687",
+    "public_sha256": "e80c9b410a2db65229b1c066483903eb000abf9c77c9947ebf4a0259dbc84687",
+    "bytes": 35729,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/22.json",
+    "source_sha256": "c2346730f548e3b93dfd39abbe9fa7787494d329a53c82caada65fb51c930a1d",
+    "public_sha256": "c2346730f548e3b93dfd39abbe9fa7787494d329a53c82caada65fb51c930a1d",
+    "bytes": 49423,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/new-principles-expanded/chapters/23.json",
+    "source_sha256": "a8b37798cb0e6c788b54ad02de83d48b9711c3fcf45a20c6b4a6e78fc7d5506a",
+    "public_sha256": "a8b37798cb0e6c788b54ad02de83d48b9711c3fcf45a20c6b4a6e78fc7d5506a",
+    "bytes": 16911,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/public-intelligence/capture_web.py",
+    "source_sha256": "984e222c49f9a3736dfe84e226a521bb9297437cf9287bb572e2d5ba15dabb9a",
+    "public_sha256": "984e222c49f9a3736dfe84e226a521bb9297437cf9287bb572e2d5ba15dabb9a",
+    "bytes": 1627,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/public-intelligence/prepare.py",
+    "source_sha256": "9641c0ea69c1a30b5c1e820708b3212a1bcbbb8597efb7b05961472ec59bfea3",
+    "public_sha256": "9641c0ea69c1a30b5c1e820708b3212a1bcbbb8597efb7b05961472ec59bfea3",
+    "bytes": 5581,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/public-intelligence/stage_archive.py",
+    "source_sha256": "f835cbd3fd9d4226c586e892ac7af452f66f1a5b7cf3f93c7165926d27025146",
+    "public_sha256": "f835cbd3fd9d4226c586e892ac7af452f66f1a5b7cf3f93c7165926d27025146",
+    "bytes": 15025,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/public-intelligence/verify_archive.py",
+    "source_sha256": "f9b43dba3d0f12f8c50a739807d37a666cb79a31ef8b0b5261882d6f046a300c",
+    "public_sha256": "f9b43dba3d0f12f8c50a739807d37a666cb79a31ef8b0b5261882d6f046a300c",
+    "bytes": 15093,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/public-intelligence/verify_text.py",
+    "source_sha256": "0e08789eabc90d2b94365ccff0a7d36205aca76a1b17f52e3d5c24fea52e874b",
+    "public_sha256": "0e08789eabc90d2b94365ccff0a7d36205aca76a1b17f52e3d5c24fea52e874b",
+    "bytes": 17864,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/public-intelligence/write_chapter.py",
+    "source_sha256": "9d427ed984abd0966623e4dd531646d65d0d213b820113eb27b2b8104684c140",
+    "public_sha256": "9d427ed984abd0966623e4dd531646d65d0d213b820113eb27b2b8104684c140",
+    "bytes": 25768,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/shared-credit/bootstrap.py",
+    "source_sha256": "237244aa6e8057251f7a509fee921ee2ab3426334940b5c8470c1edf6bb22e78",
+    "public_sha256": "237244aa6e8057251f7a509fee921ee2ab3426334940b5c8470c1edf6bb22e78",
+    "bytes": 4609,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/shared-credit/build_edition.py",
+    "source_sha256": "362a9c302f3d58e460b147941b54b4ae55f5d5040866f13cc2ebfb067d4556d6",
+    "public_sha256": "362a9c302f3d58e460b147941b54b4ae55f5d5040866f13cc2ebfb067d4556d6",
+    "bytes": 5326,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/shared-credit/capture_web.py",
+    "source_sha256": "8b1fbbce95ba132c2b95241317d1fc229d001b2b5e7ee2e66db9a4656a862117",
+    "public_sha256": "8b1fbbce95ba132c2b95241317d1fc229d001b2b5e7ee2e66db9a4656a862117",
+    "bytes": 2624,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/shared-credit/make_verifier.py",
+    "source_sha256": "77c87cf0fad7d9411f6d80bf0518b362d841b305b9d11788c8b9b8e8f4e9e37a",
+    "public_sha256": "77c87cf0fad7d9411f6d80bf0518b362d841b305b9d11788c8b9b8e8f4e9e37a",
+    "bytes": 7248,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/shared-credit/prepare.py",
+    "source_sha256": "9f2b5ea1c1673c82f48360b702f42a60f7b7e5f2422e1839198af3240f050e45",
+    "public_sha256": "9f2b5ea1c1673c82f48360b702f42a60f7b7e5f2422e1839198af3240f050e45",
+    "bytes": 5552,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/shared-credit/sidecars.py",
+    "source_sha256": "21a252cfc52a0702b8e24753383b9347fb79bb22783b28a984128291630343fc",
+    "public_sha256": "21a252cfc52a0702b8e24753383b9347fb79bb22783b28a984128291630343fc",
+    "bytes": 7406,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/shared-credit/stage_archive.py",
+    "source_sha256": "bc328a72b52bbe91ed71fd1e26680ecd270147b3c0e519dd4f46156c4d74b008",
+    "public_sha256": "bc328a72b52bbe91ed71fd1e26680ecd270147b3c0e519dd4f46156c4d74b008",
+    "bytes": 14924,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/shared-credit/verify_archive.py",
+    "source_sha256": "e6b3b83010523dfc52dc110ac6a25974c6951837bcf487a5feb2dd3bac284368",
+    "public_sha256": "e6b3b83010523dfc52dc110ac6a25974c6951837bcf487a5feb2dd3bac284368",
+    "bytes": 15097,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/shared-credit/verify_text.py",
+    "source_sha256": "fdf0f70f3dad86bc287306897e5583734ecb90b5021de423b08ba71471950fe0",
+    "public_sha256": "fdf0f70f3dad86bc287306897e5583734ecb90b5021de423b08ba71471950fe0",
+    "bytes": 6921,
+    "byte_identical": true,
+    "redactions": 0
+  },
+  {
+    "path": "work/shared-credit/write_chapter.py",
+    "source_sha256": "3253c02e71e2255daaa3e31d6fe2b5d05211c1581a5d197aed516419f36c6a6c",
+    "public_sha256": "3253c02e71e2255daaa3e31d6fe2b5d05211c1581a5d197aed516419f36c6a6c",
+    "bytes": 14561,
+    "byte_identical": true,
+    "redactions": 0
+  }
+]

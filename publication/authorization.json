@@ -1,0 +1,8 @@
+{
+  "schema": "pkst-public/publication-request@1",
+  "request": "将整个我的整个个人知识库，及其访问程序接口，以及这篇文章和它的完整的修改编辑过程，以git的形式进行版本管理，并上传到github上，并将该仓库设为公有，所有人都可以访问。仓库名字你帮我取一个合适的名字吧。\n",
+  "native_event_time": "2026-10-26T15:56:29.611Z",
+  "source_record_sha256": "d4665e6a4285e209094698d978edabd22f083c922ecdc6c63bd8a683532e8bb5",
+  "source_byte_start": 50709740,
+  "scope": "User explicitly requested a public GitHub repository; credential values and internal records excluded from the public projection."
+}
