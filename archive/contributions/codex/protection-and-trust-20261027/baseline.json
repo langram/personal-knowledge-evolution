@@ -1,0 +1,12 @@
+{
+  "pointer": {
+    "report": "report-20261026-shared-credit-v1.json",
+    "snapshot": "bafyreib6ixs2it5nxvg7j2gfhgnxrrnardp24qwg2nes6eemfr5zyl5ide",
+    "database": "contributions\\codex\\catalog\\.private\\20261026-shared-credit-v1\\catalog.sqlite"
+  },
+  "document": "bafyreiayv2vr7bwedz75w5khuprp6zmwhzb2qurk276wmyg253feq5j6uq",
+  "dossier_root": "bafyreicz5gzufjy36j6tubwkizrwqsxzwbhw7mlr5bufktyy657jyi2gfq",
+  "concept": "bafyreih26bcz4m2arvzqp3wozo7fawr32evvi3limixwdtaobzglvshw3e",
+  "manuscript": "dossiers\\2026-10-26-shared-credit\\02-new-principles.md",
+  "sha256": "7f6daf93e6f9568cb944571db07b61cf252174b32588de3dcfb75b78f325465a"
+}

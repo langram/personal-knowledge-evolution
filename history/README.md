@@ -9,9 +9,12 @@
 |数学与贡献案例|91,802|[正文](../archive/dossiers/2026-10-26-mathematics-and-contribution/02-new-principles.md)|
 |知识与公共智能融合|95,223|[正文](../archive/dossiers/2026-10-26-public-intelligence/02-new-principles.md)|
 |贡献记录与及时分享扩展|98,361|[正文](../archive/dossiers/2026-10-26-shared-credit/02-new-principles.md)|
+|权力约束与信任保护扩展|103,478|[正文](../archive/dossiers/2026-10-27-protection-and-trust/02-new-principles.md)|
 
 更早的[整体框架与起步方案](../archive/dossiers/2026-10-25-seed/README.md)保存实践路线、宣传文本和创作计划。
 
 各版本目录同时保留已存在的原话摘录、段落对照、来源时间、编辑说明和归档收据。`work/` 保存构稿与校验脚本，`archive/contributions/` 保存两方协商和验证材料。`book/current.md` 在导入各稿的 Git 提交中依次更新，方便直接查看修订差异。
 
 这是全部现存编辑材料的版本化导入；没有原始记录的临时修改不能补造。用户赞许某一版不自动成为对后续所有补写的采纳。历史收据引用的原始备份和私有索引不随公开仓库发布。
+
+2026年10月27日新增[权力约束与信任章节](../archive/dossiers/2026-10-27-protection-and-trust/01-chapter.md)，置于隐私章节之后、云存储实践之前。[原话与编辑对照](../archive/dossiers/2026-10-27-protection-and-trust/03-source-ledger.md)保存本次逐项修改。此次为公开仓库建立后的实际追加修订。

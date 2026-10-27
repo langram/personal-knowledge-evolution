@@ -1,0 +1,301 @@
+{
+  "schema": "pt/archive-report@1",
+  "status": "verified",
+  "recorded_at": "2026-10-27T03:20:25.869103+00:00",
+  "snapshot": "bafyreignnzjep4kw3xpm7c3xvzv6idv53axhgwu7nce7jupo6rmvreg3cm",
+  "federated_snapshot": "bafyreidpqrhwmr6vijulbh32cv7ndj4bav3znavaz4v4ygawlu4f57rrfa",
+  "baseline_snapshot": "bafyreib6ixs2it5nxvg7j2gfhgnxrrnardp24qwg2nes6eemfr5zyl5ide",
+  "document": "bafyreihh4sx3uaxq2dqicwnf7a6vypynjq56bdx5tgv3cqr3dtt42ie37i",
+  "chapter": "bafyreie2en2p6ik6lhnqlrlt26z4rhwz3moqpudd7dqsumsy4ip5y4nfqi",
+  "source": "bafyreihf45ufilumps2avomcai4mjohukgtv2yulezd2cdeb5rxstdmueq",
+  "occurrence": "bafyreifh7c32o3l6bs3b2zsiwtwzbbxlbchnyd5ijg2q4grk3pjieon6lm",
+  "quotes": [
+    "bafyreia3doapjeyl6wrwwpi4xgm3xzmo3b6bql4tz76v74duxxsswyqfvm",
+    "bafyreihmtruxlwrc2zdw42hzpnc74aunrdt3de6hj7aildu3krlqq6p4nq",
+    "bafyreic4owqv44inrf4ymkpingh2qcef6ygzgab3sctwrwzpp3rg5lke74",
+    "bafyreicpth6btpieed23mgh4snebyowgdt2gyqsldxgtht7a2olmwns5ie",
+    "bafyreibekayzzxurudh5pscbqhbepohakieh6sz7rhd3dg36fv25zqdkbq",
+    "bafyreiha7x4dxwdp4wkkpiez42cqwzhnonkawjtpklkpcluhpoqwg4mrr4",
+    "bafyreibucn33eahui65pkov7cy6yuo2lpk5l3bsmiyb66jxjabtxltculu",
+    "bafyreiaew7qyj6pcke55c47lo3zfmta6jdrnor4pehsajs3256acgarzwe",
+    "bafyreiemxovstubepezmg23p4kyx6jsaigg7yc67bodfnvu3hzur3xso2i",
+    "bafyreibrqxyglrlvq7ej64rmja4leqxcds3ou4tmgtgccsz7x32u7nia7e",
+    "bafyreigverc7rjwegelqqjg5djmkiynwka2rqg5akjbwdbgri4q25ff7wu",
+    "bafyreifzdm5gd7mwohjvyf6mkzt4kdi3q6x4b3gx5jl6iuz6mb7bqijm6u",
+    "bafyreib65ytudn2knfmr42x7d6ygwsotdg5qcp4nmqnruv52zwudhk35qu"
+  ],
+  "passages": [
+    "bafyreih5nl7ht4zlee7wefczmud4mg6e23g4pk3ifuqsqrjewzrvq5sozu",
+    "bafyreifpu2yn6hggpda772b3ytof7iuqlrfvfiqozp66u2kmx37icllouu",
+    "bafyreigol4hpv4osiuawt2c6n6zfks3ihalplx2hqxv4qt25f4aii72uf4",
+    "bafyreichs65xlneh5icnh2z6bbkyu2m3ru2egq535bmrnkrtwg3owmaqmq",
+    "bafyreifwuwboje5iu6y2qmnpz5k3kfjvwp5xq4ooqb7monzeftmwbs324u",
+    "bafyreibciol2syyga6g7qlif5idrt5lm6b7g7q473dmejdof6tslnqenpe",
+    "bafyreibomjrrza4ij7dwwavf44oluijlen5elfdfgjlbqqvqw2bhusxgxe",
+    "bafyreiek7xzibogbp6sagfafeqt6okcmwxtm3tkfp7gjp6y465z3xc6ehe",
+    "bafyreidtadqmdtjtkp5v5nfldb2m4ltsjhowyicrluwomfc6ktcxmg7o3u",
+    "bafyreid3mwrxqgfbwu2m3b6vqu5um4bu7dczi44f3aagbgmvjyteu3losy",
+    "bafyreigo2m2doutcyyigz6ubgvbo673q6qmhxyxj56dwm3b7bgtbpclq2m",
+    "bafyreicz64gqpwx5tb7g6ncj2ow3mybdfe5afxgiqfkoue5ktjoyxoeloe",
+    "bafyreic4nor22j2pwgwvo3jepmhw6mjn7cjlyujbs53e2pcnvk332zylj4",
+    "bafyreicyp22ul4p65befflkoquoexohwev5ikasrzj3pvm2bukj7sxemxq",
+    "bafyreid737uvgmoppybqhj25pjog6hxjichxmdcqvtt44c24glmse6bxbm",
+    "bafyreihsw67jnhdspsypulnvqs4xohugzxr6co6gylbkjffht4u2gd3zqi",
+    "bafyreibysrj5e5aanasvq7defmix7qsc5crzbjrobsqmyx2fh7yfgrxc74",
+    "bafyreiak5242rj5atnfm6bfni566jlmbceoh54ge2jst2z5utfxuxx6zbi",
+    "bafyreichyh7mfebitqbkl276lalm7gsfkx24gb72gzooqou434pzcneh5e",
+    "bafyreig5xbedlx2pb5zfpuvnfqwuougpctouevtv3luf7n63shh4q5oeei",
+    "bafyreic3mtrtu24ccqlkqjipfcort2mddyhtr5pib4rnsgthmloxsviu5e",
+    "bafyreiaojthg2il6rv2esszyaz25infe4jgyu2gi4zh7jnicsxinuwo5ay",
+    "bafyreigzaow22k7rsfa4owmdrki352nci76nqlu7aqswl74ws52mpwofo4",
+    "bafyreidj47n6o7lsmnhlyhq2hbuws7t3otwg75t6hv4ssurdlmwp4wxjty",
+    "bafyreihygvpoxtqqezzhoxwho3mymwaaj7cwxkzpdhytihv4jgnbmxzgoq",
+    "bafyreia3l5cr2ay2evy3eir7vwurqdbp7tk42pd4wdtqzfqi4s6gc3ljhe",
+    "bafyreiclw5aetdtvsn5pqd6ye4xhwx2ml6azx6oga234fnsh4u3tiiurtm",
+    "bafyreic7doh3vma5qga3whbus73dht2srbaef7ghzp5zfwdkjrlivwghhe",
+    "bafyreihvoblgctg4ntda2nc5soguoydsgpuq7srwqssyvt6jxq5wnbq5oe",
+    "bafyreiaqkmgxkjhwvpm4ljsii5ptvoxdfifucyuexwie467ym3l5nxaa6e",
+    "bafyreibcmdfravcxjbujnwozd7gcs7vmosi2qy53p4pft5spoa4t4brdme"
+  ],
+  "concepts": [
+    "bafyreiabiawt4h6hbdwbda56qsxf7mri5unrlgp3rondqa5fvkwzuqx65y",
+    "bafyreib25kw2bzotk7fpes4wnexjie4oxhas2bgfcfct3ydl4qp3wl64nq",
+    "bafyreigzoaoo74cvsgqprbhrtnl7d53p7myrnajvpypq73dh3uy7cnaou4",
+    "bafyreihtjnbhqeaky5bqndkybhd2xyoqnehrcro3do5wlai7esecqhimda"
+  ],
+  "relations": [
+    "bafyreifurfcorzh4t2hfjyb7cptuosc5mxawmu3xzfhd4ynq26kthnjlca",
+    "bafyreibre5zfo4gvkxpfyxmgn3nnmigospjvs6odargcwafzho5yhrpjpu",
+    "bafyreigkebrtfee3thallcn446t55gjngk4cs3e6p7h3c7htik334t76h4",
+    "bafyreibi56dawvjldhpyle4pwyephsg5d4nz4pqwl7jojchyq56cyz5uxq",
+    "bafyreibfnshnzxpkwcwt3vglpfdskk574ky2oihlxzlq33uruuakuur4hy",
+    "bafyreihewuc2i5af2w27nb3r6it665eqevn7jovu74bphsj4kcjxmuv5ue"
+  ],
+  "change": "bafyreicvggsehalhpbpyfqalf6hznje63ol5t2mmccxqwce5hu6bckrobi",
+  "related_prior_concepts": [
+    [
+      "C25",
+      "bafyreicprfav5gvos6x7fbnfxpoxtpjgcximawhh64e5a7fracrux5juxq",
+      "个人需要与集体资源分离"
+    ],
+    [
+      "C27",
+      "bafyreicyicaopmfnv5jqftvfusc47hpfeipxjjjzvcgncvj5ggbwmjzxai",
+      "数据主权与 REA"
+    ]
+  ],
+  "web_evidence": [
+    "bafyreihmaujamwmeqskeucqfkkwblwwwz77kecw7hetzcwsri6huue2bq4",
+    "bafyreie73uehzjbmkfwhgfpjj2dneyu4i6plqwr5wshgj25jpfisvvibpa"
+  ],
+  "files": [
+    {
+      "path": "dossiers\\2026-10-27-protection-and-trust\\00-author-original.txt",
+      "name": "00-author-original.txt",
+      "raw": {
+        "$link": "bafkreiegznurmmasusalolssuim7wdvhtnsyulcu5lzyyak2fxc5slgp4y"
+      },
+      "bytes": 5016,
+      "sha256": "86cb69163012a480b72e52a219fb0ea79b658a2c54eaf38c015a2dc5d92ccfe6"
+    },
+    {
+      "path": "dossiers\\2026-10-27-protection-and-trust\\01-chapter.md",
+      "name": "01-chapter.md",
+      "raw": {
+        "$link": "bafkreie6zbr6me2cpotusvyr7a23gpydpdc6ftbn2lnlxokngtpohifw3q"
+      },
+      "bytes": 17052,
+      "sha256": "9ec863e613427ba7495711f835b33f0378c5e2cc2dd2dabbb94d34dee3a0b6dc"
+    },
+    {
+      "path": "dossiers\\2026-10-27-protection-and-trust\\02-new-principles.md",
+      "name": "02-new-principles.md",
+      "raw": {
+        "$link": "bafkreickcafsbgm3k5oin44otmyfbf2uhzrppigupbabia4yklbnw2vspa"
+      },
+      "bytes": 344670,
+      "sha256": "4a100b20999b575c86f38e9b305097543e62f7a0d4784014039852c2db6ab278"
+    },
+    {
+      "path": "dossiers\\2026-10-27-protection-and-trust\\03-source-ledger.md",
+      "name": "03-source-ledger.md",
+      "raw": {
+        "$link": "bafkreiboeohk27bk75qx7oqq3yhecmfubywdbkiojih22ss33kknvd72iu"
+      },
+      "bytes": 25207,
+      "sha256": "2e238ead7c2aff617fba10de0e4130b40e2c30a90e4a0fad4a5bda94da8ffa45"
+    },
+    {
+      "path": "dossiers\\2026-10-27-protection-and-trust\\04-editorial-notes.md",
+      "name": "04-editorial-notes.md",
+      "raw": {
+        "$link": "bafkreibj4xd25uq3qjcnpfrxtaxq2eqwy4h5sqflr4awrdasgkhbakz6q4"
+      },
+      "bytes": 2618,
+      "sha256": "29e5c7aed21b8244d79637982f0d1216c70fd940ab8f01688c12328e102b3e87"
+    },
+    {
+      "path": "dossiers\\2026-10-27-protection-and-trust\\editorial-statistics.json",
+      "name": "editorial-statistics.json",
+      "raw": {
+        "$link": "bafkreibkuzrtgfwfqnngahzf7nmodbnvsnmpjo3ug5myzqnq45jdqzoqpu"
+      },
+      "bytes": 465,
+      "sha256": "2aa6633316c5835a601f25fb58e185b59358f4bb7437598cc1b0e7523865d07d"
+    },
+    {
+      "path": "dossiers\\2026-10-27-protection-and-trust\\insertion-manifest.json",
+      "name": "insertion-manifest.json",
+      "raw": {
+        "$link": "bafkreie5bbklqc42m6afzcwlurrwdsuhrzs235drbxdprkp4g27uh2mrki"
+      },
+      "bytes": 654,
+      "sha256": "9d0854b80b9a67805c8acba46361ca878e65adf4710dc6f8a9fc36bf43e99152"
+    },
+    {
+      "path": "dossiers\\2026-10-27-protection-and-trust\\passage-manifest.json",
+      "name": "passage-manifest.json",
+      "raw": {
+        "$link": "bafkreih3me3iq23537d26km6kziljivx5fsopkaswnicywodoiq2najhci"
+      },
+      "bytes": 84983,
+      "sha256": "fb6136886b7ddfc7af299e5650b4a2b7e964e7a812b3502c59c37221a6812712"
+    }
+  ],
+  "new_native_events": 1,
+  "current_events": 212358,
+  "new_objects": [
+    "bafkreiakl6cabya2pjhe4x7c3hu47kftpl6h62cvw2r67qeu46pltm2zoy",
+    "bafkreibj4xd25uq3qjcnpfrxtaxq2eqwy4h5sqflr4awrdasgkhbakz6q4",
+    "bafkreibkuzrtgfwfqnngahzf7nmodbnvsnmpjo3ug5myzqnq45jdqzoqpu",
+    "bafkreiboeohk27bk75qx7oqq3yhecmfubywdbkiojih22ss33kknvd72iu",
+    "bafkreibqkfmt6pmgtjorqfz3dzm4ggyberseumwkt7gi67kysf2yx7exwu",
+    "bafkreibz5s6ivy5itajtevu5rvtnsymr6dsytyyatu6qnxidwl3vaebsf4",
+    "bafkreickcafsbgm3k5oin44otmyfbf2uhzrppigupbabia4yklbnw2vspa",
+    "bafkreidxm462fjfvfxdst2zcd566wlilhogiodwgadatld2dwc6tyktox4",
+    "bafkreie5bbklqc42m6afzcwlurrwdsuhrzs235drbxdprkp4g27uh2mrki",
+    "bafkreie6zbr6me2cpotusvyr7a23gpydpdc6ftbn2lnlxokngtpohifw3q",
+    "bafkreied67qia5zx42im35rdi35epb5ydrqsks6mfahatfv6nagr2ppwma",
+    "bafkreiegznurmmasusalolssuim7wdvhtnsyulcu5lzyyak2fxc5slgp4y",
+    "bafkreigoy27ep4r6hdqjgpspi4slcrpxraqmjsbhxoo6fgzfe3bo6z2xyu",
+    "bafkreih3me3iq23537d26km6kziljivx5fsopkaswnicywodoiq2najhci",
+    "bafkreihaziymlvui45xdgvcuhm3xqahlsw7mfhdzffpnyanxcsixw4lw5m",
+    "bafyreia3doapjeyl6wrwwpi4xgm3xzmo3b6bql4tz76v74duxxsswyqfvm",
+    "bafyreia3l5cr2ay2evy3eir7vwurqdbp7tk42pd4wdtqzfqi4s6gc3ljhe",
+    "bafyreiabiawt4h6hbdwbda56qsxf7mri5unrlgp3rondqa5fvkwzuqx65y",
+    "bafyreiaew7qyj6pcke55c47lo3zfmta6jdrnor4pehsajs3256acgarzwe",
+    "bafyreiak5242rj5atnfm6bfni566jlmbceoh54ge2jst2z5utfxuxx6zbi",
+    "bafyreiaojthg2il6rv2esszyaz25infe4jgyu2gi4zh7jnicsxinuwo5ay",
+    "bafyreiaqkmgxkjhwvpm4ljsii5ptvoxdfifucyuexwie467ym3l5nxaa6e",
+    "bafyreiatkcs4wj3qzkm7mur5k6yiexldjnw5ckw5ednvs35xuwnhssgpsu",
+    "bafyreib25kw2bzotk7fpes4wnexjie4oxhas2bgfcfct3ydl4qp3wl64nq",
+    "bafyreib65ytudn2knfmr42x7d6ygwsotdg5qcp4nmqnruv52zwudhk35qu",
+    "bafyreibcchb5qg3ji4k67jwemu4ybkrhoyuv37vjutgoqro2u2a6cat22a",
+    "bafyreibciol2syyga6g7qlif5idrt5lm6b7g7q473dmejdof6tslnqenpe",
+    "bafyreibcmdfravcxjbujnwozd7gcs7vmosi2qy53p4pft5spoa4t4brdme",
+    "bafyreibekayzzxurudh5pscbqhbepohakieh6sz7rhd3dg36fv25zqdkbq",
+    "bafyreibfnshnzxpkwcwt3vglpfdskk574ky2oihlxzlq33uruuakuur4hy",
+    "bafyreibi56dawvjldhpyle4pwyephsg5d4nz4pqwl7jojchyq56cyz5uxq",
+    "bafyreibomjrrza4ij7dwwavf44oluijlen5elfdfgjlbqqvqw2bhusxgxe",
+    "bafyreibre5zfo4gvkxpfyxmgn3nnmigospjvs6odargcwafzho5yhrpjpu",
+    "bafyreibrqxyglrlvq7ej64rmja4leqxcds3ou4tmgtgccsz7x32u7nia7e",
+    "bafyreibsjgctr7af75dndqulnyjidl2rf73hoz5c56ixs5knorignyhuxq",
+    "bafyreibucn33eahui65pkov7cy6yuo2lpk5l3bsmiyb66jxjabtxltculu",
+    "bafyreibysrj5e5aanasvq7defmix7qsc5crzbjrobsqmyx2fh7yfgrxc74",
+    "bafyreic3mtrtu24ccqlkqjipfcort2mddyhtr5pib4rnsgthmloxsviu5e",
+    "bafyreic4nor22j2pwgwvo3jepmhw6mjn7cjlyujbs53e2pcnvk332zylj4",
+    "bafyreic4owqv44inrf4ymkpingh2qcef6ygzgab3sctwrwzpp3rg5lke74",
+    "bafyreic7doh3vma5qga3whbus73dht2srbaef7ghzp5zfwdkjrlivwghhe",
+    "bafyreichs65xlneh5icnh2z6bbkyu2m3ru2egq535bmrnkrtwg3owmaqmq",
+    "bafyreichyh7mfebitqbkl276lalm7gsfkx24gb72gzooqou434pzcneh5e",
+    "bafyreiclw5aetdtvsn5pqd6ye4xhwx2ml6azx6oga234fnsh4u3tiiurtm",
+    "bafyreicpth6btpieed23mgh4snebyowgdt2gyqsldxgtht7a2olmwns5ie",
+    "bafyreicvggsehalhpbpyfqalf6hznje63ol5t2mmccxqwce5hu6bckrobi",
+    "bafyreicyp22ul4p65befflkoquoexohwev5ikasrzj3pvm2bukj7sxemxq",
+    "bafyreicz64gqpwx5tb7g6ncj2ow3mybdfe5afxgiqfkoue5ktjoyxoeloe",
+    "bafyreid3mwrxqgfbwu2m3b6vqu5um4bu7dczi44f3aagbgmvjyteu3losy",
+    "bafyreid737uvgmoppybqhj25pjog6hxjichxmdcqvtt44c24glmse6bxbm",
+    "bafyreidj47n6o7lsmnhlyhq2hbuws7t3otwg75t6hv4ssurdlmwp4wxjty",
+    "bafyreidpqrhwmr6vijulbh32cv7ndj4bav3znavaz4v4ygawlu4f57rrfa",
+    "bafyreidtadqmdtjtkp5v5nfldb2m4ltsjhowyicrluwomfc6ktcxmg7o3u",
+    "bafyreie2en2p6ik6lhnqlrlt26z4rhwz3moqpudd7dqsumsy4ip5y4nfqi",
+    "bafyreie73uehzjbmkfwhgfpjj2dneyu4i6plqwr5wshgj25jpfisvvibpa",
+    "bafyreiek7xzibogbp6sagfafeqt6okcmwxtm3tkfp7gjp6y465z3xc6ehe",
+    "bafyreiemxovstubepezmg23p4kyx6jsaigg7yc67bodfnvu3hzur3xso2i",
+    "bafyreifh7c32o3l6bs3b2zsiwtwzbbxlbchnyd5ijg2q4grk3pjieon6lm",
+    "bafyreifpu2yn6hggpda772b3ytof7iuqlrfvfiqozp66u2kmx37icllouu",
+    "bafyreifurfcorzh4t2hfjyb7cptuosc5mxawmu3xzfhd4ynq26kthnjlca",
+    "bafyreifwuwboje5iu6y2qmnpz5k3kfjvwp5xq4ooqb7monzeftmwbs324u",
+    "bafyreifzdm5gd7mwohjvyf6mkzt4kdi3q6x4b3gx5jl6iuz6mb7bqijm6u",
+    "bafyreig3j23pq7ngyvm63sfyenbglkq5qrfnyfvs7z4xk2vdqysr3lvl2u",
+    "bafyreig5xbedlx2pb5zfpuvnfqwuougpctouevtv3luf7n63shh4q5oeei",
+    "bafyreigkebrtfee3thallcn446t55gjngk4cs3e6p7h3c7htik334t76h4",
+    "bafyreignnzjep4kw3xpm7c3xvzv6idv53axhgwu7nce7jupo6rmvreg3cm",
+    "bafyreigo2m2doutcyyigz6ubgvbo673q6qmhxyxj56dwm3b7bgtbpclq2m",
+    "bafyreigol4hpv4osiuawt2c6n6zfks3ihalplx2hqxv4qt25f4aii72uf4",
+    "bafyreigverc7rjwegelqqjg5djmkiynwka2rqg5akjbwdbgri4q25ff7wu",
+    "bafyreigzaow22k7rsfa4owmdrki352nci76nqlu7aqswl74ws52mpwofo4",
+    "bafyreigzoaoo74cvsgqprbhrtnl7d53p7myrnajvpypq73dh3uy7cnaou4",
+    "bafyreih5nl7ht4zlee7wefczmud4mg6e23g4pk3ifuqsqrjewzrvq5sozu",
+    "bafyreiha7x4dxwdp4wkkpiez42cqwzhnonkawjtpklkpcluhpoqwg4mrr4",
+    "bafyreihewuc2i5af2w27nb3r6it665eqevn7jovu74bphsj4kcjxmuv5ue",
+    "bafyreihf45ufilumps2avomcai4mjohukgtv2yulezd2cdeb5rxstdmueq",
+    "bafyreihh4sx3uaxq2dqicwnf7a6vypynjq56bdx5tgv3cqr3dtt42ie37i",
+    "bafyreihmaujamwmeqskeucqfkkwblwwwz77kecw7hetzcwsri6huue2bq4",
+    "bafyreihmtruxlwrc2zdw42hzpnc74aunrdt3de6hj7aildu3krlqq6p4nq",
+    "bafyreihsw67jnhdspsypulnvqs4xohugzxr6co6gylbkjffht4u2gd3zqi",
+    "bafyreihtjnbhqeaky5bqndkybhd2xyoqnehrcro3do5wlai7esecqhimda",
+    "bafyreihvoblgctg4ntda2nc5soguoydsgpuq7srwqssyvt6jxq5wnbq5oe",
+    "bafyreihygvpoxtqqezzhoxwho3mymwaaj7cwxkzpdhytihv4jgnbmxzgoq"
+  ],
+  "closure_blocks": 522,
+  "closure_counts": {
+    "math/chapter@1": 1,
+    "math/document@1": 1,
+    "math/passage@1": 48,
+    "math/source@1": 11,
+    "np/document@1": 1,
+    "np2/document@1": 1,
+    "pi/chapter@1": 1,
+    "pi/document@1": 1,
+    "pi/passage@1": 79,
+    "pi/source@1": 12,
+    "pkst/activity@0.1": 1,
+    "pkst/change@0.1": 1,
+    "pkst/concept@0.1": 7,
+    "pkst/content@0.1": 17,
+    "pkst/extraction-record@0.1": 17,
+    "pkst/occurrence@0.1": 17,
+    "pkst/projection@0.1": 3,
+    "pkst/relation@0.1": 6,
+    "pkst/snapshot@0.1": 1,
+    "pkst/source@0.1": 6,
+    "pkst/statement@0.1": 114,
+    "pt/chapter@1": 1,
+    "pt/document@1": 1,
+    "pt/external-source@1": 2,
+    "pt/passage@1": 31,
+    "pt/source@1": 1,
+    "raw": 35,
+    "sc/chapter@1": 1,
+    "sc/document@1": 1,
+    "sc/passage@1": 90,
+    "sc/source@1": 13
+  },
+  "verified_previous_link_targets": 55,
+  "full_catalog_blocks": 779088,
+  "text_verification": {
+    "status": "pass",
+    "source_time": "2026-10-27T03:06:46.065Z",
+    "source_characters": 1696,
+    "source_spans_replayed": 13,
+    "passages_replayed": 31,
+    "chapter_sha256": "9ec863e613427ba7495711f835b33f0378c5e2cc2dd2dabbb94d34dee3a0b6dc",
+    "combined_sha256": "4a100b20999b575c86f38e9b305097543e62f7a0d4784014039852c2db6ab278",
+    "original_message_bytes_verified": true,
+    "outside_chapter_byte_preserved": true,
+    "insertion_and_inverse_replayed": true,
+    "scope": "Identity and edit provenance checks, not evidence of institutional safety or fairness."
+  },
+  "verification_scope": "new blocks, direct baseline link targets, append graph, SQL links, source lookup and complete text replay; previous graph verification inherited"
+}

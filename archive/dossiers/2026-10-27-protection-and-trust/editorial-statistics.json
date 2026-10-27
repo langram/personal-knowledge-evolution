@@ -1,0 +1,10 @@
+{
+  "chapter_cjk": 5117,
+  "combined_cjk": 103478,
+  "source_spans": 13,
+  "source_characters_selected": 1658,
+  "literal_retained_characters": 983,
+  "chapter_sha256": "9ec863e613427ba7495711f835b33f0378c5e2cc2dd2dabbb94d34dee3a0b6dc",
+  "combined_sha256": "4a100b20999b575c86f38e9b305097543e62f7a0d4784014039852c2db6ab278",
+  "boundary": "Counts include source adaptation and editor additions separately; no attribution of editor additions to author adoption."
+}

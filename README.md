@@ -7,10 +7,11 @@
 ## 阅读文章
 
 - [《新原理》当前全文](book/current.md)
+- [权力的约束、伤害的防止与信任的生长](archive/dossiers/2026-10-27-protection-and-trust/01-chapter.md)
 - [从数学家的灵感到文明的共同创造](archive/dossiers/2026-10-26-shared-credit/01-chapter.md)
 - [从学生的灵感到基层的创造](archive/dossiers/2026-10-26-shared-credit/05-section-ten.md)
 - [现存版本与修改过程](history/README.md)
-- [原话与逐项改写对照](archive/dossiers/2026-10-26-shared-credit/03-source-ledger.md)
+- [本轮原话与逐项改写对照](archive/dossiers/2026-10-27-protection-and-trust/03-source-ledger.md)
 
 ## 运行访问接口
 

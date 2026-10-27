@@ -1,7 +1,7 @@
 {
   "boundary": "Public conversation and editorial projection, not a byte-complete raw backup. All preserved editorial versions are included; overwritten/unrecorded intermediate edits cannot be reconstructed.",
-  "catalog_events": 212357,
-  "editorial_objects": 1596,
+  "catalog_events": 212358,
+  "editorial_objects": 1656,
   "events_by_platform": {
     "chatgpt": 8240,
     "claude-ai": 2085,
@@ -9,12 +9,12 @@
     "claude-ai-project": 21,
     "claude-code": 3706,
     "claude-code-memory": 16,
-    "codex-local": 140947,
+    "codex-local": 140948,
     "gemini": 2870
   },
   "gemini_html_projections": 1443,
   "native_codex_channels": {
-    "None": 140947
+    "None": 140948
   },
   "omission_counts": {
     "no-publishable-text": 21511,
@@ -22,15 +22,28 @@
     "tool-or-internal-record": 11970
   },
   "omitted_events": 54456,
-  "public_objects": 357542,
-  "published_events": 157901,
+  "public_objects": 357604,
+  "published_events": 157902,
   "raw_backup_public": false,
   "record_kinds": {
-    "conversation": 157697,
+    "conversation": 157698,
     "material": 204
   },
   "redacted_entries": 22,
   "schema": "pkst-public/coverage@1",
   "source_blocks_cid_verified": 408086,
-  "source_snapshot": "bafyreib6ixs2it5nxvg7j2gfhgnxrrnardp24qwg2nes6eemfr5zyl5ide"
+  "source_snapshot": "bafyreidpqrhwmr6vijulbh32cv7ndj4bav3znavaz4v4ygawlu4f57rrfa",
+  "incremental_updates": [
+    {
+      "edition": "06-protection-and-trust",
+      "source_snapshot": "bafyreidpqrhwmr6vijulbh32cv7ndj4bav3znavaz4v4ygawlu4f57rrfa",
+      "native_source_time": "2026-10-27T03:06:46.065Z",
+      "added_events": 1,
+      "added_public_objects": 62,
+      "added_editorial_objects": 60,
+      "new_original_blocks_verified": 82,
+      "previous_link_targets_verified": 55,
+      "recorded_at": "2026-10-27T03:23:04.269699+00:00"
+    }
+  ]
 }

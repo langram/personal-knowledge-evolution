@@ -48,7 +48,8 @@ class PublicArchiveTests(unittest.TestCase):
                 self.assertGreater(json.load(response)['published_events'],100000)
             with urlopen(base+'/v1/search?'+urlencode({'q':'动态权重','limit':2})) as response:
                 result=json.load(response);self.assertTrue(result['results']);self.assertLessEqual(len(result['results']),2)
-            with urlopen(base+'/v1/editions') as response:self.assertEqual(len(json.load(response)),5)
+            with urlopen(base+'/v1/editions') as response:
+                self.assertEqual(json.load(response),json.loads((api.ROOT/'history/editions.json').read_bytes()))
             for path,status in [('/v1/search?limit=999',400),('/v1/objects/not-a-cid',404),('/../../README.md',404)]:
                 with self.assertRaises(HTTPError) as caught:urlopen(base+path)
                 self.assertEqual(caught.exception.code,status)
