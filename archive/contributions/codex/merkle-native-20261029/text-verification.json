@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "events": 385,
+  "native_records_verified": 271,
+  "remote_visible_projections_verified": 114,
+  "remote_exact_message_times_available": false,
+  "source_spans_replayed": 27,
+  "passages_replayed": 52,
+  "chapter_sha256": "54df64c335f104489704a0ffdd4eb202ec7415ce192211df5418a8dff9a5ddb1",
+  "combined_sha256": "9cb3de960a1a90876b39bccbc257ac80810a1ed1ec424fc31623dc5af7d37261",
+  "original_evidence_bytes_verified": true,
+  "outside_chapter_byte_preserved": true,
+  "insertion_and_inverse_replayed": true,
+  "scope": "Source and editorial provenance; no proof of universal performance, full device coverage, or institutional effectiveness."
+}

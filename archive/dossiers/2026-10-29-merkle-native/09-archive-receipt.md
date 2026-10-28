@@ -1,0 +1,10 @@
+# 入库与公开投影收据
+
+专题根：`bafyreigeahq6o32bpgcohyl2sns5nrmzgd7tpea4ius7k2etags5kphsoi`。
+联合知识库根：`bafyreidt5m7brnflllhqgkz7ek4k54vykgk4otmtuayhrqzm6nyvif7hnu`。
+新全文对象：`bafyreibgyew4rrkywor7jplrqdsu2u7au6pgazkw6y5tmep44wjregmjpa`。
+新增消息：385；原始知识库当前共212743条事件；公开投影共158287条事件。
+
+原生记录271条，远程接口可见投影114条。正文共114226个CJK字符，本章10748个；这些是明确口径的计数，不包含西文、数字与标点。原话摘取、编辑改动与整章插入已经重放核验，旧稿其余部分逐字节保持不变。
+
+公开投影沿用既有脱敏规则。本轮在1个内容对象中移除4个Claude数据导出下载地址；完整原话和原始证据仍在本地知识库。此收据不包含原始账户备份，也不证明所有设备和云端来源已刷新。Git提交和远端发布状态以实际Git记录为准。本收据在专题根生成后写入，不参与自身专题根。

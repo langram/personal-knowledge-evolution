@@ -1,0 +1,40 @@
+{
+  "schema": "mn/capture@1",
+  "captured_at": "2026-10-28T16:23:17.024783+00:00",
+  "window_start": "2026-10-24T00:00:00Z",
+  "window_end": "2026-10-28T16:14:06.458Z",
+  "new_events": 385,
+  "new_by_platform": {
+    "codex-local": 341,
+    "claude-code": 44
+  },
+  "new_by_thread": {
+    "01a16c8a-f6e1-7580-b378-b6e49f0be965": 148,
+    "01a17717-04a4-77a1-989f-644491357cb3": 4,
+    "01a1775b-71b0-7313-af35-815ac6eb82ed": 4,
+    "01a18016-3e9d-7af1-860d-feccfc3c9ffb": 71,
+    "c3786c20-7156-40f9-af46-1d48236cd965": 38,
+    "688e026f-2299-4878-a3c5-03acfd6297a9": 6,
+    "01a09b77-2488-75b1-91b0-9d58210090b8": 77,
+    "01a18001-423b-78d2-881a-88a576d75345": 37
+  },
+  "new_by_role": {
+    "assistant": 335,
+    "user": 50
+  },
+  "native_records": 271,
+  "remote_projection_records": 114,
+  "omissions": {
+    "injected-context-envelope": 21,
+    "existing-event-or-replayed-record": 75,
+    "claude-internal-message": 175,
+    "no-visible-text": 613
+  },
+  "coverage_limits": [
+    "No new official Claude.ai, ChatGPT or Gemini bulk export requested in this pass.",
+    "Mac raw filesystem unavailable through Remote Desktop Commander; two visible recent Codex threads read through app API.",
+    "Only visible user and assistant text imported; system, developer, tools, hidden reasoning and injected envelopes excluded.",
+    "Attachments are referenced in native records; this text import does not claim new attachment collection."
+  ],
+  "native_scan_locations": "Retained locally in the exact capture evidence."
+}

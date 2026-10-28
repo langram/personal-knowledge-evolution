@@ -1,0 +1,12 @@
+{
+  "chapter_cjk": 10748,
+  "combined_cjk": 114226,
+  "source_spans": 27,
+  "distinct_author_messages_used": 11,
+  "source_characters_selected": 6186,
+  "literal_retained_characters": 4742,
+  "literal_retained_cjk": 3788,
+  "chapter_sha256": "54df64c335f104489704a0ffdd4eb202ec7415ce192211df5418a8dff9a5ddb1",
+  "combined_sha256": "9cb3de960a1a90876b39bccbc257ac80810a1ed1ec424fc31623dc5af7d37261",
+  "boundary": "Literal overlap measures wording retention, not author approval of editorial additions."
+}

@@ -1,0 +1,21 @@
+{
+  "edition": "07-merkle-native",
+  "source_snapshot": "bafyreidt5m7brnflllhqgkz7ek4k54vykgk4otmtuayhrqzm6nyvif7hnu",
+  "window_start": "2026-10-24T00:00:00Z",
+  "window_end": "2026-10-28T16:14:06.458Z",
+  "added_events": 385,
+  "added_native_records": 271,
+  "added_remote_visible_projections": 114,
+  "added_public_objects": 910,
+  "added_editorial_objects": 133,
+  "new_original_blocks_verified": 1704,
+  "previous_link_targets_verified": 33,
+  "redacted_content_objects": 1,
+  "coverage_limits": [
+    "No new official Claude.ai, ChatGPT or Gemini bulk export requested in this pass.",
+    "Mac raw filesystem unavailable through Remote Desktop Commander; two visible recent Codex threads read through app API.",
+    "Only visible user and assistant text imported; system, developer, tools, hidden reasoning and injected envelopes excluded.",
+    "Attachments are referenced in native records; this text import does not claim new attachment collection."
+  ],
+  "recorded_at": "2026-10-28T16:46:31.498247+00:00"
+}

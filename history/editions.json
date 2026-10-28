@@ -40,5 +40,12 @@
     "file": "archive/dossiers/2026-10-27-protection-and-trust/02-new-principles.md",
     "sha256": "4a100b20999b575c86f38e9b305097543e62f7a0d4784014039852c2db6ab278",
     "cjk_characters": 103478
+  },
+  {
+    "edition": "07-merkle-native",
+    "title": "AI时代的Merkle-DAG语言与软件生态",
+    "file": "archive/dossiers/2026-10-29-merkle-native/02-new-principles.md",
+    "sha256": "9cb3de960a1a90876b39bccbc257ac80810a1ed1ec424fc31623dc5af7d37261",
+    "cjk_characters": 114226
   }
 ]

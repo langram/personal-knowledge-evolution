@@ -1,0 +1,12 @@
+{
+  "schema": "mn/insertion@1",
+  "baseline_file": "dossiers\\2026-10-27-protection-and-trust\\02-new-principles.md",
+  "baseline_sha256": "4a100b20999b575c86f38e9b305097543e62f7a0d4784014039852c2db6ab278",
+  "insert_at_utf8_byte": 158512,
+  "inserted_bytes": 36594,
+  "chapter_sha256": "54df64c335f104489704a0ffdd4eb202ec7415ce192211df5418a8dff9a5ddb1",
+  "combined_sha256": "9cb3de960a1a90876b39bccbc257ac80810a1ed1ec424fc31623dc5af7d37261",
+  "placement": "after MerkleVM software seed, before human and AI collaborative construction",
+  "outside_chapter_byte_preserved": true,
+  "author_acceptance": "integration requested; specific editorial changes pending review"
+}

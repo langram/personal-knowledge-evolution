@@ -248,5 +248,28 @@
     "original_cid": "bafyreiattsv637pg6ccc3qembfnofvmcqf2mvzqvwpphzgedciokpkalni",
     "public_cid": "bafyreidcqrl4e7xauohyxxfhhodryqxgq5ngmbryo7aznohmwnwgtesp3q",
     "source_kind": "content"
+  },
+  {
+    "original_cid": "bafyreiflcgzk5frostbyjjxljn3egbwhxdvrghp45edhosqo376tvz6jz4",
+    "public_cid": "bafyreidvlae2zxvqgvdyshfhimhwscwsvacfdxwztxc3jfh5cokdk334b4",
+    "source_kind": "content",
+    "findings": [
+      {
+        "kind": "export-download-url",
+        "characters": 103
+      },
+      {
+        "kind": "export-download-url",
+        "characters": 103
+      },
+      {
+        "kind": "export-download-url",
+        "characters": 103
+      },
+      {
+        "kind": "export-download-url",
+        "characters": 103
+      }
+    ]
   }
 ]
