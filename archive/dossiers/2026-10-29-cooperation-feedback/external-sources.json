@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Introduction to the Inefficiency of Equilibria",
+    "url": "https://www.cs.cornell.edu/~eva/agtchap17.pdf",
+    "scope": "作者提供的博弈论教材章节；均衡可低效，不能把纳什均衡直接等同于整体最优。",
+    "evidence_kind": "primary-author-text"
+  },
+  {
+    "title": "The Evolution of Cooperation (Axelrod and Hamilton, 1981)",
+    "url": "https://public.websites.umich.edu/~axe/research/Axelrod%20and%20Hamilton%20EC%201981.pdf",
+    "scope": "TFT首次合作、以后复制对方上一轮行为的定义及特定研究结果；不证明普遍最优。",
+    "evidence_kind": "primary-paper"
+  },
+  {
+    "title": "Boeing 737 MAX 2021 DOJ agreement announcement",
+    "url": "https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion",
+    "scope": "2021年协议材料所载MCAS信息隐瞒与评估、培训材料缺失；不叙述此后案件最终处置，也不推断飞行记录器信息被隐瞒。",
+    "evidence_kind": "official-primary-record"
+  },
+  {
+    "title": "FAA Oversight of Boeing’s Broken Safety Culture: hearing",
+    "url": "https://www.hsgac.senate.gov/subcommittees/investigations/hearings/faa-oversight-of-boeings-broken-safety-culture/",
+    "scope": "2024年安全文化与监管听证背景；证言不等同于每一项指控已经裁定。",
+    "evidence_kind": "official-primary-record"
+  },
+  {
+    "title": "FAA testimony on Boeing safety culture",
+    "url": "https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0",
+    "scope": "报告安全问题不受报复及报告得到调查的重要性。",
+    "evidence_kind": "official-primary-testimony"
+  },
+  {
+    "title": "EPA and California Volkswagen notice, 2015",
+    "url": "https://www.epa.gov/archive/epa/newsreleases/epa-california-notify-volkswagen-clean-air-act-violations-carmaker-allegedly-used.html",
+    "scope": "识别排放测试的软件及独立分析引发监管调查的经过。",
+    "evidence_kind": "official-primary-record"
+  },
+  {
+    "title": "尊界刹车踏板支架断裂风波再追问",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34216478",
+    "scope": "仅用于确认围绕事件存在公开争议；本轮未直接取得完整原始试验、厂方原帖或独立最终调查，不能据此作工程归因或认定隐瞒。",
+    "evidence_kind": "secondary-report-of-dispute"
+  }
+]

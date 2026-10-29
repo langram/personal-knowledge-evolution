@@ -1,0 +1,12 @@
+{
+  "schema": "cf/insertion@1",
+  "baseline_file": "dossiers\\2026-10-29-merkle-native\\02-new-principles.md",
+  "baseline_sha256": "9cb3de960a1a90876b39bccbc257ac80810a1ed1ec424fc31623dc5af7d37261",
+  "insert_at_utf8_byte": 290437,
+  "inserted_bytes": 14528,
+  "chapter_sha256": "71ecf4580e13d9a562344fc21a50bf05a5ded7c7f07fd23ab988b64c1f300ebb",
+  "combined_sha256": "5a21ade63200973ce6bb42393c3f3a7b94440a35f5c54c988039495399f765d8",
+  "placement": "after protection and trust, before personal cloud storage",
+  "outside_chapter_byte_preserved": true,
+  "author_acceptance": "requested integration; individual editorial changes pending review"
+}

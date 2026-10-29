@@ -1,0 +1,4007 @@
+{
+  "schema": "cf/passages@1",
+  "title": "公共知识、互惠与合作的正向循环",
+  "coordinate": "Unicode code points, half-open",
+  "source_occurrence": "bafyreie5w3lopxhzkbawkyjsgnjvs5iv3olxywpkg6ma4mz7fgwsabktqu",
+  "items": [
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "在缺乏公共知识支撑的信息系统下，信息的不充分和有意隐瞒，不但使合作各方难以找到对整体更有利的博弈结果，还可能使大家被困在各自防守、彼此消耗的状态中。信息的不透明、不对称，还会使合作各方从怀疑走向不信任，逐渐形成情绪上的相互敌视，直至发展成为行为上的互相抵制，使得整个系统中所有各方之间，精神和物质上的对抗成本居高不下。",
+      "source_span": [
+        76,
+        220
+      ],
+      "source_sha256": "ba506c63837c2b34c748495fb48ffb641b496122d1c698ba24d151514ecf9921",
+      "retained_characters": 106,
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            76,
+            77
+          ],
+          "output_span": [
+            0,
+            3
+          ],
+          "before": "非",
+          "after": "在缺乏"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            81,
+            81
+          ],
+          "output_span": [
+            7,
+            10
+          ],
+          "before": "",
+          "after": "支撑的"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            87,
+            91
+          ],
+          "output_span": [
+            16,
+            16
+          ],
+          "before": "不但由于",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            103,
+            103
+          ],
+          "output_span": [
+            28,
+            30
+          ],
+          "before": "",
+          "after": "不但"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            104,
+            106
+          ],
+          "output_span": [
+            31,
+            34
+          ],
+          "before": "得双",
+          "after": "合作各"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            107,
+            113
+          ],
+          "output_span": [
+            35,
+            46
+          ],
+          "before": "无法达成最优",
+          "after": "难以找到对整体更有利的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            118,
+            124
+          ],
+          "output_span": [
+            51,
+            69
+          ],
+          "before": "达到全局最优",
+          "after": "还可能使大家被困在各自防守、彼此消耗"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            125,
+            129
+          ],
+          "output_span": [
+            70,
+            73
+          ],
+          "before": "纳什平衡",
+          "after": "状态中"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            130,
+            133
+          ],
+          "output_span": [
+            74,
+            74
+          ],
+          "before": "而且由",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            135,
+            135
+          ],
+          "output_span": [
+            76,
+            77
+          ],
+          "before": "",
+          "after": "的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            138,
+            138
+          ],
+          "output_span": [
+            80,
+            81
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            142,
+            142
+          ],
+          "output_span": [
+            85,
+            87
+          ],
+          "before": "",
+          "after": "还会"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            143,
+            144
+          ],
+          "output_span": [
+            88,
+            88
+          ],
+          "before": "得",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            148,
+            155
+          ],
+          "output_span": [
+            92,
+            92
+          ],
+          "before": "之间，所产生的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            158,
+            160
+          ],
+          "output_span": [
+            95,
+            97
+          ],
+          "before": "，到",
+          "after": "走向"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            164,
+            166
+          ],
+          "output_span": [
+            101,
+            103
+          ],
+          "before": "最终",
+          "after": "逐渐"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            192,
+            192
+          ],
+          "output_span": [
+            129,
+            131
+          ],
+          "before": "",
+          "after": "使得"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 0,
+      "chapter_span": [
+        20,
+        179
+      ],
+      "document_span": [
+        100939,
+        101098
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这里需要区分“稳定下来”与“整体更好”。纳什均衡所说明的，是其他人的策略不变时，每一方都无法仅靠单方面改变策略获得更高收益；这样的均衡，完全可能使所有人都比相互合作时更差。囚徒困境就是一个典型例子。因此，我所追求的，是改变信息、保护和收益的条件，使更有利于共同生活的合作能够持续，而不只是让某一种状态稳定下来。[均衡与效率的区别](https://www.cs.cornell.edu/~eva/agtchap17.pdf)",
+      "reason": "校正纳什均衡与整体最优的混用，保留改善整体合作结果的目标",
+      "ordinal": 1,
+      "chapter_span": [
+        181,
+        393
+      ],
+      "document_span": [
+        101100,
+        101312
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 隐瞒造成的损失，为什么超过被隐瞒的事实本身",
+      "reason": "节标题",
+      "ordinal": 2,
+      "chapter_span": [
+        395,
+        420
+      ],
+      "document_span": [
+        101314,
+        101339
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "最近围绕尊界汽车制动踏板支架断裂的争议，波音737 MAX的MCAS信息披露问题及后续安全文化与“吹哨人”争议，以及大众“柴油门”（Dieselgate）事件，都使我们不得不追问：当设计者、生产者、监管者与使用者掌握的信息不一样，又没有足够可靠的共同核查机制时，合作会付出怎样的代价？",
+      "source_span": [
+        222,
+        315
+      ],
+      "source_sha256": "6a102075ac906b841b8034125c4589b914617d34e323bee5811c75d015a254fb",
+      "retained_characters": 58,
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            222,
+            224
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "比如",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            226,
+            229
+          ],
+          "output_span": [
+            2,
+            4
+          ],
+          "before": "发生的",
+          "after": "围绕"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            233,
+            235
+          ],
+          "output_span": [
+            8,
+            11
+          ],
+          "before": "刹车",
+          "after": "制动踏"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            236,
+            236
+          ],
+          "output_span": [
+            12,
+            14
+          ],
+          "before": "",
+          "after": "支架"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            238,
+            240
+          ],
+          "output_span": [
+            16,
+            19
+          ],
+          "before": "事件",
+          "after": "的争议"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            241,
+            246
+          ],
+          "output_span": [
+            20,
+            20
+          ],
+          "before": "前几年，“",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            255,
+            259
+          ],
+          "output_span": [
+            29,
+            30
+          ],
+          "before": "黑匣子与",
+          "after": "的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            263,
+            266
+          ],
+          "output_span": [
+            34,
+            40
+          ],
+          "before": "隐瞒”",
+          "after": "信息披露问题"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            269,
+            269
+          ],
+          "output_span": [
+            43,
+            48
+          ],
+          "before": "",
+          "after": "安全文化与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            274,
+            278
+          ],
+          "output_span": [
+            53,
+            55
+          ],
+          "before": "危机事件",
+          "after": "争议"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            303,
+            305
+          ],
+          "output_span": [
+            80,
+            80
+          ],
+          "before": "其实",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            306,
+            313
+          ],
+          "output_span": [
+            81,
+            108
+          ],
+          "before": "是上述原因造成",
+          "after": "使我们不得不追问：当设计者、生产者、监管者与使用者掌握"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            314,
+            315
+          ],
+          "output_span": [
+            109,
+            142
+          ],
+          "before": "。",
+          "after": "信息不一样，又没有足够可靠的共同核查机制时，合作会付出怎样的代价？"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 3,
+      "chapter_span": [
+        422,
+        564
+      ],
+      "document_span": [
+        101341,
+        101483
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这些案例的证据状态并不相同。尊界事件中的测试条件、样件状态与故障原因，需要能够相互对照的原始材料和独立核查；不能只因存在争议，就先判定某一方有意隐瞒。它提出的一个直接问题是：公众怎样从相互冲突的说法，走到可以共同检查的证据？[相关争议报道](https://www.thepaper.cn/newsDetail_forward_34216478)\n\n波音案例中，2021年美国司法部公布的协议材料记载，公司通过相关飞行技术人员隐瞒了MCAS的重要变化，使关键评估文件以及相应手册、培训材料缺少相关信息。2024年的安全文化听证和FAA证词，又涉及员工能否在不害怕报复的情况下提出安全问题。这使信息问题延伸到了组织内部：知道问题的人，是否有条件把它说出来？[司法部材料](https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion)、[参议院听证资料](https://www.hsgac.senate.gov/subcommittees/investigations/hearings/faa-oversight-of-boeings-broken-safety-culture/)、[FAA证词](https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0)\n\n大众案例则更直接地表现出“看见的测试”与“实际运行”之间的分离。EPA在2015年的公告中说明，相关软件能够识别官方排放测试，并在测试时开启完整排放控制，正常行驶时却采用不同表现。外部独立分析引发疑问，进一步调查才揭示其中的问题。[EPA公告](https://www.epa.gov/archive/epa/newsreleases/epa-california-notify-volkswagen-clean-air-act-violations-carmaker-allegedly-used.html)",
+      "reason": "区分争议、已有披露记录与监管发现；不推断黑匣子记录遭隐瞒，也不把不同事件写成同一因果事实",
+      "ordinal": 4,
+      "chapter_span": [
+        566,
+        1481
+      ],
+      "document_span": [
+        101485,
+        102400
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "试想这样的事情，如果从设计到测试、生产，再到销售和使用反馈，与安全和责任有关的依据，都像Git仓库中有版本跟踪的开源软件代码一样，可以按适当范围追溯和核查，那么，许多原本只能靠猜测的怀疑，就有机会通过核查得到澄清；已经存在的缺陷，也更有机会被及时发现和纠正。",
+      "source_span": [
+        315,
+        395
+      ],
+      "source_sha256": "3e2c92a8f9e951f1330d6b201ef06bf204330222823b04bc94fcbb33e039afb2",
+      "retained_characters": 53,
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            331,
+            332
+          ],
+          "output_span": [
+            16,
+            17
+          ],
+          "before": "到",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            334,
+            334
+          ],
+          "output_span": [
+            19,
+            20
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            336,
+            338
+          ],
+          "output_span": [
+            22,
+            22
+          ],
+          "before": "所有",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            340,
+            342
+          ],
+          "output_span": [
+            24,
+            29
+          ],
+          "before": "环节",
+          "after": "和使用反馈"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            343,
+            344
+          ],
+          "output_span": [
+            30,
+            36
+          ],
+          "before": "所",
+          "after": "与安全和责任"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            345,
+            347
+          ],
+          "output_span": [
+            37,
+            42
+          ],
+          "before": "信息",
+          "after": "关的依据，"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            348,
+            349
+          ],
+          "output_span": [
+            43,
+            43
+          ],
+          "before": "是",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            350,
+            351
+          ],
+          "output_span": [
+            44,
+            45
+          ],
+          "before": "g",
+          "after": "G"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            371,
+            371
+          ],
+          "output_span": [
+            65,
+            78
+          ],
+          "before": "",
+          "after": "可以按适当范围追溯和核查，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            374,
+            376
+          ],
+          "output_span": [
+            81,
+            91
+          ],
+          "before": "这些",
+          "after": "许多原本只能靠猜测的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            378,
+            378
+          ],
+          "output_span": [
+            93,
+            125
+          ],
+          "before": "",
+          "after": "，就有机会通过核查得到澄清；已经存在的缺陷，也更有机会被及时发现"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            379,
+            394
+          ],
+          "output_span": [
+            126,
+            128
+          ],
+          "before": "不信任，几乎是不可能发生的事情",
+          "after": "纠正"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 5,
+      "chapter_span": [
+        1483,
+        1612
+      ],
+      "document_span": [
+        102402,
+        102531
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "不过，公开一份图纸，还需要确认实物是否按这份图纸生产；公开一个软件版本，还需要确认设备实际运行的是否就是这个版本。原始测试、失败记录、修改理由与交付批次之间，应当能够互相核对。Merkle-DAG可以帮助核对记录之间的内容与版本关系，实物、测量和现场过程仍需独立检查。这样建立起来的信任，来自疑问能够得到回答，而不是要求人们不再提出疑问。",
+      "reason": "补齐公开记录到真实物理过程的证据链；不把版本管理等同于事实真实性",
+      "ordinal": 6,
+      "chapter_span": [
+        1614,
+        1783
+      ],
+      "document_span": [
+        102533,
+        102702
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 从怀疑到敌视，互相防守怎样变成共同损失",
+      "reason": "节标题",
+      "ordinal": 7,
+      "chapter_span": [
+        1785,
+        1808
+      ],
+      "document_span": [
+        102704,
+        102727
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "这些只是商业上的一些例子，类似的信息与信任问题，也存在于政治、经济和社会生活的许多方面，有的冲突甚至可能带来文明尺度的危险。从一战、二战，到美苏冷战、古巴导弹危机，再到当代中美之间的对抗，都值得从信息、预期与相互回应的角度继续考察。当然，这些事件各有复杂的历史条件，不能仅用信息不透明解释其全部起因。",
+      "source_span": [
+        397,
+        512
+      ],
+      "source_sha256": "cad1de9798530c37b1b840e169089200394fc2a1a922d7832fe151c38f092229",
+      "retained_characters": 63,
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            410,
+            417
+          ],
+          "output_span": [
+            13,
+            23
+          ],
+          "before": "实际上这种情况",
+          "after": "类似的信息与信任问题"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            418,
+            420
+          ],
+          "output_span": [
+            24,
+            25
+          ],
+          "before": "普遍",
+          "after": "也"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            423,
+            425
+          ],
+          "output_span": [
+            28,
+            28
+          ],
+          "before": "其他",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            427,
+            427
+          ],
+          "output_span": [
+            30,
+            31
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            435,
+            436
+          ],
+          "output_span": [
+            39,
+            41
+          ],
+          "before": "方",
+          "after": "许多"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            438,
+            458
+          ],
+          "output_span": [
+            43,
+            43
+          ],
+          "before": "面，自古至今，发生着数不清的种种问题案例",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            461,
+            461
+          ],
+          "output_span": [
+            46,
+            48
+          ],
+          "before": "",
+          "after": "冲突"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            463,
+            469
+          ],
+          "output_span": [
+            50,
+            54
+          ],
+          "before": "具有摧毁人类",
+          "after": "可能带来"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            471,
+            476
+          ],
+          "output_span": [
+            56,
+            58
+          ],
+          "before": "，毁灭世界",
+          "after": "尺度"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            477,
+            478
+          ],
+          "output_span": [
+            59,
+            60
+          ],
+          "before": "风",
+          "after": "危"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            479,
+            480
+          ],
+          "output_span": [
+            61,
+            62
+          ],
+          "before": "：",
+          "after": "。"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            483,
+            483
+          ],
+          "output_span": [
+            65,
+            66
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            485,
+            488
+          ],
+          "output_span": [
+            68,
+            68
+          ],
+          "before": "的爆发",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            494,
+            495
+          ],
+          "output_span": [
+            74,
+            75
+          ],
+          "before": "，",
+          "after": "、"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            504,
+            507
+          ],
+          "output_span": [
+            84,
+            86
+          ],
+          "before": "如今的",
+          "after": "当代"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            509,
+            509
+          ],
+          "output_span": [
+            88,
+            91
+          ],
+          "before": "",
+          "after": "之间的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            511,
+            511
+          ],
+          "output_span": [
+            93,
+            115
+          ],
+          "before": "",
+          "after": "，都值得从信息、预期与相互回应的角度继续考察"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            512,
+            512
+          ],
+          "output_span": [
+            116,
+            150
+          ],
+          "before": "",
+          "after": "当然，这些事件各有复杂的历史条件，不能仅用信息不透明解释其全部起因。"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 8,
+      "chapter_span": [
+        1810,
+        1960
+      ],
+      "document_span": [
+        102729,
+        102879
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "这种典型进程——从怀疑，到不信任，最终形成情绪上的相互敌视，直至发展成为行为上的互相抵制——在许多冲突中反复出现。一个重要原因，是人类社会中广泛存在着“你怎样对待我，我就怎样回应你”的互惠倾向，在这种相互回应的规则下，信任和合作是正向的连锁反应链条，而不信任到背叛和冲突，则是负向的连锁反应链条。",
+      "source_span": [
+        514,
+        667
+      ],
+      "source_sha256": "11202e9ad12c5298c5e2d68ae955c81df5f368a469f69da81e60bcaac1f3255e",
+      "retained_characters": 104,
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            514,
+            519
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "前面提到的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            525,
+            526
+          ],
+          "output_span": [
+            6,
+            8
+          ],
+          "before": "：",
+          "after": "——"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            562,
+            563
+          ],
+          "output_span": [
+            44,
+            46
+          ],
+          "before": "，",
+          "after": "——"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            564,
+            568
+          ],
+          "output_span": [
+            47,
+            51
+          ],
+          "before": "这类事件",
+          "after": "许多冲突"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            571,
+            577
+          ],
+          "output_span": [
+            54,
+            61
+          ],
+          "before": "发生，背后的",
+          "after": "出现。一个重要"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            580,
+            581
+          ],
+          "output_span": [
+            64,
+            64
+          ],
+          "before": "就",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            582,
+            584
+          ],
+          "output_span": [
+            65,
+            65
+          ],
+          "before": "因为",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            589,
+            589
+          ],
+          "output_span": [
+            70,
+            82
+          ],
+          "before": "",
+          "after": "广泛存在着“你怎样对待我"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            590,
+            606
+          ],
+          "output_span": [
+            83,
+            91
+          ],
+          "before": "以牙还牙策略是全人类都知道且默认",
+          "after": "我就怎样回应你”"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            607,
+            615
+          ],
+          "output_span": [
+            92,
+            96
+          ],
+          "before": "最基本的公共知识",
+          "after": "互惠倾向"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            618,
+            623
+          ],
+          "output_span": [
+            99,
+            104
+          ],
+          "before": "个公共知识",
+          "after": "种相互回应"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 9,
+      "chapter_span": [
+        1962,
+        2110
+      ],
+      "document_span": [
+        102881,
+        103029
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "当各方主要依照这种相互回应的方式行动时，信息交流的不充分或隐瞒，就可能导致彼此的怀疑，怀疑会进一步阻碍彼此的交流，刻意隐瞒更多的信息，而这种情况，又进一步让双方陷入更大的怀疑，直到发展成为不信任，不信任导致进一步拒绝交流、加强隐瞒，进而产生情绪上的强烈敌视，开始因为担心对方的攻击而增强自己的攻防能力，一方的这种行为，又促使对方增强自己的攻防能力，于是事态发展到行为上的抵制和对抗，在严重的情况下，局部、低烈度的暴力还可能逐步升级，直至事情失控，让身在其中原本愿意友好合作的普通人，被恐惧、仇恨和冲动卷入互相伤害乃至血腥杀戮。",
+      "source_span": [
+        669,
+        930
+      ],
+      "source_sha256": "8634c96f636d6dfc3ed8cddd278e52dba2ff7627a7bf72ef792cf9525c7669d4",
+      "retained_characters": 198,
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            669,
+            670
+          ],
+          "output_span": [
+            0,
+            7
+          ],
+          "before": "在",
+          "after": "当各方主要依照"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            671,
+            684
+          ],
+          "output_span": [
+            8,
+            13
+          ],
+          "before": "条全人类共同知晓且共同遵守",
+          "after": "种相互回应"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            685,
+            694
+          ],
+          "output_span": [
+            14,
+            19
+          ],
+          "before": "以牙还牙策略驱使下",
+          "after": "方式行动时"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            707,
+            707
+          ],
+          "output_span": [
+            32,
+            35
+          ],
+          "before": "",
+          "after": "就可能"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            760,
+            762
+          ],
+          "output_span": [
+            88,
+            90
+          ],
+          "before": "知道",
+          "after": "直到"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            775,
+            775
+          ],
+          "output_span": [
+            103,
+            106
+          ],
+          "before": "",
+          "after": "进一步"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            779,
+            781
+          ],
+          "output_span": [
+            110,
+            113
+          ],
+          "before": "全力",
+          "after": "、加强"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            819,
+            820
+          ],
+          "output_span": [
+            151,
+            153
+          ],
+          "before": "你",
+          "after": "一方"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            826,
+            828
+          ],
+          "output_span": [
+            159,
+            162
+          ],
+          "before": "导致",
+          "after": "又促使"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            830,
+            833
+          ],
+          "output_span": [
+            164,
+            164
+          ],
+          "before": "也开始",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            860,
+            861
+          ],
+          "output_span": [
+            191,
+            199
+          ],
+          "before": "从",
+          "after": "在严重的情况下，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            863,
+            864
+          ],
+          "output_span": [
+            201,
+            203
+          ],
+          "before": "的",
+          "after": "、低"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            866,
+            868
+          ],
+          "output_span": [
+            205,
+            205
+          ],
+          "before": "微小",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            871,
+            874
+          ],
+          "output_span": [
+            208,
+            211
+          ],
+          "before": "行为，",
+          "after": "还可能"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            883,
+            885
+          ],
+          "output_span": [
+            220,
+            220
+          ],
+          "before": "完全",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            893,
+            893
+          ],
+          "output_span": [
+            228,
+            236
+          ],
+          "before": "",
+          "after": "原本愿意友好合作"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            897,
+            912
+          ],
+          "output_span": [
+            240,
+            240
+          ],
+          "before": "从充满爱和理性的彼此友好合作者",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            913,
+            917
+          ],
+          "output_span": [
+            241,
+            246
+          ],
+          "before": "变成充满",
+          "after": "被恐惧、仇"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            921,
+            922
+          ],
+          "output_span": [
+            250,
+            252
+          ],
+          "before": "的",
+          "after": "卷入"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            924,
+            924
+          ],
+          "output_span": [
+            254,
+            258
+          ],
+          "before": "",
+          "after": "伤害乃至"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            928,
+            929
+          ],
+          "output_span": [
+            262,
+            262
+          ],
+          "before": "者",
+          "after": ""
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 10,
+      "chapter_span": [
+        2112,
+        2375
+      ],
+      "document_span": [
+        103031,
+        103294
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "每一方都可能觉得，自己只是在回应已经受到的威胁；自己的防守，在对方眼里却又成了新的攻击准备。于是，双方都以自身的安全为理由行动，整个系统用于攻防的成本却不断增加。要改变这个过程，需要共同核对威胁是否真实、行动究竟意味着什么，并使双方都能看见停止升级的路径。",
+      "reason": "论述衔接与机制展开",
+      "ordinal": 11,
+      "chapter_span": [
+        2377,
+        2505
+      ],
+      "document_span": [
+        103296,
+        103424
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 正向起点为什么重要，为什么还需要纠错",
+      "reason": "节标题",
+      "ordinal": 12,
+      "chapter_span": [
+        2507,
+        2529
+      ],
+      "document_span": [
+        103426,
+        103448
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "反过来考察互惠合作的正向连锁反应链条，可以看到另一种可能：每增加一点真实、有用且受到保护的信息交流，每少一点妨碍合作的刻意隐瞒，彼此的信任就有机会增加，增加的信任又会导致彼此更愿意分享信息，更不愿意刻意隐瞒，也更愿意进行合作；合作产生的好处，又进一步增强信任，促成更多合作。这个正向连锁反应链条，可以促使各方把更多与合作有关、适合共享的信息变成公共知识，使大家更有条件发现整体更优的方案，并形成能够持续的合作。",
+      "source_span": [
+        932,
+        1101
+      ],
+      "source_sha256": "5a7b6955c2d0ff00970170f31fb6c516421c8372c5ea55271915b748974aa1b9",
+      "retained_characters": 117,
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            937,
+            943
+          ],
+          "output_span": [
+            5,
+            9
+          ],
+          "before": "以牙还牙策略",
+          "after": "互惠合作"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            953,
+            958
+          ],
+          "output_span": [
+            19,
+            29
+          ],
+          "before": "你会发现，",
+          "after": "可以看到另一种可能："
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            963,
+            963
+          ],
+          "output_span": [
+            34,
+            45
+          ],
+          "before": "",
+          "after": "真实、有用且受到保护的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            972,
+            974
+          ],
+          "output_span": [
+            54,
+            61
+          ],
+          "before": "信息",
+          "after": "妨碍合作的刻意"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            983,
+            983
+          ],
+          "output_span": [
+            70,
+            72
+          ],
+          "before": "",
+          "after": "有机"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1015,
+            1017
+          ],
+          "output_span": [
+            104,
+            106
+          ],
+          "before": "还是",
+          "after": "也更"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1023,
+            1023
+          ],
+          "output_span": [
+            112,
+            120
+          ],
+          "before": "",
+          "after": "；合作产生的好处"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1024,
+            1028
+          ],
+          "output_span": [
+            121,
+            122
+          ],
+          "before": "从而进而",
+          "after": "又"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1036,
+            1038
+          ],
+          "output_span": [
+            130,
+            132
+          ],
+          "before": "进行",
+          "after": "促成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1042,
+            1043
+          ],
+          "output_span": [
+            136,
+            137
+          ],
+          "before": "，",
+          "after": "。"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1053,
+            1057
+          ],
+          "output_span": [
+            147,
+            152
+          ],
+          "before": "最终会让",
+          "after": "，可以促使"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1059,
+            1065
+          ],
+          "output_span": [
+            154,
+            158
+          ],
+          "before": "将一切对促进",
+          "after": "把更多与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1067,
+            1068
+          ],
+          "output_span": [
+            160,
+            161
+          ],
+          "before": "相",
+          "after": "有"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1069,
+            1069
+          ],
+          "output_span": [
+            162,
+            167
+          ],
+          "before": "",
+          "after": "、适合共享"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1072,
+            1073
+          ],
+          "output_span": [
+            170,
+            170
+          ],
+          "before": "都",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1080,
+            1084
+          ],
+          "output_span": [
+            177,
+            196
+          ],
+          "before": "从而让达",
+          "after": "使大家更有条件发现整体更优的方案，并形"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1085,
+            1093
+          ],
+          "output_span": [
+            197,
+            201
+          ],
+          "before": "全局最优纳什平衡",
+          "after": "能够持续"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1094,
+            1100
+          ],
+          "output_span": [
+            202,
+            204
+          ],
+          "before": "概率越来越大",
+          "after": "合作"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 13,
+      "chapter_span": [
+        2531,
+        2736
+      ],
+      "document_span": [
+        103450,
+        103655
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "互惠反馈可能向合作与对抗两个方向不断强化的特征，让我得出这样一个结论，如果想让人类社会的博弈更有利于共同生活，那么初始的博弈方向非常重要，这是影响连锁反应往正向还是反向发展的一项关键条件。",
+      "source_span": [
+        1103,
+        1200
+      ],
+      "source_sha256": "3c2dfad5ff133f7521f9ed8883ed0c9f66bf1062c3b74fabd3b6e3d207f60925",
+      "retained_characters": 57,
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1103,
+            1109
+          ],
+          "output_span": [
+            0,
+            20
+          ],
+          "before": "以牙还牙策略",
+          "after": "互惠反馈可能向合作与对抗两个方向不断强化"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1110,
+            1123
+          ],
+          "output_span": [
+            21,
+            21
+          ],
+          "before": "这种正反双面的极化连锁反应",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1141,
+            1150
+          ],
+          "output_span": [
+            39,
+            39
+          ],
+          "before": "这种基本策略驱动的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1154,
+            1154
+          ],
+          "output_span": [
+            43,
+            44
+          ],
+          "before": "",
+          "after": "的"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1156,
+            1165
+          ],
+          "output_span": [
+            46,
+            54
+          ],
+          "before": "游戏，能够达到最优",
+          "after": "更有利于共同生活"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1182,
+            1182
+          ],
+          "output_span": [
+            71,
+            73
+          ],
+          "before": "",
+          "after": "影响"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1193,
+            1193
+          ],
+          "output_span": [
+            84,
+            86
+          ],
+          "before": "",
+          "after": "发展"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1194,
+            1195
+          ],
+          "output_span": [
+            87,
+            89
+          ],
+          "before": "最",
+          "after": "一项"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1197,
+            1199
+          ],
+          "output_span": [
+            91,
+            93
+          ],
+          "before": "一步",
+          "after": "条件"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 14,
+      "chapter_span": [
+        2738,
+        2832
+      ],
+      "document_span": [
+        103657,
+        103751
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "博弈论中的“以牙还牙”（Tit for Tat）有一个明确含义：第一轮合作，此后重复对方上一轮的选择。它在特定重复博弈研究中表现良好，却不能据此说全人类事实上都遵守它，或者它在一切条件下都是最优策略。[Axelrod与Hamilton的研究](https://public.websites.umich.edu/~axe/research/Axelrod%20and%20Hamilton%20EC%201981.pdf)\n\n而且，如果双方机械复制对方上一轮的行为，一次误操作就可能造成交替报复：甲本想合作却做错了，乙下一轮回应，甲又把乙的回应视为新的背叛。两人最初都愿意合作，仍可能陷入循环。因此，正向起点之后，还需要查证、解释和修复误会的通道，让已经开始偏离的互动有机会回到合作。",
+      "reason": "给出TFT准确含义及可直接推演的误差例子；后述机制是扩展的制度设计，不冒充严格TFT",
+      "ordinal": 15,
+      "chapter_span": [
+        2834,
+        3176
+      ],
+      "document_span": [
+        103753,
+        104095
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 把合作的起点、保护与修复，变成共同知道的规则",
+      "reason": "节标题",
+      "ordinal": 16,
+      "chapter_span": [
+        3178,
+        3204
+      ],
+      "document_span": [
+        104097,
+        104123
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "所以，我希望逐步建立这样一套博弈规则，并使它成为所有参与者的公共知识：",
+      "source_span": [
+        1202,
+        1231
+      ],
+      "source_sha256": "a484485ca3af68cec917d127ed87c4063b89e1dfdc192ea0f934a97ad6f54992",
+      "retained_characters": 16,
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1205,
+            1208
+          ],
+          "output_span": [
+            3,
+            14
+          ],
+          "before": "最佳的",
+          "after": "我希望逐步建立这样一套"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1212,
+            1214
+          ],
+          "output_span": [
+            18,
+            18
+          ],
+          "before": "就是",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1215,
+            1220
+          ],
+          "output_span": [
+            19,
+            22
+          ],
+          "before": "让以下规则",
+          "after": "并使它"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1222,
+            1225
+          ],
+          "output_span": [
+            24,
+            29
+          ],
+          "before": "全人类",
+          "after": "所有参与者"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 17,
+      "chapter_span": [
+        3206,
+        3241
+      ],
+      "document_span": [
+        104125,
+        104160
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "1. 所有参与者共同遵守互惠原则：对合作作出合作回应，对有证据的侵害采取有边界的防护，并在误会得到澄清、问题得到修复后，为恢复合作保留通路。这里保留“以牙还牙”中的相互回应，同时加入查证与纠错，避免机械报复。\n\n2. 所有人的初始策略都是正向策略，即在具备实际保护的条件下，主动分享有利于达成合作、确有必要且不损害自己和他人正当权益的信息。分享可以从有限范围开始，随着合作经验和保护能力的增长逐步扩大。\n\n3. 适合公开的分享信息，作为公共知识，以Merkle-DAG的方式进行记录和共享；涉及个人隐私的信息，按用途和授权范围处理。同时，通过动态权重决策系统与实际执行约束，防止任何一方仅凭较大的决策权重，就能够利用这些信息伤害分享者。\n\n4. 如果因为系统的复杂性和不可预测性，使决策的执行后果对个体造成利益受损，应立即采取止损和必要救助措施，按事先明确的安排及时补偿，并依据调查结果修改策略、修复机制。利益受损者不必仅凭不良结果就认定某位决策者具有恶意，也有权要求查明原因；是否属于能力限制、不可抗力、过失或者故意行为，应由证据来区分。\n\n5. 如果为了长期更优的结果，需要暂时承担损失，则由决策系统事先给出预估方案、预期结果、不确定性、成本承担与停止条件，让受影响者能够知情参与，并取得适用的授权。在执行中持续监控，根据情况调整方案；当继续执行已不符合约定条件时，及时停止。成功后，依约兑现承诺；失败后，也依约处理补偿和责任，不能把所有损失都要求受影响者自行承担，更不能预先规定失败一定与恶意或过失无关。",
+      "source_span": [
+        1233,
+        1677
+      ],
+      "source_sha256": "218ae921ff15d45b0fbb0e2e9c98d96d00929671add1ecc619ac02c7f48cf781",
+      "retained_characters": 247,
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1238,
+            1240
+          ],
+          "output_span": [
+            5,
+            10
+          ],
+          "before": "人都",
+          "after": "参与者共同"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1242,
+            1242
+          ],
+          "output_span": [
+            12,
+            75
+          ],
+          "before": "",
+          "after": "互惠原则：对合作作出合作回应，对有证据的侵害采取有边界的防护，并在误会得到澄清、问题得到修复后，为恢复合作保留通路。这里保留“"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1246,
+            1249
+          ],
+          "output_span": [
+            79,
+            105
+          ],
+          "before": "策略；",
+          "after": "”中的相互回应，同时加入查证与纠错，避免机械报复。\n"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1269,
+            1269
+          ],
+          "output_span": [
+            125,
+            139
+          ],
+          "before": "",
+          "after": "在具备实际保护的条件下，主动"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1271,
+            1273
+          ],
+          "output_span": [
+            141,
+            141
+          ],
+          "before": "一切",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1278,
+            1280
+          ],
+          "output_span": [
+            146,
+            146
+          ],
+          "before": "外部",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1282,
+            1284
+          ],
+          "output_span": [
+            148,
+            153
+          ],
+          "before": "所需",
+          "after": "、确有必要"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1286,
+            1288
+          ],
+          "output_span": [
+            155,
+            156
+          ],
+          "before": "会伤",
+          "after": "损"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1289,
+            1290
+          ],
+          "output_span": [
+            157,
+            157
+          ],
+          "before": "到",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1292,
+            1292
+          ],
+          "output_span": [
+            159,
+            166
+          ],
+          "before": "",
+          "after": "和他人正当权益"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1295,
+            1295
+          ],
+          "output_span": [
+            169,
+            202
+          ],
+          "before": "",
+          "after": "。分享可以从有限范围开始，随着合作经验和保护能力的增长逐步扩大。\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1299,
+            1301
+          ],
+          "output_span": [
+            206,
+            210
+          ],
+          "before": "所有",
+          "after": "适合公开"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1306,
+            1307
+          ],
+          "output_span": [
+            215,
+            216
+          ],
+          "before": "都",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1315,
+            1316
+          ],
+          "output_span": [
+            224,
+            225
+          ],
+          "before": "m",
+          "after": "M"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1335,
+            1335
+          ],
+          "output_span": [
+            244,
+            254
+          ],
+          "before": "",
+          "after": "；涉及个人隐私的信息"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1336,
+            1336
+          ],
+          "output_span": [
+            255,
+            266
+          ],
+          "before": "",
+          "after": "按用途和授权范围处理。"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1338,
+            1339
+          ],
+          "output_span": [
+            268,
+            271
+          ],
+          "before": "靠",
+          "after": "，通过"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1347,
+            1347
+          ],
+          "output_span": [
+            279,
+            286
+          ],
+          "before": "",
+          "after": "与实际执行约束"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1348,
+            1353
+          ],
+          "output_span": [
+            287,
+            289
+          ],
+          "before": "保证不会有",
+          "after": "防止"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1357,
+            1357
+          ],
+          "output_span": [
+            293,
+            297
+          ],
+          "before": "",
+          "after": "仅凭较大"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1361,
+            1366
+          ],
+          "output_span": [
+            301,
+            306
+          ],
+          "before": "力大到可以",
+          "after": "重，就能够"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1374,
+            1375
+          ],
+          "output_span": [
+            314,
+            314
+          ],
+          "before": "到",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1378,
+            1378
+          ],
+          "output_span": [
+            317,
+            319
+          ],
+          "before": "",
+          "after": "。\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1399,
+            1405
+          ],
+          "output_span": [
+            340,
+            341
+          ],
+          "before": "导致这套权重",
+          "after": "使"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1407,
+            1409
+          ],
+          "output_span": [
+            343,
+            343
+          ],
+          "before": "系统",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1414,
+            1415
+          ],
+          "output_span": [
+            348,
+            348
+          ],
+          "before": "，",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1416,
+            1420
+          ],
+          "output_span": [
+            349,
+            349
+          ],
+          "before": "系统中的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1422,
+            1425
+          ],
+          "output_span": [
+            351,
+            353
+          ],
+          "before": "产生了",
+          "after": "造成"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1430,
+            1431
+          ],
+          "output_span": [
+            358,
+            359
+          ],
+          "before": "则",
+          "after": "应"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1433,
+            1435
+          ],
+          "output_span": [
+            361,
+            383
+          ],
+          "before": "进行",
+          "after": "采取止损和必要救助措施，按事先明确的安排及时"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1439,
+            1441
+          ],
+          "output_span": [
+            387,
+            393
+          ],
+          "before": "立即",
+          "after": "依据调查结果"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1443,
+            1448
+          ],
+          "output_span": [
+            395,
+            395
+          ],
+          "before": "博弈决策的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1450,
+            1452
+          ],
+          "output_span": [
+            397,
+            398
+          ],
+          "before": "进行",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1454,
+            1454
+          ],
+          "output_span": [
+            400,
+            402
+          ],
+          "before": "",
+          "after": "机制"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1455,
+            1459
+          ],
+          "output_span": [
+            403,
+            403
+          ],
+          "before": "而所有的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1464,
+            1484
+          ],
+          "output_span": [
+            408,
+            408
+          ],
+          "before": "，将此情况视为由于系统本身能力限制或外部",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1485,
+            1495
+          ],
+          "output_span": [
+            409,
+            412
+          ],
+          "before": "可抗力产生的损失，而",
+          "after": "必仅凭"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1496,
+            1499
+          ],
+          "output_span": [
+            413,
+            419
+          ],
+          "before": "是视为",
+          "after": "良结果就认定"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1504,
+            1505
+          ],
+          "output_span": [
+            424,
+            426
+          ],
+          "before": "的",
+          "after": "具有"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1506,
+            1506
+          ],
+          "output_span": [
+            427,
+            458
+          ],
+          "before": "",
+          "after": "意，也有权要求查明原因；是否属于能力限制、不可抗力、过失或者故"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1509,
+            1509
+          ],
+          "output_span": [
+            461,
+            469
+          ],
+          "before": "",
+          "after": "，应由证据来区分"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1510,
+            1510
+          ],
+          "output_span": [
+            470,
+            471
+          ],
+          "before": "",
+          "after": "\n"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1514,
+            1516
+          ],
+          "output_span": [
+            475,
+            477
+          ],
+          "before": "存在",
+          "after": "如果"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1520,
+            1521
+          ],
+          "output_span": [
+            481,
+            481
+          ],
+          "before": "的",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1523,
+            1523
+          ],
+          "output_span": [
+            483,
+            484
+          ],
+          "before": "",
+          "after": "的"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1526,
+            1526
+          ],
+          "output_span": [
+            487,
+            489
+          ],
+          "before": "",
+          "after": "需要"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1528,
+            1530
+          ],
+          "output_span": [
+            491,
+            493
+          ],
+          "before": "遭受",
+          "after": "承担"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1532,
+            1535
+          ],
+          "output_span": [
+            495,
+            495
+          ],
+          "before": "的情况",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1542,
+            1542
+          ],
+          "output_span": [
+            502,
+            504
+          ],
+          "before": "",
+          "after": "事先"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1548,
+            1549
+          ],
+          "output_span": [
+            510,
+            511
+          ],
+          "before": "和",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1553,
+            1553
+          ],
+          "output_span": [
+            515,
+            542
+          ],
+          "before": "",
+          "after": "、不确定性、成本承担与停止条件，让受影响者能够知情参与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1555,
+            1557
+          ],
+          "output_span": [
+            544,
+            558
+          ],
+          "before": "随时",
+          "after": "取得适用的授权。在执行中持续"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1559,
+            1563
+          ],
+          "output_span": [
+            560,
+            560
+          ],
+          "before": "博弈进程",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1564,
+            1567
+          ],
+          "output_span": [
+            561,
+            561
+          ],
+          "before": "并随时",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1575,
+            1579
+          ],
+          "output_span": [
+            569,
+            584
+          ],
+          "before": "获得成功",
+          "after": "；当继续执行已不符合约定条件时"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1580,
+            1586
+          ],
+          "output_span": [
+            585,
+            587
+          ],
+          "before": "或预期失败，",
+          "after": "及时"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1588,
+            1593
+          ],
+          "output_span": [
+            589,
+            589
+          ],
+          "before": "方案的执行",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1594,
+            1603
+          ],
+          "output_span": [
+            590,
+            590
+          ],
+          "before": "所有的利益受损者，",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1607,
+            1628
+          ],
+          "output_span": [
+            594,
+            601
+          ],
+          "before": "将此情况看作为长期利益所做的暂时牺牲，如果",
+          "after": "依约兑现承诺；"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1630,
+            1630
+          ],
+          "output_span": [
+            603,
+            604
+          ],
+          "before": "",
+          "after": "后"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1631,
+            1644
+          ],
+          "output_span": [
+            605,
+            617
+          ],
+          "before": "则将此情况视为由于系统本身",
+          "after": "也依约处理补偿和责任，不"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1645,
+            1658
+          ],
+          "output_span": [
+            618,
+            621
+          ],
+          "before": "力限制或外部不可抗力产生的",
+          "after": "把所有"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1660,
+            1660
+          ],
+          "output_span": [
+            623,
+            634
+          ],
+          "before": "",
+          "after": "都要求受影响者自行承担"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1661,
+            1662
+          ],
+          "output_span": [
+            635,
+            636
+          ],
+          "before": "而",
+          "after": "更"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1663,
+            1672
+          ],
+          "output_span": [
+            637,
+            647
+          ],
+          "before": "是视为某位决策者的",
+          "after": "能预先规定失败一定与"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1674,
+            1676
+          ],
+          "output_span": [
+            649,
+            654
+          ],
+          "before": "行为",
+          "after": "或过失无关"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 18,
+      "chapter_span": [
+        3243,
+        3898
+      ],
+      "document_span": [
+        104162,
+        104817
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "例如，共同体为降低长期存储成本，计划迁移一批资料。迁移前，应说明谁可能暂时无法使用服务、旧副本如何保留、怎样核对新副本、什么情况下停止，以及损失由谁承担。迁移后发现错误，先恢复服务、保护资料，再查明是方案不充分、执行失误，还是有人隐瞒了已知问题。补偿安排需要有实际资源支撑；对于无法恢复的损失，更不能用一句“事后赔偿”代替事前保护。\n\n这样，受影响者愿意继续合作，就有了现实理由：发生问题时，他不会被独自留下。调查与追责也不必阻止及时救助，更不必把个人保护和共同改进变成只能二选一的事情。",
+      "reason": "以个人云存储展开五项规则，补足补偿资源、停止条件、责任与救助的关系",
+      "ordinal": 19,
+      "chapter_span": [
+        3900,
+        4144
+      ],
+      "document_span": [
+        104819,
+        105063
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 公共记录与共同决策，怎样成为可以依靠的条件",
+      "reason": "节标题",
+      "ordinal": 20,
+      "chapter_span": [
+        4146,
+        4171
+      ],
+      "document_span": [
+        105065,
+        105090
+      ]
+    },
+    {
+      "kind": "source-exact",
+      "ref": "COOPERATION-REQUEST",
+      "text": "这个规则体系中，有两点很重要：",
+      "source_span": [
+        1679,
+        1694
+      ],
+      "source_sha256": "d28d630dc1e9eeb07fcb97bafbea70094d2c8562c0715a357cc402c299c0c995",
+      "retained_characters": 15,
+      "edits": [],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 21,
+      "chapter_span": [
+        4173,
+        4188
+      ],
+      "document_span": [
+        105092,
+        105107
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "第一，Merkle-DAG分布式的公共知识存储系统，和动态权重决策的社会智能神经网络系统，要共同服务于一个目标：从机制上不断消除个体利用手中的权力任意伤害他人的条件。",
+      "source_span": [
+        1696,
+        1767
+      ],
+      "source_sha256": "76033b83b12e04b7233ed0f49a230b7166bd28b9e5178058ea688c65b8b0a6b5",
+      "retained_characters": 60,
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1696,
+            1698
+          ],
+          "output_span": [
+            0,
+            3
+          ],
+          "before": "1.",
+          "after": "第一，"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1740,
+            1740
+          ],
+          "output_span": [
+            45,
+            56
+          ],
+          "before": "",
+          "after": "要共同服务于一个目标："
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1744,
+            1744
+          ],
+          "output_span": [
+            60,
+            62
+          ],
+          "before": "",
+          "after": "不断"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1746,
+            1747
+          ],
+          "output_span": [
+            64,
+            64
+          ],
+          "before": "了",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1749,
+            1751
+          ],
+          "output_span": [
+            66,
+            66
+          ],
+          "before": "之间",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1758,
+            1760
+          ],
+          "output_span": [
+            73,
+            75
+          ],
+          "before": "互相",
+          "after": "任意"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1762,
+            1762
+          ],
+          "output_span": [
+            77,
+            79
+          ],
+          "before": "",
+          "after": "他人"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1763,
+            1767
+          ],
+          "output_span": [
+            80,
+            83
+          ],
+          "before": "可能性，",
+          "after": "条件。"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 22,
+      "chapter_span": [
+        4190,
+        4273
+      ],
+      "document_span": [
+        105109,
+        105192
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "记录使依据能够核对，决策网络帮助比较方案，执行约束负责限制实际作用。这几个环节需要一起发挥作用。内容没有被改动，不等于内容一定真实；多数节点同意，也不等于受影响者就可以失去基本保护。规则本身的修改、监督者的行为和权重的调整，也要进入可复核的过程。\n\n“成为公共知识”也要比“上传到公开目录”更进一步。不仅要让参与者能够知道规则，还要让大家能够确认彼此面对的是哪一个版本，知道如何提出异议、如何核对执行。个人AI可以帮助人理解与自身有关的变化，却不能用一条已经发送的通知，替代实际的理解和必要的同意。",
+      "reason": "补齐记录、判断、执行及共享认知的分工，不宣称分布式存储自动产生公共知识或消除伤害",
+      "ordinal": 23,
+      "chapter_span": [
+        4275,
+        4524
+      ],
+      "document_span": [
+        105194,
+        105443
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "第二，让人们建立起理性思考优先的习惯，减少未经核实就作出冲动回应，使“所有人的初始策略都是正向策略”这一点在情绪和理性两个方面，都有正面的初始认知。这里的理性也包括认真理解恐惧和愤怒所反映的处境，给这些情绪以表达、核查和处理的机会。",
+      "source_span": [
+        1769,
+        1835
+      ],
+      "source_sha256": "21c21454c00e6c625356cf512cdd776eace2bc1fa4267fba42dcc80ddff66ec5",
+      "retained_characters": 54,
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            1769,
+            1771
+          ],
+          "output_span": [
+            0,
+            3
+          ],
+          "before": "2.",
+          "after": "第二，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1781,
+            1783
+          ],
+          "output_span": [
+            13,
+            18
+          ],
+          "before": "第一",
+          "after": "优先的习惯"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1784,
+            1789
+          ],
+          "output_span": [
+            19,
+            28
+          ],
+          "before": "抑制非理性",
+          "after": "减少未经核实就作出"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1791,
+            1793
+          ],
+          "output_span": [
+            30,
+            32
+          ],
+          "before": "情绪",
+          "after": "回应"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1794,
+            1795
+          ],
+          "output_span": [
+            33,
+            34
+          ],
+          "before": "让",
+          "after": "使"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1835,
+            1835
+          ],
+          "output_span": [
+            74,
+            116
+          ],
+          "before": "",
+          "after": "这里的理性也包括认真理解恐惧和愤怒所反映的处境，给这些情绪以表达、核查和处理的机会。"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 24,
+      "chapter_span": [
+        4526,
+        4642
+      ],
+      "document_span": [
+        105445,
+        105561
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "### 理解人的形成过程，怎样减少把人固定成敌人的冲动",
+      "reason": "节标题",
+      "ordinal": 25,
+      "chapter_span": [
+        4644,
+        4671
+      ],
+      "document_span": [
+        105563,
+        105590
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "人类个体与个体之间，个体与团体之间，以及团体与团体之间的外貌，生理特征，性格、认知，语言，行为，以及需求上的差异和冲突，都有其形成过程。这些高阶层面上的差异，与不同层次的生理结构、成长经历、社会环境和相互作用有关，并在人类社会长期的演化和博弈中继续变化。我们可以尝试从科学理论和实际证据出发，构建能够检验的因果解释，理解其中哪些条件可以改变。人们就有机会减少被不了解产生的恐惧、被对抗不断强化的愤怒所驱动。我们也会进一步理解，把具体的人或团体固定成“天使”与“魔鬼”、把所有分歧都变成绝对善恶对立的判断，可能受到长期博弈中正向或反向连锁反应的催化、渲染和放大。这样的道德化或宗教化审判，会使人更难看见对方的实际处境，也更难发现改变关系的可能。",
+      "source_span": [
+        1837,
+        2112
+      ],
+      "source_sha256": "ba7700e454917efb6b781775789c729fd53bcf4e71c956f26b597ca65c068c55",
+      "retained_characters": 159,
+      "edits": [
+        {
+          "operation": "delete",
+          "source_span": [
+            1837,
+            1843
+          ],
+          "output_span": [
+            0,
+            0
+          ],
+          "before": "之前提到过：",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1845,
+            1848
+          ],
+          "output_span": [
+            2,
+            2
+          ],
+          "before": "所有的",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1898,
+            1901
+          ],
+          "output_span": [
+            52,
+            52
+          ],
+          "before": "和认知",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1909,
+            1909
+          ],
+          "output_span": [
+            60,
+            68
+          ],
+          "before": "",
+          "after": "都有其形成过程。"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1920,
+            1922
+          ],
+          "output_span": [
+            79,
+            80
+          ],
+          "before": "都是",
+          "after": "与"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1924,
+            1926
+          ],
+          "output_span": [
+            82,
+            82
+          ],
+          "before": "低阶",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1927,
+            1930
+          ],
+          "output_span": [
+            83,
+            84
+          ],
+          "before": "层面上",
+          "after": "次"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1931,
+            1931
+          ],
+          "output_span": [
+            85,
+            87
+          ],
+          "before": "",
+          "after": "生理"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1933,
+            1935
+          ],
+          "output_span": [
+            89,
+            106
+          ],
+          "before": "差异",
+          "after": "、成长经历、社会环境和相互作用有关"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1936,
+            1945
+          ],
+          "output_span": [
+            107,
+            108
+          ],
+          "before": "在长期演化过程中，",
+          "after": "并"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1950,
+            1950
+          ],
+          "output_span": [
+            113,
+            115
+          ],
+          "before": "",
+          "after": "长期"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1951,
+            1951
+          ],
+          "output_span": [
+            116,
+            119
+          ],
+          "before": "",
+          "after": "演化和"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1953,
+            1955
+          ],
+          "output_span": [
+            121,
+            121
+          ],
+          "before": "游戏",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1956,
+            1960
+          ],
+          "output_span": [
+            122,
+            125
+          ],
+          "before": "，逐步演",
+          "after": "继续变"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1961,
+            1970
+          ],
+          "output_span": [
+            126,
+            129
+          ],
+          "before": "形成的，这些差异都",
+          "after": "。我们"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1972,
+            1972
+          ],
+          "output_span": [
+            131,
+            133
+          ],
+          "before": "",
+          "after": "尝试"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1977,
+            1978
+          ],
+          "output_span": [
+            138,
+            146
+          ],
+          "before": "上",
+          "after": "和实际证据出发，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1980,
+            1984
+          ],
+          "output_span": [
+            148,
+            152
+          ],
+          "before": "出可重现",
+          "after": "能够检验"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            1987,
+            1988
+          ],
+          "output_span": [
+            155,
+            155
+          ],
+          "before": "链",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1991,
+            1991
+          ],
+          "output_span": [
+            158,
+            171
+          ],
+          "before": "",
+          "after": "理解其中哪些条件可以改变。"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            1993,
+            1993
+          ],
+          "output_span": [
+            173,
+            180
+          ],
+          "before": "",
+          "after": "就有机会减少被"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            1994,
+            1999
+          ],
+          "output_span": [
+            181,
+            183
+          ],
+          "before": "应该被无知",
+          "after": "了解"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2004,
+            2006
+          ],
+          "output_span": [
+            188,
+            190
+          ],
+          "before": "，和",
+          "after": "、被"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2008,
+            2010
+          ],
+          "output_span": [
+            192,
+            196
+          ],
+          "before": "产生",
+          "after": "不断强化"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2013,
+            2016
+          ],
+          "output_span": [
+            199,
+            200
+          ],
+          "before": "等情绪",
+          "after": "所"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2018,
+            2020
+          ],
+          "output_span": [
+            202,
+            206
+          ],
+          "before": "，你",
+          "after": "。我们也"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2021,
+            2021
+          ],
+          "output_span": [
+            207,
+            210
+          ],
+          "before": "",
+          "after": "进一步"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2023,
+            2024
+          ],
+          "output_span": [
+            212,
+            212
+          ],
+          "before": "到",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2025,
+            2027
+          ],
+          "output_span": [
+            213,
+            225
+          ],
+          "before": "所谓",
+          "after": "把具体的人或团体固定成“"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2029,
+            2029
+          ],
+          "output_span": [
+            227,
+            228
+          ],
+          "before": "",
+          "after": "”"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2030,
+            2030
+          ],
+          "output_span": [
+            229,
+            230
+          ],
+          "before": "",
+          "after": "“"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2032,
+            2037
+          ],
+          "output_span": [
+            232,
+            245
+          ],
+          "before": "，正义与邪",
+          "after": "”、把所有分歧都变成绝对善"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2038,
+            2046
+          ],
+          "output_span": [
+            246,
+            246
+          ],
+          "before": "的这些激烈的二元",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2048,
+            2048
+          ],
+          "output_span": [
+            248,
+            251
+          ],
+          "before": "",
+          "after": "的判断"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2049,
+            2053
+          ],
+          "output_span": [
+            252,
+            256
+          ],
+          "before": "其实是在",
+          "after": "可能受到"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2055,
+            2059
+          ],
+          "output_span": [
+            258,
+            258
+          ],
+          "before": "人类社会",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2062,
+            2071
+          ],
+          "output_span": [
+            261,
+            261
+          ],
+          "before": "，在以牙还牙策略的",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2073,
+            2074
+          ],
+          "output_span": [
+            263,
+            264
+          ],
+          "before": "和",
+          "after": "或"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2080,
+            2082
+          ],
+          "output_span": [
+            270,
+            270
+          ],
+          "before": "链条",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2085,
+            2085
+          ],
+          "output_span": [
+            273,
+            274
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2087,
+            2087
+          ],
+          "output_span": [
+            276,
+            277
+          ],
+          "before": "",
+          "after": "和"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2089,
+            2093
+          ],
+          "output_span": [
+            279,
+            282
+          ],
+          "before": "后，产生",
+          "after": "。这样"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2096,
+            2097
+          ],
+          "output_span": [
+            285,
+            287
+          ],
+          "before": "和",
+          "after": "化或"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2099,
+            2099
+          ],
+          "output_span": [
+            289,
+            290
+          ],
+          "before": "",
+          "after": "化"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2100,
+            2101
+          ],
+          "output_span": [
+            291,
+            302
+          ],
+          "before": "批",
+          "after": "判，会使人更难看见对方"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2102,
+            2111
+          ],
+          "output_span": [
+            303,
+            320
+          ],
+          "before": "极端非理性情绪而已",
+          "after": "实际处境，也更难发现改变关系的可能"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 26,
+      "chapter_span": [
+        4673,
+        4994
+      ],
+      "document_span": [
+        105592,
+        105913
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "理解形成原因，并不取消对伤害的判断和制止。一个行为造成了损失，仍然需要保护受害者、查明责任；理解其发生条件，是为了减少下一次伤害，而不是让已经受伤的人放弃追问。我们可以反对一种行为，同时保留这个人可能改变的空间；也可以尊重道德和信仰对人的意义，同时反对用不可质疑的标签封死核查与对话。",
+      "reason": "防止因果解释滑向免责，也不把全部伦理、宗教和情绪笼统判为非理性",
+      "ordinal": 27,
+      "chapter_span": [
+        4996,
+        5138
+      ],
+      "document_span": [
+        105915,
+        106057
+      ]
+    },
+    {
+      "kind": "source-adaptation",
+      "ref": "COOPERATION-REQUEST",
+      "text": "这样的认知，如果逐渐成为更多人的共同认识，就可能使人产生心灵得到洗礼、思想获得顿悟的感受，看待世界、看待事物、看待其他人的心态，都发生很大的变化：心态更平和，对前景更乐观，对于和自己有不同想法、不同看法的人更宽容。那么，“所有人的初始策略都是正向策略”这一点，就有了情绪和理性上的双重支撑。",
+      "source_span": [
+        2114,
+        2248
+      ],
+      "source_sha256": "d1d9890673293f674174abf50b8eed98dba3cf4bfb303db9e06de1f4759c9f2f",
+      "retained_characters": 118,
+      "edits": [
+        {
+          "operation": "replace",
+          "source_span": [
+            2120,
+            2122
+          ],
+          "output_span": [
+            6,
+            10
+          ],
+          "before": "一旦",
+          "after": "如果逐渐"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2124,
+            2126
+          ],
+          "output_span": [
+            12,
+            14
+          ],
+          "before": "所有",
+          "after": "更多"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2129,
+            2129
+          ],
+          "output_span": [
+            17,
+            19
+          ],
+          "before": "",
+          "after": "同认"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2131,
+            2135
+          ],
+          "output_span": [
+            21,
+            25
+          ],
+          "before": "那么会让",
+          "after": "就可能使"
+        },
+        {
+          "operation": "delete",
+          "source_span": [
+            2138,
+            2139
+          ],
+          "output_span": [
+            28,
+            28
+          ],
+          "before": "了",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2145,
+            2146
+          ],
+          "output_span": [
+            34,
+            35
+          ],
+          "before": "，",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2160,
+            2160
+          ],
+          "output_span": [
+            49,
+            50
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2164,
+            2164
+          ],
+          "output_span": [
+            54,
+            55
+          ],
+          "before": "",
+          "after": "、"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2172,
+            2172
+          ],
+          "output_span": [
+            63,
+            65
+          ],
+          "before": "",
+          "after": "，都"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2174,
+            2177
+          ],
+          "output_span": [
+            67,
+            68
+          ],
+          "before": "了非常",
+          "after": "很"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2181,
+            2182
+          ],
+          "output_span": [
+            72,
+            73
+          ],
+          "before": "，",
+          "after": "："
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2197,
+            2197
+          ],
+          "output_span": [
+            88,
+            89
+          ],
+          "before": "",
+          "after": "和"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2199,
+            2199
+          ],
+          "output_span": [
+            91,
+            92
+          ],
+          "before": "",
+          "after": "有"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2203,
+            2203
+          ],
+          "output_span": [
+            96,
+            99
+          ],
+          "before": "",
+          "after": "、不同"
+        },
+        {
+          "operation": "insert",
+          "source_span": [
+            2233,
+            2233
+          ],
+          "output_span": [
+            129,
+            130
+          ],
+          "before": "",
+          "after": "，"
+        },
+        {
+          "operation": "replace",
+          "source_span": [
+            2245,
+            2247
+          ],
+          "output_span": [
+            142,
+            144
+          ],
+          "before": "保证",
+          "after": "支撑"
+        }
+      ],
+      "author_assessment": "作者本轮原话；润色与条件化改写供作者审阅，不自动视为作者采纳",
+      "ordinal": 28,
+      "chapter_span": [
+        5140,
+        5285
+      ],
+      "document_span": [
+        106059,
+        106204
+      ]
+    },
+    {
+      "kind": "editorial-addition",
+      "text": "这样的认识可以从一次很小的合作中开始形成：先提供真实而有用的信息，让对方看见自己的需要；让保护在行动中发挥作用，出了问题能够说明、纠正和补救。共同机制帮助人们积累值得信任的经历，这些经历又使下一次主动合作变得更容易。知识、制度与人的心态，便有机会沿着同一个正向循环共同成长。",
+      "reason": "论述衔接与机制展开",
+      "ordinal": 29,
+      "chapter_span": [
+        5287,
+        5424
+      ],
+      "document_span": [
+        106206,
+        106343
+      ]
+    }
+  ]
+}

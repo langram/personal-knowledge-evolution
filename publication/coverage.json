@@ -1,7 +1,7 @@
 {
   "boundary": "Public conversation and editorial projection, not a byte-complete raw backup. All preserved editorial versions are included; overwritten/unrecorded intermediate edits cannot be reconstructed.",
-  "catalog_events": 212743,
-  "editorial_objects": 1789,
+  "catalog_events": 212744,
+  "editorial_objects": 1864,
   "events_by_platform": {
     "chatgpt": 8240,
     "claude-ai": 2085,
@@ -9,12 +9,12 @@
     "claude-ai-project": 21,
     "claude-code": 3750,
     "claude-code-memory": 16,
-    "codex-local": 141289,
+    "codex-local": 141290,
     "gemini": 2870
   },
   "gemini_html_projections": 1443,
   "native_codex_channels": {
-    "None": 141175
+    "None": 141176
   },
   "omission_counts": {
     "no-publishable-text": 21511,
@@ -22,17 +22,17 @@
     "tool-or-internal-record": 11970
   },
   "omitted_events": 54456,
-  "public_objects": 358514,
-  "published_events": 158287,
+  "public_objects": 358591,
+  "published_events": 158288,
   "raw_backup_public": false,
   "record_kinds": {
-    "conversation": 158083,
+    "conversation": 158084,
     "material": 204
   },
   "redacted_entries": 23,
   "schema": "pkst-public/coverage@1",
   "source_blocks_cid_verified": 408086,
-  "source_snapshot": "bafyreidt5m7brnflllhqgkz7ek4k54vykgk4otmtuayhrqzm6nyvif7hnu",
+  "source_snapshot": "bafyreiekuu7nscv3qoadigvmvzz3zzox4xw3ya5zqgcmpzhdpopn5uac34",
   "incremental_updates": [
     {
       "edition": "06-protection-and-trust",
@@ -65,6 +65,17 @@
         "Attachments are referenced in native records; this text import does not claim new attachment collection."
       ],
       "recorded_at": "2026-10-28T16:46:31.498247+00:00"
+    },
+    {
+      "edition": "08-cooperation-feedback",
+      "source_snapshot": "bafyreiekuu7nscv3qoadigvmvzz3zzox4xw3ya5zqgcmpzhdpopn5uac34",
+      "native_source_time": "2026-10-29T02:28:39.602Z",
+      "added_events": 1,
+      "added_public_objects": 77,
+      "added_editorial_objects": 75,
+      "new_original_blocks_verified": 100,
+      "previous_link_targets_verified": 60,
+      "recorded_at": "2026-10-29T02:42:22.001513+00:00"
     }
   ]
 }

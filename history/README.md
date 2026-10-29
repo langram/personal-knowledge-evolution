@@ -11,6 +11,7 @@
 |贡献记录与及时分享扩展|98,361|[正文](../archive/dossiers/2026-10-26-shared-credit/02-new-principles.md)|
 |权力约束与信任保护扩展|103,478|[正文](../archive/dossiers/2026-10-27-protection-and-trust/02-new-principles.md)|
 |AI时代的Merkle-DAG语言与软件生态|114,226|[正文](../archive/dossiers/2026-10-29-merkle-native/02-new-principles.md)|
+|公共知识与合作反馈扩展|118,358|[正文](../archive/dossiers/2026-10-29-cooperation-feedback/02-new-principles.md)|
 
 更早的[整体框架与起步方案](../archive/dossiers/2026-10-25-seed/README.md)保存实践路线、宣传文本和创作计划。
 
@@ -21,3 +22,5 @@
 2026年10月27日新增[权力约束与信任章节](../archive/dossiers/2026-10-27-protection-and-trust/01-chapter.md)，置于隐私章节之后、云存储实践之前。[原话与编辑对照](../archive/dossiers/2026-10-27-protection-and-trust/03-source-ledger.md)保存本次逐项修改。此次为公开仓库建立后的实际追加修订。
 
 2026年10月29日新增[AI时代的Merkle-DAG语言与软件生态](../archive/dossiers/2026-10-29-merkle-native/01-chapter.md)，置于MerkleVM章节之后、协作研发章节之前。保存[原话与编辑对照](../archive/dossiers/2026-10-29-merkle-native/03-source-ledger.md)、[讨论演化](../archive/dossiers/2026-10-29-merkle-native/04-evolution-and-placement.md)与[本轮覆盖](../archive/dossiers/2026-10-29-merkle-native/06-import-coverage.md)。
+
+2026年10月29日新增[公共知识与合作反馈章节](../archive/dossiers/2026-10-29-cooperation-feedback/01-chapter.md)，置于权力约束与信任章节之后、云存储实践之前。[原话与编辑对照](../archive/dossiers/2026-10-29-cooperation-feedback/03-source-ledger.md)保存本次逐项修改。此次为公开仓库建立后的实际追加修订。

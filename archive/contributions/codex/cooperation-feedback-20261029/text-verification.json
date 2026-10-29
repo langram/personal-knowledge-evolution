@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "source_time": "2026-10-29T02:28:39.602Z",
+  "source_characters": 2250,
+  "source_spans_replayed": 15,
+  "passages_replayed": 30,
+  "chapter_sha256": "71ecf4580e13d9a562344fc21a50bf05a5ded7c7f07fd23ab988b64c1f300ebb",
+  "combined_sha256": "5a21ade63200973ce6bb42393c3f3a7b94440a35f5c54c988039495399f765d8",
+  "original_message_bytes_verified": true,
+  "outside_chapter_byte_preserved": true,
+  "insertion_and_inverse_replayed": true,
+  "scope": "Identity and edit provenance checks, not evidence of institutional safety or fairness."
+}

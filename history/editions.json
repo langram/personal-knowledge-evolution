@@ -47,5 +47,12 @@
     "file": "archive/dossiers/2026-10-29-merkle-native/02-new-principles.md",
     "sha256": "9cb3de960a1a90876b39bccbc257ac80810a1ed1ec424fc31623dc5af7d37261",
     "cjk_characters": 114226
+  },
+  {
+    "edition": "08-cooperation-feedback",
+    "title": "公共知识与合作反馈扩展",
+    "file": "archive/dossiers/2026-10-29-cooperation-feedback/02-new-principles.md",
+    "sha256": "5a21ade63200973ce6bb42393c3f3a7b94440a35f5c54c988039495399f765d8",
+    "cjk_characters": 118358
   }
 ]

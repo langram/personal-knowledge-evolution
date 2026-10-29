@@ -1,0 +1,12 @@
+{
+  "pointer": {
+    "report": "report-20261029-merkle-native-v1.json",
+    "snapshot": "bafyreidt5m7brnflllhqgkz7ek4k54vykgk4otmtuayhrqzm6nyvif7hnu",
+    "database": "contributions\\codex\\catalog\\.private\\20261029-merkle-native-v1\\catalog.sqlite"
+  },
+  "document": "bafyreibgyew4rrkywor7jplrqdsu2u7au6pgazkw6y5tmep44wjregmjpa",
+  "dossier_root": "bafyreigeahq6o32bpgcohyl2sns5nrmzgd7tpea4ius7k2etags5kphsoi",
+  "concept": "bafyreiaoqt3xprj6ma3lisewllzgzlovk2t3s5wrxhmttm7jrnvjuasz5u",
+  "manuscript": "dossiers\\2026-10-29-merkle-native\\02-new-principles.md",
+  "sha256": "9cb3de960a1a90876b39bccbc257ac80810a1ed1ec424fc31623dc5af7d37261"
+}

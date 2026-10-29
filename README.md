@@ -7,13 +7,14 @@
 ## 阅读文章
 
 - [《新原理》当前全文](book/current.md)
+- [公共知识、互惠与合作的正向循环](archive/dossiers/2026-10-29-cooperation-feedback/01-chapter.md)
 - [新增：AI时代的Merkle-DAG语言与软件生态](archive/dossiers/2026-10-29-merkle-native/01-chapter.md)
-- [本轮原话、编辑与演化记录](archive/dossiers/2026-10-29-merkle-native/04-evolution-and-placement.md)
+- [Merkle-DAG章节的原话与演化记录](archive/dossiers/2026-10-29-merkle-native/04-evolution-and-placement.md)
 - [权力的约束、伤害的防止与信任的生长](archive/dossiers/2026-10-27-protection-and-trust/01-chapter.md)
 - [从数学家的灵感到文明的共同创造](archive/dossiers/2026-10-26-shared-credit/01-chapter.md)
 - [从学生的灵感到基层的创造](archive/dossiers/2026-10-26-shared-credit/05-section-ten.md)
 - [现存版本与修改过程](history/README.md)
-- [本轮原话与逐项改写对照](archive/dossiers/2026-10-29-merkle-native/03-source-ledger.md)
+- [本轮原话与逐项改写对照](archive/dossiers/2026-10-29-cooperation-feedback/03-source-ledger.md)
 
 ## 运行访问接口
 
@@ -54,4 +55,6 @@ python -m pkst_public serve
 
 历史报告中的“本地”“未发布”等表述保留其原始语境。当前公开范围以本 README 和 `publication/` 中的发布记录为准。
 
-最近增量（2026年10月29日）：385条可见对话消息，271条本机原生记录、114条远程会话接口投影；不代表所有云端已刷新。完整边界见[覆盖说明](archive/dossiers/2026-10-29-merkle-native/06-import-coverage.md)。
+会话批量增量（2026年10月29日）：385条可见对话消息，271条本机原生记录、114条远程会话接口投影；不代表所有云端已刷新。完整边界见[覆盖说明](archive/dossiers/2026-10-29-merkle-native/06-import-coverage.md)。
+
+随后追加作者关于公共知识、互惠与合作反馈的一条原话，形成第八版全文；[编辑说明与事实核查](archive/dossiers/2026-10-29-cooperation-feedback/04-editorial-notes.md)记录本次整理的依据与边界。
