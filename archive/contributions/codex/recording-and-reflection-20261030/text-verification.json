@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "native_events_verified": 7,
+  "source_spans_replayed": 24,
+  "passages_replayed": 72,
+  "outside_insertions_byte_preserved": true,
+  "insertion_and_inverse_replayed": true,
+  "appendix_is_last_section": true,
+  "chapter_sha256": "cae182dc7aa6549ecfed0e068b005cdb24c39134c39db36f52beeb0f13440824",
+  "appendix_sha256": "61e5498d222b50c697a38b1e9a5020c13497f9050894d874ce266af3c7744da7",
+  "combined_sha256": "ad4f660d6392caecae59ca20d58fe31952c2f99b7514d9f839a27f5c2286c89d",
+  "scope": "Byte identities, original roles/times, edit replay and placement; not proof of scientific or institutional claims."
+}

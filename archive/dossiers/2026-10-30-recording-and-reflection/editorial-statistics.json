@@ -1,0 +1,14 @@
+{
+  "chapter_cjk": 7909,
+  "appendix_cjk": 9363,
+  "combined_cjk": 135630,
+  "chapter_sha256": "cae182dc7aa6549ecfed0e068b005cdb24c39134c39db36f52beeb0f13440824",
+  "appendix_sha256": "61e5498d222b50c697a38b1e9a5020c13497f9050894d874ce266af3c7744da7",
+  "combined_sha256": "ad4f660d6392caecae59ca20d58fe31952c2f99b7514d9f839a27f5c2286c89d",
+  "source_spans": 24,
+  "passage_units": 72,
+  "author_source_characters_selected": 2653,
+  "author_literal_retained_characters": 1986,
+  "source_events": 7,
+  "boundary": "Character matches are not a claim that editor additions were authored or accepted by the user."
+}

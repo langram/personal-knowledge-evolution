@@ -12,6 +12,7 @@
 |权力约束与信任保护扩展|103,478|[正文](../archive/dossiers/2026-10-27-protection-and-trust/02-new-principles.md)|
 |AI时代的Merkle-DAG语言与软件生态|114,226|[正文](../archive/dossiers/2026-10-29-merkle-native/02-new-principles.md)|
 |公共知识与合作反馈扩展|118,358|[正文](../archive/dossiers/2026-10-29-cooperation-feedback/02-new-principles.md)|
+|个人信息采集与全书自我反思|135,630|[正文](../archive/dossiers/2026-10-30-recording-and-reflection/02-new-principles.md)|
 
 更早的[整体框架与起步方案](../archive/dossiers/2026-10-25-seed/README.md)保存实践路线、宣传文本和创作计划。
 
@@ -24,3 +25,5 @@
 2026年10月29日新增[AI时代的Merkle-DAG语言与软件生态](../archive/dossiers/2026-10-29-merkle-native/01-chapter.md)，置于MerkleVM章节之后、协作研发章节之前。保存[原话与编辑对照](../archive/dossiers/2026-10-29-merkle-native/03-source-ledger.md)、[讨论演化](../archive/dossiers/2026-10-29-merkle-native/04-evolution-and-placement.md)与[本轮覆盖](../archive/dossiers/2026-10-29-merkle-native/06-import-coverage.md)。
 
 2026年10月29日新增[公共知识与合作反馈章节](../archive/dossiers/2026-10-29-cooperation-feedback/01-chapter.md)，置于权力约束与信任章节之后、云存储实践之前。[原话与编辑对照](../archive/dossiers/2026-10-29-cooperation-feedback/03-source-ledger.md)保存本次逐项修改。此次为公开仓库建立后的实际追加修订。
+
+2026年10月30日新增[个人信息采集与技术落地](../archive/dossiers/2026-10-30-recording-and-reflection/01-chapter.md)，并在后记之后追加全书最后的[自我反思附录](../archive/dossiers/2026-10-30-recording-and-reflection/05-self-reflection-appendix.md)，覆盖数学、基础科学、社会与工程可行性。[原话与逐项编辑](../archive/dossiers/2026-10-30-recording-and-reflection/03-source-ledger.md)及[说明](../archive/dossiers/2026-10-30-recording-and-reflection/04-editorial-notes.md)同时保留。

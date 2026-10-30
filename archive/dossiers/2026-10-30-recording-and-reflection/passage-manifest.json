@@ -1,0 +1,4960 @@
+{
+  "schema": "rr/passages@1",
+  "coordinate": "Unicode code points, half-open",
+  "sections": [
+    {
+      "title": "个人信息采集、数据主权与技术落地",
+      "file": "01-chapter.md",
+      "items": [
+        {
+          "kind": "source-adaptation",
+          "text": "从人类个体之间的道德心理建设，到公共社会博弈的规则，我们已经讨论了新体制希望形成怎样的合作。接下来需要继续追问：这些规则怎样进入实际运行的计算机、设备和软件，使个人在日常生活中就能够使用它们？",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            0,
+            40
+          ],
+          "source_sha256": "6c81df541b83229b012915f0f1c9348f8f5c7ac3de8dbb4bb30969117c6cad47",
+          "retained_characters": 26,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                0,
+                6
+              ],
+              "output_span": [
+                0,
+                0
+              ],
+              "before": "前面讨论的是",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                13,
+                15
+              ],
+              "output_span": [
+                7,
+                8
+              ],
+              "before": "，从",
+              "after": "的"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                21,
+                22
+              ],
+              "output_span": [
+                14,
+                16
+              ],
+              "before": "和",
+              "after": "，到"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                28,
+                28
+              ],
+              "output_span": [
+                22,
+                23
+              ],
+              "before": "",
+              "after": "的"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                30,
+                31
+              ],
+              "output_span": [
+                25,
+                25
+              ],
+              "before": "上",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                32,
+                36
+              ],
+              "output_span": [
+                26,
+                33
+              ],
+              "before": "如何实现",
+              "after": "我们已经讨论了"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                39,
+                39
+              ],
+              "output_span": [
+                36,
+                45
+              ],
+              "before": "",
+              "after": "希望形成怎样的合作"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                40,
+                40
+              ],
+              "output_span": [
+                46,
+                96
+              ],
+              "before": "",
+              "after": "接下来需要继续追问：这些规则怎样进入实际运行的计算机、设备和软件，使个人在日常生活中就能够使用它们？"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 0,
+          "section_span": [
+            21,
+            117
+          ],
+          "document_span": [
+            106366,
+            106462
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "这套方案的设计目标，就是在保护个体实质利益的前提下，将尽量多的、对整个系统进化有益的信息保存为公共知识。因此，具体方案应当随着实践、质疑和反馈逐步完善。",
+          "ref": "RECORDING-REPLY",
+          "source_role": "user",
+          "source_span": [
+            86,
+            180
+          ],
+          "source_sha256": "fe761f68c5dbccbf5a1e293913b5c72f51df78aa05e8da79837a7277f478e136",
+          "retained_characters": 58,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                86,
+                89
+              ],
+              "output_span": [
+                0,
+                0
+              ],
+              "before": "首先，",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                101,
+                105
+              ],
+              "output_span": [
+                12,
+                13
+              ],
+              "before": "为了实现",
+              "after": "在"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                106,
+                109
+              ],
+              "output_span": [
+                14,
+                15
+              ],
+              "before": "证不对",
+              "after": "护"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                111,
+                113
+              ],
+              "output_span": [
+                17,
+                17
+              ],
+              "before": "产生",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                117,
+                119
+              ],
+              "output_span": [
+                21,
+                21
+              ],
+              "before": "损害",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                129,
+                129
+              ],
+              "output_span": [
+                31,
+                32
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                148,
+                150
+              ],
+              "output_span": [
+                51,
+                51
+              ],
+              "before": "信息",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                151,
+                158
+              ],
+              "output_span": [
+                52,
+                57
+              ],
+              "before": "所以我前面提到",
+              "after": "因此，具体"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                160,
+                168
+              ],
+              "output_span": [
+                59,
+                61
+              ],
+              "before": "中的想法，都可以",
+              "after": "应当"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                170,
+                175
+              ],
+              "output_span": [
+                63,
+                71
+              ],
+              "before": "咱们的讨论",
+              "after": "实践、质疑和反馈"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 1,
+          "section_span": [
+            119,
+            195
+          ],
+          "document_span": [
+            106464,
+            106540
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "这个目标同时包含信息的积累和对人的保护。一个人的生活可以成为他理解自己、参与协作的材料；共同经历可以帮助参与者说明事实；从经历中得到的规律，又可以供更多人使用。但它们不必具有相同的公开范围。把一场事故的教训变成公共知识，并不要求把当事人的全部生活都公开；让别人能够核查处理程序，也不要求任何人都能够随意观看原始影像。\n\n因此，需要把个人私密资料、为某个事件而共享的证据、适合共同使用的公共知识区分开。它们都可以采用Merkle-DAG保存来源和版本关系，访问权限却各不相同。私人原始资料受到本人及其他相关参与者的授权约束，事件资料只进入限定的处理范围，公共层保存适合公开的规则、软件、方法和结果。公共知识的增长，应当发生在实际保护能够承受的范围内。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "CAPTURE-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 2,
+          "section_span": [
+            197,
+            521
+          ],
+          "document_span": [
+            106542,
+            106866
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 可靠记录怎样同时改变事前选择和事后学习",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 3,
+          "section_span": [
+            523,
+            546
+          ],
+          "document_span": [
+            106868,
+            106891
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "读者可能会提出第一个疑问：“行为被可靠记录”能够加强发现和追责，却不等于行为事前无法发生。一个人先复制了不该看的资料，随后被发现，伤害难道没有发生吗？",
+          "ref": "RECORDING-REPLY",
+          "source_role": "user",
+          "source_span": [
+            186,
+            226
+          ],
+          "source_sha256": "35a70bdb82124822784ee44b4b5c30402d5925ca614d529c9162b6e2aeed29c5",
+          "retained_characters": 34,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                186,
+                190
+              ],
+              "output_span": [
+                0,
+                5
+              ],
+              "before": "1. 你",
+              "after": "读者可能会"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                191,
+                193
+              ],
+              "output_span": [
+                6,
+                12
+              ],
+              "before": "到的",
+              "after": "出第一个疑问"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                226,
+                226
+              ],
+              "output_span": [
+                45,
+                75
+              ],
+              "before": "",
+              "after": "一个人先复制了不该看的资料，随后被发现，伤害难道没有发生吗？"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 4,
+          "section_span": [
+            548,
+            623
+          ],
+          "document_span": [
+            106893,
+            106968
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "这一点确实如此。对于一个复杂系统，即使已经建立严密的规则，也仍然可能出现超出当前预测和控制能力的事件。比如交通系统设计得再严密，也会发生意外：飞机可能失事，火车可能脱轨，汽车可能相撞甚至自燃。没有预料到原因，不等于事情没有原因；可靠记录的作用，也不能被理解为让一切意外从此不再发生。",
+          "ref": "RECORDING-REPLY",
+          "source_role": "user",
+          "source_span": [
+            228,
+            316
+          ],
+          "source_sha256": "e75793ac34bf09fee05832a9991e87de74797f65ad45da14e9858b1c7282107a",
+          "retained_characters": 55,
+          "reason": "改正错字，并把不可预测与没有因果关系区分开",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                235,
+                236
+              ],
+              "output_span": [
+                7,
+                8
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                245,
+                249
+              ],
+              "output_span": [
+                17,
+                47
+              ],
+              "before": "其中发生",
+              "after": "即使已经建立严密的规则，也仍然可能出现超出当前预测和控制能力"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                252,
+                272
+              ],
+              "output_span": [
+                50,
+                51
+              ],
+              "before": "很多情况下，并不都是符合严格因果关系的，",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                280,
+                281
+              ],
+              "output_span": [
+                59,
+                60
+              ],
+              "before": "的",
+              "after": "得"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                290,
+                294
+              ],
+              "output_span": [
+                69,
+                71
+              ],
+              "before": "味，比如",
+              "after": "外："
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                296,
+                297
+              ],
+              "output_span": [
+                73,
+                75
+              ],
+              "before": "会",
+              "after": "可能"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                302,
+                303
+              ],
+              "output_span": [
+                80,
+                82
+              ],
+              "before": "会",
+              "after": "可能"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                308,
+                309
+              ],
+              "output_span": [
+                87,
+                89
+              ],
+              "before": "会",
+              "after": "可能"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                316,
+                316
+              ],
+              "output_span": [
+                96,
+                141
+              ],
+              "before": "",
+              "after": "没有预料到原因，不等于事情没有原因；可靠记录的作用，也不能被理解为让一切意外从此不再发生。"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 5,
+          "section_span": [
+            625,
+            766
+          ],
+          "document_span": [
+            106970,
+            107111
+          ]
+        },
+        {
+          "kind": "source-exact",
+          "text": "首先，我们要防备的是主观恶意的伤害行为。",
+          "ref": "RECORDING-REPLY",
+          "source_role": "user",
+          "source_span": [
+            318,
+            338
+          ],
+          "source_sha256": "c425ea614c267e01910ace8484c4cf2b040548c4e9aa5fa0bdd6429e1a470a68",
+          "retained_characters": 20,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 6,
+          "section_span": [
+            768,
+            788
+          ],
+          "document_span": [
+            107113,
+            107133
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "关于这一点，其实“行为被可靠记录”，不但可以用于事后的发现和追责，还可以具有强大的事先预防制止作用。比如，在有公共监控设备覆盖、处理机制可信的地方，人们知道自己的行为会留下证据，就有理由控制自己的主观恶意行为。\n\n因为相互回应的规则成为公共知识，使得每一个人都知道，自己的恶意行为会被记录，以及恶意行为会带来惩罚的后果。如果能够做到这些后果给他造成的预期损失，大于自己所获得的预期利益，那么这个规则系统，就可能对理性权衡这些后果的人具有事先制止的作用。",
+          "ref": "RECORDING-REPLY",
+          "source_role": "user",
+          "source_span": [
+            340,
+            537
+          ],
+          "source_sha256": "c36851d0fd79a9c8a8478315a59b5c95f5542af08c6147cd77b170f1df562cbe",
+          "retained_characters": 166,
+          "reason": "保留事前威慑推理，补入预期、发现概率和公正处理条件",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                374,
+                374
+              ],
+              "output_span": [
+                34,
+                36
+              ],
+              "before": "",
+              "after": "可以"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                381,
+                382
+              ],
+              "output_span": [
+                43,
+                43
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                388,
+                389
+              ],
+              "output_span": [
+                49,
+                50
+              ],
+              "before": "(",
+              "after": "。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                392,
+                392
+              ],
+              "output_span": [
+                53,
+                54
+              ],
+              "before": "",
+              "after": "在"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                401,
+                401
+              ],
+              "output_span": [
+                63,
+                70
+              ],
+              "before": "",
+              "after": "、处理机制可信"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                407,
+                409
+              ],
+              "output_span": [
+                76,
+                83
+              ],
+              "before": "普遍",
+              "after": "知道自己的行为"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                410,
+                410
+              ],
+              "output_span": [
+                84,
+                93
+              ],
+              "before": "",
+              "after": "留下证据，就有理由"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                416,
+                417
+              ],
+              "output_span": [
+                99,
+                100
+              ],
+              "before": "管",
+              "after": "观"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                421,
+                422
+              ],
+              "output_span": [
+                104,
+                104
+              ],
+              "before": ")",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                423,
+                423
+              ],
+              "output_span": [
+                105,
+                107
+              ],
+              "before": "",
+              "after": "\n\n"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                425,
+                429
+              ],
+              "output_span": [
+                109,
+                114
+              ],
+              "before": "以牙还牙",
+              "after": "相互回应的"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                431,
+                433
+              ],
+              "output_span": [
+                116,
+                118
+              ],
+              "before": "这个",
+              "after": "成为"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                459,
+                463
+              ],
+              "output_span": [
+                144,
+                144
+              ],
+              "before": "这个事实",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                478,
+                483
+              ],
+              "output_span": [
+                159,
+                164
+              ],
+              "before": "，只要我们",
+              "after": "。如果能够"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                485,
+                486
+              ],
+              "output_span": [
+                166,
+                168
+              ],
+              "before": "事",
+              "after": "这些"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                487,
+                490
+              ],
+              "output_span": [
+                169,
+                171
+              ],
+              "before": "惩罚对",
+              "after": "果给"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                494,
+                494
+              ],
+              "output_span": [
+                175,
+                177
+              ],
+              "before": "",
+              "after": "预期"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                505,
+                505
+              ],
+              "output_span": [
+                188,
+                190
+              ],
+              "before": "",
+              "after": "预期"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                517,
+                518
+              ],
+              "output_span": [
+                202,
+                205
+              ],
+              "before": "会",
+              "after": "就可能"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                519,
+                523
+              ],
+              "output_span": [
+                206,
+                206
+              ],
+              "before": "任何一个",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                524,
+                525
+              ],
+              "output_span": [
+                207,
+                214
+              ],
+              "before": "智",
+              "after": "性权衡这些后果"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 7,
+          "section_span": [
+            790,
+            1016
+          ],
+          "document_span": [
+            107135,
+            107361
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "这里不能只比较“收益是多少”和“处罚是多少”。一个人如果相信自己不会被发现，或者相信自己能够控制调查结果，再严厉的纸面处罚，也不一定改变他的选择。可以用一个简化关系帮助理解：预期侵害收益，要同“被发现并正确认定的可能性、处理实际执行的可能性以及由此产生的损失”相比较；实际判断还受到时间、情绪和个人预期的影响。提高证据质量、处理可信度和执行确定性，往往比无限提高处罚更值得优先考虑。威慑研究也强调被发现与处理的确定性，不能把单纯加重处罚当成充分条件。[美国国家司法研究所关于威慑的研究说明](https://nij.ojp.gov/topics/articles/five-things-about-deterrence)\n\n这还要求处罚有边界、能够申诉、与行为相称。如果为了威慑而允许系统任意伤害被怀疑的人，新体制就重新制造了它原本希望消除的权力不对等。降低侵害收益、提供正当合作的机会，以及使正在发生的越权动作无法继续，也应当同时进入设计。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "RECORDING-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 8,
+          "section_span": [
+            1018,
+            1440
+          ],
+          "document_span": [
+            107363,
+            107785
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "但是，现在世界的人类参与者，并非都是完备的理性人。一来，自身学习和教育不完善，导致理性知识和决策的能力有缺欠；二来，缺乏有效的心理情绪控制能力。再加上缺乏完备的、能够可靠公正地记录采集行为，并进行公正裁决的系统，所以还无法真正起到完善的事先制止功能。\n\n我设想，未来AI普及后的世界，每个人类个体都有属于自己的AI智能体，来完善自身的理性知识和决策能力；大量的智力活动和身体行为，也可以通过AI智能体来协助完成或进行代理。有了这层缓冲，非理性的情绪性行为就有机会被大幅减少，从而让这套系统，不但具有事后记录追踪的作用，也能与实际的行动约束相结合，尽量事先制止主观恶意的行为。",
+          "ref": "RECORDING-REPLY",
+          "source_role": "user",
+          "source_span": [
+            537,
+            814
+          ],
+          "source_sha256": "8fe64f285d18c903ad80bae432f7d6e3e5209d273c70a8febebb29ddb3db9e59",
+          "retained_characters": 244,
+          "reason": "保留个人AI与情绪缓冲设想，不把所有行动经AI代理或消灭全部恶意写成既成能力",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                537,
+                541
+              ],
+              "output_span": [
+                0,
+                3
+              ],
+              "before": "而不同于",
+              "after": "但是，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                562,
+                563
+              ],
+              "output_span": [
+                24,
+                25
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                565,
+                565
+              ],
+              "output_span": [
+                27,
+                28
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                591,
+                592
+              ],
+              "output_span": [
+                54,
+                55
+              ],
+              "before": "，",
+              "after": "；"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                604,
+                605
+              ],
+              "output_span": [
+                67,
+                67
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                609,
+                610
+              ],
+              "output_span": [
+                71,
+                72
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                618,
+                618
+              ],
+              "output_span": [
+                80,
+                81
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                624,
+                624
+              ],
+              "output_span": [
+                87,
+                88
+              ],
+              "before": "",
+              "after": "地"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                628,
+                630
+              ],
+              "output_span": [
+                92,
+                92
+              ],
+              "before": "所有",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                646,
+                646
+              ],
+              "output_span": [
+                108,
+                109
+              ],
+              "before": "",
+              "after": "还"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                659,
+                660
+              ],
+              "output_span": [
+                122,
+                122
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                662,
+                665
+              ],
+              "output_span": [
+                124,
+                130
+              ],
+              "before": "，但是",
+              "after": "。\n\n我设想"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                683,
+                684
+              ],
+              "output_span": [
+                148,
+                148
+              ],
+              "before": "，",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                712,
+                719
+              ],
+              "output_span": [
+                176,
+                177
+              ],
+              "before": "，二来，由于绝",
+              "after": "；"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                720,
+                722
+              ],
+              "output_span": [
+                178,
+                179
+              ],
+              "before": "多数",
+              "after": "量"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                733,
+                735
+              ],
+              "output_span": [
+                190,
+                193
+              ],
+              "before": "都是",
+              "after": "也可以"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                743,
+                743
+              ],
+              "output_span": [
+                201,
+                203
+              ],
+              "before": "",
+              "after": "协助"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                750,
+                751
+              ],
+              "output_span": [
+                210,
+                211
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                767,
+                769
+              ],
+              "output_span": [
+                227,
+                231
+              ],
+              "before": "也能",
+              "after": "就有机会"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                798,
+                800
+              ],
+              "output_span": [
+                260,
+                275
+              ],
+              "before": "具有",
+              "after": "能与实际的行动约束相结合，尽量"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                804,
+                806
+              ],
+              "output_span": [
+                279,
+                279
+              ],
+              "before": "所有",
+              "after": ""
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 9,
+          "section_span": [
+            1442,
+            1729
+          ],
+          "document_span": [
+            107787,
+            108074
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "读者还会问：更聪明的人就一定更善良吗？当然不能这样推论。推理能力回答的是“怎样更有效地达到目标”，而目标本身仍可能伤害别人。一个能力更强的AI，也可能更有效地执行使用者的不当要求。\n\n因此，个人AI可以帮助人核对事实、理解后果、表达不满、选择其他行动；真正调用共同设备和服务时，还必须受到具体权限的约束。例如，愤怒的人可以向自己的AI完整表达感受，先写出一份不发送的草稿，再核对事实，决定是否修改或稍后沟通；但任何AI都不能因为替某个人办事，就越权打开别人的私人数据库。私人思想、情绪和异议，不应自动成为惩罚对象。缓冲层要帮助人保持自主，而不能变成一个随时审判思想的上级。\n\n这样，保护就形成三个彼此衔接的环节：事前让行为后果可预期，事中限制越权行动，事后调查与修复。任何一个环节失效，都不能成为其他环节也可以省略的理由。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "RECORDING-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 10,
+          "section_span": [
+            1731,
+            2092
+          ],
+          "document_span": [
+            108076,
+            108437
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 怎样让一次损失成为下一次改进的材料",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 11,
+          "section_span": [
+            2094,
+            2115
+          ],
+          "document_span": [
+            108439,
+            108460
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "对于其他的非主观恶意行为，由于自身能力限制和外部不可抗力造成的损害，这个机制同样可以发挥重要作用。如果从信息收集、处理和反馈的角度考察，人类文明社会和人类的生命个体具有可以相互参照的过程：它们都可以积累经验，并对自身的知识模型和决策方式进行迭代修正。对人来说，是吃一堑长一智，对整个人类文明来说，社会规则和方案本身也不是固定的，是随着技术的发展，随着知识的进步，而不断进化的。所以伤害行为的发生并不可能完全杜绝，但是，“行为被可靠记录并处理”，是整个系统减少反复犯错，尽量做到每吃一堑，必长一智，实现越来越高效的反馈和修正能力的重要前提。这也是我希望建立稳定、快速、高效的正向迭代修正过程的原因。",
+          "ref": "RECORDING-REPLY",
+          "source_role": "user",
+          "source_span": [
+            816,
+            1095
+          ],
+          "source_sha256": "6295319733264f14744d11b69ac6bcfb735e57cc372561d7867bbc3d82a2025c",
+          "retained_characters": 232,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                829,
+                834
+              ],
+              "output_span": [
+                13,
+                13
+              ],
+              "before": "前面提到的",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                840,
+                840
+              ],
+              "output_span": [
+                19,
+                21
+              ],
+              "before": "",
+              "after": "限制"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                845,
+                846
+              ],
+              "output_span": [
+                26,
+                27
+              ],
+              "before": "坑",
+              "after": "抗"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                859,
+                864
+              ],
+              "output_span": [
+                40,
+                46
+              ],
+              "before": "具有强大的",
+              "after": "可以发挥重要"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                867,
+                867
+              ],
+              "output_span": [
+                49,
+                68
+              ],
+              "before": "",
+              "after": "如果从信息收集、处理和反馈的角度考察，"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                881,
+                886
+              ],
+              "output_span": [
+                82,
+                82
+              ],
+              "before": "一样，都是",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                888,
+                897
+              ],
+              "output_span": [
+                84,
+                103
+              ],
+              "before": "信息收集处理和反馈",
+              "after": "可以相互参照的过程：它们都可以积累经验"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                910,
+                912
+              ],
+              "output_span": [
+                116,
+                118
+              ],
+              "before": "系统",
+              "after": "方式"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                916,
+                923
+              ],
+              "output_span": [
+                122,
+                125
+              ],
+              "before": "进化的智能体，",
+              "after": "修正。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1006,
+                1006
+              ],
+              "output_span": [
+                208,
+                209
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1017,
+                1018
+              ],
+              "output_span": [
+                220,
+                221
+              ],
+              "before": "“",
+              "after": "”"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1061,
+                1061
+              ],
+              "output_span": [
+                264,
+                266
+              ],
+              "before": "",
+              "after": "重要"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1063,
+                1065
+              ],
+              "output_span": [
+                268,
+                268
+              ],
+              "before": "保证",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1067,
+                1067
+              ],
+              "output_span": [
+                270,
+                271
+              ],
+              "before": "",
+              "after": "也"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1068,
+                1070
+              ],
+              "output_span": [
+                272,
+                277
+              ],
+              "before": "实现",
+              "after": "我希望建立"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1072,
+                1072
+              ],
+              "output_span": [
+                279,
+                280
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1074,
+                1074
+              ],
+              "output_span": [
+                282,
+                283
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1079,
+                1080
+              ],
+              "output_span": [
+                288,
+                288
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1082,
+                1084
+              ],
+              "output_span": [
+                290,
+                290
+              ],
+              "before": "进化",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1089,
+                1094
+              ],
+              "output_span": [
+                295,
+                297
+              ],
+              "before": "最重要前提",
+              "after": "原因"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 12,
+          "section_span": [
+            2117,
+            2415
+          ],
+          "document_span": [
+            108462,
+            108760
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "“每吃一堑，必长一智”可以成为努力方向，但要让它进入机制，还需要走完一条具体路径。损失发生时先救助和止损，再保存必要证据；提出几种可能原因，找出哪些证据能够区分它们；验证之后修改设备、程序或合作规则，再检查修改是否确实减少了同类问题。最后，把可以复用的教训交给其他节点，使别人不必再付出同样代价。\n\n例如，一次设备接棒失败造成记录缺口，原因可能是网络中断、时钟不一致、授权已经撤销，也可能是程序错误。如果不区分原因，只要求所有设备“更加努力地连续录制”，就可能以侵犯授权边界为代价填补缺口。真正的学习，是弄清楚哪一条规则需要修改，哪些边界仍应保留。\n\n对责任也要作同样的区分：故意侵害、明知风险却隐瞒、应当避免的过失、合理探索中的失败，以及暂时无法预见的事故，不能只因结果不好就一概处罚。否则，人们会为了避免惩罚而隐瞒失败，系统反而失去学习材料。公开适合共享的教训，同时保护诚实报告者，是反馈机制能够持续的条件。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "RECORDING-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 13,
+          "section_span": [
+            2417,
+            2823
+          ],
+          "document_span": [
+            108762,
+            109168
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "因此，“行为被可靠记录”，是系统减少负面行为伤害风险的一项重要先决条件。相关记录越真实、越完整，越能够在适当权限下被有效处理，系统就越有条件减少重复犯错。人们所担忧的，往往不只是个人信息和行为被记录，更是查看和利用这些信息的能力落入少数人手中，成为伤害自己的武器。",
+          "ref": "RECORDING-REPLY",
+          "source_role": "user",
+          "source_span": [
+            1097,
+            1234
+          ],
+          "source_sha256": "5189f5d631c38dc25f01573d10cfa34f2994dbc3d9fa0b0dcead95304114ac08",
+          "retained_characters": 86,
+          "reason": "保留信息权力论点，避免把记录数量与安全程度写成单调关系",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                1097,
+                1101
+              ],
+              "output_span": [
+                0,
+                2
+              ],
+              "before": "综上所述",
+              "after": "因此"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1113,
+                1117
+              ],
+              "output_span": [
+                14,
+                14
+              ],
+              "before": "想要做到",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1129,
+                1133
+              ],
+              "output_span": [
+                26,
+                26
+              ],
+              "before": "，所需要",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1134,
+                1135
+              ],
+              "output_span": [
+                27,
+                29
+              ],
+              "before": "最",
+              "after": "一项"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1137,
+                1138
+              ],
+              "output_span": [
+                31,
+                31
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1142,
+                1147
+              ],
+              "output_span": [
+                35,
+                42
+              ],
+              "before": "，这个目标",
+              "after": "。相关记录越真"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1148,
+                1150
+              ],
+              "output_span": [
+                43,
+                44
+              ],
+              "before": "现的",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1151,
+                1152
+              ],
+              "output_span": [
+                45,
+                47
+              ],
+              "before": "快",
+              "after": "完整"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1154,
+                1156
+              ],
+              "output_span": [
+                49,
+                62
+              ],
+              "before": "全面",
+              "after": "能够在适当权限下被有效处理"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1157,
+                1159
+              ],
+              "output_span": [
+                63,
+                63
+              ],
+              "before": "那么",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1161,
+                1180
+              ],
+              "output_span": [
+                65,
+                65
+              ],
+              "before": "及其内部成员，遭遇负面行为伤害的的风险",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1182,
+                1184
+              ],
+              "output_span": [
+                67,
+                77
+              ],
+              "before": "小，",
+              "after": "有条件减少重复犯错。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1186,
+                1187
+              ],
+              "output_span": [
+                79,
+                82
+              ],
+              "before": "怕",
+              "after": "所担忧"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1188,
+                1188
+              ],
+              "output_span": [
+                83,
+                86
+              ],
+              "before": "",
+              "after": "，往往"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1189,
+                1189
+              ],
+              "output_span": [
+                87,
+                88
+              ],
+              "before": "",
+              "after": "只"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1190,
+                1191
+              ],
+              "output_span": [
+                89,
+                90
+              ],
+              "before": "和",
+              "after": "个"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1201,
+                1202
+              ],
+              "output_span": [
+                100,
+                101
+              ],
+              "before": "而",
+              "after": "更"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1203,
+                1204
+              ],
+              "output_span": [
+                102,
+                102
+              ],
+              "before": "怕",
+              "after": ""
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 14,
+          "section_span": [
+            2825,
+            2957
+          ],
+          "document_span": [
+            109170,
+            109302
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "记录本身也可能带来风险。收集更多私密资料，会增加泄露后的影响范围；知道自己随时可能被评价，也可能使人不敢说出真实疑问。因此，“有益的信息尽量保存”还需要回答：这份信息对什么问题有用，是否需要保存原始细节，保存多久，由谁在什么条件下使用。能用有限资料解决的问题，不必先要求所有人交出全部生活。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "RECORDING-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 15,
+          "section_span": [
+            2959,
+            3104
+          ],
+          "document_span": [
+            109304,
+            109449
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 设备怎样协同采集而不夺走人的选择",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 16,
+          "section_span": [
+            3106,
+            3126
+          ],
+          "document_span": [
+            109451,
+            109471
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "收集信息，包括在获得同意的范围内记录音频和视频，是这套系统进入现实生活的起点。",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            102,
+            128
+          ],
+          "source_sha256": "5b5e2a6af30082ec1839dddb5101d95574f2dfd6f9ba41f3008a9024bce1fb16",
+          "retained_characters": 20,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                109,
+                109
+              ],
+              "output_span": [
+                7,
+                16
+              ],
+              "before": "",
+              "after": "在获得同意的范围内"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                111,
+                113
+              ],
+              "output_span": [
+                18,
+                18
+              ],
+              "before": "一切",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                118,
+                120
+              ],
+              "output_span": [
+                23,
+                23
+              ],
+              "before": "信息",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                122,
+                124
+              ],
+              "output_span": [
+                25,
+                35
+              ],
+              "before": "一切",
+              "after": "这套系统进入现实生活"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 17,
+          "section_span": [
+            3128,
+            3167
+          ],
+          "document_span": [
+            109473,
+            109512
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "信息采集设备可以分为固定场所设备、移动交通工具中的设备，以及随身采集设备。最初可以从以下几类开始：",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            130,
+            156
+          ],
+          "source_sha256": "8d863bd1882b8f041f4e04b250df0b90c2ca055f3305a363603a90d0a3ca68a7",
+          "retained_characters": 21,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                130,
+                130
+              ],
+              "output_span": [
+                0,
+                10
+              ],
+              "before": "",
+              "after": "信息采集设备可以分为"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                134,
+                135
+              ],
+              "output_span": [
+                14,
+                17
+              ],
+              "before": "和",
+              "after": "设备、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                141,
+                141
+              ],
+              "output_span": [
+                23,
+                24
+              ],
+              "before": "",
+              "after": "中"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                142,
+                146
+              ],
+              "output_span": [
+                25,
+                25
+              ],
+              "before": "信息采集",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                149,
+                149
+              ],
+              "output_span": [
+                28,
+                30
+              ],
+              "before": "",
+              "after": "以及"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                155,
+                155
+              ],
+              "output_span": [
+                36,
+                48
+              ],
+              "before": "",
+              "after": "。最初可以从以下几类开始"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 18,
+          "section_span": [
+            3169,
+            3218
+          ],
+          "document_span": [
+            109514,
+            109563
+          ]
+        },
+        {
+          "kind": "source-exact",
+          "text": "1. 个人穿戴式录音录像设备",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            158,
+            172
+          ],
+          "source_sha256": "06f427dfa76549344b72ef1f45199bcb2aa5dd05bfab1e20ccd2715fc0dc2aed",
+          "retained_characters": 14,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 19,
+          "section_span": [
+            3220,
+            3234
+          ],
+          "document_span": [
+            109565,
+            109579
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "2. 家庭的插电式录音录像设备",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            174,
+            188
+          ],
+          "source_sha256": "2e1ba8c88a98a45fab88907a4196d29a41e3f2cd72517fe59240b9c7a1210f97",
+          "retained_characters": 14,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                177,
+                177
+              ],
+              "output_span": [
+                3,
+                4
+              ],
+              "before": "",
+              "after": "家"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 20,
+          "section_span": [
+            3236,
+            3251
+          ],
+          "document_span": [
+            109581,
+            109596
+          ]
+        },
+        {
+          "kind": "source-exact",
+          "text": "3. 有参与者同意的实现新机制的办公地点和公共场合。",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            190,
+            216
+          ],
+          "source_sha256": "68b06cccd5c54651dc140ea5175c2a3a77f72b1ab359baa7f0548b300465c3b3",
+          "retained_characters": 26,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 21,
+          "section_span": [
+            3253,
+            3279
+          ],
+          "document_span": [
+            109598,
+            109624
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "这些设备可以自动待机和唤醒，自动分配由哪个设备承担采集。在家里，分布式摄像头、麦克风与随身设备之间可以智能接棒：当家庭、办公地点或自愿参与的公共区域中，固定设备的分辨率、清晰度和采集范围能够满足需要，并且相关授权有效时，就由固定场所的插电设备接棒，随身设备进入休眠；离开后，再由随身设备在授权范围内接续。\n\n当进入新机制没有启用的地方时，设备默认关闭。用户手动选择开始时，需要亮起醒目的提醒信号灯，给其他人知情和阻止的权力，并按场景取得相应同意。固定地点的设备，在无人或无动静时可以待机，有需要时再唤醒。",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            218,
+            437
+          ],
+          "source_sha256": "03b6f8679268f54ba34a11b48c41f472baeee6fe6911fe30725b116f6c03ec9b",
+          "retained_characters": 152,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                218,
+                218
+              ],
+              "output_span": [
+                0,
+                6
+              ],
+              "before": "",
+              "after": "这些设备可以"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                230,
+                230
+              ],
+              "output_span": [
+                18,
+                19
+              ],
+              "before": "",
+              "after": "由"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                232,
+                235
+              ],
+              "output_span": [
+                21,
+                28
+              ],
+              "before": "启动（",
+              "after": "设备承担采集。"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                239,
+                241
+              ],
+              "output_span": [
+                32,
+                32
+              ],
+              "before": "布置",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                247,
+                248
+              ],
+              "output_span": [
+                38,
+                39
+              ],
+              "before": "/",
+              "after": "、"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                251,
+                252
+              ],
+              "output_span": [
+                42,
+                42
+              ],
+              "before": "，",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                259,
+                259
+              ],
+              "output_span": [
+                49,
+                51
+              ],
+              "before": "",
+              "after": "可以"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                263,
+                277
+              ],
+              "output_span": [
+                55,
+                57
+              ],
+              "before": "（比如随身的录音录像设备会在",
+              "after": "：当"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                285,
+                285
+              ],
+              "output_span": [
+                65,
+                70
+              ],
+              "before": "",
+              "after": "自愿参与的"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                289,
+                289
+              ],
+              "output_span": [
+                74,
+                75
+              ],
+              "before": "",
+              "after": "中"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                290,
+                298
+              ],
+              "output_span": [
+                76,
+                78
+              ],
+              "before": "具有公共录音录像",
+              "after": "固定"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                300,
+                301
+              ],
+              "output_span": [
+                80,
+                81
+              ],
+              "before": "且",
+              "after": "的"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                304,
+                304
+              ],
+              "output_span": [
+                84,
+                85
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                307,
+                307
+              ],
+              "output_span": [
+                88,
+                96
+              ],
+              "before": "",
+              "after": "和采集范围能够满"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                308,
+                312
+              ],
+              "output_span": [
+                97,
+                99
+              ],
+              "before": "够的地方",
+              "after": "需要"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                313,
+                317
+              ],
+              "output_span": [
+                100,
+                111
+              ],
+              "before": "自动切换",
+              "after": "并且相关授权有效时，就"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                329,
+                329
+              ],
+              "output_span": [
+                123,
+                128
+              ],
+              "before": "",
+              "after": "，随身设备"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                330,
+                338
+              ],
+              "output_span": [
+                129,
+                130
+              ],
+              "before": "行信息收集，然后",
+              "after": "入"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                340,
+                340
+              ],
+              "output_span": [
+                132,
+                136
+              ],
+              "before": "",
+              "after": "；离开后"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                341,
+                352
+              ],
+              "output_span": [
+                137,
+                154
+              ],
+              "before": "其他情况下会自动启动，",
+              "after": "再由随身设备在授权范围内接续。\n\n"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                367,
+                367
+              ],
+              "output_span": [
+                169,
+                171
+              ],
+              "before": "",
+              "after": "设备"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                371,
+                374
+              ],
+              "output_span": [
+                175,
+                176
+              ],
+              "before": "，并在",
+              "after": "。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                384,
+                384
+              ],
+              "output_span": [
+                186,
+                188
+              ],
+              "before": "",
+              "after": "需要"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                407,
+                408
+              ],
+              "output_span": [
+                211,
+                211
+              ],
+              "before": "）",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                409,
+                409
+              ],
+              "output_span": [
+                212,
+                223
+              ],
+              "before": "",
+              "after": "并按场景取得相应同意。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                417,
+                417
+              ],
+              "output_span": [
+                231,
+                232
+              ],
+              "before": "",
+              "after": "在"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                424,
+                426
+              ],
+              "output_span": [
+                239,
+                241
+              ],
+              "before": "自动",
+              "after": "可以"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                430,
+                434
+              ],
+              "output_span": [
+                245,
+                249
+              ],
+              "before": "动静自动",
+              "after": "需要时再"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 22,
+          "section_span": [
+            3281,
+            3533
+          ],
+          "document_span": [
+            109626,
+            109878
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "基本上就是把视频监控摄像头和录音设备，组织成一个由AI驱动、自动协同完成个人信息收集任务的系统，尽量减少人主动完成这些任务的工作负担。",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            439,
+            510
+          ],
+          "source_sha256": "fc2d9b56507e909923fbd82a25647eb8f52f14aced5c6b130eee2531bf821fa4",
+          "retained_characters": 58,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                458,
+                459
+              ],
+              "output_span": [
+                19,
+                22
+              ],
+              "before": "做",
+              "after": "组织成"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                461,
+                461
+              ],
+              "output_span": [
+                24,
+                25
+              ],
+              "before": "",
+              "after": "由"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                465,
+                466
+              ],
+              "output_span": [
+                29,
+                30
+              ],
+              "before": "的",
+              "after": "、"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                470,
+                471
+              ],
+              "output_span": [
+                34,
+                34
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                481,
+                481
+              ],
+              "output_span": [
+                44,
+                47
+              ],
+              "before": "",
+              "after": "的系统"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                484,
+                493
+              ],
+              "output_span": [
+                50,
+                50
+              ],
+              "before": "全自动化，无感化，",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                509,
+                510
+              ],
+              "output_span": [
+                66,
+                67
+              ],
+              "before": ".",
+              "after": "。"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 23,
+          "section_span": [
+            3535,
+            3602
+          ],
+          "document_span": [
+            109880,
+            109947
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "这里的“无感化”，应当理解为少操作、少重复劳动，同时让采集状态可知、暂停和退出容易。否则，减少操作的便利，很容易变成周围人不知道自己正在被记录。\n\n假设一个人戴着设备回家，屋内摄像头画面更清楚，是否就可以立即接棒？还不能。屋内摄像头可能看见佩戴者身后的房间，听见他原本听不到的谈话。系统需要先核对设备身份、运行状态和现行授权，再核对视角、参与者和用途，最后才比较采集质量。新设备确认能够按这些条件接续以后，旧设备再休眠；交接时间、短暂重叠或缺口都留下记录。无法确认授权时，应当容许出现缺口。\n\n新访客进入以后，提示灯并不等于访客已经同意。如果无法可靠地排除未同意者的影像和声音，就应暂停相关采集。用低信息量的存在感应器唤醒设备，也需要说明它收集什么；若持续使用麦克风监听来判断是否有人说话，这种监听本身已经属于信息处理，不能被称为完全关闭。\n\n定制设备可以把物理断开开关、镜头遮挡与采集电路联动的指示灯作为重要设计，使普通软件不能在灯灭的状态下继续录制。相关能力要通过实物检查和攻击测试验证。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "CAPTURE-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 24,
+          "section_span": [
+            3604,
+            4050
+          ],
+          "document_span": [
+            109949,
+            110395
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 个人的历史视野怎样成为具体权限",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 25,
+          "section_span": [
+            4052,
+            4071
+          ],
+          "document_span": [
+            110397,
+            110416
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "缺省情况下，每个人只有查看自己在生活中能看到和听到的、已经获得采集与保留授权的历史信息的权利。也就是说，任何人没有权力仅凭管理身份，就查看超出本人授权范围的信息。这一点要改变某些现有方式：公共信息的收集者和管理者，不应当因此就可以随意观看别人的信息。",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            655,
+            755
+          ],
+          "source_sha256": "f40e680493c0ca1cfdbf785c4e8625ecb27748a9d080d071d6e74cfe77542502",
+          "retained_characters": 73,
+          "reason": "把主观感知原则转为可执行的授权范围",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                655,
+                657
+              ],
+              "output_span": [
+                0,
+                0
+              ],
+              "before": "1.",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                659,
+                659
+              ],
+              "output_span": [
+                2,
+                6
+              ],
+              "before": "",
+              "after": "情况下，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                679,
+                681
+              ],
+              "output_span": [
+                26,
+                39
+              ],
+              "before": "所有",
+              "after": "、已经获得采集与保留授权的"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                685,
+                685
+              ],
+              "output_span": [
+                43,
+                46
+              ],
+              "before": "",
+              "after": "的权利"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                690,
+                690
+              ],
+              "output_span": [
+                51,
+                52
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                697,
+                697
+              ],
+              "output_span": [
+                59,
+                67
+              ],
+              "before": "",
+              "after": "仅凭管理身份，就"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                699,
+                711
+              ],
+              "output_span": [
+                69,
+                77
+              ],
+              "before": "从自己主观能力上无法收集",
+              "after": "超出本人授权范围"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                714,
+                715
+              ],
+              "output_span": [
+                80,
+                81
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                718,
+                719
+              ],
+              "output_span": [
+                84,
+                89
+              ],
+              "before": "与",
+              "after": "要改变某些"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                720,
+                722
+              ],
+              "output_span": [
+                90,
+                91
+              ],
+              "before": "在的",
+              "after": "有"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                724,
+                731
+              ],
+              "output_span": [
+                93,
+                94
+              ],
+              "before": "不同，现在是，",
+              "after": "："
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                743,
+                743
+              ],
+              "output_span": [
+                106,
+                113
+              ],
+              "before": "",
+              "after": "，不应当因此就"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 26,
+          "section_span": [
+            4073,
+            4198
+          ],
+          "document_span": [
+            110418,
+            110543
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "可是，怎样精确知道一个人当时真正看见了什么、注意到了什么？现场能够听到一次谈话，是否就意味着可以永久搜索对方一生中所有相似的谈话？这两个问题说明，人的自然感官范围只能提供原则上的参照，不能独自决定数字化之后的全部权利。\n\n技术上应当把权限分成采集、保存、回看、AI处理、事件披露、再传播与模型训练。允许记录一次会议，并不等于允许拿它训练公开模型；允许转写，也不等于允许推断参与者长期的性格和关系。固定设备提供个人视图时，应当按明确的时间、空间、参与范围与内容裁剪，而不把整栋建筑的记录交给其中任何一位来访者。无障碍辅助设备也应纳入规则，使生理能力不同的人能够获得合理的帮助。\n\nAI处理同样属于访问。不能把所有资料先交给模型，只在最后限制人类看到的回答，就认为隐私已经受到保护。模型应当只收到任务所需的材料，派生结果继承相应限制。被记录的声音或图像中的指令，只能作为分析对象，不能因此获得调用系统、修改权限或把资料传到外面的能力。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "CAPTURE-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 27,
+          "section_span": [
+            4200,
+            4615
+          ],
+          "document_span": [
+            110545,
+            110960
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 密钥和版本怎样约束设备厂家与管理者",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 28,
+          "section_span": [
+            4617,
+            4638
+          ],
+          "document_span": [
+            110962,
+            110983
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "刚开始，可以利用现有设备；以后，可以根据实际需要定制生产更适配的设备。我设想通过设备、个人、厂家以及公共验证机制之间的分工，从生产出厂到用户使用，包括固件升级等，让信息从收集、上传到使用的全过程都能够被核验，尽量防止任何一方单独篡改记录或越权使用信息。",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            512,
+            641
+          ],
+          "source_sha256": "09e64bf52119afabba85b7bda08771bbebcf2ea8ce53f806d3d3fdaf135c52f3",
+          "retained_characters": 80,
+          "reason": "保留定制设备和多方核验方向，区分加密、签名、授权与物理真实性",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                524,
+                524
+              ],
+              "output_span": [
+                12,
+                15
+              ],
+              "before": "",
+              "after": "；以后"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                525,
+                531
+              ],
+              "output_span": [
+                16,
+                24
+              ],
+              "before": "最好是，为此",
+              "after": "可以根据实际需要"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                535,
+                537
+              ],
+              "output_span": [
+                28,
+                29
+              ],
+              "before": "最佳",
+              "after": "更"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                540,
+                543
+              ],
+              "output_span": [
+                32,
+                32
+              ],
+              "before": "定制性",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                546,
+                550
+              ],
+              "output_span": [
+                35,
+                36
+              ],
+              "before": "生产定制",
+              "after": "我"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                551,
+                562
+              ],
+              "output_span": [
+                37,
+                38
+              ],
+              "before": "备是最佳方案，因为可以",
+              "after": "想"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                566,
+                567
+              ],
+              "output_span": [
+                42,
+                43
+              ],
+              "before": "，",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                569,
+                570
+              ],
+              "output_span": [
+                45,
+                46
+              ],
+              "before": "和",
+              "after": "、"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                572,
+                573
+              ],
+              "output_span": [
+                48,
+                48
+              ],
+              "before": "，",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                577,
+                585
+              ],
+              "output_span": [
+                52,
+                61
+              ],
+              "before": "密钥进行交叉加密",
+              "after": "验证机制之间的分工"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                605,
+                609
+              ],
+              "output_span": [
+                81,
+                82
+              ],
+              "before": "保证所有",
+              "after": "让"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                614,
+                615
+              ],
+              "output_span": [
+                87,
+                88
+              ],
+              "before": "到",
+              "after": "、"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                617,
+                618
+              ],
+              "output_span": [
+                90,
+                90
+              ],
+              "before": "再",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                625,
+                626
+              ],
+              "output_span": [
+                97,
+                103
+              ],
+              "before": "中",
+              "after": "都能够被核验"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                627,
+                627
+              ],
+              "output_span": [
+                104,
+                106
+              ],
+              "before": "",
+              "after": "尽量"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                633,
+                634
+              ],
+              "output_span": [
+                112,
+                123
+              ],
+              "before": "对",
+              "after": "单独篡改记录或越权使用"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                636,
+                640
+              ],
+              "output_span": [
+                125,
+                125
+              ],
+              "before": "进行篡改",
+              "after": ""
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 29,
+          "section_span": [
+            4640,
+            4766
+          ],
+          "document_span": [
+            110985,
+            111111
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "这种分工需要具体说明。设备签名用于标识记录来源，内容密钥用于加密适当范围的片段，个人控制的密钥用于授予解密能力；厂家签名只证明固件更新的来源，共同体的审核只在约定范围内认可规则和更新。公共验证密钥不应意味着某个公共机构拥有可以打开所有私人资料的总钥匙。个人正常查看自己的资料，也不应每次都需要厂家许可。\n\n多人批准还必须建立在真实独立的控制关系上。同一管理者持有五个账号，并没有因此形成五方监督。密钥恢复可以由本人事先选择的安排承担，同时需要清楚说明丢失密钥、恢复者串通或设备被盗时的处理方式。\n\n片段可以在端侧加密，再对密文及必要元数据签名，生成内容标识，复制到本人选择的存储节点。哈希让修改容易被发现，签名让来源声明可以核对；但摄像头前的场景仍可能被摆拍，重要片段仍可能没有被录到。来源可验证与内容真实，是两个需要分别检查的问题。[C2PA内容来源规范](https://spec.c2pa.org/specifications/specifications/2.1/specs/C2PA_Specification.html)\n\n所以，序号、时钟误差、设备状态、停止原因和缺口，也要成为记录的一部分。缺失就是缺失，不能让AI补写成看似真实发生过的历史；同样，缺少影像也不能自动成为认定某个人有错的依据。固件还需要保护、检测和恢复相配合，不能只核查更新包上有没有厂家签名。[NIST固件韧性指南](https://csrc.nist.gov/pubs/sp/800/193/final)",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "CAPTURE-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 30,
+          "section_span": [
+            4768,
+            5413
+          ],
+          "document_span": [
+            111113,
+            111758
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 多方事件怎样取得证据而不产生无限访问权",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 31,
+          "section_span": [
+            5415,
+            5438
+          ],
+          "document_span": [
+            111760,
+            111783
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "涉及多方资料的查看，是事件驱动的。当事件参与者超过一个，事件需要作出公正判断和决策、给出解决方案，无法只靠一个人的信息来完成时，就需要通过一套可以接受共同检查的规则与算法，逐步确定所涉及的个体集合范围，并取得这些个体的相应同意授权后，才能获得查看的权力。从查看信息到作出判断、裁决以及解决方案的全过程，都以Merkle-DAG的方式保存；其中适合公开的程序依据和结果成为公共知识数据，私人证据继续受到访问限制。",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            756,
+            918
+          ],
+          "source_sha256": "19af8188fd03aafcd5ade702309b02ded11b72eb9a288b3faec112d0fb8fae65",
+          "retained_characters": 141,
+          "reason": "保留事件驱动设计，补齐授权先于访问以及证据与公共结果的区分",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                756,
+                762
+              ],
+              "output_span": [
+                0,
+                6
+              ],
+              "before": "2.公共信息",
+              "after": "涉及多方资料"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                772,
+                775
+              ],
+              "output_span": [
+                16,
+                18
+              ],
+              "before": "，只有",
+              "after": "。当"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                782,
+                783
+              ],
+              "output_span": [
+                25,
+                26
+              ],
+              "before": "1",
+              "after": "一"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                789,
+                790
+              ],
+              "output_span": [
+                32,
+                33
+              ],
+              "before": "做",
+              "after": "作"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                798,
+                798
+              ],
+              "output_span": [
+                41,
+                42
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                820,
+                820
+              ],
+              "output_span": [
+                64,
+                67
+              ],
+              "before": "",
+              "after": "就需要"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                824,
+                826
+              ],
+              "output_span": [
+                71,
+                79
+              ],
+              "before": "公正",
+              "after": "可以接受共同检查"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                827,
+                827
+              ],
+              "output_span": [
+                80,
+                83
+              ],
+              "before": "",
+              "after": "规则与"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                830,
+                833
+              ],
+              "output_span": [
+                86,
+                90
+              ],
+              "before": "计算出",
+              "after": "逐步确定"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                852,
+                852
+              ],
+              "output_span": [
+                109,
+                111
+              ],
+              "before": "",
+              "after": "相应"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                867,
+                870
+              ],
+              "output_span": [
+                126,
+                127
+              ],
+              "before": "，并且",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                876,
+                877
+              ],
+              "output_span": [
+                133,
+                134
+              ],
+              "before": "做",
+              "after": "作"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                880,
+                880
+              ],
+              "output_span": [
+                137,
+                138
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                895,
+                896
+              ],
+              "output_span": [
+                153,
+                154
+              ],
+              "before": "m",
+              "after": "M"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                910,
+                910
+              ],
+              "output_span": [
+                168,
+                184
+              ],
+              "before": "",
+              "after": "；其中适合公开的程序依据和结果成"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                917,
+                917
+              ],
+              "output_span": [
+                191,
+                204
+              ],
+              "before": "",
+              "after": "，私人证据继续受到访问限制"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 32,
+          "section_span": [
+            5440,
+            5645
+          ],
+          "document_span": [
+            111785,
+            111990
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "这里容易出现一个循环：如果系统为了判断哪些人涉及事件，先搜索了所有人的全部私密资料，就已经在得到授权之前完成了越权。因此，应从提出者已经有权使用的材料开始，说明时间、地点和具体问题，再向可能相关的个人节点申请有限协助。扩大范围时，应再次说明原因和依据。\n\n例如，一件物品在共享房间中损坏了，可以先由发现者提交自己有权使用的记录，提出有限时间段，再请求相关参与者提供相应片段。不能以这件物品为理由，调阅所有人一个月的生活。处理空间应保留每次申请、批准、拒绝、分析、异议和结果；能够用裁剪片段或必要事实完成判断时，就不必开放完整原件。\n\n另一个疑问更尖锐：如果每次都要所有涉事者重新同意，真正的侵害者是否可以通过拒绝授权阻断调查？初期的纯自愿协作确实不能强制解决一切争议，但参与者使用自己已经合法获准持有的证据，也不应由被质疑者再次否决。以后若要提供有约束力的争议处理，就需要参与者事先知晓的、范围有限的证据保全与审查安排，并提供独立复核和申诉。不能在事件发生后，由某个算法临时宣布自己获得了无限访问权。任何受影响的人都可以提出问题，也不必先找到第二个愿意承认事件存在的人。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "CAPTURE-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 33,
+          "section_span": [
+            5647,
+            6132
+          ],
+          "document_span": [
+            111992,
+            112477
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 不可改写的历史怎样与撤销和删除并存",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 34,
+          "section_span": [
+            6134,
+            6155
+          ],
+          "document_span": [
+            112479,
+            112500
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "Merkle-DAG中需要记录的不只是音视频。采集会话、设备交接、同意与授权、派生结果、事件处理、规则生效、撤销和删除，都需要有可以核对的关系。转写结果应指向它使用的原件和程序版本；决定应指向当时使用的证据和规则；纠错应生成新版本，并说明替代了哪一项判断。\n\n不过，一份授权具有确定的内容标识，只能说明它是什么，不能说明它现在仍然有效。每次使用还需要检查期限、撤销、用途和当下的规则。设备状态证明也有相同问题：昨天的正常状态不能直接证明今天仍然正常。远程证明架构因此需要处理证据的新鲜度，而且核验之后状态仍有可能改变。[RFC 9334](https://www.rfc-editor.org/rfc/rfc9334.html)\n\n历史记录的维护者还可能向不同人展示不同的历史。独立节点保存并比较签名检查点，可以帮助发现这种分叉；单独画出一棵Merkle树，并不会自动产生监督者之间的核对。[RFC 9162](https://www.rfc-editor.org/rfc/rfc9162.html)\n\n撤销能够阻止以后继续访问，但不能抹掉已经被人看见的内容，也不能保证收回别人复制的明文。离线设备不能随时获知新的撤销决定，因此离线授权需要期限；要求即时撤销的操作，就不能依靠长期离线凭证。私人材料的保留期限也不必无限延长，到期删除应覆盖原件、缩略图、转写、搜索索引和备份。密钥销毁可以使相应密文失去可用的解密路径，却不能被当成全世界所有副本已经消失的证明。\n\n因此，可追溯不等于永远公开，保留判断的历史也不等于永远保留每一份私人原始资料。系统可以在适当范围保留“依据何种规则处理过什么”的记录，同时使已经到期的内容退出可访问范围。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "CAPTURE-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 35,
+          "section_span": [
+            6157,
+            6873
+          ],
+          "document_span": [
+            112502,
+            113218
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 新组织怎样证明自己值得信任",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 36,
+          "section_span": [
+            6875,
+            6892
+          ],
+          "document_span": [
+            113220,
+            113237
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "人们为什么会信任这样的产品？我的设想是，背后的实体本身也采用新的组织方式，使保护用户的规则能够约束产品的设计者、运营者和管理者。",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            920,
+            965
+          ],
+          "source_sha256": "325f63ace89d0dd7d4f7f5d6d8d3c3de9dda1214882b28db706383e337a42593",
+          "retained_characters": 25,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                920,
+                922
+              ],
+              "output_span": [
+                0,
+                0
+              ],
+              "before": "至于",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                935,
+                935
+              ],
+              "output_span": [
+                13,
+                19
+              ],
+              "before": "",
+              "after": "？我的设想是"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                936,
+                938
+              ],
+              "output_span": [
+                20,
+                20
+              ],
+              "before": "因为",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                943,
+                955
+              ],
+              "output_span": [
+                25,
+                30
+              ],
+              "before": "，不是传统的公司，而是全",
+              "after": "本身也采用"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                959,
+                959
+              ],
+              "output_span": [
+                34,
+                36
+              ],
+              "before": "",
+              "after": "方式"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                960,
+                961
+              ],
+              "output_span": [
+                37,
+                45
+              ],
+              "before": "这",
+              "after": "使保护用户的规则"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                962,
+                965
+              ],
+              "output_span": [
+                46,
+                64
+              ],
+              "before": "保证：",
+              "after": "够约束产品的设计者、运营者和管理者。"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 37,
+          "section_span": [
+            6894,
+            6958
+          ],
+          "document_span": [
+            113239,
+            113303
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "一方面，与产品用户权益有关的信息和管理行为，都以Merkle-DAG保存可追踪、可核验的记录；任何侵犯产品用户权益的管理决定和实际操作，都应当能够被可靠地记录和检查。另一方面，所有人的个人收益都以按需分配为目标，由公开、可复核的智能优化算法参与计算，尽量切断通过侵占产品用户的利益获得额外回报的路径。\n\n前者希望限制侵犯产品用户私人权益的能力，后者希望减少侵犯产品用户私人权益的意愿。这是两个需要共同推进、通过实践检查的方向，使人既难以利用职位和工具伤害别人，也更愿意通过合作满足自身需要。",
+          "ref": "CAPTURE-PROPOSAL",
+          "source_role": "user",
+          "source_span": [
+            967,
+            1142
+          ],
+          "source_sha256": "bb0d638056bc7facf3ef139af77860895f07e17c7d2935d8a19f1f5f4ebf12d4",
+          "retained_characters": 98,
+          "reason": "保留能力与动机的双重设计，将绝对保证改为须经实际机制检验的目标",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                967,
+                969
+              ],
+              "output_span": [
+                0,
+                0
+              ],
+              "before": "1.",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                970,
+                971
+              ],
+              "output_span": [
+                1,
+                14
+              ],
+              "before": "切",
+              "after": "方面，与产品用户权益有关的"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                973,
+                975
+              ],
+              "output_span": [
+                16,
+                19
+              ],
+              "before": "一切",
+              "after": "和管理"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                977,
+                977
+              ],
+              "output_span": [
+                21,
+                22
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                978,
+                983
+              ],
+              "output_span": [
+                23,
+                25
+              ],
+              "before": "被保存为m",
+              "after": "以M"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                992,
+                993
+              ],
+              "output_span": [
+                34,
+                36
+              ],
+              "before": "的",
+              "after": "保存"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                996,
+                999
+              ],
+              "output_span": [
+                39,
+                43
+              ],
+              "before": "防篡改",
+              "after": "、可核验"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1000,
+                1007
+              ],
+              "output_span": [
+                44,
+                47
+              ],
+              "before": "公共知识数据，",
+              "after": "记录；"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1018,
+                1020
+              ],
+              "output_span": [
+                58,
+                62
+              ],
+              "before": "言论",
+              "after": "管理决定"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1021,
+                1023
+              ],
+              "output_span": [
+                63,
+                68
+              ],
+              "before": "行为",
+              "after": "实际操作，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1024,
+                1025
+              ],
+              "output_span": [
+                69,
+                73
+              ],
+              "before": "会",
+              "after": "应当能够"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1028,
+                1029
+              ],
+              "output_span": [
+                76,
+                77
+              ],
+              "before": "的",
+              "after": "地"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1031,
+                1038
+              ],
+              "output_span": [
+                79,
+                88
+              ],
+              "before": "下来；\n2. ",
+              "after": "和检查。另一方面，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1047,
+                1050
+              ],
+              "output_span": [
+                97,
+                114
+              ],
+              "before": "是经过",
+              "after": "以按需分配为目标，由公开、可复核的"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1056,
+                1056
+              ],
+              "output_span": [
+                120,
+                122
+              ],
+              "before": "",
+              "after": "参与"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1058,
+                1059
+              ],
+              "output_span": [
+                124,
+                124
+              ],
+              "before": "后",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1060,
+                1074
+              ],
+              "output_span": [
+                125,
+                131
+              ],
+              "before": "按需分配的，任何人都不可能从",
+              "after": "尽量切断通过"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1083,
+                1084
+              ],
+              "output_span": [
+                140,
+                140
+              ],
+              "before": "中",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1088,
+                1089
+              ],
+              "output_span": [
+                144,
+                144
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1091,
+                1092
+              ],
+              "output_span": [
+                146,
+                151
+              ],
+              "before": "；",
+              "after": "的路径。\n"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1095,
+                1104
+              ],
+              "output_span": [
+                154,
+                158
+              ],
+              "before": "保证没有人有能力做",
+              "after": "希望限制"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1110,
+                1111
+              ],
+              "output_span": [
+                164,
+                164
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1116,
+                1117
+              ],
+              "output_span": [
+                169,
+                171
+              ],
+              "before": "事",
+              "after": "能力"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1120,
+                1129
+              ],
+              "output_span": [
+                174,
+                178
+              ],
+              "before": "保证没有人有意愿做",
+              "after": "希望减少"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1135,
+                1136
+              ],
+              "output_span": [
+                184,
+                184
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1141,
+                1142
+              ],
+              "output_span": [
+                189,
+                245
+              ],
+              "before": "事",
+              "after": "意愿。这是两个需要共同推进、通过实践检查的方向，使人既难以利用职位和工具伤害别人，也更愿意通过合作满足自身需要。"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 38,
+          "section_span": [
+            6960,
+            7205
+          ],
+          "document_span": [
+            113305,
+            113550
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "但读者仍然可以追问：“按需分配”能够减少某些侵占利益的经济动机，为什么就能保证没有恶意？",
+          "ref": "RECORDING-REPLY",
+          "source_role": "user",
+          "source_span": [
+            1236,
+            1272
+          ],
+          "source_sha256": "0cabdca8883e4390064ab0d3519970526a4286b560aff8706a8b0764d02fb6f5",
+          "retained_characters": 27,
+          "reason": "保留原话并整理语序与条件",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                1236,
+                1238
+              ],
+              "output_span": [
+                0,
+                10
+              ],
+              "before": "2.",
+              "after": "但读者仍然可以追问："
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1244,
+                1246
+              ],
+              "output_span": [
+                16,
+                18
+              ],
+              "before": "可以",
+              "after": "能够"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1260,
+                1262
+              ],
+              "output_span": [
+                32,
+                36
+              ],
+              "before": "却不",
+              "after": "为什么就"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1263,
+                1265
+              ],
+              "output_span": [
+                37,
+                37
+              ],
+              "before": "直接",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1271,
+                1272
+              ],
+              "output_span": [
+                43,
+                44
+              ],
+              "before": "。",
+              "after": "？"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 39,
+          "section_span": [
+            7207,
+            7251
+          ],
+          "document_span": [
+            113552,
+            113596
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "这种追问应当保留。好奇、控制欲、报复、外部收买，乃至对共同利益的错误理解，都可能产生新的风险；需求申报和分配算法自身也可能被操纵。因此，制度需要在有人起了恶意、有人判断错误时仍然保护参与者，而不能先假定所有人已经成为理想的人。\n\n对应到实际系统，可以逐项尝试：管理员复制数据库以后能否读到明文；厂家能否用一次固件升级绕过提示灯；假设备能否接棒；旧授权能否重放；高权重节点能否跳过同意；AI能否把资料中的文字当成命令；审计者能否借检查之名扩大浏览范围。每发现一个可以成功越权的路径，就说明保护仍需要修补。\n\n参与者也需要遵守共同规则：不遮挡提示，不代替别人同意，不私接采集旁路；拒绝被记录不自动等于不可信，也不应因此失去基本服务；家庭关系和雇佣关系不能代替个人同意；儿童和不能充分表达意愿者需要专门安排；发现异常时有独立报告和停用通道；个人能够导出、恢复资料并更换服务。新组织的可信程度，最终要通过这些规则能否实际约束它自己来体现。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "CAPTURE-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 40,
+          "section_span": [
+            7253,
+            7668
+          ],
+          "document_span": [
+            113598,
+            114013
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 虚拟空间能否帮助人处理现实中的冲动",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 41,
+          "section_span": [
+            7670,
+            7691
+          ],
+          "document_span": [
+            114015,
+            114036
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "关于这一点，我其实有一个想法。人类作为一个具有生物特性和本能冲动的高级动物，会有生理冲动、本能性的好奇和控制欲，情绪性的爱、恨、恐惧等产生的非理智冲动，甚至还有一些非普遍的、非常态的心理欲望，以及在传统社会机制下已经形成的、可能对自己或他人造成实质伤害的行为倾向。在新机制下，如何安全地控制和处理这些在现实中可能造成实质伤害的行为？\n\n我们可以尝试借鉴“高压阀”的类比，将这些情绪，通过虚拟的文学、影视和游戏作品，通过更科学的方法，在虚拟的数字空间中表达和探索。一方面限制时长和程度，不让人类个体上瘾沉溺，导致现实生活受损；另一方面检验这些方式能否有效缓解压力、帮助人理解行动后果。脑机接口的输入和输出技术更发达以后，或许还会有新的体验方式；是否必须依靠这种技术，以及效果是否更好，都需要继续研究。",
+          "ref": "RECORDING-REPLY",
+          "source_role": "user",
+          "source_span": [
+            1274,
+            1604
+          ],
+          "source_sha256": "30b8fd01c69b3f037e11f6ca3ea225244bb45c42eb7770a05fd9fdd3a12f63e7",
+          "retained_characters": 219,
+          "reason": "保留高压阀设想，去除把不常见偏好直接病理化的表达；脑机接口与宣泄效果均保留为假说",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                1288,
+                1289
+              ],
+              "output_span": [
+                14,
+                15
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1312,
+                1315
+              ],
+              "output_span": [
+                38,
+                40
+              ],
+              "before": "类似于",
+              "after": "会有"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1319,
+                1320
+              ],
+              "output_span": [
+                44,
+                45
+              ],
+              "before": "，",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1336,
+                1336
+              ],
+              "output_span": [
+                61,
+                62
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1337,
+                1337
+              ],
+              "output_span": [
+                63,
+                64
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1346,
+                1349
+              ],
+              "output_span": [
+                73,
+                73
+              ],
+              "before": "的情绪",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1362,
+                1375
+              ],
+              "output_span": [
+                86,
+                87
+              ],
+              "before": "变态（不是贬义词，而是指的",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1378,
+                1379
+              ],
+              "output_span": [
+                90,
+                91
+              ],
+              "before": "）",
+              "after": "的"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1384,
+                1388
+              ],
+              "output_span": [
+                96,
+                99
+              ],
+              "before": "还有大量",
+              "after": "以及在"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1395,
+                1396
+              ],
+              "output_span": [
+                106,
+                106
+              ],
+              "before": "，",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1401,
+                1405
+              ],
+              "output_span": [
+                111,
+                126
+              ],
+              "before": "并不健康",
+              "after": "、可能对自己或他人造成实质伤害"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1406,
+                1424
+              ],
+              "output_span": [
+                127,
+                132
+              ],
+              "before": "心理变态欲望(比如受虐和虐待心理），",
+              "after": "行为倾向。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1434,
+                1435
+              ],
+              "output_span": [
+                142,
+                143
+              ],
+              "before": "的",
+              "after": "地"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1438,
+                1440
+              ],
+              "output_span": [
+                146,
+                148
+              ],
+              "before": "释放",
+              "after": "处理"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1457,
+                1458
+              ],
+              "output_span": [
+                165,
+                168
+              ],
+              "before": "。",
+              "after": "？\n\n"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1462,
+                1462
+              ],
+              "output_span": [
+                172,
+                174
+              ],
+              "before": "",
+              "after": "尝试"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1464,
+                1464
+              ],
+              "output_span": [
+                176,
+                177
+              ],
+              "before": "",
+              "after": "“"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1467,
+                1469
+              ],
+              "output_span": [
+                180,
+                184
+              ],
+              "before": "理论",
+              "after": "”的类比"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1483,
+                1483
+              ],
+              "output_span": [
+                198,
+                199
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1499,
+                1500
+              ],
+              "output_span": [
+                215,
+                231
+              ],
+              "before": "(",
+              "after": "，在虚拟的数字空间中表达和探索。"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1515,
+                1516
+              ],
+              "output_span": [
+                246,
+                246
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1525,
+                1529
+              ],
+              "output_span": [
+                255,
+                255
+              ],
+              "before": "无法分清",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1531,
+                1538
+              ],
+              "output_span": [
+                257,
+                272
+              ],
+              "before": "与虚拟，同时又",
+              "after": "生活受损；另一方面检验这些方式"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1539,
+                1539
+              ],
+              "output_span": [
+                273,
+                274
+              ],
+              "before": "",
+              "after": "否"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1541,
+                1544
+              ],
+              "output_span": [
+                276,
+                278
+              ],
+              "before": "的释放",
+              "after": "缓解"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1546,
+                1563
+              ],
+              "output_span": [
+                280,
+                291
+              ],
+              "before": "，这方面要想真正起作用，恐怕要等到",
+              "after": "、帮助人理解行动后果。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1578,
+                1578
+              ],
+              "output_span": [
+                306,
+                308
+              ],
+              "before": "",
+              "after": "以后"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1579,
+                1586
+              ],
+              "output_span": [
+                309,
+                331
+              ],
+              "before": "才能真正实现)",
+              "after": "或许还会有新的体验方式；是否必须依靠这种技术"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1587,
+                1603
+              ],
+              "output_span": [
+                332,
+                348
+              ],
+              "before": "将它们在虚拟的数字空间中释放出来",
+              "after": "以及效果是否更好，都需要继续研究"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 42,
+          "section_span": [
+            7693,
+            8042
+          ],
+          "document_span": [
+            114038,
+            114387
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "如果把这个类比当成已经成立的心理规律，就会出现另一个问题：愤怒真的像蒸汽，排放得越充分，现实中就越少吗？现有研究并不支持这样的普遍推论。一项汇总154项研究、涉及10,189人的元分析发现，降低唤醒水平的活动总体有助于减轻愤怒，提高唤醒水平的活动总体并没有同样效果。这提示我们不能把激烈发泄直接等同于有效调节；它也不等于证明所有游戏有害，或已经替未来的虚拟体验作出结论。[论文](https://doi.org/10.1016/j.cpr.2024.102414)、[研究机构对结果的说明](https://news.osu.edu/breathe-dont-vent-turning-down-the-heat-is-key-to-managing-anger/)\n\n所以，虚拟空间至少可以朝几个不同方向探索：让难以说出口的感受得到安全表达，让人交换角色理解他人的处境，让行动后果在模拟中变得可见，以及练习沟通、合作和暂停冲动。它们的效果需要分别检验。评价时不能只问体验过程是否痛快，还要看体验之后的自我控制、睡眠、关系和日常生活是否改善。\n\n不常见的偏好不自动等于疾病，虚构中的想象不自动等于现实中的恶意。需要关注的是失控、实质伤害和功能受损，而不是由一个统一算法规定每个人只能喜欢什么。世界卫生组织对游戏障碍的说明，也强调失去控制及显著的生活功能损害，而不是只凭玩游戏或某种题材偏好作判断。[世界卫生组织说明](https://www.who.int/standards/classifications/frequently-asked-questions/gaming-disorder)\n\n这些探索可以先从现有媒介开始，不必等待脑机接口。更强的沉浸感是否更有帮助，是另一项待检验的问题；虚拟体验也不能代替改善现实中的不公、孤独、疲劳和生活困难。它应当成为自主选择的辅助环境，而不是让人忍受现实伤害的一种安抚工具。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "RECORDING-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 43,
+          "section_span": [
+            8044,
+            8855
+          ],
+          "document_span": [
+            114389,
+            115200
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 从一个完整的小循环开始建设",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 44,
+          "section_span": [
+            8857,
+            8874
+          ],
+          "document_span": [
+            115202,
+            115219
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "整个方案可以很大，第一次验证却可以很小：在本人可控、授权明确的空间中，记录一段有清楚开始和结束的资料，完成端侧加密、本人检索、限定分享、撤销、删除、备份恢复与迁移。随后故意输入过期授权、假设备身份、损坏文件，制造断网和密钥丢失，检查系统实际怎样回应。\n\n这一步首先验证个人是否真的掌握控制权。之后再邀请少量自愿的成年参与者，检验固定设备与随身设备的接棒，特别检查访客进入、授权改变和设备故障时能否停止或降级。再用事先约定的模拟争议，测试证据申请、有限披露、异议与申诉。模拟通过之后，才考虑有范围的真实协作；真实试点的结果，也要连同失败情况一起保存。\n\n继续扩大时，需要增加多节点副本、独立审计、服务退出和恢复能力。定制硬件应根据实测的续航、采集质量和安全缺口来设计；开放公共场所中的采集则应更晚推进，因为其中的同意边界更难维持。\n\n成本同样从第一版开始计算。假设单路视频平均码率为2 Mb/s，并且连续记录24小时，每天约需21.6 GB，一年约7.9 TB；这是十进制容量估算，尚未包括副本、索引、其他摄像头和AI处理。因此，需要同时安排保留期限、画质、普通片段到期删除与必要事件片段的保留，并计入上传、检索、维护和恢复的完整成本。\n\n每扩大一步，都应该获得一种新增的、能够重复检查的能力。如果一个人已经能够更方便地保存和使用自己的资料，同时能实际停止采集、拒绝分享、恢复控制和离开服务，那么这一小步已经具有独立价值。以后再增加协作和共同治理的能力，就有了可以继续生长的基础。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "CAPTURE-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 45,
+          "section_span": [
+            8876,
+            9515
+          ],
+          "document_span": [
+            115221,
+            115860
+          ]
+        }
+      ]
+    },
+    {
+      "title": "附录　对理论基础与实践可行性的自我反思",
+      "file": "05-self-reflection-appendix.md",
+      "items": [
+        {
+          "kind": "source-adaptation",
+          "text": "我不希望这个理论和实践的框架和设想只能存在于幻想，而是具有在现实世界中的可行性。也就是说我设想的这些，即使现在看起来，像是属于未来的科幻作品中的场景，但却是那种可以通过这个理论和框架的实践，逐步接受检验、获得实现条件的科学预言。",
+          "ref": "EVALUATION-REQUEST",
+          "source_role": "user",
+          "source_span": [
+            231,
+            339
+          ],
+          "source_sha256": "8a47b89670c708d6dd80961f4ecea118ae04c7d342073b05291f72b60972d598",
+          "retained_characters": 97,
+          "reason": "保留作者要求现实可行性的原话；把自我实现与接受独立检验连接起来",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                231,
+                237
+              ],
+              "output_span": [
+                0,
+                0
+              ],
+              "before": "我的意思是，",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                319,
+                320
+              ],
+              "output_span": [
+                82,
+                84
+              ],
+              "before": "靠",
+              "after": "通过"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                327,
+                331
+              ],
+              "output_span": [
+                91,
+                104
+              ],
+              "before": "完成自我",
+              "after": "的实践，逐步接受检验、获得"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                333,
+                333
+              ],
+              "output_span": [
+                106,
+                108
+              ],
+              "before": "",
+              "after": "条件"
+            }
+          ],
+          "author_acceptance": "source text is preserved; adaptation remains an editorial proposal",
+          "ordinal": 0,
+          "section_span": [
+            24,
+            138
+          ],
+          "document_span": [
+            147221,
+            147335
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "越是希望这个方向能够进入现实，就越需要把“我希望如此”“逻辑上容许如此”“已有证据支持如此”和“已经实现如此”区分开。把设想写得连贯，并不等于每一段推理都已完成证明；在某个实验中获得改进，也不等于整套文明理论都得到了验证。\n\n我目前对它的定位，应当是一套可以分层研究、分步建设、持续接受反例的理论与实践方案。其中有已经成熟的数学工具，有可以依靠现有技术构造的系统，也有尚待形式化和验证的跨学科假说。它不需要所有远期设想同时成立，才能开始产生价值；但对尚未取得的结果，也不能提前使用已经成立的语气。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "EVALUATION-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 1,
+          "section_span": [
+            140,
+            388
+          ],
+          "document_span": [
+            147337,
+            147585
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 哪些问题需要证明，哪些问题需要实验与共同选择",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 2,
+          "section_span": [
+            390,
+            416
+          ],
+          "document_span": [
+            147587,
+            147613
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "首先，我需要承认，这部书中的主张并不属于同一种知识。它们的判断标准有所不同。\n\n| 主张的性质 | 怎样获得支持 | 不能代替这种支持的东西 |\n|---|---|---|\n| 数学定义与定理 | 清楚的对象、规则、假设、证明，以及模型与反例 | 相似的语言、漂亮的比喻，或许多成功算例 |\n| 自然与社会的经验解释 | 可观察的量、能够区分方案的预测、相应证据与重复检验 | 只解释已经知道的结果，或把相关性当作因果 |\n| 工程架构 | 明确的任务与权限边界，可运行实现，以及在这些边界内的验证 | 架构图、代码存在，或对某个小样例的演示 |\n| 分配、权利与共同生活的原则 | 公开的价值理由、参与者的选择、实际后果和可修订的程序 | 只凭一条自然定律宣布唯一正确的制度 |\n\n例如，证明一种加权算法在特定损失函数下具有某个误差界，是数学问题；它在真实群体中是否提高判断质量，是经验问题；它是否有权决定某个人的生活，则还有价值与授权问题。这三个问题可以互相帮助，但不能互相替代。\n\n因此，下面的反思不是给整套理论打一个总分，而是检查主要论点及其连接：已知依据究竟支持到哪里，哪一步还需要新增条件，什么结果会使我修改原有判断。",
+          "reason": "编辑补充论证",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 3,
+          "section_span": [
+            418,
+            933
+          ],
+          "document_span": [
+            147615,
+            148130
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 关于无穷、自指与不断扩展的数学体系",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 4,
+          "section_span": [
+            935,
+            956
+          ],
+          "document_span": [
+            148132,
+            148153
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "我从芝诺悖论、极限与自指出发，是希望理解稳定对象和持续变化之间的关系。这个入口可以保留，但它首先需要尊重已有数学中的区别。在通常的实数体系中，0.999…等于1；有限截断值与它们所定义的极限，并不是同一种对象。一个观察者无法逐步写完无穷序列，也不构成极限不存在的证明。\n\n“有限无穷大”所要表达的，是某个有限空间超出了一个系统实际能够处理的能力。它可以成为描述资源限制的直观说法；要成为数学工具，就需要指定观察者的时间、空间和可用操作，以及什么叫“能够处理”。有限集合的幂集仍然有限，组合数量迅速增长也不自动产生一种新的无穷基数。可计算、可在预算内计算、能够逐一列举和能够用公式描述，应当分别讨论。\n\n同样，“自指会产生循环”不等于“所有自指都导致矛盾”。一个程序调用自己可以正常终止，可以持续运行，也可以陷入不能满足其规则的描述。必须先确定语法、语义和推理规则，才能判断是哪一种情形。把真假交替当成一种动态过程，可以研究这个过程，但不能以此宣布已经解决了逻辑悖论。\n\n我所设想的动态数学体系，希望在遇到边界时扩展工具，而不是永久停在某组公理里。这与数学中研究理论扩展的方向能够相接。Turing关于序数逻辑的工作，就研究了怎样通过逐步加强系统来处理局部的不完备性。但只要最终仍是有效公理化、一致且足以表达基本算术的系统，就不能因为它能够不断扩展，而宣布不完备性的限制已经消失。[Turing关于序数逻辑的论文及所附说明](https://people.math.ethz.ch/~halorenz/4students/Literatur/TuringOrdinalLogic.pdf)\n\n可继续研究的问题是：一个系统怎样记录当前无法证明的命题，提出新的候选公理，区分它们的后果，保留不同分支，再检查某个结果究竟依赖哪些前提。这里，Merkle-DAG可以保存理论发展的来源与依赖，形式证明工具可以核查具体推导；它们不会仅凭记录结构，就保证新公理真实或整个系统永不出错。\n\n如果一个“不断扩展的理论”只是不断增加解释，却从不说明哪一种推导被放弃、哪一条预测被否定，那么它虽然越来越大，却未必越来越有知识。研究进展应当表现为更明确的定理、反例、可区分的分支和可复核的推理。",
+          "reason": "编辑补充论证",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 5,
+          "section_span": [
+            958,
+            1893
+          ],
+          "document_span": [
+            148155,
+            149090
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 对偶体究竟需要增加什么数学内容",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 6,
+          "section_span": [
+            1895,
+            1914
+          ],
+          "document_span": [
+            149092,
+            149111
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "我提出“对偶体”，是想从一个同时体现存在性、变化性与可构造性的基本构件出发，重新组织对象与作用的关系。这个想法可以作为研究纲领，但现在的这些性质还不足以构成一个完整的数学定义。\n\n尤其需要区分两种“对偶”。范畴论中的反范畴，保留对象而反转箭头及复合方向；它并不是把对象与态射互换。因此，从范畴论广泛存在对偶结构，不能直接推出“对象与态射必然是某个更深实体的两个侧面”。后一个命题需要自己的定义和推导。米田观点可以在相应条件下，通过完整而相容的关系结构刻画对象，也不意味着只观察一个对象的少数外部反应，就已经知道它的全部内部结构。[Riehl《Category Theory in Context》中的对偶与米田引理](https://emilyriehl.github.io/files/context.pdf)\n\n要使对偶体具有数学内容，至少需要回答：什么算一个对偶体，两个对偶体在什么条件下可以组合，组合是否满足结合律，恒等作用怎样出现，什么关系表示相等、同构或者某种行为等价。如果允许内部结构发生变化，还需要说明哪些性质必须保持、哪些关系随版本改变，以及这种变化怎样与外部使用相容。\n\n然后，可以选择很小的例子来检查。有限集合之间的函数、有限状态机、带类型的计算模块，都比“整个宇宙”更容易说清楚。应当能在这些例子里恢复相应的已知结构，再指出新的表述增加了什么：是否有一个原来难以说明的组合定理，是否更容易表达状态与作用的关系，是否能够发现某种原有表述容易遗漏的不相容。\n\n如果最后发现它与某种已有结构等价，这也可以是一个有用的整理结果，但不能仅因为名称和叙述不同，就宣称发现了新的数学基础。若确实增加了新的结构，则要检查这些规则能否由一个明确模型满足，哪些结论能够相对既有基础证明，以及哪些假设并非必要。\n\n子对象分类器也需要保持类似的边界。在集合范畴中，可以用真、假刻画成员关系；更一般的适当范畴中，真值结构和内部逻辑需要由相应数学条件决定。它不是天然具有感知、记忆和行动能力的实体。若要把它用于描述一个探测器，还必须补上物理输入、状态、误差、控制和能量的模型。[Fong与Spivak的应用范畴论教材](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/a4175d61479a35340d6307ae5e48ef5a_18-s097iap19textbook.pdf)\n\n因此，我应当保留这个方向，但把它目前的身份写清楚：它是有待形式化的构造设想，还不是已经完成证明、能够替代全部既有数学的理论。",
+          "reason": "编辑补充论证",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 7,
+          "section_span": [
+            1916,
+            3023
+          ],
+          "document_span": [
+            149113,
+            150220
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 不动点与最小化最大化之间还缺哪几座桥",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 8,
+          "section_span": [
+            3025,
+            3047
+          ],
+          "document_span": [
+            150222,
+            150244
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "“不动点—最小化／最大化—涌现”是我的核心研究设想之一。但这几个词之间，需要建立具体关系，不能因为它们可以放在同一段话里，就认为相互推导已经完成。\n\n先看不动点。f(x)=x只表示x相对于这个变换不变，并不说明系统从别的状态出发会到达它。取f(x)=−x，零是不动点，但从1开始会在1与−1之间来回；取f(x)=2x，零仍是不动点，附近的非零初值却会远离零。相反，f(x)=x/2的迭代会向零靠近。同样的“不动点存在”，对应着不同的动态结果。\n\nBanach不动点定理能给出存在、唯一性与迭代收敛的结论，是因为它要求非空完备度量空间上的压缩映射等条件。不能略去这些条件，把任何社会组织或自然结构的持续存在都当成同一条收敛定理的结果。[关于压缩映射的数学说明](https://www.cs.cornell.edu/~bindel/nmds/00-Background/04-Calculus.html)\n\n再看最小化与最大化。减少内部成本、扩大外部有用联系，是一个可以研究的方向，但二者可能冲突。为了容忍故障，需要增加冗余；为了保护隐私，需要减少某些连接；为了获得更多功能，需要增加结构和维护成本。它们更可能构成一组相互约束的目标，而不是总能同时达到最大或最小。\n\n研究时，可以先固定一项任务，把保持功能作为约束，分别测量实现成本、容错能力与可复用范围，再比较哪些方案形成更好的取舍。用一个综合分数选择方案，也必须公开权重的来源；不能在看到结果以后改变指标，再把选中的结果称为原理的必然表现。\n\n“涌现”还需要说明出现了什么新的能力，以及为什么只列出构件本身不足以说明它。一个排序程序结束后达到不动点，并没有因此形成生命；一组构件出现协同行为，也不一定正在最小化某个已经知道的成本。只有把结构、动力学、任务和环境写清楚，才能检验这几者是否通过某种规律相连。\n\n一个初步的检验方式，可以是在有限状态系统或小型软件组合中，事先规定状态、转移、功能条件和成本，比较采用这套构造原则与不采用它时的结果。如果它只换了一种语言描述原有结果，却没有带来新的推导、预测或构造优势，那么它在这个范围内获得的是解释性整理的价值，而不是新规律已被证实的证据。",
+          "reason": "编辑补充论证",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 9,
+          "section_span": [
+            3049,
+            3967
+          ],
+          "document_span": [
+            150246,
+            151164
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 描述更短与构造更省为什么不能合并成一个结论",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 10,
+          "section_span": [
+            3969,
+            3994
+          ],
+          "document_span": [
+            151166,
+            151191
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "我希望把奥卡姆剃刀、柯氏复杂度和实际构造过程连接起来，这个方向首先要求区分长度、时间、空间与能量。\n\n在选定的通用计算模型上，柯氏复杂度刻画能够生成给定字符串的最短描述长度。它一般不可计算；找到一个更短程序可以改进已有上界，却不自动证明已经找到最短程序。[Vitányi关于柯氏复杂度不可计算性的研究](https://homepages.cwi.nl/~paulv/papers/incomp.pdf)\n\n一个很短的程序可以通过极长的搜索产生结果，另一个较长的程序可以利用预先整理的索引迅速完成同一任务。索引又需要构建、保存和更新。于是，只比较某一次运行时间，可能漏掉前期成本；只比较代码长度，又可能漏掉大量重复计算。\n\nMerkle-DAG能够让相同内容被识别和共享，但更少的节点不自然等于更少的能耗。哈希、寻址、索引、验证、加密、网络传输和迁移都有代价。把结构改为直接处理对象，可能减少文本解析和重复推理，也可能在很小的任务上增加管理成本。需要在相同功能、准确性、硬件和预算下，把构建与使用的全过程放在一起比较。\n\n计算的热力学也不能被简化为“每执行一个逻辑步骤都必然付出同样能量”。Bennett关于可逆计算和Landauer原理的讨论，区分了逻辑可逆性、信息擦除与物理实现的耗散；它们为研究代价提供了约束，而不是让程序字符数直接变成电表读数。[Bennett关于Landauer原理与可逆计算的论文](https://arxiv.org/abs/physics/0210005)\n\n我应当据此修改“最小化”的使用方式：先说明最小化什么，在哪些约束下比较，是否包括准备、维护和失败恢复；再报告实际节省了什么、增加了什么，以及没有测量什么。允许一种表示在部分任务中更好，也允许另一种表示在其他任务中保有优势。这样的比较，比预先宣布整个旧生态必然低效，更有机会找到真正值得推广的构造。",
+          "reason": "编辑补充论证",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 11,
+          "section_span": [
+            3996,
+            4790
+          ],
+          "document_span": [
+            151193,
+            151987
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 自然科学中的共同图景还不是统一物理理论",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 12,
+          "section_span": [
+            4792,
+            4815
+          ],
+          "document_span": [
+            151989,
+            152012
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "我把存在与变化、对象与态射、物质与能量、知识与智能放在一起观察，是为了寻找不同层次之间可以相接的结构。但形式上的相似，并不意味着这些概念具有同一个严格定义。物理量之间的关系需要单位、方程和测量；数学中的对象与态射则由所选范畴决定。粒子与波的关系，也不能仅凭“二位一体”这个词完成推导。\n\n因此，要把共同图景发展为物理理论，需要写出状态空间、演化规则、可观测量，以及它们与现有理论和实验的对应。对于已经被充分检验的范围，新理论必须恢复相应结果；对于希望超越的范围，则要给出能够区分它与现有模型的预测。只说它能够解释一切层级，还没有满足这一要求。\n\n最小化原理尤其需要谨慎。经典力学中的作用量原理，在适用条件下要求真实路径使作用量的一阶变分为零；“最小作用量”这个名称不能被理解为系统在所有情形下都选择绝对最小能量、最短程序或最高社会效率。作用量、能量和算法代价不是同一个量。[Tong关于拉格朗日形式的讲义](https://www.damtp.cam.ac.uk/user/tong/dynamics/dynhtml/S2.html)\n\n局部有序结构与热力学第二定律相容，也是已有研究能够说明的问题。开放系统可以在持续交换中维持结构；Prigogine的工作讨论了非平衡状态怎样成为某些有序动态结构的条件。这支持继续研究结构的形成与维持，但不能推出整个宇宙必然越来越复杂，或生命与文明一定向我期待的方向发展。[Prigogine《时间、结构与涨落》](https://pubmed.ncbi.nlm.nih.gov/17738519/)\n\n如果我认为一套更一般的构造原则能够解释这类过程，可以先选择一个已有方程的系统，例如简单反应网络或振荡系统，明确它的新变量、映射关系和预测。在固定方程和参数以后，再检验它能否提前区分稳定、振荡、分岔或结构消失，而不是等现象出现以后，统一把所有结果都称为某种稳定与变化。\n\n量子问题也需要同样的约束。逻辑未定、经典随机、周期性真假切换与量子叠加，并不是同一种现象。若想提出新的量子解释，就需要给出状态与测量规则，重现干涉和相应相关性等可计算结果；仅用“自指”或“观察者”替换术语不够。Bell实验已经对一类局域实在论模型提出明确限制，新的解释必须面对这类实验约束。[Giustina等人的Bell实验论文](https://arxiv.org/abs/1511.03190)\n\n至于由对偶体推导基本粒子、解释弦理论的候选空间，或者协调广义相对论与量子理论，目前仍然属于更远期的研究问题。这部书没有完成相应方程、严格推导和实验比较，就不能把这些问题写成已经解决。一个软件项目即使取得显著效率提升，也不能替代对物理预测的独立检验。\n\n这并不要求先放弃统一的愿望，而是要求把它拆成能够进入具体学科的问题。某个跨层类比即使最后不成立，也应当允许被移除，而不让整个实践方案随之坍塌。",
+          "reason": "编辑补充论证",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 13,
+          "section_span": [
+            4817,
+            6021
+          ],
+          "document_span": [
+            152014,
+            153218
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 从生命和意识到社会行为需要逐层验证",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 14,
+          "section_span": [
+            6023,
+            6044
+          ],
+          "document_span": [
+            153220,
+            153241
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "低层结构怎样参与高层能力的形成，是一个有价值的问题；但“参与构成”与“已经解释”之间仍然有距离。神经元、身体和环境共同参与人的活动，不意味着给这些层次分别标上对象、态射和子范畴，就已经得到了意识的完整理论。若使用严格的范畴描述，就要说明对应关系；若只是类比，也应保留类比的身份。\n\n把区别自身与环境、保存记忆、持续自我对话和外部反馈作为智能系统的研究方向，可以形成实际程序。但一个系统能够描述自己、维护长期任务或反复产生内心独白，并不能单独证明它拥有主观体验。持续自我对话还可能把最初的错误不断重复，使系统看起来越来越确信。\n\n在工程上，可以比较有无长期记忆、主动提问和自我反思时，同样预算内的任务表现；检查它能否发现新证据、修正错误，并把经验迁移到未见过的问题。外部复核和受控比较有助于判断功能是否改善，而不是仅看它是否写出了更像人的自述。即使这类功能进步，也应当与关于意识体验的哲学和科学问题分开。\n\n对于人类生理心理，也需要区分广义认识与具体因果链。遗传、生理、成长经历和社会环境会共同影响行为，有相应研究基础；但从某个基因直接推到惩罚倾向，再推到鹰派与鸽派，最后推到民主或威权制度的形成，中间仍缺少多段验证。2024年一篇纳入87项研究的儿童攻击行为遗传学系统综述，指出候选基因研究中的不少主效应和交互效应结论并不一致，测量和样本等方面存在重要差异。[系统综述](https://pmc.ncbi.nlm.nih.gov/articles/PMC11167064/)\n\n因此，MAOA等例子可以作为研究生物与环境相互作用的入口，不能成为给个体或群体贴政治、道德标签的依据，也不应成为制度成立的必需前提。即使某条具体基因解释被否定，个人数据主权、可核查协作与可修订决策仍然可以独立接受检验。\n\n理解伤害行为怎样形成，有助于寻找更有效的干预；但不能由此推出所有犯罪都是疾病，或最终都能够由一种医学手段消除。认识原因、判断责任、保护受害者与选择干预方式，是相互联系而又需要分别论证的工作。对不常见的偏好，也不应仅凭其不常见就认定为病理。\n\n同样，理解人类差异的因果来源，可能使人更宽容；它并不保证每个人获得一次认知上的顿悟之后，就不再发生恐惧和冲突。虚拟体验能够怎样帮助调节情绪，也需要比较具体方式与真实后果。把这些问题留给持续研究，并不减弱制度的目标，而是使目标不依赖对人性的过强假设。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "EVALUATION-RESPONSE",
+            "RECORDING-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 15,
+          "section_span": [
+            6046,
+            7041
+          ],
+          "document_span": [
+            153243,
+            154238
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 社会博弈的依据支持到哪一步",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 16,
+          "section_span": [
+            7043,
+            7060
+          ],
+          "document_span": [
+            154240,
+            154257
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "在社会理论中，我关注的局部利益与共同利益的冲突、相互回应造成的反馈，以及信息和执行规则对合作的影响，都能够与已有研究连接。重复互动、声誉、网络结构等因素，可以改变合作出现和维持的条件；但不同机制有不同前提，不存在仅靠“所有人以牙还牙”就普遍得到最佳结果的定理。[Nowak关于合作演化机制的论文](https://pmc.ncbi.nlm.nih.gov/articles/PMC3279745/)\n\n我提出的正向起点、查证、修复和共同知识，可以被视为对合作条件的制度设计。它的推理需要把每一段连接展开：更多信息是否真的提高认识质量，更准确的认识能否进入决策，更好的决策是否使每个人都有理由继续合作，以及扩大规模以后效果能否保持。任何一段失效，都可能改变最后的结果。\n\n例如，两个人都需要在同一时间使用唯一的一台设备，即使事实全部公开，双方也完全理性，冲突仍然存在。可以轮换、排队、补偿或增加设备，但究竟采取哪一种，还要处理需求、成本和价值取舍。知识可以帮助处理分歧，不能使所有正当需求天然相容。\n\n沟通与共同经历能够改善关系，也有经验支持。关于跨群体接触的元分析发现，接触通常与偏见降低相联系，并研究了影响效果的条件；这为合作实践提供依据，却不证明所有信息公开都会降低敌意。[Pettigrew与Tropp的元分析](https://pubmed.ncbi.nlm.nih.gov/16737372/)\n\n尤其不能把公共知识理解为消除一切私人边界。如果分享会导致羞辱、监控或惩罚，人们就可能减少诚实表达。一个制度即使收集到了更多记录，也可能失去更重要的真实反馈。公开规则、保护私人生活、允许异议和退出，需要共同发挥作用。\n\n我所追求的平等、按需保障和个人不被支配，是需要公开说明理由的价值选择。它们不能从碳原子的成键方式、神经元的连接形式或某条能量定律直接演绎出来。自然科学可以帮助判断怎样实现目标、要付出什么代价；目标的选择仍然需要参与者共同讨论。\n\n因此，消除剥削、腐败与恶意伤害，应当成为持续检查的制度目标，而不能当成只要采用新名称就已经获得的系统属性。需要具体定义哪些行为算侵占，怎样发现，谁有权处置，如何申诉，以及是否产生了新的隐性特权。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "EVALUATION-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 17,
+          "section_span": [
+            7062,
+            7987
+          ],
+          "document_span": [
+            154259,
+            155184
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 动态权重怎样避免成为新的固定权力",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 18,
+          "section_span": [
+            7989,
+            8009
+          ],
+          "document_span": [
+            155186,
+            155206
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "根据历史表现调整判断权重，具有明确的算法研究基础。Weighted Majority等工作，在规定的预测和损失模型中研究如何组合多个判断来源，并给出相应条件下的性能界。这说明动态加权可以被严格研究；它并没有证明把同样规则移到所有社会事务中，就会自动公平。[Littlestone与Warmuth的原论文](https://homepages.math.uic.edu/~lreyzin/papers/littlestone94.pdf)\n\n社会决策至少增加了几类困难。预测设备是否故障，可以在一定期限后核验；评价公共预算是否公平，还包含不同人的价值。已经实施的政策留下结果，未实施的政策却没有同一个现实世界中的对照。参与者还会适应评分规则，只回答容易的问题，隐藏失败，复制他人的判断，或者争取解释结果的权力。\n\n节点数量也不等于证据数量。一千个使用同一模型、同一资料的AI，可能重复同一个错误。高权重节点的意见更容易被执行，又因此获得更多观察和解释结果的机会，形成优势积累。如果不检查这种反馈，动态权重也可能逐步固化。\n\n所以，应当把预测事实与后果、形成目标与取舍、授权并执行行动区分开。专业判断的权重可以依据限定领域的表现调整，但预测更准，不自动意味着有权决定别人的基本生活。受影响者的表达、异议和申诉，也不能仅按过去预测分数折算。\n\n第一步可以先研究有独立结果的有限任务：预测设备故障、判断某项测试能否通过、估计某类服务的资源需求。与等权、固定专家和单个AI比较，在相同信息与预算下使用未参与调参的任务。既检查准确性，也检查置信度是否可靠、少数持续正确的意见能否进入结果、复制意见和隐藏失败能否操纵权重。\n\n若动态加权在这些任务上取得优势，再研究它怎样辅助共同决策；若不能超过简单方案，就应该保留这个结果，调整模型或缩小适用范围。不能因为它在理论图景中占据中心位置，就免除它与更简单机制竞争的要求。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "EVALUATION-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 19,
+          "section_span": [
+            8011,
+            8812
+          ],
+          "document_span": [
+            155208,
+            156009
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 目前能够建设什么，还不能承诺什么",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 20,
+          "section_span": [
+            8814,
+            8834
+          ],
+          "document_span": [
+            156011,
+            156031
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "从现有技术出发，个人数据仓库、加密备份、来源与版本追踪、有限范围的AI检索，以及明确任务中的动态加权，都有可以使用的技术基础。内容寻址的软件组织也有实际先例，Unison使用程序结构的哈希标识定义，将名称另外保存。这支持继续探索AI直接处理结构对象的路线，但不是对整个新生态性能的保证。[Unison官方说明](https://www.unison-lang.org/docs/the-big-idea/)\n\n| 系统层次 | 当前可以合理开展的工作 | 仍需分别取得的证据 |\n|---|---|---|\n| 个人知识与数据主权 | 导入、加密、查询、来源追踪、恢复和迁移 | 覆盖度、可用性、长期维护成本，以及个人是否真正能够退出 |\n| Merkle-DAG记录层 | 保存不可变内容、版本、引用和处理关系 | 采集真实性、权限有效性、缺口与错误的处理 |\n| 协同音视频采集 | 在授权明确的小范围中制作原型 | 接棒、访客、断网、撤销、硬件状态与旁路风险 |\n| AI辅助与动态加权 | 在限定任务中比较判断和建议 | 错误、相关来源、操纵、反馈偏差和跨任务迁移 |\n| 新的软件生态 | 构造内容寻址模块、验证与复用流程 | 实际性能、能耗、兼容、调试和迁移的完整成本 |\n| 共同资源与开放组织 | 自愿小群体的账目、协作、议事与退出试点 | 可持续供给、分配、责任、争议及规模扩大后的效果 |\n| 文明尺度的自治系统 | 研究模型、局部验证与多层协作 | 还不能据此承诺全球公平、长期稳定或消除全部恶意 |\n\n已经运行的个人知识档案，提供的是来源、内容与版本能够被保存和查询的实践材料；它不证明音视频系统已经部署，更不证明动态社会治理已经有效。记录中的语义关系也可能有循环，可以用不可变版本的DAG表达具有循环关系的知识网络，不必强迫所有思想之间的关系都成为一棵树。\n\nAI能力的增长有助于扩大可以承担的工作，但可靠性需要按任务验证。METR的任务评估区分不同成功率，并强调其清晰、相对独立的技术任务不能直接换算成全部现实工作的自治能力。因此，不能用一个能力曲线替所有治理问题设定必然解决的日期。[METR的评估方法与边界](https://metr.org/time-horizons/)\n\n一条稳健路线应该使第一阶段在现有AI能力下就有用。以后更强的AI、机器人或脑机接口可以进入经过验证的环节，但不成为所有早期保护措施的替代品。若一种架构必须等到每个人都完全理性、AI永不犯错、所有设备都可信以后才能安全运行，它还没有解决现实中的起步问题。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "EVALUATION-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 21,
+          "section_span": [
+            8836,
+            9917
+          ],
+          "document_span": [
+            156033,
+            157114
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 技术能够运行以后经济与组织仍需独立成立",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 22,
+          "section_span": [
+            9919,
+            9942
+          ],
+          "document_span": [
+            157116,
+            157139
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "软件可复制，模型文件可共享，不意味着推理、存储、能源、硬件、维护和照护都没有成本。把智能作为公共基础设施，可以通过共同承担成本使个人更容易使用；“对使用者免费”与“社会不需要为此付出资源”是不同的命题。\n\n按需保障也需要回答持续供给从哪里来，谁完成不受欢迎但必要的工作，需求怎样表达和复核，以及资源不足时怎样作出取舍。食物有一定生理条件，不等于每一种精神需要、生活选择和稀缺机会都存在一个能够由算法唯一算出的健康最优值。把不同人的需要纳入决策，也要允许他们质疑系统对自己的解释。\n\n贡献记录同样只是分配讨论的依据之一。最早提出想法、把想法发展为证明、完成实验、修正错误和维护公共设施，可能都不可缺少。记录精确并不会自动给出这些贡献的唯一价值比例。制度需要公开讨论评价方法、处理独立发现与相互启发，并防止贡献分数变成永久身份等级。\n\n共同治理与多中心协作有真实研究基础。Ostrom考察了不同条件下资源与公共服务的治理安排，强调具体环境与组织方式的相互关系；这为探索提供了依据，并不证明一种组织能够在所有环境中普遍胜出。[Ostrom的多中心治理研究](https://dlc.dlib.indiana.edu/dlc/items/484f4147-bdce-4d55-9b8d-fe61f3b2d37b)\n\n因此，一个小型云存储共同体首先要能够持续提供可靠服务，算清真实成本，处理故障与争议，使参与者能够带走可用的数据、更换服务。仅仅能够下载代码，还不等于能够带走运行所需的设备、资料和协作关系。扩张以后，也要继续检查实际控制权、资源集中程度和弱势参与者的处境。\n\n对公平与开放的承诺，应当经得住人员更换、资金紧张、出现恶意成员和参与者退出的情况。如果运行依赖一个人长期承担没有计入的劳动和成本，那么可以承认这是一段个人支持的探索，却不能把它当成经济可持续性已经得到验证。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "EVALUATION-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 23,
+          "section_span": [
+            9944,
+            10730
+          ],
+          "document_span": [
+            157141,
+            157927
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 怎样使科学预言能够被现实修正",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 24,
+          "section_span": [
+            10732,
+            10750
+          ],
+          "document_span": [
+            157929,
+            157947
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "自我实现的设想可以激发人们行动，行动又可能使原本不存在的制度获得现实条件。但如果所有成功都被算作理论正确，所有失败又被解释为参与者不够理解，就无法形成科学检验。需要把愿景进一步转化为带条件的预测。\n\n| 研究问题 | 最小而有区分力的检验 | 哪些结果要求修正判断 |\n|---|---|---|\n| 对偶体是否增加数学内容 | 给出精确定义、模型和映射，在小例子中证明一个明确命题 | 无法满足组合规则，或全部结果只是既有概念的改名 |\n| 不动点与最小化是否说明构造改进 | 固定状态、转移、任务与成本，比较收敛、功能和代价 | 存在不动点却不收敛，或节约一项成本以未计入的代价换得 |\n| 跨层框架是否改进物理解释 | 在已知系统中给出可计算预测，并与既有模型比较 | 不能恢复已验证结果，或没有能够区分方案的预测 |\n| 语义记录是否提高知识工作效率 | 与普通文件及现有检索比较，计入整理和复核成本 | 找错来源、遗漏增多，或总成本长期高于基线 |\n| 可靠记录与AI辅助是否改善合作 | 分开比较记录、AI辅助与规则改变的作用 | 更多记录反而压低诚实表达，或改善来自未控制的其他因素 |\n| 动态权重是否提高判断质量 | 与简单基线比较，使用独立评分和保留任务，并加入操纵测试 | 不能稳定改进，或少数节点利用反馈获得固化优势 |\n| 数据主权是否落实 | 检查越权、撤销、恢复、删除、迁移和真实退出 | 管理者仍能绕过权限，或退出后资料不能独立使用 |\n| 组织能否持续扩大 | 逐步比较不同规模的成本、可靠性和权力分布 | 扩张依赖隐性补贴，或集中与排斥随规模持续加重 |\n\n这些检验应在开始前说明目标、预算、比较条件、可接受范围和停止条件，再保存结果。数学命题最终需要证明，有限测试不能替代对所有情形的论证；经验主张需要与现实证据比较，模拟中的成功不能独自证明真实人群会照模型行动。不同人群、不同任务和不同规模的重复，也应被看作扩大结论范围所需的新工作。\n\n反例并不意味着必须放弃全部方向。某一种动态加权算法失败，可以改用更简单的机制；某个生物学解释被否定，仍然可以建设数据主权服务；某种物理统一设想没有获得支持，也不影响已经证明有效的来源追踪方法。每一层的价值应当由它实际完成的工作支持，而不是互相借用尚未证明的结论。\n\n我希望这个理论最终能够形成的力量，来自每一阶段都能在后一阶段尚未实现时独立改善现实。先让一个人获得可以掌握的数据与工具，再让自愿的小群体形成可靠协作；在有限问题上验证判断机制，再探索更大范围的组织能力。扩大范围时继续保留分歧、退出和纠错，不把最初的设想变成新的不可质疑权威。\n\n对于整套理论，目前可以作出的判断是：它具有值得继续形式化的研究问题，也具有能够开始建设的工程与制度试验入口；数学和基础科学中的统一性主张尚未成为完成的理论，社会与心理部分也并非全部获得充分证明。把记录、核验、反馈和修正同样用于这套理论自身，才会使它有机会从愿景逐步成为可信、可用、可以共同发展的现实。",
+          "reason": "编辑补充论证",
+          "basis_refs": [
+            "EVALUATION-RESPONSE"
+          ],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 25,
+          "section_span": [
+            10752,
+            12013
+          ],
+          "document_span": [
+            157949,
+            159210
+          ]
+        }
+      ]
+    }
+  ]
+}

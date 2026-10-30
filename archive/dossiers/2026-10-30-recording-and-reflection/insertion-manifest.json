@@ -1,0 +1,24 @@
+{
+  "schema": "rr/insertions@1",
+  "baseline_file": "dossiers\\2026-10-29-cooperation-feedback\\02-new-principles.md",
+  "baseline_sha256": "5a21ade63200973ce6bb42393c3f3a7b94440a35f5c54c988039495399f765d8",
+  "combined_sha256": "ad4f660d6392caecae59ca20d58fe31952c2f99b7514d9f839a27f5c2286c89d",
+  "original_bytes": 395792,
+  "body": {
+    "file": "01-chapter.md",
+    "old_byte_offset": 304965,
+    "new_byte_offset": 304965,
+    "bytes": 26821,
+    "sha256": "cae182dc7aa6549ecfed0e068b005cdb24c39134c39db36f52beeb0f13440824"
+  },
+  "appendix": {
+    "file": "05-self-reflection-appendix.md",
+    "old_byte_offset": 395792,
+    "new_byte_offset": 422613,
+    "separator_utf8": "",
+    "bytes": 32432,
+    "sha256": "61e5498d222b50c697a38b1e9a5020c13497f9050894d874ce266af3c7744da7"
+  },
+  "outside_insertions_byte_preserved": true,
+  "appendix_is_final": true
+}

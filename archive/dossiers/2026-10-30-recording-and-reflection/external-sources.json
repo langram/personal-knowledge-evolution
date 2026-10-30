@@ -1,0 +1,194 @@
+[
+  {
+    "id": "deterrence",
+    "title": "Five Things About Deterrence",
+    "url": "https://nij.ojp.gov/topics/articles/five-things-about-deterrence",
+    "reading_scope": "研究机构对威慑证据的综合说明，前轮已读；支持确定性与严厉程度的区别，不证明未来AI消除恶意。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "c2pa",
+    "title": "C2PA Specification 2.1",
+    "url": "https://spec.c2pa.org/specifications/specifications/2.1/specs/C2PA_Specification.html",
+    "reading_scope": "前轮已读相关规范；来源声明、签名与内容可信判断有区别；不声称这是最新版本。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "firmware",
+    "title": "NIST SP 800-193",
+    "url": "https://csrc.nist.gov/pubs/sp/800/193/final",
+    "reading_scope": "前轮已读官方说明；固件保护、检测、恢复，不保证任何特定硬件已经实现。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "attestation",
+    "title": "RFC 9334",
+    "url": "https://www.rfc-editor.org/rfc/rfc9334.html",
+    "reading_scope": "前轮已读新鲜度相关段落；证明的时效及核验后状态可能变化。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "transparency",
+    "title": "RFC 9162",
+    "url": "https://www.rfc-editor.org/rfc/rfc9162.html",
+    "reading_scope": "前轮已读日志一致性和分叉视图边界；独立核对仍是额外机制。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "anger-paper",
+    "title": "Kjærvik and Bushman 2024",
+    "url": "https://doi.org/10.1016/j.cpr.2024.102414",
+    "reading_scope": "论文标识；出版商正文访问受限，本次数字与结论依据研究机构的直接说明，不声称精读全文。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "anger-institution",
+    "title": "Ohio State research report",
+    "url": "https://news.osu.edu/breathe-dont-vent-turning-down-the-heat-is-key-to-managing-anger/",
+    "reading_scope": "前轮及本轮读正文；154项研究、10189名参与者；不是全部虚拟游戏或脑机接口的效果判断。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "gaming",
+    "title": "WHO gaming disorder FAQ",
+    "url": "https://www.who.int/standards/classifications/frequently-asked-questions/gaming-disorder",
+    "reading_scope": "前轮已读官方说明；重在失控及显著功能受损，不以题材偏好诊断。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "ordinal",
+    "title": "Turing 1939 ordinal logics and Feferman preface",
+    "url": "https://people.math.ethz.ch/~halorenz/4students/Literatur/TuringOrdinalLogic.pdf",
+    "reading_scope": "本轮读相关前言及原文入口；理论逐步加强与不完备性边界，不声称完成全部技术证明审阅。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "category",
+    "title": "Riehl Category Theory in Context",
+    "url": "https://emilyriehl.github.io/files/context.pdf",
+    "reading_scope": "本轮读对偶定义与相关米田说明；反范畴保留对象并反转态射，不等于对象态射互换。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "applied-category",
+    "title": "Fong and Spivak Seven Sketches",
+    "url": "https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/a4175d61479a35340d6307ae5e48ef5a_18-s097iap19textbook.pdf",
+    "reading_scope": "书稿已有来源，本轮重开；子对象分类器与内部逻辑的数学角色，不证明意识或物理探测器。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "fixed-point",
+    "title": "Bindel Numerical Methods for Data Science",
+    "url": "https://www.cs.cornell.edu/~bindel/nmds/00-Background/04-Calculus.html",
+    "reading_scope": "本轮读压缩映射定理条件；文中三个线性迭代例子为独立可直接检查的反例与对照。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "kolmogorov",
+    "title": "Vitányi How Incomputable Is Kolmogorov Complexity",
+    "url": "https://homepages.cwi.nl/~paulv/papers/incomp.pdf",
+    "reading_scope": "本轮读相关不可计算性与压缩近似边界；不把压缩结果当成最短程序证明。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "computation-thermodynamics",
+    "title": "Bennett Notes on Landauer principle",
+    "url": "https://arxiv.org/abs/physics/0210005",
+    "reading_scope": "本轮读作者摘要；逻辑不可逆操作与环境熵变化，不用程序字符数计算硬件能耗。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "action",
+    "title": "Tong Classical Dynamics section 2",
+    "url": "https://www.damtp.cam.ac.uk/user/tong/dynamics/dynhtml/S2.html",
+    "reading_scope": "本轮读作用量变分及Euler-Lagrange推导；驻值条件与绝对最小能量有区别。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "dissipation",
+    "title": "Prigogine Time structure and fluctuations",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17738519/",
+    "reading_scope": "本轮读论文摘要；非平衡可产生有序耗散结构。Nobel网站全文访问403，未据此声称全文已读。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "bell",
+    "title": "Giustina et al 2015 Bell test",
+    "url": "https://arxiv.org/abs/1511.03190",
+    "reading_scope": "本轮读作者摘要；实验对相应局域实在论模型的约束，不据此给作者构想补造量子方程。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "genetics",
+    "title": "Genetics of child aggression a systematic review",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11167064/",
+    "reading_scope": "前轮与本轮读摘要及相关正文；87项研究，多种结果不一致，不支持单基因政治归因。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "cooperation",
+    "title": "Nowak Five Rules for the Evolution of Cooperation",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3279745/",
+    "reading_scope": "前轮读论文相关段落；本轮访问触发验证页，沿用已读材料；机制有条件，不是普遍TFT定理。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "contact",
+    "title": "Pettigrew and Tropp 2006 contact meta-analysis",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16737372/",
+    "reading_scope": "前轮读论文摘要；群体接触与偏见变化，不证明一次顿悟消除冲突。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "weights",
+    "title": "Littlestone and Warmuth Weighted Majority",
+    "url": "https://homepages.math.uic.edu/~lreyzin/papers/littlestone94.pdf",
+    "reading_scope": "前轮检索到论文摘要，本轮再次打开扫描PDF，无可提取正文；只用明确任务存在加权算法性能界这一层结论，不引具体界或假称全文证明复核。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "unison",
+    "title": "Unison The Big Idea",
+    "url": "https://www.unison-lang.org/docs/the-big-idea/",
+    "reading_scope": "前轮读官方说明；程序定义内容寻址先例，不证明所有Merkle生态更快。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "metr",
+    "title": "METR task time horizons",
+    "url": "https://metr.org/time-horizons/",
+    "reading_scope": "前轮读评估说明，页面标注更新为2026-09-08；引用任务范围和成功率边界，不给出AGI实现日期。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  },
+  {
+    "id": "commons",
+    "title": "Ostrom Beyond Markets and States",
+    "url": "https://dlc.dlib.indiana.edu/dlc/items/484f4147-bdce-4d55-9b8d-fe61f3b2d37b",
+    "reading_scope": "前轮读机构存档及所附稿件相关内容；正文使用概述，无直接引文；具体环境下的多中心治理不等于普遍最优组织。",
+    "checked_date": "2026-10-30",
+    "full_page_copy": false
+  }
+]

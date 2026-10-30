@@ -1,0 +1,19 @@
+{
+  "pointer": {
+    "report": "report-20261029-cooperation-feedback-v1.json",
+    "snapshot": "bafyreiekuu7nscv3qoadigvmvzz3zzox4xw3ya5zqgcmpzhdpopn5uac34",
+    "database": "contributions\\codex\\catalog\\.private\\20261029-cooperation-feedback-v1\\catalog.sqlite"
+  },
+  "document": "bafyreiad4xhzzjzgntkkizlazkmvuf3klwrtyngfqvhmuv57v5x7vn2egi",
+  "dossier_root": "bafyreia6hsy6hcfjj67efolbal2rktz3acxhulpapejccbe6jdgqxdxtyu",
+  "concepts": [
+    "bafyreiegegaxqkodqcynfwwwpdwcforzfpxbfhpzbr2wffxeqcckzeejyy",
+    "bafyreidudcyvdkxllxmmtt4ksjjy4a6zlrgcnfcnnp2n4vg53dfjp2bi6e",
+    "bafyreiht247pkdilw2op6ozh6exmlwsnpr7oq36kut7okd5yrwbel3b7ay",
+    "bafyreig7gbbzfc7pibyze7snu3l5tpvxlvg6cpmg5m7njkehoylcmnvm6y",
+    "bafyreigd2r6ej3q52trltmcup6sunvsyaga4lpqaduqq5a65zulxx7ps4u",
+    "bafyreig7nw3abik5fyogdqy2kchpy3sty6dgohdhy5vxlpl4ibmx5y2rnu"
+  ],
+  "manuscript": "dossiers\\2026-10-29-cooperation-feedback\\02-new-principles.md",
+  "sha256": "5a21ade63200973ce6bb42393c3f3a7b94440a35f5c54c988039495399f765d8"
+}

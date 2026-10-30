@@ -1,0 +1,36 @@
+{
+  "status": "pass",
+  "fixed_point_iterates": {
+    "negative": [
+      1,
+      -1,
+      1,
+      -1,
+      1,
+      -1,
+      1
+    ],
+    "double": [
+      1,
+      2,
+      4,
+      8,
+      16,
+      32,
+      64
+    ],
+    "half": [
+      1,
+      0.5,
+      0.25,
+      0.125,
+      0.0625,
+      0.03125,
+      0.015625
+    ]
+  },
+  "assumed_video_bitrate_bits_per_second": 2000000,
+  "daily_decimal_GB": 21.6,
+  "annual_decimal_TB": 7.884,
+  "scope": "Checks the stated elementary examples and storage arithmetic; not a proof or empirical validation of the general theory."
+}
