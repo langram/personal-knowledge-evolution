@@ -1,0 +1,12 @@
+{
+  "title": "可分叉的公共能力共同体",
+  "files": ["00-charter.md", "sources/author-request.json", "round-01.md", "round-01-record.json", "experiment/pre-registration.json", "tools/snapshot.py"],
+  "proposals": [
+    {"id":"P1","statement":"以可选择开放层级的知识产品承接私人经验到公共知识的转换。","status":"hypothesis","reason":"原件暴露与知识复用不是同一变量；降低披露负担可能提高真实贡献。","test":"比较贡献质量、复核成本、自愿参与和泄露；不得只统计数据量。"},
+    {"id":"P2","statement":"动态权重只排序已满足行动范围、现行授权与资源约束的候选。","status":"design-proposal","reason":"预测能力不能单独产生执行权；局部合格还可能组合超额。","test":"共享上限、撤销、重放和漏报影响范围的反例。"},
+    {"id":"P3","statement":"贡献记忆、生活保障与专项资源分配分别记账；承认独立发现和后续完善。","status":"institutional-proposal","reason":"单一声誉分数会混合荣誉、需要和权力；时间戳不等于原创证明。","test":"抢发空泛想法、承诺不公开、重复贡献和评分争议。"},
+    {"id":"P4","statement":"共同体在兼容边界内采用可比较、可退出的规则分支。","status":"institutional-proposal","reason":"异质资源和偏好不需要预先服从同一全局算法。","test":"共享资源不能分离、弱势者退出成本、分支转嫁责任。"},
+    {"id":"P5","statement":"先研究有限资源与授权条件下的可组合改进，再讨论跨层统一。","status":"formalization-program","reason":"局部成本降低可能破坏上层条件；先找出组合需要的假设。","test":"独立不变量检查器检验单项合法是否推出整体合法。"}
+  ],
+  "architecture_decision": {"selected":"B as base, selective checks from C","alternatives":["A global weighted controller","B bounded service contracts","C complete proof per action"],"evidence":"Source-backed design comparison; no energy or social-efficiency measurement yet.","reason":"Minimize shared authority and permit a useful personal starting point; include validation at effect boundaries."}
+}

@@ -1,0 +1,15 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "root": "bafyreih2wyq7dwll7i5a2c7wapbuunrvs4u3zj5motkl22rh4qkvuiqnde"
+    }
+  ],
+  "latest_proposals": {
+    "P1": "bafyreiasabxhiht4mbyca4fuscm6mgro2kkqxgffvjtvnmmlhxmiv2qhxu",
+    "P2": "bafyreihjvvdi3zrekhddfpbkuivifthcyioagirgaqvpuclsaqks66xft4",
+    "P3": "bafyreibscn2kdq2v6ewutceibm2foqxrdhkaca3kxselat57oecxssk4f4",
+    "P4": "bafyreidje4dumb4sqhjq5kebegkublzxnrwguaudfakp3scr3rbvbdfvmi",
+    "P5": "bafyreidjfhnph2adnzhcfylty7bw3wzitkv2jumdywtna2fvjq7hsuezhi"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "codex-research/experiment-plan@1",
+  "round": 1,
+  "question": "Does individually valid admission preserve shared resource and authorization constraints under composition and replay?",
+  "domain": "Synthetic accounting units and explicit test identities; no real people, money, devices or network execution.",
+  "candidates": [
+    {"id": "A", "rule": "Per-action amount <= fixed owner cap; ignore accumulated reservations, current version, replay and actual impact set."},
+    {"id": "B", "rule": "Check declared affected owners, current authorization epoch and remaining cap, but no request deduplication and no trusted effect-scope comparison."},
+    {"id": "C", "rule": "B plus execution-request deduplication and comparison with an independently supplied modeled effect scope; retain atomic reservation in this sequential model."}
+  ],
+  "oracle": [
+    "Sum of all admitted modeled effects per owner cannot exceed that owner's cap.",
+    "Each admitted modeled effect must be covered by a current grant at the time of admission.",
+    "One request identity may execute at most once.",
+    "Declared scope must equal the effect scope supplied by the test fixture.",
+    "A denied action must produce no resource effect."
+  ],
+  "planned_cases": ["two actions individually below cap but jointly over cap", "old authorization epoch", "repeat request identity", "omitted affected owner", "valid boundary action", "empty action", "zero or negative units", "unknown owner", "inactive grant", "scope amount mismatch"],
+  "generated_cases": {"seed": 20261030, "traces": 100, "actions_per_trace": 20},
+  "success_scope": "Candidate C preserves modeled invariants for enumerated fixtures and deterministic generated traces. This does not validate fair consent, truthful physical impact estimates, distributed transactions or social outcomes.",
+  "comparison_boundary": "C is ordinary authorization and accounting discipline. A passing result is not proof that Merkle-DAG is required for admission correctness or faster than a standard database.",
+  "stop_rule": "Save every failure and counterexample. If C fails an invariant, retain the first result and make an explicitly versioned repair rather than rewriting the reported run."
+}
