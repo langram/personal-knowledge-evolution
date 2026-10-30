@@ -1,0 +1,95 @@
+{
+  "round": 3,
+  "root": "bafyreihwztlgglchc22d2irxxkrmmcbmus3vbya5f2n5jzwmtopbhvc2by",
+  "parent": "bafyreig4irajqawtd47f5cuwcg4b6huk33vtfcrz5qd5yu2zpvwwl2f3nq",
+  "activity": "bafyreigxmce2fwy2zbdihfqllk7t5zh5b4kclfigtl6fju3k7gwbemgohe",
+  "files": [
+    {
+      "path": "round-03.md",
+      "raw": {
+        "$link": "bafkreiddbhavrbl25vfbeyp3uqbdc5x6kdctm3a2cdusa3chwk5uj6uq2m"
+      },
+      "bytes": 20217,
+      "sha256": "6309c158857aed4a1261fba4023176fe50c5366c1a10e9206c47b2bb44fa90d3"
+    },
+    {
+      "path": "round-03-record.json",
+      "raw": {
+        "$link": "bafkreigbxcr36hzeyzl246qia5v6r2nkka4z3strmx6ndxcy3pqmadrf7m"
+      },
+      "bytes": 2980,
+      "sha256": "c1b8a3bf1f24c657ae7a08076be8e9aa50399dca7165fcd1dc58dbe0c00e25fb"
+    },
+    {
+      "path": "README.md",
+      "raw": {
+        "$link": "bafkreibbeztga6oxs435cqqfzjy6eaclgjv52rifht2b2cq7bugywgsgfa"
+      },
+      "bytes": 4774,
+      "sha256": "2126666079d79737d14205ca71e2004b326bdd45053cf41d0a1f0d0d8b1a4628"
+    },
+    {
+      "path": "decision-ledger.md",
+      "raw": {
+        "$link": "bafkreicni3zcfohknoq42eqx34r2vfx2eoq4tza3pyktgmahkzit2upfcm"
+      },
+      "bytes": 4161,
+      "sha256": "4d46f222b8ea6ba1cd1217df23aa96fa23a1c9e41b7e1533300756513d51e513"
+    },
+    {
+      "path": "sources/evidence.json",
+      "raw": {
+        "$link": "bafkreiaulgd2aw3jfegsq3vlwlo7boggzxmzaatx3myh5ligkcqdm7xtxa"
+      },
+      "bytes": 3447,
+      "sha256": "145987a05b69290d286eabb2ddf0b8c6cdd9900277db307ead0650a0367ef3b8"
+    },
+    {
+      "path": "experiment/quota-pre-registration.json",
+      "raw": {
+        "$link": "bafkreidf7zf7y5weft4bjplh55vzkt4d42o4qqqd4ulfiatbvyux3necyq"
+      },
+      "bytes": 1506,
+      "sha256": "65fe4bfc76c42cf814bd67ef6b954f83e69dc84203e516540261ae297db482c4"
+    },
+    {
+      "path": "experiment/quota_probe.py",
+      "raw": {
+        "$link": "bafkreiespx3wpi4cnwbmcetmv3r3e4ekh2zwe3dwnm7ficvtpk5drkmfeq"
+      },
+      "bytes": 4007,
+      "sha256": "927df767a3826d82c1126caee3b2708a3eb3626c766b3e540ab37aba38a98524"
+    },
+    {
+      "path": "experiment/run-03/results.json",
+      "raw": {
+        "$link": "bafkreifq2enqofdg4ctvjuhjxrpmaqcxbdzbj7yftio7fa7ratryq6jiwy"
+      },
+      "bytes": 402612,
+      "sha256": "b0d11b071466e0a754d0e9bc5ec0405708f214ff059a1df283f104e3887928b6"
+    },
+    {
+      "path": "experiment/run-03/summary.json",
+      "raw": {
+        "$link": "bafkreig4wiiahifobt3zdcssmgyl6dfr4pz5qgqh2xr3kfaks44ozv2wbm"
+      },
+      "bytes": 938,
+      "sha256": "dcb21003a0ae0cf7918a5261b0bf0cb1e3f3d81a07d5e3b5140a9738ecd7560b"
+    },
+    {
+      "path": "tools/verify_research.py",
+      "raw": {
+        "$link": "bafkreiekpxlhkfpni6ymb5vigseyok2jve42tjjgnrssvy72n7r4jc5x2u"
+      },
+      "bytes": 9701,
+      "sha256": "8a7dd67515ed47b0c0f6a83489872b49a939a9a5266c652ae3fa6fe3c48bb7d5"
+    }
+  ],
+  "proposals": [
+    "bafyreidwm6vpz2jk6emskuqavh7xv3n67cln3yrvlowgdxfbqigxqieqn4",
+    "bafyreiethruyelk2zch4ouvrhb4627qmb6nmcw5k2ysksvdwlsifwpiqea",
+    "bafyreic2fwk27ifbr73t3y2s4x4fdgrxh6l6ccezb7ysw26zmu4d7uj5va",
+    "bafyreigwsjy5ujejr6helb2tfyx4khbdiuesixffa23ecpmquycuxzpjh4",
+    "bafyreig3lr7wexgulenafkptq7b2eq4zsezs6jrjgywvsd46imcdlcbr7m"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "status": "bounded-cap-result-and-residual-counterexample-reproduced",
+  "cases": 1584,
+  "local_admission_calls": 3168,
+  "check_operations": 17688,
+  "global_cap_violations": 0,
+  "formula_acceptance_checks": "pass",
+  "positive_full_use": "pass",
+  "stranded_capacity": {
+    "left_quota": 6,
+    "right_quota": 4,
+    "requested": [
+      7,
+      0
+    ],
+    "same_id": false,
+    "accepted": [
+      false,
+      false
+    ],
+    "actual_effect_total": 0,
+    "check_operations": 7
+  },
+  "global_duplicate_execution": "still possible; expected counterexample retained",
+  "pre_registration_sha256": "65fe4bfc76c42cf814bd67ef6b954f83e69dc84203e516540261ae297db482c4",
+  "program_sha256": "927df767a3826d82c1126caee3b2708a3eb3626c766b3e540ab37aba38a98524",
+  "scope": "Two independent sequential local nodes with truthful effects, fixed grants, fixed disjoint quotas and at most one request each. No live distributed system."
+}

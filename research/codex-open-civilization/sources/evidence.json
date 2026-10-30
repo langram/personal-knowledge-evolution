@@ -1,0 +1,46 @@
+{
+  "schema": "cnr/evidence-ledger@1",
+  "checked_date": "2026-10-30",
+  "author_basis": {
+    "request": "author-request.json",
+    "book_commit": "15c9dfe82ecbb8f9495ab5eb1b55cd777b2f80f7",
+    "book_path": "book/current.md",
+    "book_sha256": "ad4f660d6392caecae59ca20d58fe31952c2f99b7514d9f839a27f5c2286c89d",
+    "interpretation": "The book is the user's theory context; all new branch proposals are AI-authored and not automatically adopted."
+  },
+  "external_sources": [
+    {
+      "title": "Beyond Markets and States: Polycentric Governance of Complex Economic System",
+      "author": "Elinor Ostrom",
+      "year": 2009,
+      "url": "https://dlc.dlib.indiana.edu/dlc/items/484f4147-bdce-4d55-9b8d-fe61f3b2d37b",
+      "access_scope": "Institutional repository metadata and abstract rechecked for this research; broader manuscript has its own evidence ledger.",
+      "supports": "Polycentric governance has research precedent; heterogeneous arrangements can be relevant to different service conditions.",
+      "does_not_establish": "The proposed AI and Merkle-DAG organization is empirically superior or will scale globally."
+    },
+    {
+      "title": "RFC 3161: Internet X.509 Public Key Infrastructure Time-Stamp Protocol (TSP)",
+      "year": 2001,
+      "url": "https://www.rfc-editor.org/rfc/rfc3161.html",
+      "access_scope": "Official RFC text, introduction and time-stamp authority/request verification requirements.",
+      "supports": "Time evidence concerns a datum existing before a time and depends on appropriate authority, time and verification conditions.",
+      "does_not_establish": "Original authorship, first discovery, causal contribution, fair reward, or a production timestamp service in this branch. This is not an endorsement of historical algorithm examples."
+    },
+    {
+      "title": "The Sybil Attack",
+      "author": "John (JD) Douceur",
+      "year": 2002,
+      "url": "https://www.microsoft.com/en-us/research/publication/the-sybil-attack/",
+      "access_scope": "Author's institutional publication page and abstract; no claim of full proof review.",
+      "supports": "One entity presenting multiple identities can defeat assumptions of independent redundancy; the paper's impossibility result has stated model conditions.",
+      "does_not_establish": "Every decentralized system is impossible or one particular identity design is adequate for this proposal."
+    }
+  ],
+  "local_evidence": [
+    {"kind":"synthetic experiment","path":"experiment/run-01/summary.json","scope":"Sequential finite model, fixed grant view, true effects provided by fixtures."},
+    {"kind":"negative results","path":"experiment/run-02/boundary-cases.json","scope":"Shared budget copies, incorrect effects and stale authority views all reproduce failure."},
+    {"kind":"synthetic experiment with residual counterexample","path":"experiment/run-03/summary.json","scope":"Fixed disjoint integer quotas preserve cap in enumerated cases; unused capacity and duplicate execution remain."},
+    {"kind":"conditional elementary proof","path":"round-03.md","scope":"Nonnegative local use bounded by non-overlapping quotas implies bounded global sum; assumptions are explicit."}
+  ],
+  "unvalidated": ["long-term cooperation", "behavioral deterrence", "privacy in deployment", "fair credit", "fair needs allocation", "economic sustainability", "political legitimacy", "energy superiority", "general AGI capability"]
+}

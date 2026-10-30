@@ -1,0 +1,13 @@
+{
+  "phase": "round-03",
+  "question": "Can non-overlapping local quotas preserve a shared integer resource cap despite independent local admission?",
+  "motivation": "Round 2 retained a counterexample with two copies of a full 10-unit budget.",
+  "model": {"global_cap":10,"left_quota_values":[0,1,2,3,4,5,6,7,8,9,10],"right_quota":"10-left_quota","request_amount_values":[0,1,2,3,4,5,6,7,8,9,10,11],"actions_per_pair":2,"local_algorithm":"unchanged candidate C from probe.py"},
+  "oracle": "Reconstruct accepted true effects and require their global sum <=10; expected local acceptance is 1<=amount<=that node's quota.",
+  "positive_control": "With quotas 6 and 4, requests 6 and 4 both execute and total 10.",
+  "retained_tradeoff": "With quotas 6 and 4, a sole left request for 7 is refused despite 10 global units being idle.",
+  "required_negative_control": "The same request id at different quota nodes can still execute twice; quota partition alone does not establish global exactly-once execution.",
+  "not_implemented": ["quota issuance consensus", "quota transfer", "concurrent local transactions", "network", "signatures", "current remote revocation", "real effect discovery"],
+  "cost_reporting": "Count finite cases and local predicate groups; do not infer wall time, energy, utilization under realistic demand or social validity.",
+  "failure_policy": "Preserve run-03 output before assertions and do not replace previous experiment files. A failure requires a separately named revision."
+}

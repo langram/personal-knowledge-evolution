@@ -1,0 +1,14 @@
+{
+  "title": "个人资料、知识接力与可组合服务的修订方案",
+  "files": ["round-03.md", "round-03-record.json", "README.md", "decision-ledger.md", "sources/evidence.json", "experiment/quota-pre-registration.json", "experiment/quota_probe.py", "experiment/run-03/results.json", "experiment/run-03/summary.json", "tools/verify_research.py"],
+  "proposals": [
+    {"id":"P1","statement":"把个人经验转成分层开放、注明证据缺口和下一步任务的知识产品，支持人和AI接力。","status":"proposed-pilot","reason":"公共知识增长需要可复用内容与自愿参与；不需要默认公开全部人生原件。","test":"单一资料类型的保真、恢复、有限分享及问题接力；真实参与效果尚未测试。"},
+    {"id":"P2","statement":"受限服务在执行前检查现行授权和实际资源，使用在线预留或保守局部额度，并另行处理重复执行与撤销。","status":"bounded-resource-model-result","reason":"固定互斥额度的1584种组合无超额，但闲置容量和跨节点重复请求均被保留。","test":"额度发行与转移、真实效果、请求幂等和授权新鲜度仍需工程验证。"},
+    {"id":"P3","statement":"按具体工作保存贡献，承认独立发现和负结果，以有限探索通道支持新人；保障和专项投入分别说明。","status":"institutional-pilot-proposal","reason":"既有名望不能成为唯一的产生新证据的资源入口；算法不能抹去价值选择与资源短缺。","test":"比较轮换、等权、明确责任人与动态权重；观察新人机会、贡献争议与真实成本。"},
+    {"id":"P4","statement":"由个人节点、有限服务共同体与公共知识层组成兼容网络，分支以可恢复、可迁移和承担共有责任为条件。","status":"architecture-proposal","reason":"参与者的实际选择需要服务连续性；公共知识共享不要求单一全局控制。","test":"维护者不协助的恢复和迁移、不同实现互通、不可分离资源的责任安排。"},
+    {"id":"P5","statement":"用带条件的不变量、反例和成本记录推动局部改进与制度学习，避免将有限证明提升为普遍规律。","status":"conditional-argument-and-finite-enumeration","reason":"在真实用量受局部额度约束且额度不重叠时，全局上限可由求和保持；社会后果不在该证明内。","test":"保持普通数据库基线；测量端到端成本及多方核查价值，未证明DAG必要性或能耗优势。"}
+  ],
+  "round_completion": {"rounds_requested":3,"rounds_completed":3,"automatic_followup":false,"author_adoption":false},
+  "new_experiment": {"enumerated_pairs":1584,"local_admission_calls":3168,"global_cap_violations":0,"check_operation_groups":17688,"residuals":["stranded capacity", "cross-node duplicate execution"]},
+  "real_world_actions": "None: no new capture, recruitment, billing, service deployment or resource allocation."
+}

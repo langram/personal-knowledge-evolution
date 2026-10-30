@@ -1,7 +1,7 @@
 {
   "schema": "pkst-public/files@1",
-  "recorded_at": "2026-10-30T07:09:28.745977+00:00",
-  "merkle_root": "c5f79aaf7e42972b149d16f031ed948f6e08ab2dddce89d92ee0cd1a95660502",
+  "recorded_at": "2026-10-30T09:59:20.389154+00:00",
+  "merkle_root": "1482dfb3c119705afc00e8618f368cdbd99af02a5590c7c5e977b00ae15b94c2",
   "files": [
     {
       "path": ".gitattributes",
@@ -5074,6 +5074,481 @@
       "sha256": "3db44951466e1b692a0cc4e52c2ad10b900a8633ea28ffa787177e441ec47985"
     },
     {
+      "path": "research/codex-open-civilization/00-charter.md",
+      "bytes": 2539,
+      "sha256": "2d432f5ff4b35dc7fb438dbc5cc39681e16b9f5950bcced552c40f81bdf35741"
+    },
+    {
+      "path": "research/codex-open-civilization/README.md",
+      "bytes": 4774,
+      "sha256": "2126666079d79737d14205ca71e2004b326bdd45053cf41d0a1f0d0d8b1a4628"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/index.json",
+      "bytes": 735,
+      "sha256": "f15e9c5b02f49cc61513e93b260a9ff74d1d084a02bea508ce466dbbd57ab48b"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreiafe5f3acfwbizbijhtvbciv6zc4xkfbn66gkkqcinx2gskuavtli.cbor",
+      "bytes": 593,
+      "sha256": "05274bb008b60a321424f3a8448afb22e5d450b7de32950121b7d1a4aa02b35a"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreiafe5f3acfwbizbijhtvbciv6zc4xkfbn66gkkqcinx2gskuavtli.json",
+      "bytes": 677,
+      "sha256": "cc7528ab333ed928ff14261e97a56560c71a0711b33c68b4945a779ee3649425"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreiaij3x42jaremdyehz2mognk2uk5rjmjxf7re2dm5fgejjbbiahnm.cbor",
+      "bytes": 663,
+      "sha256": "084eefcd24112307821f3a638cd56a8aec52c4dcbf89343674a6225210a0076b"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreiaij3x42jaremdyehz2mognk2uk5rjmjxf7re2dm5fgejjbbiahnm.json",
+      "bytes": 746,
+      "sha256": "0af483b7d8762751178793f4bd8750020e9fc354988a60b4b82143c2ec5e83b9"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreiasabxhiht4mbyca4fuscm6mgro2kkqxgffvjtvnmmlhxmiv2qhxu.cbor",
+      "bytes": 554,
+      "sha256": "12006e741e7c60702070b49099e61a2ed2950b98a5aa6756b18b3dd88aea07bd"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreiasabxhiht4mbyca4fuscm6mgro2kkqxgffvjtvnmmlhxmiv2qhxu.json",
+      "bytes": 611,
+      "sha256": "0197b77a5514eef079bb5d21eba6ed463aad6effb09dd65b17c1254e8476c219"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreibmnebkh357zetzsrk6kvo36u4rhip3p6tn4gnv6zprhvy3pf3vfq.cbor",
+      "bytes": 633,
+      "sha256": "2c6902a3efbfc92799455e555dbf53913a1fb7fa6de19b5f65f13d71b797752c"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreibmnebkh357zetzsrk6kvo36u4rhip3p6tn4gnv6zprhvy3pf3vfq.json",
+      "bytes": 716,
+      "sha256": "f28b607227260ee3d6eb1d80b3f7156e7ef5e27584490dac62110a63f33db6dc"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreibscn2kdq2v6ewutceibm2foqxrdhkaca3kxselat57oecxssk4f4.cbor",
+      "bytes": 557,
+      "sha256": "321374a1c355f12d4988880b345742f119d401036abc88b04fbf710579495c2f"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreibscn2kdq2v6ewutceibm2foqxrdhkaca3kxselat57oecxssk4f4.json",
+      "bytes": 614,
+      "sha256": "4aab4d1efabe81f229e404f9f2d00bb36257a16ad171da40d63966dad01b958e"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreic2fwk27ifbr73t3y2s4x4fdgrxh6l6ccezb7ysw26zmu4d7uj5va.cbor",
+      "bytes": 706,
+      "sha256": "5a2d95afa0a18ff73de352e5f8519a373f97e108990ff12b6bd965383fd13da8"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreic2fwk27ifbr73t3y2s4x4fdgrxh6l6ccezb7ysw26zmu4d7uj5va.json",
+      "bytes": 789,
+      "sha256": "b2f6faa8b34efd5dfdf590512b7ab11601d67f20da48f560b189b90d7a3213ab"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreidje4dumb4sqhjq5kebegkublzxnrwguaudfakp3scr3rbvbdfvmi.cbor",
+      "bytes": 509,
+      "sha256": "69270746079281d30ea881219540af376c6c6a02832814fdc851dc43508cb562"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreidje4dumb4sqhjq5kebegkublzxnrwguaudfakp3scr3rbvbdfvmi.json",
+      "bytes": 566,
+      "sha256": "0e3460aa88daf811c02a9e654159daf66ec75873432339dc175efe2c8a5fbed0"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreidjfhnph2adnzhcfylty7bw3wzitkv2jumdywtna2fvjq7hsuezhi.cbor",
+      "bytes": 532,
+      "sha256": "6929daf3e8036e4e22e173c7c36ddb289aaba4d183c5a6d068b54c3e7950993a"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreidjfhnph2adnzhcfylty7bw3wzitkv2jumdywtna2fvjq7hsuezhi.json",
+      "bytes": 589,
+      "sha256": "3a0f427aa77c1549eb53f470f915a873e41be1a688f3c3c2eecf7d9f4e56521b"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreidwm6vpz2jk6emskuqavh7xv3n67cln3yrvlowgdxfbqigxqieqn4.cbor",
+      "bytes": 648,
+      "sha256": "7667aafce92af119255200a9ff7aedbef896dde2355bac61dca1820d7820906f"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreidwm6vpz2jk6emskuqavh7xv3n67cln3yrvlowgdxfbqigxqieqn4.json",
+      "bytes": 732,
+      "sha256": "be1a2fb6585f33dae5d1b1713be8e9c7611107b4d2a3dd3401f333f724c042c2"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreiethruyelk2zch4ouvrhb4627qmb6nmcw5k2ysksvdwlsifwpiqea.cbor",
+      "bytes": 681,
+      "sha256": "933c69822d5ac88fc752b13879ed7e0c0f9ac15baad624a954765c905b3d1020"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreiethruyelk2zch4ouvrhb4627qmb6nmcw5k2ysksvdwlsifwpiqea.json",
+      "bytes": 764,
+      "sha256": "a9ff18fd18a68c6feb4ff3aa26d36c522865a02c5bf6532ef837154f0475aea1"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreig3lr7wexgulenafkptq7b2eq4zsezs6jrjgywvsd46imcdlcbr7m.cbor",
+      "bytes": 733,
+      "sha256": "db5c7f625cd4591a02a9f387c3a2439991332f2629362d590f9e4304358831fb"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreig3lr7wexgulenafkptq7b2eq4zsezs6jrjgywvsd46imcdlcbr7m.json",
+      "bytes": 816,
+      "sha256": "515272c22323424bcb4d61d0f4a4177b47fe82689be1f5be978c0e1916e87fd8"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreig4irajqawtd47f5cuwcg4b6huk33vtfcrz5qd5yu2zpvwwl2f3nq.cbor",
+      "bytes": 183,
+      "sha256": "dc44409802d31f3e5e8a9611b81f1e8adeeb328a39ec07dc53597d6d65e8bb6c"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreig4irajqawtd47f5cuwcg4b6huk33vtfcrz5qd5yu2zpvwwl2f3nq.json",
+      "bytes": 264,
+      "sha256": "b493f6c999a641e3d5b92d6eded2b97d045c7813865c249338f6ad64c1f8c97a"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreig6rf6x77n26yxztbh4hnitcshthcnegxdif5srxrsof6qve4svi4.cbor",
+      "bytes": 596,
+      "sha256": "de897d7ffdbaf62f9984fc3b513148f3389a435c682f651bc64e2fa152725547"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreig6rf6x77n26yxztbh4hnitcshthcnegxdif5srxrsof6qve4svi4.json",
+      "bytes": 680,
+      "sha256": "585ae8125cf6463f7b514fee4ae42e79e904d28c01fe353a7adf1f14a0e1e596"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreigc4kf7ucajq3nd6g2ggfa3lo7g45tnmh5muxcy62zgx6ae7giudq.cbor",
+      "bytes": 1599,
+      "sha256": "c2e28bfa080986da3f1b463141b5bbe6e766d61faca5c58f6b26bf804f99141c"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreigc4kf7ucajq3nd6g2ggfa3lo7g45tnmh5muxcy62zgx6ae7giudq.json",
+      "bytes": 2055,
+      "sha256": "b8ce906cfed358e64ad3fee5ebdf8e1ff7cf3eee0d857a3eb2c9aafd91bd1bed"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreigkqzrvswta3jx276lzrd4d275bpeeo4yr2mu6flkaaseqbdr22k4.cbor",
+      "bytes": 657,
+      "sha256": "ca8663595a60da6faff97988f83d7fa17908ee623a653c55a800912011c75a57"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreigkqzrvswta3jx276lzrd4d275bpeeo4yr2mu6flkaaseqbdr22k4.json",
+      "bytes": 740,
+      "sha256": "9ccf6fce8a7b7360b925d1ee13c703eb4dd7ea76b78ccbde4414af65808704dc"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreigwsjy5ujejr6helb2tfyx4khbdiuesixffa23ecpmquycuxzpjh4.cbor",
+      "bytes": 674,
+      "sha256": "d69271da24898f8e4587532e2fc51c234509245ca506b6413d90a6054be5e93f"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreigwsjy5ujejr6helb2tfyx4khbdiuesixffa23ecpmquycuxzpjh4.json",
+      "bytes": 758,
+      "sha256": "bbe07b15dbbc56fce0b29d4ab9ca8e4bfd0f12791854a28ae7351e8ae04600d0"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreigxmce2fwy2zbdihfqllk7t5zh5b4kclfigtl6fju3k7gwbemgohe.cbor",
+      "bytes": 2273,
+      "sha256": "d76089a2db1ac84683960b5abf3ee4fd0f142595069afc54d36af9ac1230ce39"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreigxmce2fwy2zbdihfqllk7t5zh5b4kclfigtl6fju3k7gwbemgohe.json",
+      "bytes": 2906,
+      "sha256": "325d934c9ff796e3ca5678e0bf2ff1a825bf4b7bc25c186cefc7d54db2885158"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreih23fhwionlt2gg2u4tbch65qwhsgunfyk4xxfcvvmxqrzf5g72gy.cbor",
+      "bytes": 1976,
+      "sha256": "fad94f6439ab9e8c6d5393088feec2c791a8d2e15cbdca2ad59784725e9bfa36"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreih23fhwionlt2gg2u4tbch65qwhsgunfyk4xxfcvvmxqrzf5g72gy.json",
+      "bytes": 2521,
+      "sha256": "27aa4798fe6c4378732d178faa6741a3a0811c46c3d3c46095c42c2d37145d11"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreih2wyq7dwll7i5a2c7wapbuunrvs4u3zj5motkl22rh4qkvuiqnde.cbor",
+      "bytes": 142,
+      "sha256": "fab621f1d96bfa3a0d0bf603c34a36359729bca7ac74d4bd6a27e4155a220d19"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreih2wyq7dwll7i5a2c7wapbuunrvs4u3zj5motkl22rh4qkvuiqnde.json",
+      "bytes": 193,
+      "sha256": "4f7dac79fc5f9102d6c0dbf5bbaddfc4be9e46958483ab4539dd1847f2c557de"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreihjvvdi3zrekhddfpbkuivifthcyioagirgaqvpuclsaqks66xft4.cbor",
+      "bytes": 520,
+      "sha256": "e9ad468de62451c632bc2aa22a82cce2c21c032226042afa097204152f7ae59f"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreihjvvdi3zrekhddfpbkuivifthcyioagirgaqvpuclsaqks66xft4.json",
+      "bytes": 577,
+      "sha256": "2c98efda701ab0244dab8723135c5444fa4b05162e035e4e0c6910095b72d409"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreihwztlgglchc22d2irxxkrmmcbmus3vbya5f2n5jzwmtopbhvc2by.cbor",
+      "bytes": 183,
+      "sha256": "f6ccd6632c4716b43d2237baa2c6082ca4b750e01d2e9bd4e6cc9b9e13d45a0e"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/objects/bafyreihwztlgglchc22d2irxxkrmmcbmus3vbya5f2n5jzwmtopbhvc2by.json",
+      "bytes": 264,
+      "sha256": "101b125693d5ad811bd6806689b26fff4c3b57f31a88c180cc835033f77f0631"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreiaetxybcsyga7wnxmuwj2mu35hajogqg655o33mpybyfq5rv4kmki.bin",
+      "bytes": 5127,
+      "sha256": "049df0114b0607ecdbb2964e994df4e04b8d037bbd76f6c7e0382c3b1af14c52"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreiaulgd2aw3jfegsq3vlwlo7boggzxmzaatx3myh5ligkcqdm7xtxa.bin",
+      "bytes": 3447,
+      "sha256": "145987a05b69290d286eabb2ddf0b8c6cdd9900277db307ead0650a0367ef3b8"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreibbeztga6oxs435cqqfzjy6eaclgjv52rifht2b2cq7bugywgsgfa.bin",
+      "bytes": 4774,
+      "sha256": "2126666079d79737d14205ca71e2004b326bdd45053cf41d0a1f0d0d8b1a4628"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreibbneh63cdtya2zbyj4ivopx4kwhirdhz6zgdjqh6edira7t3kv2u.bin",
+      "bytes": 2794,
+      "sha256": "21690fed8873c03590e13c455cfbf1563a2233e7d930d303f8834441f9ed55d5"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreibbusxsimlanqqauluh4oedltbh35iojrvo7j2rqxcvj36rhitdfu.bin",
+      "bytes": 13253,
+      "sha256": "21a4af2431606c200a2e87e38835cc27df50e4c6aefa75185c554efd13a2632d"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreibdulqmhecxcpntyhljqyxztvqw6i3ohcjg6potnm3pto5ghk5dyi.bin",
+      "bytes": 1110152,
+      "sha256": "23a2e0c3905713db3c1d69862f99d616f236e38926f3dd36b36f9bba63aba3c2"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreibnbpvce7rfn73mcfwpejolmir6qhf6hwjp6u2bmwikfw4e7s3l7m.bin",
+      "bytes": 7817,
+      "sha256": "2d0bea227e256ff6c116cf225cb6223e81cbe3d92ff53416590a2db84fcb6bfb"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreibnimxv75ftlxd7wq4nxromhfub4fvz6wkqxthnkuweb6a3342xie.bin",
+      "bytes": 2539,
+      "sha256": "2d432f5ff4b35dc7fb438dbc5cc39681e16b9f5950bcced552c40f81bdf35741"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreicifop27nnie6soam5gswqeocxcsmks3jius4fpiqu7v5dbwti7nm.bin",
+      "bytes": 10776,
+      "sha256": "482b9fafb5a827a4e033a695a0470ae293152da514970af4429faf461b4d1f6b"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreicni3zcfohknoq42eqx34r2vfx2eoq4tza3pyktgmahkzit2upfcm.bin",
+      "bytes": 4161,
+      "sha256": "4d46f222b8ea6ba1cd1217df23aa96fa23a1c9e41b7e1533300756513d51e513"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreicyhy6c2phiibevpen4xyu6ipa6himwmlcgu2op6g5eovtq3nr7mu.bin",
+      "bytes": 1281,
+      "sha256": "583e3c2d3ce840495791bcbe29e43c1e3a19662c46a69cff1ba475670db63f65"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreid5iy3n5ba5dlyv4spya7hvzjtcwjwekdw7feaoyppeqfeoacjj2q.bin",
+      "bytes": 2653,
+      "sha256": "7d4636de841d1af15e49f807cf5ca662b26c450edf2900ec3de48148e00929d4"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreiddbhavrbl25vfbeyp3uqbdc5x6kdctm3a2cdusa3chwk5uj6uq2m.bin",
+      "bytes": 20217,
+      "sha256": "6309c158857aed4a1261fba4023176fe50c5366c1a10e9206c47b2bb44fa90d3"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreidf7zf7y5weft4bjplh55vzkt4d42o4qqqd4ulfiatbvyux3necyq.bin",
+      "bytes": 1506,
+      "sha256": "65fe4bfc76c42cf814bd67ef6b954f83e69dc84203e516540261ae297db482c4"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreie6g7zgcswst5aqozs5ouo7uvkxvb2qhkt77lwdu57chjdpiwpoui.bin",
+      "bytes": 4847,
+      "sha256": "9e37f2614ad29f4107665d751dfa5557a87503aa7ffaec3a77e23a46f459eea2"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreiekpxlhkfpni6ymb5vigseyok2jve42tjjgnrssvy72n7r4jc5x2u.bin",
+      "bytes": 9701,
+      "sha256": "8a7dd67515ed47b0c0f6a83489872b49a939a9a5266c652ae3fa6fe3c48bb7d5"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreiespx3wpi4cnwbmcetmv3r3e4ekh2zwe3dwnm7ficvtpk5drkmfeq.bin",
+      "bytes": 4007,
+      "sha256": "927df767a3826d82c1126caee3b2708a3eb3626c766b3e540ab37aba38a98524"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreifbe6npdcc23gqbcvuyjrumy27sxik2qqssskswpk32y4be635xcm.bin",
+      "bytes": 2245,
+      "sha256": "a1279af1885ad9a01156984c68cc6bf2ba15a8425292a567ab7ac7024f6fb713"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreifq2enqofdg4ctvjuhjxrpmaqcxbdzbj7yftio7fa7ratryq6jiwy.bin",
+      "bytes": 402612,
+      "sha256": "b0d11b071466e0a754d0e9bc5ec0405708f214ff059a1df283f104e3887928b6"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreig4wiiahifobt3zdcssmgyl6dfr4pz5qgqh2xr3kfaks44ozv2wbm.bin",
+      "bytes": 938,
+      "sha256": "dcb21003a0ae0cf7918a5261b0bf0cb1e3f3d81a07d5e3b5140a9738ecd7560b"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreigbxcr36hzeyzl246qia5v6r2nkka4z3strmx6ndxcy3pqmadrf7m.bin",
+      "bytes": 2980,
+      "sha256": "c1b8a3bf1f24c657ae7a08076be8e9aa50399dca7165fcd1dc58dbe0c00e25fb"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreigwnpsin6qvxrop66ede6dbyzkle5om4fvwnqdy2k52sbxqy2yowy.bin",
+      "bytes": 468799,
+      "sha256": "d66be486fa15bc5cff788327861c654b275cce16b66c078d2bba906f0c6b0eb6"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreihajud62j52uzybtzglb2iffumdes37ai747oxcgzx2dcw5cmm3hu.bin",
+      "bytes": 2234,
+      "sha256": "e04d07ed27baa67019e4cb0e9052d18324b7f023fcfbae2366fa18add1319b3d"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/raw/bafkreihzhucxdvolgnkvkofjrrmdlr6qc4z4a3qxhpsm3spgtpul2hwfa4.bin",
+      "bytes": 806,
+      "sha256": "f93d0571d5cb33555538a98c5835c7d01733c06e173be4cdc9e69be8bd1ec507"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/round-01.json",
+      "bytes": 2106,
+      "sha256": "64216a5358b429efc4fb85b04e04f1a7647bf1619ded2346aecac972678a9b29"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/round-02.json",
+      "bytes": 2729,
+      "sha256": "3720d0e455db74d69cf40934d1d16bf705babf297b0226bd632f827027d0773a"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/round-03.json",
+      "bytes": 3223,
+      "sha256": "0a1888ad6c4c17069e5336a192812be6680fb8a72c75cec29c778d85c74b67e7"
+    },
+    {
+      "path": "research/codex-open-civilization/decision-ledger.md",
+      "bytes": 4161,
+      "sha256": "4d46f222b8ea6ba1cd1217df23aa96fa23a1c9e41b7e1533300756513d51e513"
+    },
+    {
+      "path": "research/codex-open-civilization/experiment/boundary_probe.py",
+      "bytes": 2794,
+      "sha256": "21690fed8873c03590e13c455cfbf1563a2233e7d930d303f8834441f9ed55d5"
+    },
+    {
+      "path": "research/codex-open-civilization/experiment/pre-registration.json",
+      "bytes": 2245,
+      "sha256": "a1279af1885ad9a01156984c68cc6bf2ba15a8425292a567ab7ac7024f6fb713"
+    },
+    {
+      "path": "research/codex-open-civilization/experiment/probe.py",
+      "bytes": 7817,
+      "sha256": "2d0bea227e256ff6c116cf225cb6223e81cbe3d92ff53416590a2db84fcb6bfb"
+    },
+    {
+      "path": "research/codex-open-civilization/experiment/quota-pre-registration.json",
+      "bytes": 1506,
+      "sha256": "65fe4bfc76c42cf814bd67ef6b954f83e69dc84203e516540261ae297db482c4"
+    },
+    {
+      "path": "research/codex-open-civilization/experiment/quota_probe.py",
+      "bytes": 4007,
+      "sha256": "927df767a3826d82c1126caee3b2708a3eb3626c766b3e540ab37aba38a98524"
+    },
+    {
+      "path": "research/codex-open-civilization/experiment/run-01/inputs.json",
+      "bytes": 468799,
+      "sha256": "d66be486fa15bc5cff788327861c654b275cce16b66c078d2bba906f0c6b0eb6"
+    },
+    {
+      "path": "research/codex-open-civilization/experiment/run-01/results.json",
+      "bytes": 1110152,
+      "sha256": "23a2e0c3905713db3c1d69862f99d616f236e38926f3dd36b36f9bba63aba3c2"
+    },
+    {
+      "path": "research/codex-open-civilization/experiment/run-01/summary.json",
+      "bytes": 1281,
+      "sha256": "583e3c2d3ce840495791bcbe29e43c1e3a19662c46a69cff1ba475670db63f65"
+    },
+    {
+      "path": "research/codex-open-civilization/experiment/run-02/boundary-cases.json",
+      "bytes": 5127,
+      "sha256": "049df0114b0607ecdbb2964e994df4e04b8d037bbd76f6c7e0382c3b1af14c52"
+    },
+    {
+      "path": "research/codex-open-civilization/experiment/run-03/results.json",
+      "bytes": 402612,
+      "sha256": "b0d11b071466e0a754d0e9bc5ec0405708f214ff059a1df283f104e3887928b6"
+    },
+    {
+      "path": "research/codex-open-civilization/experiment/run-03/summary.json",
+      "bytes": 938,
+      "sha256": "dcb21003a0ae0cf7918a5261b0bf0cb1e3f3d81a07d5e3b5140a9738ecd7560b"
+    },
+    {
+      "path": "research/codex-open-civilization/round-01-record.json",
+      "bytes": 2234,
+      "sha256": "e04d07ed27baa67019e4cb0e9052d18324b7f023fcfbae2366fa18add1319b3d"
+    },
+    {
+      "path": "research/codex-open-civilization/round-01.md",
+      "bytes": 10776,
+      "sha256": "482b9fafb5a827a4e033a695a0470ae293152da514970af4429faf461b4d1f6b"
+    },
+    {
+      "path": "research/codex-open-civilization/round-02-record.json",
+      "bytes": 2653,
+      "sha256": "7d4636de841d1af15e49f807cf5ca662b26c450edf2900ec3de48148e00929d4"
+    },
+    {
+      "path": "research/codex-open-civilization/round-02.md",
+      "bytes": 13253,
+      "sha256": "21a4af2431606c200a2e87e38835cc27df50e4c6aefa75185c554efd13a2632d"
+    },
+    {
+      "path": "research/codex-open-civilization/round-03-record.json",
+      "bytes": 2980,
+      "sha256": "c1b8a3bf1f24c657ae7a08076be8e9aa50399dca7165fcd1dc58dbe0c00e25fb"
+    },
+    {
+      "path": "research/codex-open-civilization/round-03.md",
+      "bytes": 20217,
+      "sha256": "6309c158857aed4a1261fba4023176fe50c5366c1a10e9206c47b2bb44fa90d3"
+    },
+    {
+      "path": "research/codex-open-civilization/sources/author-request.json",
+      "bytes": 806,
+      "sha256": "f93d0571d5cb33555538a98c5835c7d01733c06e173be4cdc9e69be8bd1ec507"
+    },
+    {
+      "path": "research/codex-open-civilization/sources/evidence.json",
+      "bytes": 3447,
+      "sha256": "145987a05b69290d286eabb2ddf0b8c6cdd9900277db307ead0650a0367ef3b8"
+    },
+    {
+      "path": "research/codex-open-civilization/tools/snapshot.py",
+      "bytes": 4847,
+      "sha256": "9e37f2614ad29f4107665d751dfa5557a87503aa7ffaec3a77e23a46f459eea2"
+    },
+    {
+      "path": "research/codex-open-civilization/tools/verify_research.py",
+      "bytes": 9701,
+      "sha256": "8a7dd67515ed47b0c0f6a83489872b49a939a9a5266c652ae3fa6fe3c48bb7d5"
+    },
+    {
+      "path": "research/codex-open-civilization/verification.json",
+      "bytes": 1265,
+      "sha256": "dbbfbe68c44943a74c1d4eb9137232708451ae709a7a97554996846ba24bd198"
+    },
+    {
       "path": "tests/test_public.py",
       "bytes": 3540,
       "sha256": "6f6e0c80f63b29db128c762d34813ff786596ecb6d77115e52c1a4f6516abae3"
@@ -5944,6 +6419,6 @@
       "sha256": "be35d8ba796b117ed5518d006eb0034161fd3376c2881d6a2d2febce460bafcb"
     }
   ],
-  "total_bytes": 493368420,
+  "total_bytes": 497592000,
   "scope": "All release files except this manifest and generated .cache/.git/__pycache__; checks cover defined credential patterns, not an absolute guarantee."
 }

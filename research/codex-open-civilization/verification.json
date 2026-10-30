@@ -1,0 +1,44 @@
+{
+  "schema": "cnr/verification@1",
+  "status": "pass",
+  "graph": {
+    "rounds": 3,
+    "objects": 21,
+    "raw_blocks": 24,
+    "file_version_checks": 24,
+    "latest_root": "bafyreihwztlgglchc22d2irxxkrmmcbmus3vbya5f2n5jzwmtopbhvc2by",
+    "proposal_lineages": 5,
+    "unreachable_blocks": 0
+  },
+  "sequential_replay": {
+    "traces_per_candidate": 112,
+    "actions_per_candidate": 2015,
+    "failing_traces": {
+      "A": 106,
+      "B": 101,
+      "C": 0
+    }
+  },
+  "boundary_replay": {
+    "counterexamples_reproduced": [
+      "independent-full-budget-copies",
+      "incorrect-effect-view",
+      "revoked-elsewhere-but-local-view-stale"
+    ]
+  },
+  "quota_replay": {
+    "enumerated_pairs": 1584,
+    "global_cap_violations": 0,
+    "stranded_capacity_reproduced": true,
+    "duplicate_execution_reproduced": true
+  },
+  "book_sha256_unchanged": "ad4f660d6392caecae59ca20d58fe31952c2f99b7514d9f839a27f5c2286c89d",
+  "cjk_characters": {
+    "round-01.md": 3198,
+    "round-02.md": 3848,
+    "round-03.md": 6004
+  },
+  "relative_markdown_links": "pass",
+  "limits": "Artifact identity, lineage, deterministic finite replay and unchanged book; no human, deployment, fairness or energy validation.",
+  "recorded_at": "2026-10-30T09:57:40.275554+00:00"
+}
