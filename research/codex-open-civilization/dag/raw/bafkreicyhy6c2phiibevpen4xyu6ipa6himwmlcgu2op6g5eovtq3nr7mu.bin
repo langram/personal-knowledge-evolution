@@ -1,0 +1,34 @@
+{
+  "status": "completed",
+  "pre_registration_sha256": "a1279af1885ad9a01156984c68cc6bf2ba15a8425292a567ab7ac7024f6fb713",
+  "program_sha256": "2d0bea227e256ff6c116cf225cb6223e81cbe3d92ff53416590a2db84fcb6bfb",
+  "fixed_cases": 12,
+  "generated_traces": 100,
+  "actions_per_candidate": 2015,
+  "results": {
+    "A": {
+      "traces": 112,
+      "failing_traces": 106,
+      "admitted_actions": 1726,
+      "check_operations": 3743,
+      "maximum_retained_request_ids_in_one_trace": 0
+    },
+    "B": {
+      "traces": 112,
+      "failing_traces": 101,
+      "admitted_actions": 506,
+      "check_operations": 7199,
+      "maximum_retained_request_ids_in_one_trace": 0
+    },
+    "C": {
+      "traces": 112,
+      "failing_traces": 0,
+      "admitted_actions": 350,
+      "check_operations": 8734,
+      "maximum_retained_request_ids_in_one_trace": 6
+    }
+  },
+  "positive_acceptance_controls": "pass",
+  "scope": "Synthetic sequential admission with true effect scope supplied by fixtures. No privacy, human fairness, economic sustainability, physical loss or distributed-consensus claims.",
+  "cost_boundary": "check_operations are counted Python-level predicate groups, not time or energy. Inputs and verification costs are also required; no efficiency ranking is claimed."
+}

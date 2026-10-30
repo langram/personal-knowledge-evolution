@@ -1,0 +1,79 @@
+{
+  "round": 2,
+  "root": "bafyreig4irajqawtd47f5cuwcg4b6huk33vtfcrz5qd5yu2zpvwwl2f3nq",
+  "parent": "bafyreih2wyq7dwll7i5a2c7wapbuunrvs4u3zj5motkl22rh4qkvuiqnde",
+  "activity": "bafyreih23fhwionlt2gg2u4tbch65qwhsgunfyk4xxfcvvmxqrzf5g72gy",
+  "files": [
+    {
+      "path": "round-02.md",
+      "raw": {
+        "$link": "bafkreibbusxsimlanqqauluh4oedltbh35iojrvo7j2rqxcvj36rhitdfu"
+      },
+      "bytes": 13253,
+      "sha256": "21a4af2431606c200a2e87e38835cc27df50e4c6aefa75185c554efd13a2632d"
+    },
+    {
+      "path": "round-02-record.json",
+      "raw": {
+        "$link": "bafkreid5iy3n5ba5dlyv4spya7hvzjtcwjwekdw7feaoyppeqfeoacjj2q"
+      },
+      "bytes": 2653,
+      "sha256": "7d4636de841d1af15e49f807cf5ca662b26c450edf2900ec3de48148e00929d4"
+    },
+    {
+      "path": "experiment/probe.py",
+      "raw": {
+        "$link": "bafkreibnbpvce7rfn73mcfwpejolmir6qhf6hwjp6u2bmwikfw4e7s3l7m"
+      },
+      "bytes": 7817,
+      "sha256": "2d0bea227e256ff6c116cf225cb6223e81cbe3d92ff53416590a2db84fcb6bfb"
+    },
+    {
+      "path": "experiment/run-01/inputs.json",
+      "raw": {
+        "$link": "bafkreigwnpsin6qvxrop66ede6dbyzkle5om4fvwnqdy2k52sbxqy2yowy"
+      },
+      "bytes": 468799,
+      "sha256": "d66be486fa15bc5cff788327861c654b275cce16b66c078d2bba906f0c6b0eb6"
+    },
+    {
+      "path": "experiment/run-01/results.json",
+      "raw": {
+        "$link": "bafkreibdulqmhecxcpntyhljqyxztvqw6i3ohcjg6potnm3pto5ghk5dyi"
+      },
+      "bytes": 1110152,
+      "sha256": "23a2e0c3905713db3c1d69862f99d616f236e38926f3dd36b36f9bba63aba3c2"
+    },
+    {
+      "path": "experiment/run-01/summary.json",
+      "raw": {
+        "$link": "bafkreicyhy6c2phiibevpen4xyu6ipa6himwmlcgu2op6g5eovtq3nr7mu"
+      },
+      "bytes": 1281,
+      "sha256": "583e3c2d3ce840495791bcbe29e43c1e3a19662c46a69cff1ba475670db63f65"
+    },
+    {
+      "path": "experiment/boundary_probe.py",
+      "raw": {
+        "$link": "bafkreibbneh63cdtya2zbyj4ivopx4kwhirdhz6zgdjqh6edira7t3kv2u"
+      },
+      "bytes": 2794,
+      "sha256": "21690fed8873c03590e13c455cfbf1563a2233e7d930d303f8834441f9ed55d5"
+    },
+    {
+      "path": "experiment/run-02/boundary-cases.json",
+      "raw": {
+        "$link": "bafkreiaetxybcsyga7wnxmuwj2mu35hajogqg655o33mpybyfq5rv4kmki"
+      },
+      "bytes": 5127,
+      "sha256": "049df0114b0607ecdbb2964e994df4e04b8d037bbd76f6c7e0382c3b1af14c52"
+    }
+  ],
+  "proposals": [
+    "bafyreiafe5f3acfwbizbijhtvbciv6zc4xkfbn66gkkqcinx2gskuavtli",
+    "bafyreigkqzrvswta3jx276lzrd4d275bpeeo4yr2mu6flkaaseqbdr22k4",
+    "bafyreibmnebkh357zetzsrk6kvo36u4rhip3p6tn4gnv6zprhvy3pf3vfq",
+    "bafyreiaij3x42jaremdyehz2mognk2uk5rjmjxf7re2dm5fgejjbbiahnm",
+    "bafyreig6rf6x77n26yxztbh4hnitcshthcnegxdif5srxrsof6qve4svi4"
+  ]
+}

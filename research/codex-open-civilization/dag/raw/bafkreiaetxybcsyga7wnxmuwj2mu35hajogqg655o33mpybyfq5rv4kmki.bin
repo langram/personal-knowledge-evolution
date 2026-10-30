@@ -1,0 +1,259 @@
+{
+  "status": "counterexamples-reproduced",
+  "candidate": "C unchanged from run-01",
+  "program_sha256": "21690fed8873c03590e13c455cfbf1563a2233e7d930d303f8834441f9ed55d5",
+  "cases": [
+    {
+      "case": "independent-full-budget-copies",
+      "oracle_input": {
+        "caps": {
+          "alice": 10,
+          "bob": 10
+        },
+        "grants": {
+          "alice": {
+            "epoch": 2,
+            "active": true
+          },
+          "bob": {
+            "epoch": 3,
+            "active": true
+          }
+        },
+        "actions": [
+          {
+            "id": "left",
+            "declared": {
+              "alice": 6
+            },
+            "effect": {
+              "alice": 6
+            },
+            "epochs": {
+              "alice": 2,
+              "bob": 3
+            }
+          },
+          {
+            "id": "right",
+            "declared": {
+              "alice": 6
+            },
+            "effect": {
+              "alice": 6
+            },
+            "epochs": {
+              "alice": 2,
+              "bob": 3
+            }
+          }
+        ]
+      },
+      "effect_view_supplied_to_candidates": [
+        {
+          "alice": 6
+        },
+        {
+          "alice": 6
+        }
+      ],
+      "candidate_local_grants": [
+        {
+          "alice": {
+            "epoch": 2,
+            "active": true
+          },
+          "bob": {
+            "epoch": 3,
+            "active": true
+          }
+        },
+        {
+          "alice": {
+            "epoch": 2,
+            "active": true
+          },
+          "bob": {
+            "epoch": 3,
+            "active": true
+          }
+        }
+      ],
+      "history": [
+        {
+          "index": 0,
+          "accepted": true,
+          "applied_effect": {
+            "alice": 6
+          }
+        },
+        {
+          "index": 1,
+          "accepted": true,
+          "applied_effect": {
+            "alice": 6
+          }
+        }
+      ],
+      "failures": [
+        {
+          "index": 1,
+          "problems": [
+            "cap-exceeded:alice"
+          ],
+          "spent_after": {
+            "alice": 12,
+            "bob": 0
+          }
+        }
+      ]
+    },
+    {
+      "case": "incorrect-effect-view",
+      "oracle_input": {
+        "caps": {
+          "alice": 10,
+          "bob": 10
+        },
+        "grants": {
+          "alice": {
+            "epoch": 2,
+            "active": true
+          },
+          "bob": {
+            "epoch": 3,
+            "active": true
+          }
+        },
+        "actions": [
+          {
+            "id": "hidden",
+            "declared": {
+              "alice": 2
+            },
+            "effect": {
+              "alice": 2,
+              "bob": 5
+            },
+            "epochs": {
+              "alice": 2,
+              "bob": 3
+            }
+          }
+        ]
+      },
+      "effect_view_supplied_to_candidates": [
+        {
+          "alice": 2
+        }
+      ],
+      "candidate_local_grants": [
+        {
+          "alice": {
+            "epoch": 2,
+            "active": true
+          },
+          "bob": {
+            "epoch": 3,
+            "active": true
+          }
+        }
+      ],
+      "history": [
+        {
+          "index": 0,
+          "accepted": true,
+          "applied_effect": {
+            "alice": 2,
+            "bob": 5
+          }
+        }
+      ],
+      "failures": [
+        {
+          "index": 0,
+          "problems": [
+            "scope-mismatch"
+          ],
+          "spent_after": {
+            "alice": 2,
+            "bob": 5
+          }
+        }
+      ]
+    },
+    {
+      "case": "revoked-elsewhere-but-local-view-stale",
+      "oracle_input": {
+        "caps": {
+          "alice": 10,
+          "bob": 10
+        },
+        "grants": {
+          "alice": {
+            "epoch": 3,
+            "active": false
+          },
+          "bob": {
+            "epoch": 3,
+            "active": true
+          }
+        },
+        "actions": [
+          {
+            "id": "stale",
+            "declared": {
+              "alice": 2
+            },
+            "effect": {
+              "alice": 2
+            },
+            "epochs": {
+              "alice": 2,
+              "bob": 3
+            }
+          }
+        ]
+      },
+      "effect_view_supplied_to_candidates": [
+        {
+          "alice": 2
+        }
+      ],
+      "candidate_local_grants": [
+        {
+          "alice": {
+            "epoch": 2,
+            "active": true
+          },
+          "bob": {
+            "epoch": 3,
+            "active": true
+          }
+        }
+      ],
+      "history": [
+        {
+          "index": 0,
+          "accepted": true,
+          "applied_effect": {
+            "alice": 2
+          }
+        }
+      ],
+      "failures": [
+        {
+          "index": 0,
+          "problems": [
+            "invalid-current-grant:alice"
+          ],
+          "spent_after": {
+            "alice": 2,
+            "bob": 0
+          }
+        }
+      ]
+    }
+  ],
+  "meaning": "The local algorithm does not establish shared serialization, true effects, or current remote authority."
+}

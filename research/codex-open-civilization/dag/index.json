@@ -3,13 +3,17 @@
     {
       "round": 1,
       "root": "bafyreih2wyq7dwll7i5a2c7wapbuunrvs4u3zj5motkl22rh4qkvuiqnde"
+    },
+    {
+      "round": 2,
+      "root": "bafyreig4irajqawtd47f5cuwcg4b6huk33vtfcrz5qd5yu2zpvwwl2f3nq"
     }
   ],
   "latest_proposals": {
-    "P1": "bafyreiasabxhiht4mbyca4fuscm6mgro2kkqxgffvjtvnmmlhxmiv2qhxu",
-    "P2": "bafyreihjvvdi3zrekhddfpbkuivifthcyioagirgaqvpuclsaqks66xft4",
-    "P3": "bafyreibscn2kdq2v6ewutceibm2foqxrdhkaca3kxselat57oecxssk4f4",
-    "P4": "bafyreidje4dumb4sqhjq5kebegkublzxnrwguaudfakp3scr3rbvbdfvmi",
-    "P5": "bafyreidjfhnph2adnzhcfylty7bw3wzitkv2jumdywtna2fvjq7hsuezhi"
+    "P1": "bafyreiafe5f3acfwbizbijhtvbciv6zc4xkfbn66gkkqcinx2gskuavtli",
+    "P2": "bafyreigkqzrvswta3jx276lzrd4d275bpeeo4yr2mu6flkaaseqbdr22k4",
+    "P3": "bafyreibmnebkh357zetzsrk6kvo36u4rhip3p6tn4gnv6zprhvy3pf3vfq",
+    "P4": "bafyreiaij3x42jaremdyehz2mognk2uk5rjmjxf7re2dm5fgejjbbiahnm",
+    "P5": "bafyreig6rf6x77n26yxztbh4hnitcshthcnegxdif5srxrsof6qve4svi4"
   }
 }

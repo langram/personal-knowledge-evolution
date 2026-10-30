@@ -1,0 +1,16 @@
+{
+  "title": "组合资源、授权视图与制度投机的反例",
+  "files": ["round-02.md", "round-02-record.json", "experiment/probe.py", "experiment/run-01/inputs.json", "experiment/run-01/results.json", "experiment/run-01/summary.json", "experiment/boundary_probe.py", "experiment/run-02/boundary-cases.json"],
+  "proposals": [
+    {"id":"P1","statement":"知识产品分层开放，必须同时表达证据覆盖、未核查部分和竞争解释。","status":"revised-hypothesis","reason":"摘要也可能选择性隐瞒；存在证明不能代替真实性及可复核性。","test":"公开摘要与授权原件交叉复核；比较质量、参与率和泄露。"},
+    {"id":"P2","statement":"受限行动需要不可重复的预算预留、可信影响边界和可说明的授权新鲜度。","status":"bounded-model-tested-and-counterexamples-preserved","reason":"顺序模型C在112条轨迹中无违反，但独立预算副本、错误效果视图和过期授权均产生反例。","test":"下一轮检验分割额度及其无法提供即时撤销的边界。"},
+    {"id":"P3","statement":"贡献按具体工作与证据关联记录，时间承诺不得垄断未来成果；新手与冷门方向应有有限探索通道。","status":"revised-institutional-proposal","reason":"批量猜想和高分者资源反馈可以造成新的圈地与优势固化。","test":"占位、独立发现、负结果、贡献异议与探索额度分配。"},
+    {"id":"P4","statement":"规则分支需要可验证的迁移能力、不可转嫁的共有责任与不随节点数扩张的制度权力。","status":"revised-institutional-proposal","reason":"数据导出不等于服务连续，复制身份不等于独立参与，分叉不能复制共享物理资源。","test":"无维护者协助恢复、弱势者退出成本、多身份攻击与少数人异议。"},
+    {"id":"P5","statement":"把形式结论限于明确的资源与授权模型，跨层推广须新增假设和证据。","status":"formalization-refined","reason":"局部检查可经组合失败；DAG记录不是协调、真实性或规范正当性的替代。","test":"写出归纳条件，并用独立配额节点检查共享上限。"}
+  ],
+  "evidence": {
+    "sequential": {"fixed_cases":12,"generated_traces":100,"actions_per_candidate":2015,"failing_traces":{"A":106,"B":101,"C":0}},
+    "boundary_counterexamples": ["independent-full-budget-copies", "incorrect-effect-view", "revoked-elsewhere-but-local-view-stale"],
+    "unmeasured": ["human behavior", "privacy in deployment", "fair distribution", "wall time", "energy", "economic sustainability", "distributed consensus"]
+  }
+}
