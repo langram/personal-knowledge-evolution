@@ -1,0 +1,816 @@
+{
+  "coordinate": "unicode-scalar-half-open",
+  "sections": [
+    {
+      "file": "01-section.md",
+      "title": "需求、能力与决策权重，为什么不能成为新的资本",
+      "level": 3,
+      "items": [
+        {
+          "id": "P01",
+          "kind": "inherited-text",
+          "text": "动态权重会不会被代理数量和历史优势占据？在我设想的新框架下，要从分配规则本身阻断这两种情况。首先，个体生活资源的分配是按需分配的，具体判断的权重是按相关能力分配的。能力和需求与财富有一个重要区别：它们不应当像资本所有权那样，仅凭过去已经占有的份额，就随着时间的累积，自动获得指数性的复利增长。我所要建立的机制，应当使过去的判断优势不能兑换成永久的支配权，也不能使某个节点仅凭拥有更多代理，就占有支配性的决策份额。",
+          "basis_refs": [],
+          "author_acceptance": false,
+          "baseline_section_span": [
+            28,
+            234
+          ],
+          "section_span": [
+            28,
+            234
+          ],
+          "document_span": [
+            81426,
+            81632
+          ]
+        },
+        {
+          "id": "P02",
+          "kind": "heading",
+          "text": "#### 观察能力差异之前，先问能力是怎样形成的",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            236,
+            260
+          ],
+          "document_span": [
+            81634,
+            81658
+          ]
+        },
+        {
+          "id": "P03",
+          "kind": "source-adaptation",
+          "text": "对职业绩效发现明显偏离正态分布的研究结果，并不能直接成为“在排除资源累积差异之后，人的能力和需求仍然不服从正态分布”的证据。相反，我提出的一个需要检验的解释是：这种偏离，可能恰恰与资本、资源等可复利累积的因素有关。",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "ref": "ABILITY-RESOURCE-REPLY",
+          "source_span": [
+            58,
+            136
+          ],
+          "source_sha256": "6d16cbb4119e9899f081a0ef918f49d5f4a597feb2878a9d98a3ac0de7fdb958",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                58,
+                65
+              ],
+              "before": "因为这些所谓的",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                68,
+                69
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                73,
+                74
+              ],
+              "before": "了",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                80,
+                81
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                83,
+                85
+              ],
+              "before": "已有",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                91,
+                91
+              ],
+              "before": "",
+              "after": "并"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                92,
+                95
+              ],
+              "before": "但不是",
+              "after": "能直接成为“在排除资源累积差异之后，人的"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                100,
+                100
+              ],
+              "before": "",
+              "after": "仍然"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                101,
+                103
+              ],
+              "before": "遵守",
+              "after": "服从"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                107,
+                107
+              ],
+              "before": "",
+              "after": "”"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                110,
+                111
+              ],
+              "before": "！",
+              "after": "。相"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                112,
+                113
+              ],
+              "before": "而",
+              "after": "，我提出的一个需要检验的解释是：这种偏离，可能"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                115,
+                116
+              ],
+              "before": "是",
+              "after": "与"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                118,
+                118
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                126,
+                126
+              ],
+              "before": "",
+              "after": "的"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                128,
+                135
+              ],
+              "before": "造成的这种偏离",
+              "after": "有关"
+            }
+          ],
+          "section_span": [
+            262,
+            369
+          ],
+          "document_span": [
+            81660,
+            81767
+          ]
+        },
+        {
+          "id": "P04",
+          "kind": "source-adaptation",
+          "text": "因为人类个体的能力训练和获取过程中，资源和资本等可复利累积的资源起到了很大的作用，而旧体制下许多个体可以获得的培养资源，受到这种累积规则的影响。在这种背景下成长起来的人类个体，其能力本身就可能被资源差异持续塑造，形成明显不均衡的分布。",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "ref": "ABILITY-RESOURCE-REPLY",
+          "source_span": [
+            136,
+            235
+          ],
+          "source_sha256": "90c853421542834107effc0b80e8592f6e86b219d1162ac4519562bc4c11bb89",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                142,
+                144
+              ],
+              "before": "对象",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                149,
+                149
+              ],
+              "before": "",
+              "after": "和"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                167,
+                168
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                183,
+                184
+              ],
+              "before": "的",
+              "after": "下许多"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                186,
+                186
+              ],
+              "before": "",
+              "after": "可以获得的培养"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                188,
+                195
+              ],
+              "before": "分配是按可复利",
+              "after": "，受到这种"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                197,
+                198
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                200,
+                202
+              ],
+              "before": "进行",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                203,
+                204
+              ],
+              "before": "，",
+              "after": "影响。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                219,
+                222
+              ],
+              "before": "对象的",
+              "after": "，其"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                224,
+                224
+              ],
+              "before": "",
+              "after": "本身"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                225,
+                232
+              ],
+              "before": "会严重偏离正态",
+              "after": "可能被资源差异持续塑造，形成明显不均衡的"
+            }
+          ],
+          "section_span": [
+            371,
+            488
+          ],
+          "document_span": [
+            81769,
+            81886
+          ]
+        },
+        {
+          "id": "P05",
+          "kind": "editorial-addition",
+          "text": "这里需要再向前追问一步。资源的影响，不只是让两个能力相同的人获得不同的成果和收入，还可能使他们在长期成长后，真的形成不同的能力。一个人从小有充足的学习时间、适合的老师和不断试错的机会，另一个人连进入这个领域的机会都没有，那么多年以后看到的技能差距，不能全部归入两个人最初的生物差异。已经形成的能力差距可以是真实的，它的形成原因却仍然需要解释。",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            490,
+            661
+          ],
+          "document_span": [
+            81888,
+            82059
+          ]
+        },
+        {
+          "id": "P06",
+          "kind": "editorial-addition",
+          "text": "儿童技能形成研究将早期投入、已有技能和后续学习的相互促进纳入模型，说明能力可以在培养过程中积累。这支持研究成长条件怎样塑造能力，同时也提醒我们：学习本身存在累积效应，不能笼统说能力完全不会积累。[技能形成研究](https://jenni.uchicago.edu/papers/Cunha-Heckman_AER_v97n2_2007.pdf)",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            663,
+            836
+          ],
+          "document_span": [
+            82061,
+            82234
+          ]
+        },
+        {
+          "id": "P07",
+          "kind": "editorial-addition",
+          "text": "于是，在某些分配规则下，可能出现这样的循环：先获得资源的人，更有条件训练能力；形成的能力帮助他取得成果；成果又带来更多资源与认可。如果后续机会持续偏向已经成功的人，最初不大的差异就可能被放大。社会最后看到的差距，包含了这个过程的产物。只观察最终分布，不能把资源累积的作用与初始能力的作用自动分开。",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            838,
+            986
+          ],
+          "document_span": [
+            82236,
+            82384
+          ]
+        },
+        {
+          "id": "P08",
+          "kind": "editorial-addition",
+          "text": "荷兰科研资助的一项断点研究发现，初次评审分数接近资助门槛的申请者中，刚获资助者在随后八年取得的其他经费超过刚落选者的两倍。这支持早期机会会放大后续资源差距，并不证明能力本身相差两倍。[科研资助的累积优势研究](https://pmc.ncbi.nlm.nih.gov/articles/PMC5948972/)",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            988,
+            1143
+          ],
+          "document_span": [
+            82386,
+            82541
+          ]
+        },
+        {
+          "id": "P09",
+          "kind": "editorial-addition",
+          "text": "因此，已有职业绩效研究可以描述特定样本的成果分布，却不能单凭这种分布回答：如果培养机会、设备、时间与基本生活保障更公平，人们的能力会怎样分布。关于现有绩效的统计发现，与关于不同制度下能力形成的反事实问题，需要分别研究。把旧条件下产生的差距，直接当作新条件不可能改善差距的证明，就可能把需要解释的结果当成解释本身。[绩效分布研究及其测量对象](https://www.hermanaguinis.com/pdf/PPsych2012.pdf)",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            1145,
+            1365
+          ],
+          "document_span": [
+            82543,
+            82763
+          ]
+        },
+        {
+          "id": "P10",
+          "kind": "heading",
+          "text": "#### 跑跳与高尔夫的比较，怎样成为可以检验的问题",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            1367,
+            1393
+          ],
+          "document_span": [
+            82765,
+            82791
+          ]
+        },
+        {
+          "id": "P11",
+          "kind": "source-adaptation",
+          "text": "我们可以据此提出一个需要检验的设想：当能力的训练过程越是依赖外部资源，能力的分布就越可能偏离正态分布。比如同样是体育项目，更接近生物基本运动能力的跑跳项目，可能更接近正态分布；越是需要较多资本资源的项目，比如高尔夫、跳伞等，能力的分布可能越不符合正态分布。这里提出的是对训练资源影响的预期，需要在可比较的人群和条件下检验。",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "ref": "ABILITY-RESOURCE-REPLY",
+          "source_span": [
+            235,
+            339
+          ],
+          "source_sha256": "1df5da6eebc24fabe532930812d86f2ef0b8f7dc9531e24e642df8bf22d8de06",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                235,
+                236
+              ],
+              "before": "你",
+              "after": "我们"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                238,
+                239
+              ],
+              "before": "看",
+              "after": "据此提出"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                240,
+                242
+              ],
+              "before": "下，",
+              "after": "个需要检验的设想："
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                266,
+                266
+              ],
+              "before": "",
+              "after": "可能"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                272,
+                273
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                284,
+                286
+              ],
+              "before": "依赖",
+              "after": "接近"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                288,
+                288
+              ],
+              "before": "",
+              "after": "基"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                289,
+                289
+              ],
+              "before": "",
+              "after": "运动"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                290,
+                290
+              ],
+              "before": "",
+              "after": "力"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                296,
+                299
+              ],
+              "before": "越符合",
+              "after": "可能更接近"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                303,
+                304
+              ],
+              "before": "，",
+              "after": "；"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                308,
+                308
+              ],
+              "before": "",
+              "after": "较多"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                313,
+                315
+              ],
+              "before": "贵族",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                323,
+                323
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                329,
+                330
+              ],
+              "before": "就",
+              "after": "的分布可能"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                339,
+                339
+              ],
+              "before": "",
+              "after": "这里提出的是对训练资源影响的预期，需要在可比较的人群和条件下检验。"
+            }
+          ],
+          "section_span": [
+            1395,
+            1556
+          ],
+          "document_span": [
+            82793,
+            82954
+          ]
+        },
+        {
+          "id": "P12",
+          "kind": "editorial-addition",
+          "text": "这个设想需要观察谁有机会进入、谁能持续训练，以及同样的支持对不同人产生什么作用。没有接触过高尔夫的人，不能因为没有成绩就被视为高尔夫天赋为零；只观察已经进入职业赛场的人，也不能代表所有人。美国2020年的调查显示，儿童参加有组织体育活动的比例随家庭收入上升而提高。这是机会差异的证据，不是跑跳和高尔夫的能力分布比较。[美国儿童体育参与调查](https://www.cdc.gov/nchs/products/databriefs/db441.htm)",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            1558,
+            1784
+          ],
+          "document_span": [
+            82956,
+            83182
+          ]
+        },
+        {
+          "id": "P13",
+          "kind": "editorial-addition",
+          "text": "比较时，还需要把年龄、健康、训练时间、测量方式和参赛筛选等条件记录下来。普通人的跑跳也受到营养、训练和环境影响，高水平竞技更不能只靠生物本能解释。跑完固定距离所用的时间、速度和名次，是不同的指标；统计曲线的形状还会受到指标选择的影响。因此，资源依赖越强是否就越偏离正态，需要专门的数据，不能仅凭项目名称推定。",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            1786,
+            1940
+          ],
+          "document_span": [
+            83184,
+            83338
+          ]
+        },
+        {
+          "id": "P14",
+          "kind": "editorial-addition",
+          "text": "一种更有辨别力的做法，是在参与者同意、基本保障不受损害的条件下，逐步扩大训练和设备的可获得性，追踪原本缺少机会的人是否更容易进入、技能是否提高，以及家庭资源与后续表现的联系是否减弱。再比较不同项目对这些变化的反应。这样的结果才更接近回答：改变资源条件，究竟改变了多少能力差距。",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            1942,
+            2080
+          ],
+          "document_span": [
+            83340,
+            83478
+          ]
+        },
+        {
+          "id": "P15",
+          "kind": "heading",
+          "text": "#### 新机制要改变形成差距的条件，也要约束差距转化为权力的规则",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            2082,
+            2115
+          ],
+          "document_span": [
+            83480,
+            83513
+          ]
+        },
+        {
+          "id": "P16",
+          "kind": "editorial-addition",
+          "text": "不过，从“资源累积能够塑造并放大差异”，还不能直接推出“消除这种累积之后，所有能力必然严格服从正态分布”。正态分布是关于具体指标、具体群体和具体条件的判断。新的制度可以检验某些差距是否缩小、某些分布是否更加集中，却不必事先规定每条曲线最后都应当长成同一种形状。反过来，没有证实正态分布，也不能成为忽略培养机会不平等的理由。",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            2117,
+            2278
+          ],
+          "document_span": [
+            83515,
+            83676
+          ]
+        },
+        {
+          "id": "P17",
+          "kind": "editorial-addition",
+          "text": "需求同样不能从职业绩效推断出来。人的年龄、身体状况、生活任务和环境不同，所需要的资源也不同。一个人在特定阶段需要更多照护，不等于他占有了可以不断支配别人的资本；某种需要暂时高于多数人，也不能只因为偏离统计平均就被判定为不合理。按需分配要辨认实际需要及其满足条件，不能把一条预设的分布曲线当作分配依据。",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            2280,
+            2430
+          ],
+          "document_span": [
+            83678,
+            83828
+          ]
+        },
+        {
+          "id": "P18",
+          "kind": "editorial-addition",
+          "text": "所以，我所期待的新机制，要把培养能力所需的知识、工具、训练机会与基本生活保障，逐步变成人人可以实际获得的条件。让已经积累的知识帮助更多人学习，让一个人的成长增加其他人的成长机会，而不是不断提高后来者进入的门槛。这里要区分的是知识和技能的有益积累，与借助资源占有和制度优势不断扩大的支配权。前者应当受到鼓励，并尽可能被分享；后者需要受到规则的限制。",
+          "basis_refs": [
+            "ABILITY-RESOURCE-REPLY"
+          ],
+          "author_acceptance": false,
+          "section_span": [
+            2432,
+            2605
+          ],
+          "document_span": [
+            83830,
+            84003
+          ]
+        },
+        {
+          "id": "P19",
+          "kind": "inherited-text",
+          "text": "即使某项能力评分近似正态，评分怎样转换为权重，仍然会改变结果。举一个只说明转换作用的例子：三个评分是1、2、3，若直接按评分归一化，最高者占一半；若先变成10、100、1000再归一化，最高者就超过九成。这三个数字不是人口分布模型，却足以说明：能力差距有限，不等于制度一定不会放大它。真正需要取消的是“优势可以无边界地继续兑换支配权”的转换机制。",
+          "basis_refs": [],
+          "author_acceptance": false,
+          "baseline_section_span": [
+            434,
+            607
+          ],
+          "section_span": [
+            2607,
+            2780
+          ],
+          "document_span": [
+            84005,
+            84178
+          ]
+        },
+        {
+          "id": "P20",
+          "kind": "inherited-text",
+          "text": "所以，更多代理首先代表完成任务的工具更多，不代表更多独立的人，也不自动增加其委托人的基本权利。某项公共任务可以使用很大的计算资源，但资源属于任务的安排，不属于负责人的永久个人份额。相关能力的权重需要随任务、证据和反馈修订；基本生活保障、个人资料的授权和共同规则的修改，则不能被一个专业评分包办。这样，防止支配才成为可检查的制度关系，而不依赖人群恰好具有哪一种分布。",
+          "basis_refs": [],
+          "author_acceptance": false,
+          "baseline_section_span": [
+            609,
+            791
+          ],
+          "section_span": [
+            2782,
+            2964
+          ],
+          "document_span": [
+            84180,
+            84362
+          ]
+        },
+        {
+          "id": "P21",
+          "kind": "inherited-text",
+          "text": "我们还要防止恶意的破坏和篡改能力，就像加密货币的账本系统需要应对造假账一样。这里可以借鉴的，是把攻击者能够控制什么、诚实参与者怎样核验、出现分歧时怎样处理，都写成明确规则。",
+          "basis_refs": [],
+          "author_acceptance": false,
+          "baseline_section_span": [
+            793,
+            879
+          ],
+          "section_span": [
+            2966,
+            3052
+          ],
+          "document_span": [
+            84364,
+            84450
+          ]
+        },
+        {
+          "id": "P22",
+          "kind": "inherited-text",
+          "text": "但是，“作恶算力不到一半”只在特定协议及其假设下具有相应含义。比特币白皮书讨论了工作量证明链中诚实算力占优时的追赶概率，并要求节点检查交易有效性；它没有证明少于半数算力就不可能盗用密钥、伪造原始观察或滥用已获权限。Merkle-DAG的内容核验、历史一致性、身份与授权、实际执行，需要分别设计。攻击比例的门槛必须从所选协议中推导，不能把一个账本模型的条件直接搬到整个人类社会。[比特币白皮书](https://bitcoin.org/bitcoin.pdf)",
+          "basis_refs": [],
+          "author_acceptance": false,
+          "baseline_section_span": [
+            881,
+            1110
+          ],
+          "section_span": [
+            3054,
+            3283
+          ],
+          "document_span": [
+            84452,
+            84681
+          ]
+        }
+      ]
+    }
+  ]
+}

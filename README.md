@@ -7,7 +7,8 @@
 ## 阅读文章
 
 - [《新原理》当前全文](book/current.md)
-- [本次增补：文明自我治理、权重边界与制度探索](archive/dossiers/2026-10-31-civilization-self-governance/08-edition-additions.md)
+- [本次修订：能力形成、资源累积与分布](archive/dossiers/2026-10-31-ability-resource-formation/01-section.md)
+- [文明自我治理、权重边界与制度探索](archive/dossiers/2026-10-31-civilization-self-governance/08-edition-additions.md)
 - [个人信息采集、数据主权与技术落地](archive/dossiers/2026-10-30-recording-and-reflection/01-chapter.md)
 - [书末附录：对理论基础与实践可行性的自我反思](archive/dossiers/2026-10-30-recording-and-reflection/05-self-reflection-appendix.md)
 - [公共知识、互惠与合作的正向循环](archive/dossiers/2026-10-29-cooperation-feedback/01-chapter.md)
@@ -17,7 +18,7 @@
 - [从数学家的灵感到文明的共同创造](archive/dossiers/2026-10-26-shared-credit/01-chapter.md)
 - [从学生的灵感到基层的创造](archive/dossiers/2026-10-26-shared-credit/05-section-ten.md)
 - [现存版本与修改过程](history/README.md)
-- [本轮原话与逐项改写对照](archive/dossiers/2026-10-31-civilization-self-governance/03-source-ledger.md)
+- [本轮原话与逐项改写对照](archive/dossiers/2026-10-31-ability-resource-formation/03-source-ledger.md)
 
 ## 运行访问接口
 
@@ -65,3 +66,5 @@ python -m pkst_public serve
 2026年10月30日追加七条来源讨论，形成第九版全文；个人信息采集与技术落地进入正文，涵盖数学和基础科学的自我反思成为书末最后附录。详见[本次编辑说明](archive/dossiers/2026-10-30-recording-and-reflection/04-editorial-notes.md)。
 
 2026年10月31日形成第十版：加入作者对制度分叉、动态权重和混合互惠反馈的回应，展开文明技术力量与自我治理能力的关系。完整保留原话、首遍草稿、再校订差异与来源。详见[本次编辑说明](archive/dossiers/2026-10-31-civilization-self-governance/04-editorial-notes.md)。
+
+2026年10月31日第十一版补入作者关于资源参与能力形成的回应，区分现有绩效、成长条件与不同制度下的能力分布。体育项目的比较保留为待检验假说；全文与编辑记录见[说明](archive/dossiers/2026-10-31-ability-resource-formation/04-editorial-notes.md)。

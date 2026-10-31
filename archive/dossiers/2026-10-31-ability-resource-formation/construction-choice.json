@@ -1,0 +1,19 @@
+{
+  "scope": "Editorial archive implementation, not a new research or governance system.",
+  "candidates": [
+    {
+      "path": "direct-current-book-edit",
+      "tradeoff": "Small write, but incomplete edition/source reconstruction."
+    },
+    {
+      "path": "generalized-new-publishing-framework",
+      "tradeoff": "Unnecessary abstraction and migration for one section."
+    },
+    {
+      "path": "reuse-proven-edition-flow-with-reversible-section-replacement",
+      "tradeoff": "Bounded reuse; source replay and byte recovery before activation."
+    }
+  ],
+  "selected": "reuse-proven-edition-flow-with-reversible-section-replacement",
+  "cost_basis": "Reuse the existing codec, read-only public API and catalog format; one section only. No measured energy-performance claim."
+}

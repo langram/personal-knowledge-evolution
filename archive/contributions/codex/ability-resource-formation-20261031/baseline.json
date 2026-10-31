@@ -1,0 +1,26 @@
+{
+  "pointer": {
+    "report": "report-20261031-civilization-self-governance-v1.json",
+    "snapshot": "bafyreicg7dx4wlsdolclrbog3gvqhyxww5pjxdo6tcty54zpzr2bhr4p5q",
+    "database": "contributions\\codex\\catalog\\.private\\20261031-civilization-self-governance-v1\\catalog.sqlite"
+  },
+  "document": "bafyreiaemvd4kzjud56jgvjmk7722dpg4prvo2jbb5a6gtxd2rmzti6bre",
+  "dossier_root": "bafyreigmxt6k77ww7t3tree3lscl4ajazjqdx6y2sf2ouw3ue3a74gv2jy",
+  "concepts": [
+    "bafyreigxwt4zanlebqeyqn5zmu6m57goyvo4drly3rbn7vlxe6wy6pimi4",
+    "bafyreigvbj7qrt77x6joad5gucluyleyeme4vvtxvqv4ppxcf5b63e6nze",
+    "bafyreiewt2ch2dzabsx26elckff7sd2n5esg64j6kej4huj35v5syzf4lm",
+    "bafyreideso6mmqcufvbg53jvmhbjthb3qtbjukunsvxavjj4qx5dnn7azq",
+    "bafyreidvjgwdjlzvpcnjpvqob3xjjilvagjdqc5y3gzadfecrnfezyfepe",
+    "bafyreie55hxka3w6u7yzk4l6t4wpwugx3tv7tm3cb2rppaq4ktrbjjyjku",
+    "bafyreihg2iw6me43kh7uvxlzghcpihtvayfhptiasel6i7i57veda2sn5q",
+    "bafyreibkhs4yhkthc7auu45day5iypqgeqxzwxzeos27w3xsczl4cwxyla"
+  ],
+  "sources": {
+    "RESEARCH-REQUEST": "bafyreiaildntwu6hm5w4dcwcadjpdjkm4da2647e7yf54d5sxlgdzida5i",
+    "RESEARCH-RESULT": "bafyreigcfcoxmpyrxkpyirpk77iwnwuvrnv6atyxgn3sbr2tuqm22m4wmu",
+    "CIVILIZATION-REPLY": "bafyreifrejl5gmdpemom4m7jk47fyvpw77qzec3jaykkf3b3qs5gypbshq"
+  },
+  "manuscript": "dossiers\\2026-10-31-civilization-self-governance\\02-new-principles.md",
+  "sha256": "55c65d61c43cb09cc73e057e122eabc36c53a7d9e5526658c561ca0b180116c1"
+}

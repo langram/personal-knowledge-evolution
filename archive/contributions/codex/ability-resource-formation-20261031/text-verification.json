@@ -1,0 +1,21 @@
+{
+  "status": "pass",
+  "source_events": 2,
+  "drafts": [
+    {
+      "file": "01-section.md",
+      "passage_units": 22,
+      "source_adaptations": 3
+    },
+    {
+      "file": "draft-01-section.md",
+      "passage_units": 22,
+      "source_adaptations": 3
+    }
+  ],
+  "replacements": 1,
+  "outside_replacement": "byte-identical",
+  "last_appendix": "byte-identical and still last",
+  "current_sha256": "f0126b98aaa60d7b8dcb5bfe8dce8dbabe5fe95302c1b2201f3d3a009930788a",
+  "boundary": "Text/provenance checks; not evidence of normality, causal effect or institutional effectiveness."
+}

@@ -1,0 +1,21 @@
+已整理进《新原理》第十版，并同步到公开 GitHub 仓库。本次新增 **6,134 汉字**，分布在四处：
+
+- 新增 **《文明的技术力量与自我治理能力》**：从正负反馈的简化模型，展开到真实表达、信息质量、技术力量与社会自我约束。
+- 扩充动态权重章节，讨论需求、能力、代理数量与权力积累。
+- 扩充制度分叉章节，保留你“演化路径迷宫”的论述。
+- 扩充虚拟社会实验室章节，连接游戏、模拟与现实制度实验。
+
+你的完整原话、两遍校订及逐段修改对照均已保存。正文保留了“挥舞链子锤的孩子”等核心表达；对正态分布、半数算力门槛和精确控制复杂社会等判断，补充了证据范围与成立条件。
+
+建议先读[本次全部增补](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-10-31-civilization-self-governance/08-edition-additions.md)。另有[完整书稿](https://github.com/langram/personal-knowledge-evolution/blob/main/book/current.md)和[原话与修改对照](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-10-31-civilization-self-governance/03-source-ledger.md)。
+
+Merkle-DAG 来源与演化关系已更新，公开文件校验通过。提交：`6929829`。
+
+<oai-mem-citation>
+<citation_entries>
+MEMORY.md:57-63|note=[source preservation and verified manuscript publication workflow]
+</citation_entries>
+<rollout_ids>
+01a16c8a-f6e1-7580-b378-b6e49f0be965
+</rollout_ids>
+</oai-mem-citation>

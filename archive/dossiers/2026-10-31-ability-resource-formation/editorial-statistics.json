@@ -1,0 +1,14 @@
+{
+  "combined_sha256": "f0126b98aaa60d7b8dcb5bfe8dce8dbabe5fe95302c1b2201f3d3a009930788a",
+  "prior_cjk": 141764,
+  "combined_cjk": 143553,
+  "section_cjk": 2691,
+  "prior_section_cjk": 902,
+  "net_added_cjk": 1789,
+  "source_events": 2,
+  "source_adaptations": 3,
+  "passage_units": 22,
+  "selected_source_characters": 281,
+  "verbatim_retained_selected_source_characters": 215,
+  "retention_scope": "Character matches within selected source spans, not a fraction of the new section or whole book."
+}

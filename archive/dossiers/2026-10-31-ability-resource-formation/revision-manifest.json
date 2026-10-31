@@ -1,0 +1,23 @@
+{
+  "operation": "replace-one-section",
+  "baseline_sha256": "55c65d61c43cb09cc73e057e122eabc36c53a7d9e5526658c561ca0b180116c1",
+  "combined_sha256": "f0126b98aaa60d7b8dcb5bfe8dce8dbabe5fe95302c1b2201f3d3a009930788a",
+  "replacements": [
+    {
+      "file": "01-section.md",
+      "before_file": "05-previous-section.md",
+      "old_byte_span": [
+        233622,
+        236704
+      ],
+      "new_byte_span": [
+        233622,
+        242759
+      ],
+      "before_sha256": "3d97589b902870db2ff3cc56752e96bc6427bdcad6bf357743034b13231c959a",
+      "after_sha256": "b2de54cbd5cc8265e37c845381ab4c64c9c173ff3fe8f1163d45897f56420649",
+      "marker": "### 需求、能力与决策权重，为什么不能成为新的资本",
+      "scope": "same dynamic-weight section; rest of book unchanged"
+    }
+  ]
+}

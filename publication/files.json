@@ -1,7 +1,7 @@
 {
   "schema": "pkst-public/files@1",
-  "recorded_at": "2026-10-31T01:25:09.079611+00:00",
-  "merkle_root": "b42b5f95a391804fff424b3f0d6696d845e19607b3f739e923bc2d31d46b2836",
+  "recorded_at": "2026-10-31T02:10:22.094875+00:00",
+  "merkle_root": "fb44bfdf3dba9e8cd9bbfff6aab209bcd00218bb3ada61ae06d788cc0e3246b7",
   "files": [
     {
       "path": ".gitattributes",
@@ -15,8 +15,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5692,
-      "sha256": "7bed5a396cfbcbc5caf027ea70655beba284b591bcff80f4d009585e1eac0834"
+      "bytes": 6116,
+      "sha256": "75b813293319fe0effe506818c4533890d7fab4d1a0e7c2de8e6d1e5e4aad549"
     },
     {
       "path": "archive/README.md",
@@ -379,6 +379,31 @@
       "sha256": "d652eb85ca2ee80b96ffae22d96e350777b59c361b77de791c4ce10f45bc1875"
     },
     {
+      "path": "archive/contributions/codex/ability-resource-formation-20261031/baseline.json",
+      "bytes": 1454,
+      "sha256": "f95bad6a0235801b6df17ca942821bd96e98b68565501168a734ff35ebe74494"
+    },
+    {
+      "path": "archive/contributions/codex/ability-resource-formation-20261031/capture.json",
+      "bytes": 5381,
+      "sha256": "7e9140edfea060ab2b3d826563362b23a207686d161f593513db1c147b68aab2"
+    },
+    {
+      "path": "archive/contributions/codex/ability-resource-formation-20261031/report.json",
+      "bytes": 18905,
+      "sha256": "ce904546207252e7153c2865de8f51cfb3ff5c67e330e1c43ed290712f1ed0db"
+    },
+    {
+      "path": "archive/contributions/codex/ability-resource-formation-20261031/status.json",
+      "bytes": 155,
+      "sha256": "331c5ce32ebf18a95c9ba54a99e00c92f27160b09dc5a157a364cf65da5fe5e4"
+    },
+    {
+      "path": "archive/contributions/codex/ability-resource-formation-20261031/text-verification.json",
+      "bytes": 589,
+      "sha256": "b545b94642f7abdf5eaee022cd7afe1aacb96257126d057d7ee197d9fef479cb"
+    },
+    {
       "path": "archive/contributions/codex/build_catalog.py",
       "bytes": 16624,
       "sha256": "c0a0b762c5e0a56a745f3d123de46e4bc72549b62c8c821d626896b4d0b14f23"
@@ -405,8 +430,8 @@
     },
     {
       "path": "archive/contributions/codex/catalog/current.json",
-      "bytes": 263,
-      "sha256": "c178c90fc3fe2b690008e73aa937e4064634c9e5d39d7c9418363c1ad6dbf2be"
+      "bytes": 259,
+      "sha256": "faf882db5fe6d0a355ff72cf5f5580d65021d6702c615f9c9b70634ad490c0ff"
     },
     {
       "path": "archive/contributions/codex/catalog/report-20261024T083500Z.json",
@@ -482,6 +507,11 @@
       "path": "archive/contributions/codex/catalog/report-20261030-recording-and-reflection-v1.json",
       "bytes": 18143,
       "sha256": "5f0fb88fe693856b1077d4f1b926552cbc61b530f5d974fa9fd506d0ec458cdc"
+    },
+    {
+      "path": "archive/contributions/codex/catalog/report-20261031-ability-resource-formation-v1.json",
+      "bytes": 20648,
+      "sha256": "72813561fe78f2e9b254b89a7ad8feaba9c616928f68d49fb287954b9b215ed0"
     },
     {
       "path": "archive/contributions/codex/catalog/report-20261031-civilization-self-governance-v1.json",
@@ -2284,6 +2314,101 @@
       "sha256": "a2fd7c9e01d305ecb54b2b3c8572c6492ecf4c920f5b956c70879f368f70b18c"
     },
     {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/00-ability-resource-reply.txt",
+      "bytes": 1102,
+      "sha256": "05c02b18ee1ef1b7f4c9465054b6fbe9a044c1a132ba478a69ba1365fd73217f"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/00-edition-ten-response.txt",
+      "bytes": 1577,
+      "sha256": "9021e8069f8213cbc47bea75efaa7f05b3c6d68f12ad8c3fe801d41be09112a3"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/00-sources.json",
+      "bytes": 4422,
+      "sha256": "5f5d4891c879cf469ddd7d80d2b462f4a6149c592fa8277dd2ef61ad19bfca9e"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/01-section.md",
+      "bytes": 9137,
+      "sha256": "b2de54cbd5cc8265e37c845381ab4c64c9c173ff3fe8f1163d45897f56420649"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/02-new-principles.md",
+      "bytes": 481861,
+      "sha256": "f0126b98aaa60d7b8dcb5bfe8dce8dbabe5fe95302c1b2201f3d3a009930788a"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/03-source-ledger.md",
+      "bytes": 11636,
+      "sha256": "f9a8d52d47b1dc19dcac97f458a2013fb4a68eb835d115dde62a627b8e69ba89"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/04-editorial-notes.md",
+      "bytes": 3199,
+      "sha256": "12018039ac52422011d76b1ff7011636303b68c81255fb9f5a67202e458dcdb4"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/05-previous-section.md",
+      "bytes": 3082,
+      "sha256": "3d97589b902870db2ff3cc56752e96bc6427bdcad6bf357743034b13231c959a"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/06-section-revision.patch",
+      "bytes": 8246,
+      "sha256": "edc2210afac7b53578a3e894428dfcddb1d5aa8802d122c74d73a3df1390b5b3"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/07-draft-refinement.patch",
+      "bytes": 1715,
+      "sha256": "0fad80f8da24809d148724a881138a25eb3e1124645ae8b64ae86d851ed6d9fb"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/09-archive-receipt.md",
+      "bytes": 991,
+      "sha256": "5001cbfa1e95131648bef125bce1d86785e181c684f946fdef3bd1b525ffa338"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/construction-choice.json",
+      "bytes": 789,
+      "sha256": "e7fa314f24a12254d088eb18278d794ff89e5828456bc3bf3879f976408bd005"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/draft-01-passages.json",
+      "bytes": 28963,
+      "sha256": "56c42653d972939ad63da78e09a5fd35d6b20070261e03ebe8b97b3f52007d5a"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/draft-01-section.md",
+      "bytes": 9188,
+      "sha256": "d465f044b8181dff6110b45efaffafc91eec6714fa353284e6a444750391effb"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/draft-01-statistics.json",
+      "bytes": 502,
+      "sha256": "bd1f7e701c71b373457ea17115554b8df5e7f487581c017f6cd82a6cbd60d6e3"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/editorial-statistics.json",
+      "bytes": 502,
+      "sha256": "48552d1ddf2e2ce27ce0d9785b846ede26e9292d090d7f51a65871b1c5d3c1d2"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/external-sources.json",
+      "bytes": 2629,
+      "sha256": "9285a6915f8275e87f96a185925845f560d06c4706cdedbf36d046913603fde2"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/passage-manifest.json",
+      "bytes": 28230,
+      "sha256": "4dfd98e9ad5cd34ac0438d9d9df17a7fc37af003046e578a1b2db6416ca1ec7a"
+    },
+    {
+      "path": "archive/dossiers/2026-10-31-ability-resource-formation/revision-manifest.json",
+      "bytes": 804,
+      "sha256": "be9bcac042dbd9c377e007cbe08f400142a53d43ad07302e27891f11a19df69b"
+    },
+    {
       "path": "archive/dossiers/2026-10-31-civilization-self-governance/00-civilization-reply.txt",
       "bytes": 9654,
       "sha256": "8da7c8fa8343151c6f639d08f52667b84e1f732f36b501059b909c17b75d3720"
@@ -2585,13 +2710,13 @@
     },
     {
       "path": "book/current.md",
-      "bytes": 475806,
-      "sha256": "55c65d61c43cb09cc73e057e122eabc36c53a7d9e5526658c561ca0b180116c1"
+      "bytes": 481861,
+      "sha256": "f0126b98aaa60d7b8dcb5bfe8dce8dbabe5fe95302c1b2201f3d3a009930788a"
     },
     {
       "path": "corpus/editorial-index.json",
-      "bytes": 422538,
-      "sha256": "964406a04f4a9210b35551345dd420c657fd045726593017d6e42394ff4c97db"
+      "bytes": 432263,
+      "sha256": "8b9487d371fbc6823dea085ff3ee2b73d77d6f0220687000362f65568b6eb0b0"
     },
     {
       "path": "corpus/events/00.jsonl",
@@ -2700,8 +2825,8 @@
     },
     {
       "path": "corpus/events/15.jsonl",
-      "bytes": 344256,
-      "sha256": "3afa6a819611e098003363ff0b050093ceb1957b68da9c426122fbc28b23e94e"
+      "bytes": 344762,
+      "sha256": "554c16fde6259d84a821536383f6a05991a61cb6e571210559cfe5d9b15e160e"
     },
     {
       "path": "corpus/events/16.jsonl",
@@ -2950,8 +3075,8 @@
     },
     {
       "path": "corpus/events/47.jsonl",
-      "bytes": 340337,
-      "sha256": "e4bc85e6840b164e8c56fe3f83ccc682ecfd3dc5ba81708e2c62ad2fcfdf8d33"
+      "bytes": 340845,
+      "sha256": "6f3f68eda51a66ff0bfabda9a07944c6f9b09c8d0aa764a7430bb7f856916e90"
     },
     {
       "path": "corpus/events/48.jsonl",
@@ -3915,8 +4040,8 @@
     },
     {
       "path": "corpus/objects/08.jsonl",
-      "bytes": 1570347,
-      "sha256": "4ece0f9586844ff67ba13436d7a625e6a96fa0a9f86063fa1b5cf904229d3b75"
+      "bytes": 1571400,
+      "sha256": "0b169f92e3853db6b9f54bbf3ee568c95b9a88a0d0351ff39bee4db2eba520b4"
     },
     {
       "path": "corpus/objects/09.jsonl",
@@ -3925,8 +4050,8 @@
     },
     {
       "path": "corpus/objects/0a.jsonl",
-      "bytes": 1461783,
-      "sha256": "5b5807640e05a0e9b0cc05ed4c329cc82e510b14b82b2037f2d6b62be8dae645"
+      "bytes": 1462692,
+      "sha256": "00bb44a9eed7482afa505afee82a1fea95a3e28cd3e9854de0a8dd14f9f4ae4e"
     },
     {
       "path": "corpus/objects/0b.jsonl",
@@ -3935,8 +4060,8 @@
     },
     {
       "path": "corpus/objects/0c.jsonl",
-      "bytes": 1458474,
-      "sha256": "3cba2576d6ef720268eeb9b32df7a339a4d33cc5f3a5eb9278e1c6c875647695"
+      "bytes": 1461276,
+      "sha256": "4680739e831d2d8087ea3d9540c28bf5758d0674a497d2ddffdc431f848aaca8"
     },
     {
       "path": "corpus/objects/0d.jsonl",
@@ -3980,13 +4105,13 @@
     },
     {
       "path": "corpus/objects/15.jsonl",
-      "bytes": 1581005,
-      "sha256": "afc9552f81706f1bce916397146be42b36c707a980ba4a397494e27037ea725c"
+      "bytes": 1581954,
+      "sha256": "f21fc04fff7463d931c75ac4577c1c98e0084972f0a2f91eeb111af77fce747b"
     },
     {
       "path": "corpus/objects/16.jsonl",
-      "bytes": 1521335,
-      "sha256": "436b48682b2a5c03cf6a2e4668d6f3845cf1b2ddc872b372dcaf12367cbc8b32"
+      "bytes": 1522689,
+      "sha256": "98346e40d7220d1388647103d52bcb04dcfdfc0d8c19af53d6bec7ec2236cb18"
     },
     {
       "path": "corpus/objects/17.jsonl",
@@ -4035,8 +4160,8 @@
     },
     {
       "path": "corpus/objects/20.jsonl",
-      "bytes": 1553389,
-      "sha256": "c2f482bd23dcc6e6c8c0def4617e6c9c88bb46650bd9b688a4e55de2961cdb17"
+      "bytes": 1557300,
+      "sha256": "e50b9074bf7718a08c04eba1eaeb2a2ada0a530c2772b52c4d11b7af1c8eb8f6"
     },
     {
       "path": "corpus/objects/21.jsonl",
@@ -4060,8 +4185,8 @@
     },
     {
       "path": "corpus/objects/25.jsonl",
-      "bytes": 1404770,
-      "sha256": "24319de83f2f75e0568f242e5772b7b96a57aaf175631bbf0b9578c9644f06c6"
+      "bytes": 1405836,
+      "sha256": "e05ddc92e9ca15cc6faaba076481cdb772c22eb88a9dd825acad5f499dcf281a"
     },
     {
       "path": "corpus/objects/26.jsonl",
@@ -4080,13 +4205,13 @@
     },
     {
       "path": "corpus/objects/29.jsonl",
-      "bytes": 1432317,
-      "sha256": "e8c5a3cee6d3a62ef4a045e9efbbcf912f7997966dd45d506e7a4a35d19ee1bd"
+      "bytes": 1433323,
+      "sha256": "2d33ab41cca6fe08ef38d3edcf6059ccd0fbdde67941a951a904f963679478d4"
     },
     {
       "path": "corpus/objects/2a.jsonl",
-      "bytes": 1625755,
-      "sha256": "f51082edf6176ada3641471b94732447ec5fcbf7a456b0b77aea6171f12c74d2"
+      "bytes": 1627017,
+      "sha256": "f43e860df56bb7d00558d584a4f10c714733c48f665ef2810a6a2d601b8c71d3"
     },
     {
       "path": "corpus/objects/2b.jsonl",
@@ -4115,8 +4240,8 @@
     },
     {
       "path": "corpus/objects/30.jsonl",
-      "bytes": 1321294,
-      "sha256": "a5b0bfa44766d24294ec89eaf57f00d21384fd6bf15271da7a066f6716cf39ce"
+      "bytes": 1322330,
+      "sha256": "06d883d51d3338b75ba200863d509ee49289123b68100c148ab6ebeac81ca0d5"
     },
     {
       "path": "corpus/objects/31.jsonl",
@@ -4190,8 +4315,8 @@
     },
     {
       "path": "corpus/objects/3f.jsonl",
-      "bytes": 1418570,
-      "sha256": "96eb3b91788b0982fc6cba64c60c655229f9ba83cde51e092405b1b6e0a42e54"
+      "bytes": 1419512,
+      "sha256": "2e523548952d354375624eecd074d0c0fcb4f791bbadd3a09b79c54a97ac7e79"
     },
     {
       "path": "corpus/objects/40.jsonl",
@@ -4230,8 +4355,8 @@
     },
     {
       "path": "corpus/objects/47.jsonl",
-      "bytes": 1342805,
-      "sha256": "56339ff65e775c99417d5910f86638020aa2e74a9163e42bfc4458c38dc5913b"
+      "bytes": 1343770,
+      "sha256": "61e04d296cbd9121654b4d52477cc53844c3156792f1dc933cc7590055d0613a"
     },
     {
       "path": "corpus/objects/48.jsonl",
@@ -4245,8 +4370,8 @@
     },
     {
       "path": "corpus/objects/4a.jsonl",
-      "bytes": 1476402,
-      "sha256": "0ca285b98f6985e66136701f2d58f3f9342a2e357fe2b48f71954244dc1d8edf"
+      "bytes": 1477419,
+      "sha256": "6b18824cecf1f50f35dc9532108ba967366276e3ddc5820b1983a3c1a2c1dacd"
     },
     {
       "path": "corpus/objects/4b.jsonl",
@@ -4260,8 +4385,8 @@
     },
     {
       "path": "corpus/objects/4d.jsonl",
-      "bytes": 1376247,
-      "sha256": "db3d9dbd636bb2085fc832449076627c3b2431b4df80500e035b09b077e79870"
+      "bytes": 1378984,
+      "sha256": "ffb4794f6cc114498b1a9a2661cf4109b7f69a04413d8dd5c621fc439183857a"
     },
     {
       "path": "corpus/objects/4e.jsonl",
@@ -4270,8 +4395,8 @@
     },
     {
       "path": "corpus/objects/4f.jsonl",
-      "bytes": 1378275,
-      "sha256": "a2b3a20bfb598c6a2219a5a106547948c77e6068a6fc5230384fec068ba907fe"
+      "bytes": 1379667,
+      "sha256": "cef961d5b36ad76bce99724b2575a25d094bb38d755f31aae7e4c6be0423d9a0"
     },
     {
       "path": "corpus/objects/50.jsonl",
@@ -4335,8 +4460,8 @@
     },
     {
       "path": "corpus/objects/5c.jsonl",
-      "bytes": 1759107,
-      "sha256": "27c30d4224ba34c2d54301df7cc9bb7e6a5c72d5121d4ff983ed09d0a162d38a"
+      "bytes": 1759955,
+      "sha256": "e9c856d384637bcb8bfbfad9cfe399fa1887b888d8adf1b4cd1f608054d599bb"
     },
     {
       "path": "corpus/objects/5d.jsonl",
@@ -4380,8 +4505,8 @@
     },
     {
       "path": "corpus/objects/65.jsonl",
-      "bytes": 1410650,
-      "sha256": "995385e340176652638636a51522e5691568207c07c49e40031bc4ea8057528d"
+      "bytes": 1411746,
+      "sha256": "c8310c8e6eca5306c8919055644db6a8fe01bc5298441451a9ab019c971d9ebb"
     },
     {
       "path": "corpus/objects/66.jsonl",
@@ -4420,13 +4545,13 @@
     },
     {
       "path": "corpus/objects/6d.jsonl",
-      "bytes": 1387338,
-      "sha256": "7528e135a87d333a44de6ef2cca525a800f46b662eecfc15044e3abc3140ec7a"
+      "bytes": 1388765,
+      "sha256": "25c25dcb86e0151099f6a208933a28986f0617647e92b4a2b93494d6f5382282"
     },
     {
       "path": "corpus/objects/6e.jsonl",
-      "bytes": 1461548,
-      "sha256": "9d2225ea8d0cbf0ca25edc0a681b419b51d61b47b20bc48362bfaa3a07a44840"
+      "bytes": 1462478,
+      "sha256": "dd23a61152680b5acddc5529afcbf04068a40fcb3f6b17166174b82ecfba9ab1"
     },
     {
       "path": "corpus/objects/6f.jsonl",
@@ -4445,8 +4570,8 @@
     },
     {
       "path": "corpus/objects/72.jsonl",
-      "bytes": 1391871,
-      "sha256": "5ea94bab0516989694d8288b14602582e9ab9f239b774e9021e19bf9d7986753"
+      "bytes": 1393227,
+      "sha256": "443e492997c9b573256eaddf5b8a690cc79f39f1b17825413563c63c4cab49c3"
     },
     {
       "path": "corpus/objects/73.jsonl",
@@ -4465,8 +4590,8 @@
     },
     {
       "path": "corpus/objects/76.jsonl",
-      "bytes": 1512595,
-      "sha256": "d8ba3511e896def6239131dce72e813429fc3fe7091d0116b09ff6c938ddba0b"
+      "bytes": 1513631,
+      "sha256": "fb8a329ca37cb985a9122e1a3477ea383be9f96bce79836daea6f813aa850c15"
     },
     {
       "path": "corpus/objects/77.jsonl",
@@ -4495,13 +4620,13 @@
     },
     {
       "path": "corpus/objects/7c.jsonl",
-      "bytes": 1434636,
-      "sha256": "452dab55f7703ad70f6b9d2bea3b994bf3fdd34a574361d6078a7dfb2d13cd14"
+      "bytes": 1435657,
+      "sha256": "926b93550f094518d6454631e0661275c245aab3b397a45a4473901e403eb337"
     },
     {
       "path": "corpus/objects/7d.jsonl",
-      "bytes": 1360216,
-      "sha256": "ce38e65700914c16884ebbb317b4610384eb599318bee2eb02705d94d1ffed0d"
+      "bytes": 1363580,
+      "sha256": "99c9ab3db774ba69bd87375e522530667c4faae518e315fd859ac71d2acf3392"
     },
     {
       "path": "corpus/objects/7e.jsonl",
@@ -4510,8 +4635,8 @@
     },
     {
       "path": "corpus/objects/7f.jsonl",
-      "bytes": 1400745,
-      "sha256": "394e3ea6c807c570e3ee6dd0d9aaa2488df391899e176129071b6d53db0864ca"
+      "bytes": 1401811,
+      "sha256": "1727f7ed8451468d143ade85e6c0a68edcf3984f430486689b2ee9b4aa6645d8"
     },
     {
       "path": "corpus/objects/80.jsonl",
@@ -4530,8 +4655,8 @@
     },
     {
       "path": "corpus/objects/83.jsonl",
-      "bytes": 1578275,
-      "sha256": "45a6b06999773e4cc43f2e0ec5ef073dee61d2ef3b9b31a925ca88a6b4dd5cea"
+      "bytes": 1579681,
+      "sha256": "2c58186d4f4bc6b963d90e1b119fd4f80929c1d42c7a01707c02856c72e2e4d8"
     },
     {
       "path": "corpus/objects/84.jsonl",
@@ -4570,8 +4695,8 @@
     },
     {
       "path": "corpus/objects/8b.jsonl",
-      "bytes": 1576859,
-      "sha256": "b517f76b54064f27b3e4f0090f2cda3cf6aa5ce60d679d812fbbee62b28ce805"
+      "bytes": 1577841,
+      "sha256": "96e7a09ccc366d8bf5594a776e76671336d7d47b7699c4a95788b293f03bc6ef"
     },
     {
       "path": "corpus/objects/8c.jsonl",
@@ -4615,8 +4740,8 @@
     },
     {
       "path": "corpus/objects/94.jsonl",
-      "bytes": 1509261,
-      "sha256": "192e241fc87cbdca3c03af4c81841137bfa65bbce7a6fc12bc040eebffa1f1ce"
+      "bytes": 1511128,
+      "sha256": "002cca381213ee79e898e9de4f4c122b9c7fafb48e34b3f607583707df3d6da6"
     },
     {
       "path": "corpus/objects/95.jsonl",
@@ -4685,8 +4810,8 @@
     },
     {
       "path": "corpus/objects/a2.jsonl",
-      "bytes": 1578818,
-      "sha256": "1b441d0d3731280a77e93706b1b999b1237d1f97ab535dfc34365c85fe608e45"
+      "bytes": 1580247,
+      "sha256": "ae50b0c890511b0da613752b6515fd5ea687a4ace3f1a9f0798b3e1bd329b350"
     },
     {
       "path": "corpus/objects/a3.jsonl",
@@ -4740,8 +4865,8 @@
     },
     {
       "path": "corpus/objects/ad.jsonl",
-      "bytes": 1420044,
-      "sha256": "82c7e9fd2a49cbde613b8eb070ee693a77db0bb3e367baf248d0912296022d81"
+      "bytes": 1421125,
+      "sha256": "beb8054b72b45cc69f6a6ba63356c077e62de284349d591596f3d97f0c98c404"
     },
     {
       "path": "corpus/objects/ae.jsonl",
@@ -4750,8 +4875,8 @@
     },
     {
       "path": "corpus/objects/af.jsonl",
-      "bytes": 1514734,
-      "sha256": "85e3556cb7d975a63ce52863e6ce02dbea910cbdb3454ed3745a442a70afa407"
+      "bytes": 1515740,
+      "sha256": "0f4d99a0a3e8c4c941ff7f5c5ec861259c968092184c8cfe84e6a32ba961f7bb"
     },
     {
       "path": "corpus/objects/b0.jsonl",
@@ -4760,18 +4885,18 @@
     },
     {
       "path": "corpus/objects/b1.jsonl",
-      "bytes": 1452403,
-      "sha256": "6aa17a6f840838edbad4e6cca2263a56070acd106824d74442cc557ccb69b137"
+      "bytes": 1453787,
+      "sha256": "4310b43e9e59470afc7b5292713e8fb3ee6bf232039f22f81c6dbb632a79e37c"
     },
     {
       "path": "corpus/objects/b2.jsonl",
-      "bytes": 1612868,
-      "sha256": "b52776da95e6f0a91031a9940af85d8d1eb33e7f96ea32dd10c573a4b6e80e9a"
+      "bytes": 1613870,
+      "sha256": "650df8ef9e2ac0b304f3771ecc9f60f57b27adbbbe402f46f22f764c0ce53f14"
     },
     {
       "path": "corpus/objects/b3.jsonl",
-      "bytes": 1526092,
-      "sha256": "58c1f6b2bb36f4b4d9cc2204a4c89cdbf3e2500f93931c42b541c2fbcd10af20"
+      "bytes": 1527071,
+      "sha256": "75c1f1a95f3cf1c8bfec53be6e336d3abdc2ea9edf1ce74218340aa245ebed0c"
     },
     {
       "path": "corpus/objects/b4.jsonl",
@@ -4805,8 +4930,8 @@
     },
     {
       "path": "corpus/objects/ba.jsonl",
-      "bytes": 1433973,
-      "sha256": "ab2c82027f664a31dce682e95531ed89d0abc659751c27ea832bbd5d6e687331"
+      "bytes": 1435729,
+      "sha256": "92cf2fe59d31788f154ea17d4cec253d9d8cbc659683a74754d558b5afe0d0a0"
     },
     {
       "path": "corpus/objects/bb.jsonl",
@@ -4850,8 +4975,8 @@
     },
     {
       "path": "corpus/objects/c3.jsonl",
-      "bytes": 1472529,
-      "sha256": "42ee4d5a73915baeb76db54bd2d7e6e2e7eca7dee1aba9d6095fb6ecf1700ee8"
+      "bytes": 1475050,
+      "sha256": "a60e49a02b353fc05028a11c23e9f675b2ac7af0134516b0d0665f9311e7f889"
     },
     {
       "path": "corpus/objects/c4.jsonl",
@@ -4860,8 +4985,8 @@
     },
     {
       "path": "corpus/objects/c5.jsonl",
-      "bytes": 1483684,
-      "sha256": "a016e978ef4672b33e7baf2b40b3d566ed7ffd6dd670c6ffa6bf9c8ad7adc599"
+      "bytes": 1484846,
+      "sha256": "a6794f2a79cfc3b68c7a274461a10fedc3d6bef02be3ad6d2210c04227ec6a49"
     },
     {
       "path": "corpus/objects/c6.jsonl",
@@ -4895,13 +5020,13 @@
     },
     {
       "path": "corpus/objects/cc.jsonl",
-      "bytes": 1462548,
-      "sha256": "fc0f9483f420fe123329cbd7b21731ae16aba7b38a7cfa7a07b02982a8e583c5"
+      "bytes": 1463584,
+      "sha256": "636e190440ad2fea3e3c4e975b1c4789d4f0e89fad482ad54e744379bfd4b6a9"
     },
     {
       "path": "corpus/objects/cd.jsonl",
-      "bytes": 1483846,
-      "sha256": "ed5cc598c39f40081575e34f23780c8e81234aee7e274b05cf69825e0919e8f8"
+      "bytes": 1485181,
+      "sha256": "1d1fc7a8ee14a1a8e38d646e519bc468d374cbfe0eaf4d945a98ba3ff6cfcdc6"
     },
     {
       "path": "corpus/objects/ce.jsonl",
@@ -4920,8 +5045,8 @@
     },
     {
       "path": "corpus/objects/d1.jsonl",
-      "bytes": 1417289,
-      "sha256": "a019eba82b8369d92637e37592bb5576470b48d84cdd54f6c34431c71b3fe2bd"
+      "bytes": 1418520,
+      "sha256": "e40ad9f30cb84d3b06c407165513c4eed0834ad505a0fc11578f45c078393132"
     },
     {
       "path": "corpus/objects/d2.jsonl",
@@ -4935,8 +5060,8 @@
     },
     {
       "path": "corpus/objects/d4.jsonl",
-      "bytes": 1687939,
-      "sha256": "c21d27227454e01f52b399d18afe778973725d1febacec192b690224f1693bf5"
+      "bytes": 1688806,
+      "sha256": "ecc52b0463e9b1c3cd40cca9e63b8f71bc508fde59bfff360b827edfc073e4a5"
     },
     {
       "path": "corpus/objects/d5.jsonl",
@@ -4955,8 +5080,8 @@
     },
     {
       "path": "corpus/objects/d8.jsonl",
-      "bytes": 1453867,
-      "sha256": "efae2d07beef45674cc4dea65be50d54b472492f0491d1d25bfee3287bca3c9b"
+      "bytes": 1454885,
+      "sha256": "66d778b86a6f1df136aa592fde5b1fecaae55afb56b103ef1eeaf65b7e34adb5"
     },
     {
       "path": "corpus/objects/d9.jsonl",
@@ -4995,8 +5120,8 @@
     },
     {
       "path": "corpus/objects/e0.jsonl",
-      "bytes": 1622745,
-      "sha256": "9c8b76546669ea351f2ac77e2264414ccc568511c24ea1724c886b2e056fffa6"
+      "bytes": 1623609,
+      "sha256": "dfa93728ef4978edb0bc74493edfcfe397569822456a00df2c5b087860725be2"
     },
     {
       "path": "corpus/objects/e1.jsonl",
@@ -5005,8 +5130,8 @@
     },
     {
       "path": "corpus/objects/e2.jsonl",
-      "bytes": 1445676,
-      "sha256": "50a093a58ed87a3c3b9d76309bdec631a28dd9909e118710a569df4902ae676c"
+      "bytes": 1446963,
+      "sha256": "24860b5392e5d9f34c6a5a00040e7e59b2f50c538050276bb9e2c86546098f70"
     },
     {
       "path": "corpus/objects/e3.jsonl",
@@ -5020,13 +5145,13 @@
     },
     {
       "path": "corpus/objects/e5.jsonl",
-      "bytes": 1350018,
-      "sha256": "99cb92b29317a2f3c462eb669f105ab4c2e09f778e78f47aebbc429affd63ba6"
+      "bytes": 1352644,
+      "sha256": "1c744383d74f2824adfe3115286f9f7a9f465838090cd64583a720b0a47d0cc7"
     },
     {
       "path": "corpus/objects/e6.jsonl",
-      "bytes": 1498495,
-      "sha256": "6cc0886879e150ddc1492d8457a9a2385af8e7301c90fa6033b089ff90b7e9ea"
+      "bytes": 1499383,
+      "sha256": "ac34ce4ca013caa20951de90b7ad5fdd3380dafcc2b649a0c8ef0e4ab612b3fa"
     },
     {
       "path": "corpus/objects/e7.jsonl",
@@ -5060,8 +5185,8 @@
     },
     {
       "path": "corpus/objects/ed.jsonl",
-      "bytes": 1348251,
-      "sha256": "43f81c715d4b341c84d13e33f57653d3d0db309b46b32e199da65ca123741926"
+      "bytes": 1349118,
+      "sha256": "1a413296234800f98bb6e525fbfbebd8e4070ad8d415413514b9e9d91a54c857"
     },
     {
       "path": "corpus/objects/ee.jsonl",
@@ -5115,8 +5240,8 @@
     },
     {
       "path": "corpus/objects/f8.jsonl",
-      "bytes": 1439250,
-      "sha256": "bbdbc32b75116d5a52a94e132c6b16b71858d8e240c1ccde83117dcf507b97b0"
+      "bytes": 1441347,
+      "sha256": "ea35243f265a8d3711e4f04d7442719603e8cafa3bdb02f4c291f981309c71e5"
     },
     {
       "path": "corpus/objects/f9.jsonl",
@@ -5165,13 +5290,13 @@
     },
     {
       "path": "history/README.md",
-      "bytes": 4502,
-      "sha256": "99df3b4390b3951624aa0488c51efcfa8deb9751f3fad49754d09e7b0ad1d1b0"
+      "bytes": 5028,
+      "sha256": "d431ff7dbcd4636d89ebbc60d39bb27679dce76b550e17204e433e234ff0b04c"
     },
     {
       "path": "history/editions.json",
-      "bytes": 2890,
-      "sha256": "6be78c5166c49053d483a140862aca210fa7582ba51cbd512a9e0a4ad7f066c8"
+      "bytes": 3217,
+      "sha256": "c114b6cc75f7ce78b71a33890c23ee2756d739db763fd8dce9016ce3a648cfe0"
     },
     {
       "path": "pkst_public/__init__.py",
@@ -5185,8 +5310,8 @@
     },
     {
       "path": "publication/README.md",
-      "bytes": 1206,
-      "sha256": "96c74f1d0a61a67d4c85ab779b71d77c4c6bb2eed52d8308957c40718067df8c"
+      "bytes": 1209,
+      "sha256": "73b2830a124bc3ac2b76e3a613da2ceefb348573fba775026adba35e0880529a"
     },
     {
       "path": "publication/authorization.json",
@@ -5195,8 +5320,8 @@
     },
     {
       "path": "publication/coverage.json",
-      "bytes": 4244,
-      "sha256": "75390c07c7ea021d2f0a204639172396f65032b67193e38d70ef0cdbae4a4a45"
+      "bytes": 4805,
+      "sha256": "949d040466ac515a733e011a987c96a21035c4b32d23b1ee75589fd0ca111d6b"
     },
     {
       "path": "publication/document-files.json",
@@ -5252,6 +5377,36 @@
       "path": "tools/publication/safety.py",
       "bytes": 3367,
       "sha256": "427e595d25c7351e07ed8aa61b16fe071cf21032390483b88257f4939dc83a5a"
+    },
+    {
+      "path": "work/ability-resource-formation/archive_edition.py",
+      "bytes": 16705,
+      "sha256": "7cbff254876e3e59f4f3238ba9c40054c6e49cb0673096016a7edc651f0d6453"
+    },
+    {
+      "path": "work/ability-resource-formation/compose.py",
+      "bytes": 12007,
+      "sha256": "1cab3fda21c3fc6adc094ce764ecf47ab92412695f50a0ebf159e5e20aba31d4"
+    },
+    {
+      "path": "work/ability-resource-formation/prepare.py",
+      "bytes": 5661,
+      "sha256": "669466f5b22a8f8aeddb0284a61abc0c73d2c8f0bb9445d2d05db91caba52137"
+    },
+    {
+      "path": "work/ability-resource-formation/publish_edition.py",
+      "bytes": 11025,
+      "sha256": "a093049cef65afdde5505d5672ff543164aff7c39da103b68bb5077219f7fd82"
+    },
+    {
+      "path": "work/ability-resource-formation/verify_text.py",
+      "bytes": 4588,
+      "sha256": "4612e62a76a53bb4721158a6e77e88d34b141993ae0b94e72c3e4102f2a5f928"
+    },
+    {
+      "path": "work/ability-resource-formation/write_notes.py",
+      "bytes": 7337,
+      "sha256": "ef7744e55d9f6eccfb1353bf08cf62c3df0b7283a2a1db6a4fd1df33e4edf3ea"
     },
     {
       "path": "work/audit_codex_ids.py",
@@ -6129,6 +6284,6 @@
       "sha256": "be35d8ba796b117ed5518d006eb0034161fd3376c2881d6a2d2febce460bafcb"
     }
   ],
-  "total_bytes": 494741043,
+  "total_bytes": 495527940,
   "scope": "All release files except this manifest and generated .cache/.git/__pycache__; checks cover defined credential patterns, not an absolute guarantee."
 }
