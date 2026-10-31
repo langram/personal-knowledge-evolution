@@ -1,0 +1,45 @@
+{
+  "branch": "codex/open-civilization-research-20261030",
+  "commit": "4127d3f9ec4cfb7a61cbb2ea195cd6d64faef110",
+  "scope": "AI research context referenced by the author; not automatic adoption or a merge of the research branch.",
+  "files": [
+    {
+      "path": "research/codex-open-civilization/round-01.md",
+      "bytes": 10776,
+      "sha256": "482b9fafb5a827a4e033a695a0470ae293152da514970af4429faf461b4d1f6b",
+      "url": "https://github.com/langram/personal-knowledge-evolution/blob/4127d3f9ec4cfb7a61cbb2ea195cd6d64faef110/research/codex-open-civilization/round-01.md"
+    },
+    {
+      "path": "research/codex-open-civilization/round-02.md",
+      "bytes": 13253,
+      "sha256": "21a4af2431606c200a2e87e38835cc27df50e4c6aefa75185c554efd13a2632d",
+      "url": "https://github.com/langram/personal-knowledge-evolution/blob/4127d3f9ec4cfb7a61cbb2ea195cd6d64faef110/research/codex-open-civilization/round-02.md"
+    },
+    {
+      "path": "research/codex-open-civilization/round-03.md",
+      "bytes": 20217,
+      "sha256": "6309c158857aed4a1261fba4023176fe50c5366c1a10e9206c47b2bb44fa90d3",
+      "url": "https://github.com/langram/personal-knowledge-evolution/blob/4127d3f9ec4cfb7a61cbb2ea195cd6d64faef110/research/codex-open-civilization/round-03.md"
+    },
+    {
+      "path": "research/codex-open-civilization/dag/index.json",
+      "bytes": 735,
+      "sha256": "f15e9c5b02f49cc61513e93b260a9ff74d1d084a02bea508ce466dbbd57ab48b",
+      "url": "https://github.com/langram/personal-knowledge-evolution/blob/4127d3f9ec4cfb7a61cbb2ea195cd6d64faef110/research/codex-open-civilization/dag/index.json"
+    }
+  ],
+  "research_roots": [
+    {
+      "round": 1,
+      "root": "bafyreih2wyq7dwll7i5a2c7wapbuunrvs4u3zj5motkl22rh4qkvuiqnde"
+    },
+    {
+      "round": 2,
+      "root": "bafyreig4irajqawtd47f5cuwcg4b6huk33vtfcrz5qd5yu2zpvwwl2f3nq"
+    },
+    {
+      "round": 3,
+      "root": "bafyreihwztlgglchc22d2irxxkrmmcbmus3vbya5f2n5jzwmtopbhvc2by"
+    }
+  ]
+}

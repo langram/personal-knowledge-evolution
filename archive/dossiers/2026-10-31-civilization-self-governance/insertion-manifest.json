@@ -1,0 +1,51 @@
+{
+  "schema": "csg/insertions@1",
+  "baseline_file": "dossiers\\2026-10-30-recording-and-reflection\\02-new-principles.md",
+  "baseline_sha256": "ad4f660d6392caecae59ca20d58fe31952c2f99b7514d9f839a27f5c2286c89d",
+  "combined_sha256": "55c65d61c43cb09cc73e057e122eabc36c53a7d9e5526658c561ca0b180116c1",
+  "original_bytes": 455045,
+  "insertions": [
+    {
+      "file": "05-weight-and-integrity.md",
+      "title": "需求、能力与决策权重，为什么不能成为新的资本",
+      "level": 3,
+      "marker": "我设想的新体制，在政治层面上，每个人都是管理者",
+      "old_byte_offset": 233622,
+      "new_byte_offset": 233622,
+      "bytes": 3082,
+      "sha256": "3d97589b902870db2ff3cc56752e96bc6427bdcad6bf357743034b13231c959a"
+    },
+    {
+      "file": "01-chapter.md",
+      "title": "文明的技术力量与自我治理能力",
+      "level": 2,
+      "marker": "## 个人信息采集、数据主权与技术落地\n",
+      "old_byte_offset": 304965,
+      "new_byte_offset": 308047,
+      "bytes": 13859,
+      "sha256": "27a5efd6146df3c433c7a63efe27f2b4c2860497f3fab54718b2a83fe3721520"
+    },
+    {
+      "file": "06-institutional-exploration.md",
+      "title": "统一基本规则，扩大制度探索的多样性",
+      "level": 3,
+      "marker": "### 从租用资源到自己构造生产能力\n",
+      "old_byte_offset": 342327,
+      "new_byte_offset": 359268,
+      "bytes": 1434,
+      "sha256": "90aa9a9fc45d3d5cea7efdcbbcb4389b944e048cf6184af8af3cae8a3aa36f01"
+    },
+    {
+      "file": "07-digital-society-laboratory.md",
+      "title": "虚拟人类社会实验室，让制度能够先被体验和检验",
+      "level": 3,
+      "marker": "### 先写一个读者能够进入的故事\n",
+      "old_byte_offset": 358783,
+      "new_byte_offset": 377158,
+      "bytes": 2386,
+      "sha256": "c0d1acfcded33bc0ed744555beef246359b75177f13445c7ea633161a52b5bb5"
+    }
+  ],
+  "outside_insertions_byte_preserved": true,
+  "prior_final_appendix_preserved": true
+}

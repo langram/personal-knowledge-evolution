@@ -1,0 +1,82 @@
+[
+  {
+    "id": "performance",
+    "title": "O’Boyle and Aguinis 2012 The Best and the Rest",
+    "url": "https://www.hermanaguinis.com/pdf/PPsych2012.pdf",
+    "reading_scope": "作者公开PDF的摘要与开篇，讨论所研究职业中的绩效分布；不把绩效等同人的内在能力，也不推出所有需求服从任一分布。",
+    "checked_date": "2026-10-31",
+    "full_page_copy": false
+  },
+  {
+    "id": "bitcoin",
+    "title": "Nakamoto Bitcoin whitepaper",
+    "url": "https://bitcoin.org/bitcoin.pdf",
+    "reading_scope": "读取摘要、工作量证明、网络有效性检查及相关概率说明；少于半数不是所有攻击均不可能的通用定理。",
+    "checked_date": "2026-10-31",
+    "full_page_copy": false
+  },
+  {
+    "id": "reciprocity",
+    "title": "Nowak and Sigmund 1993 win-stay lose-shift",
+    "url": "https://www.nature.com/articles/364056a0",
+    "reading_scope": "原论文摘要经大学存档检索返回；出版社正文访问受限，存档为扫描件，未声称完成全文证明复核。仅支持策略比较依赖模型条件这一层论述。",
+    "checked_date": "2026-10-31",
+    "full_page_copy": false
+  },
+  {
+    "id": "weather-model",
+    "title": "Andrychowicz et al MetNet-3",
+    "url": "https://arxiv.org/abs/2306.06079",
+    "reading_scope": "读取作者摘要；特定变量、区域与预报时效内的气象预测进展。该论文是MetNet-3，不是GraphCast，也不证明控制天气。",
+    "checked_date": "2026-10-31",
+    "full_page_copy": false
+  },
+  {
+    "id": "alphafold",
+    "title": "Jumper et al 2021 AlphaFold",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34265844/",
+    "reading_scope": "读取PubMed论文摘要；结构预测的任务与CASP评估范围。Nature直接访问受限，PMC触发检查页，不声称据此读过全文。",
+    "checked_date": "2026-10-31",
+    "full_page_copy": false
+  },
+  {
+    "id": "weather-modification",
+    "title": "WMO Statement on Weather Modification",
+    "url": "https://public.wmo.int/content/wmo-statement-weather-modification",
+    "reading_scope": "读取官方说明；页面说明材料范围截至2024年6月，发布于2025年6月，页面后更新。区分局部干预、预测和无依据的大尺度控制。",
+    "checked_date": "2026-10-31",
+    "full_page_copy": false
+  },
+  {
+    "id": "atoms",
+    "title": "Eigler and Schweizer Positioning single atoms",
+    "url": "https://research.ibm.com/publications/positioning-single-atoms-with-a-scanning-tunnelling-microscope",
+    "reading_scope": "读取作者机构的论文摘要；低温、特定表面的单原子排列，不是任意材料任意尺度制造。",
+    "checked_date": "2026-10-31",
+    "full_page_copy": false
+  },
+  {
+    "id": "gene-editing",
+    "title": "FDA first sickle-cell gene therapies announcement",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease",
+    "reading_scope": "读取2023年12月8日官方公告；特定疾病与细胞治疗中的基因编辑先例，不提供个体医疗建议或推广到全部疾病。",
+    "checked_date": "2026-10-31",
+    "full_page_copy": false
+  },
+  {
+    "id": "individual-simulation",
+    "title": "Park et al LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals v3",
+    "url": "https://arxiv.org/abs/2411.10109v3",
+    "reading_scope": "读取2026年6月28日v3摘要；1052名受访者、访谈或问卷构建的代理与所列预测任务，不证明全球社会长期演化已可模拟。",
+    "checked_date": "2026-10-31",
+    "full_page_copy": false
+  },
+  {
+    "id": "simulation-method",
+    "title": "Madden Evaluating the Use of Large Language Models as Synthetic Social Agents v2",
+    "url": "https://arxiv.org/abs/2509.26080v2",
+    "reading_scope": "读取2025年10月28日v2作者摘要；方法讨论提出适用范围、人类基线及校准，不当作本方案的实测验收。",
+    "checked_date": "2026-10-31",
+    "full_page_copy": false
+  }
+]

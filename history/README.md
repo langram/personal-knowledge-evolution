@@ -13,6 +13,7 @@
 |AI时代的Merkle-DAG语言与软件生态|114,226|[正文](../archive/dossiers/2026-10-29-merkle-native/02-new-principles.md)|
 |公共知识与合作反馈扩展|118,358|[正文](../archive/dossiers/2026-10-29-cooperation-feedback/02-new-principles.md)|
 |个人信息采集与全书自我反思|135,630|[正文](../archive/dossiers/2026-10-30-recording-and-reflection/02-new-principles.md)|
+|文明自我治理与制度多样性探索|141,764|[正文](../archive/dossiers/2026-10-31-civilization-self-governance/02-new-principles.md)|
 
 更早的[整体框架与起步方案](../archive/dossiers/2026-10-25-seed/README.md)保存实践路线、宣传文本和创作计划。
 
@@ -27,3 +28,5 @@
 2026年10月29日新增[公共知识与合作反馈章节](../archive/dossiers/2026-10-29-cooperation-feedback/01-chapter.md)，置于权力约束与信任章节之后、云存储实践之前。[原话与编辑对照](../archive/dossiers/2026-10-29-cooperation-feedback/03-source-ledger.md)保存本次逐项修改。此次为公开仓库建立后的实际追加修订。
 
 2026年10月30日新增[个人信息采集与技术落地](../archive/dossiers/2026-10-30-recording-and-reflection/01-chapter.md)，并在后记之后追加全书最后的[自我反思附录](../archive/dossiers/2026-10-30-recording-and-reflection/05-self-reflection-appendix.md)，覆盖数学、基础科学、社会与工程可行性。[原话与逐项编辑](../archive/dossiers/2026-10-30-recording-and-reflection/03-source-ledger.md)及[说明](../archive/dossiers/2026-10-30-recording-and-reflection/04-editorial-notes.md)同时保留。
+
+2026年10月31日加入[文明的技术力量与自我治理能力](../archive/dossiers/2026-10-31-civilization-self-governance/01-chapter.md)，并扩展动态权重、制度分叉和虚拟社会实验室。[全部增补](../archive/dossiers/2026-10-31-civilization-self-governance/08-edition-additions.md)、[原话与逐项编辑](../archive/dossiers/2026-10-31-civilization-self-governance/03-source-ledger.md)及[编辑说明](../archive/dossiers/2026-10-31-civilization-self-governance/04-editorial-notes.md)同时保留。

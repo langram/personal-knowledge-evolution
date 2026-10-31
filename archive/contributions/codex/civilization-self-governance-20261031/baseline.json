@@ -1,0 +1,23 @@
+{
+  "pointer": {
+    "report": "report-20261030-recording-and-reflection-v1.json",
+    "snapshot": "bafyreihsgz2xist4uc5axsgceafyulzlta477knp3cpbfqtc6zt4pmcfqy",
+    "database": "contributions\\codex\\catalog\\.private\\20261030-recording-and-reflection-v1\\catalog.sqlite"
+  },
+  "document": "bafyreic5beenkozhmov6uecka3x6imsoeiv6qn4dz47xuludhsx734lnua",
+  "dossier_root": "bafyreiefs2eudmf6vcol5sb4lsnpy3y6cnvnugewypur25pilffwasqc3u",
+  "concepts": [
+    "bafyreidw7qrq77nh26a5cgcer7g66lyd7xecn2p5e63qq3zn35h6figlem",
+    "bafyreice6x34bltmfq5cu2eufw4dv2tzvowyuulsa6are7sdpjkk77n3sq",
+    "bafyreig4f7lgayd2l4wjkqtkjnvzub2n46e7s36gk5cabz33x3jn7leoru",
+    "bafyreifcr2lhc3qmbbj47qvvnghgocm7hzfgnw4hefz32vevcmzxznnwoe",
+    "bafyreieixarxkkrjufjtye2us3t3mc2heo4q7stvtxo2dpw3ooarynjm6q",
+    "bafyreic5dn2ydaduvwjx2yy6retmldrtngndyuoxhnm4ts6rlnlave4r4e",
+    "bafyreifnplgfxwx44hfcdulapz6ratnisuwmrqc6oien4s7w5kadhq5ije",
+    "bafyreicdz7c25bmtuy67j22suirpryoipu4e65gv3o62kynegqrtngsula",
+    "bafyreietgrtyacqxyjq3zkpnjxs222buy2mwcniyfnsr5e6kbko6eo7gde",
+    "bafyreigb4nvzjwmpuor5qhl5uviwdlrif2qdvsv5lljggo5uuq7c2limty"
+  ],
+  "manuscript": "dossiers\\2026-10-30-recording-and-reflection\\02-new-principles.md",
+  "sha256": "ad4f660d6392caecae59ca20d58fe31952c2f99b7514d9f839a27f5c2286c89d"
+}

@@ -1,0 +1,17 @@
+{
+  "status": "pass",
+  "scores": [
+    1,
+    2,
+    3
+  ],
+  "linear_highest_share": "1/2",
+  "mapped_scores": [
+    10,
+    100,
+    1000
+  ],
+  "mapped_highest_share": "100/111",
+  "mapped_percentage": 90.09009009009009,
+  "scope": "Arithmetic illustration of a weight mapping; not population data or an institutional experiment."
+}

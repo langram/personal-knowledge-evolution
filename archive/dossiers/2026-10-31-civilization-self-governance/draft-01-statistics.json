@@ -1,0 +1,33 @@
+{
+  "sections": [
+    {
+      "file": "05-weight-and-integrity.md",
+      "title": "需求、能力与决策权重，为什么不能成为新的资本",
+      "cjk": 902
+    },
+    {
+      "file": "01-chapter.md",
+      "title": "文明的技术力量与自我治理能力",
+      "cjk": 3963
+    },
+    {
+      "file": "06-institutional-exploration.md",
+      "title": "统一基本规则，扩大制度探索的多样性",
+      "cjk": 434
+    },
+    {
+      "file": "07-digital-society-laboratory.md",
+      "title": "虚拟人类社会实验室，让制度能够先被体验和检验",
+      "cjk": 710
+    }
+  ],
+  "added_cjk": 6009,
+  "combined_cjk": 141639,
+  "combined_sha256": "0a4f1808c28e01213c81d589d0c4534779b6c3e07a106efd04d4397414bf75b9",
+  "source_events": 3,
+  "source_spans": 21,
+  "passage_units": 46,
+  "author_source_characters_selected": 3180,
+  "author_literal_retained_characters": 2124,
+  "boundary": "Literal overlap measures selected source retention, not proportion of the entire book or author acceptance."
+}

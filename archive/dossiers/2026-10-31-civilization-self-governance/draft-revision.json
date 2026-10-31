@@ -1,0 +1,75 @@
+{
+  "from": "draft-01-additions.md",
+  "to": "08-edition-additions.md",
+  "before_sha256": "499fb26889799eba533e97bc59f095da7c00e376b2bbdc5f3e0f23a3ce9fd87d",
+  "after_sha256": "db4059953eb19a5fb201debf3a6491fb232da4d863ff0f12e6de0e809a6c85e7",
+  "reason": "Second editorial pass reduces unnecessary paraphrase while keeping factual and logical qualifications.",
+  "before_statistics": {
+    "sections": [
+      {
+        "file": "05-weight-and-integrity.md",
+        "title": "需求、能力与决策权重，为什么不能成为新的资本",
+        "cjk": 902
+      },
+      {
+        "file": "01-chapter.md",
+        "title": "文明的技术力量与自我治理能力",
+        "cjk": 3963
+      },
+      {
+        "file": "06-institutional-exploration.md",
+        "title": "统一基本规则，扩大制度探索的多样性",
+        "cjk": 434
+      },
+      {
+        "file": "07-digital-society-laboratory.md",
+        "title": "虚拟人类社会实验室，让制度能够先被体验和检验",
+        "cjk": 710
+      }
+    ],
+    "added_cjk": 6009,
+    "combined_cjk": 141639,
+    "combined_sha256": "0a4f1808c28e01213c81d589d0c4534779b6c3e07a106efd04d4397414bf75b9",
+    "source_events": 3,
+    "source_spans": 21,
+    "passage_units": 46,
+    "author_source_characters_selected": 3180,
+    "author_literal_retained_characters": 2124,
+    "boundary": "Literal overlap measures selected source retention, not proportion of the entire book or author acceptance."
+  },
+  "after_statistics": {
+    "sections": [
+      {
+        "file": "05-weight-and-integrity.md",
+        "title": "需求、能力与决策权重，为什么不能成为新的资本",
+        "cjk": 902
+      },
+      {
+        "file": "01-chapter.md",
+        "title": "文明的技术力量与自我治理能力",
+        "cjk": 4088
+      },
+      {
+        "file": "06-institutional-exploration.md",
+        "title": "统一基本规则，扩大制度探索的多样性",
+        "cjk": 434
+      },
+      {
+        "file": "07-digital-society-laboratory.md",
+        "title": "虚拟人类社会实验室，让制度能够先被体验和检验",
+        "cjk": 710
+      }
+    ],
+    "added_cjk": 6134,
+    "combined_cjk": 141764,
+    "combined_sha256": "55c65d61c43cb09cc73e057e122eabc36c53a7d9e5526658c561ca0b180116c1",
+    "source_events": 3,
+    "source_spans": 21,
+    "passage_units": 46,
+    "author_source_characters_selected": 3180,
+    "author_literal_retained_characters": 2430,
+    "boundary": "Literal overlap measures selected source retention, not proportion of the entire book or author acceptance."
+  },
+  "patch": "draft-01-to-final.patch",
+  "intermediate_draft_is_not_current_book": true
+}

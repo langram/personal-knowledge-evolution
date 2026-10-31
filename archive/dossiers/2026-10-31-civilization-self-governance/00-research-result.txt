@@ -1,0 +1,24 @@
+已完成三轮独立研发，正文共约 **1.3万汉字**，已发布到 GitHub 的独立分支 `codex/open-civilization-research-20261030`。
+
+从[研发总览](https://github.com/langram/personal-knowledge-evolution/blob/codex/open-civilization-research-20261030/research/codex-open-civilization/README.md)可以查看全部材料：
+
+1. **第一轮：构造方案。** 提出分层开放的知识产品、受限行动、贡献与保障分开、可迁移的制度分支，以及局部改进的组合条件。
+2. **第二轮：寻找反例。** 检验重复承诺资源、过期授权、贡献占位、多身份操纵、少数人处境和实际退出成本，保留失败结果。
+3. **第三轮：修订并安排落地。** 形成个人资料节点、知识接力、有限服务共同体和制度试验网络的完整建议。可以直接阅读[第三轮方案](https://github.com/langram/personal-knowledge-evolution/blob/codex/open-civilization-research-20261030/research/codex-open-civilization/round-03.md)。
+
+我认为最值得借鉴的增量是：**让制度本身也成为能够试验、比较、迁移和共同改进的对象。** 不成熟的想法可以被接力，独立发现与负结果可以得到承认，少数意见可以获得有限的试验机会。
+
+方案的论据、关键推导、反例和修改理由，集中保存在[论证与决策记录](https://github.com/langram/personal-knowledge-evolution/blob/codex/open-civilization-research-20261030/research/codex-open-civilization/decision-ledger.md)。三个 Git 提交和五项提案的 Merkle-DAG 演化关系均已核验；程序实验可以复算，社会效果仍需实际试点验证。这些新增内容标明为我的研究建议，供你选择采用。
+
+此前要求的讨论整合，以及包含数学、基础科学自我评估的末尾附录，也已完成并发布到[《新原理》第九版](https://github.com/langram/personal-knowledge-evolution/blob/main/book/current.md)。
+
+<oai-mem-citation>
+<citation_entries>
+MEMORY.md:57-62|note=[preserve sources and separate editorial proposals from author adoption]
+MEMORY.md:470-479|note=[separate authority from identity and retain evidence boundaries]
+</citation_entries>
+<rollout_ids>
+01a16c8a-f6e1-7580-b378-b6e49f0be965
+01a12957-897a-7d30-86c8-5a38d9cb4cc0
+</rollout_ids>
+</oai-mem-citation>

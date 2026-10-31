@@ -61,5 +61,12 @@
     "file": "archive/dossiers/2026-10-30-recording-and-reflection/02-new-principles.md",
     "sha256": "ad4f660d6392caecae59ca20d58fe31952c2f99b7514d9f839a27f5c2286c89d",
     "cjk_characters": 135630
+  },
+  {
+    "edition": "10-civilization-self-governance",
+    "title": "文明自我治理与制度多样性探索",
+    "file": "archive/dossiers/2026-10-31-civilization-self-governance/02-new-principles.md",
+    "sha256": "55c65d61c43cb09cc73e057e122eabc36c53a7d9e5526658c561ca0b180116c1",
+    "cjk_characters": 141764
   }
 ]

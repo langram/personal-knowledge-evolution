@@ -1,0 +1,5730 @@
+{
+  "schema": "csg/passages@1",
+  "coordinate": "Unicode code points, half-open",
+  "sections": [
+    {
+      "title": "需求、能力与决策权重，为什么不能成为新的资本",
+      "file": "05-weight-and-integrity.md",
+      "level": 3,
+      "items": [
+        {
+          "kind": "source-adaptation",
+          "text": "动态权重会不会被代理数量和历史优势占据？在我设想的新框架下，要从分配规则本身阻断这两种情况。首先，个体生活资源的分配是按需分配的，具体判断的权重是按相关能力分配的。能力和需求与财富有一个重要区别：它们不应当像资本所有权那样，仅凭过去已经占有的份额，就随着时间的累积，自动获得指数性的复利增长。我所要建立的机制，应当使过去的判断优势不能兑换成永久的支配权，也不能使某个节点仅凭拥有更多代理，就占有支配性的决策份额。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            327,
+            518
+          ],
+          "source_sha256": "d85d94beeea3a7f2220b91f8a70885e57c3fa4b1f6690b6b98229460230095eb",
+          "retained_characters": 90,
+          "reason": "保留按需与按能力分工、防止复利式权力积累的主张；把绝对保证改为制度必须实现的条件，不把所有需求能力正态分布写成事实",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                327,
+                339
+              ],
+              "output_span": [
+                0,
+                0
+              ],
+              "before": "round 2 第6点，",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                358,
+                365
+              ],
+              "output_span": [
+                19,
+                25
+              ],
+              "before": "，从理论上讲，",
+              "after": "？在我设想的"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                369,
+                369
+              ],
+              "output_span": [
+                29,
+                40
+              ],
+              "before": "",
+              "after": "，要从分配规则本身阻断"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                374,
+                380
+              ],
+              "output_span": [
+                45,
+                46
+              ],
+              "before": "都不会发生，",
+              "after": "。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                382,
+                382
+              ],
+              "output_span": [
+                48,
+                49
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                384,
+                385
+              ],
+              "output_span": [
+                51,
+                53
+              ],
+              "before": "的",
+              "after": "生活"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                387,
+                387
+              ],
+              "output_span": [
+                55,
+                56
+              ],
+              "before": "",
+              "after": "的"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                396,
+                398
+              ],
+              "output_span": [
+                65,
+                69
+              ],
+              "before": "决策",
+              "after": "具体判断"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                403,
+                403
+              ],
+              "output_span": [
+                74,
+                76
+              ],
+              "before": "",
+              "after": "相关"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                408,
+                449
+              ],
+              "output_span": [
+                81,
+                82
+              ],
+              "before": "，而人的任何一种需求和任何一种能力，在人群中的分布都是正态分布，而不是幂分布，而且",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                454,
+                457
+              ],
+              "output_span": [
+                87,
+                88
+              ],
+              "before": "不会像",
+              "after": "与"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                459,
+                459
+              ],
+              "output_span": [
+                90,
+                109
+              ],
+              "before": "",
+              "after": "有一个重要区别：它们不应当像资本所有权"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                462,
+                462
+              ],
+              "output_span": [
+                112,
+                125
+              ],
+              "before": "",
+              "after": "仅凭过去已经占有的份额，就"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                470,
+                472
+              ],
+              "output_span": [
+                133,
+                137
+              ],
+              "before": "出现",
+              "after": "自动获得"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                481,
+                481
+              ],
+              "output_span": [
+                146,
+                147
+              ],
+              "before": "",
+              "after": "我"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                482,
+                485
+              ],
+              "output_span": [
+                148,
+                165
+              ],
+              "before": "以绝对",
+              "after": "要建立的机制，应当使过去的判断优势"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                486,
+                487
+              ],
+              "output_span": [
+                166,
+                166
+              ],
+              "before": "可",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                488,
+                490
+              ],
+              "output_span": [
+                167,
+                197
+              ],
+              "before": "出现",
+              "after": "兑换成永久的支配权，也不能使某个节点仅凭拥有更多代理，就占有"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                496,
+                517
+              ],
+              "output_span": [
+                203,
+                205
+              ],
+              "before": "节点，也不会有哪个节点占有支配数量性的代理",
+              "after": "份额"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 0,
+          "section_span": [
+            28,
+            234
+          ],
+          "document_span": [
+            81426,
+            81632
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "这里需要把能力差异、测量分布和制度权力分开。人的需求和能力涉及不同的维度与处境，不能预先断定每一种需求、每一种能力都服从正态分布。已有研究对一些职业的绩效发现了明显偏离正态的分布；这也不能反过来证明人的一切内在能力都是幂律分布，因为绩效还包含机会、资源和评价方式的影响。[有关绩效分布的研究](https://www.hermanaguinis.com/pdf/PPsych2012.pdf)",
+          "reason": "区分实测绩效与内在能力，避免用另一种分布替换未经证明的普遍假设",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 1,
+          "section_span": [
+            236,
+            432
+          ],
+          "document_span": [
+            81634,
+            81830
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "即使某项能力评分近似正态，评分怎样转换为权重，仍然会改变结果。举一个只说明转换作用的例子：三个评分是1、2、3，若直接按评分归一化，最高者占一半；若先变成10、100、1000再归一化，最高者就超过九成。这三个数字不是人口分布模型，却足以说明：能力差距有限，不等于制度一定不会放大它。真正需要取消的是“优势可以无边界地继续兑换支配权”的转换机制。",
+          "reason": "用可直接核算的例子解释分布与权重映射不同，避免由正态推出不集中",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 2,
+          "section_span": [
+            434,
+            607
+          ],
+          "document_span": [
+            81832,
+            82005
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "所以，更多代理首先代表完成任务的工具更多，不代表更多独立的人，也不自动增加其委托人的基本权利。某项公共任务可以使用很大的计算资源，但资源属于任务的安排，不属于负责人的永久个人份额。相关能力的权重需要随任务、证据和反馈修订；基本生活保障、个人资料的授权和共同规则的修改，则不能被一个专业评分包办。这样，防止支配才成为可检查的制度关系，而不依赖人群恰好具有哪一种分布。",
+          "reason": "补足从分配原则到代理计权与任务资源边界的具体逻辑",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 3,
+          "section_span": [
+            609,
+            791
+          ],
+          "document_span": [
+            82007,
+            82189
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "我们还要防止恶意的破坏和篡改能力，就像加密货币的账本系统需要应对造假账一样。这里可以借鉴的，是把攻击者能够控制什么、诚实参与者怎样核验、出现分歧时怎样处理，都写成明确规则。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            518,
+            579
+          ],
+          "source_sha256": "43eac4dfefbb2bcb0710ecde928ccaaafb8342e479ed84b36a994c12fbae9501",
+          "retained_characters": 36,
+          "reason": "保留账本抗攻击类比，去掉不适用于全部系统的过半算力保证",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                520,
+                520
+              ],
+              "output_span": [
+                2,
+                3
+              ],
+              "before": "",
+              "after": "还"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                523,
+                525
+              ],
+              "output_span": [
+                6,
+                6
+              ],
+              "before": "的是",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                547,
+                548
+              ],
+              "output_span": [
+                28,
+                30
+              ],
+              "before": "，",
+              "after": "需要"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                553,
+                553
+              ],
+              "output_span": [
+                35,
+                44
+              ],
+              "before": "",
+              "after": "一样。这里可以借鉴"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                554,
+                554
+              ],
+              "output_span": [
+                45,
+                51
+              ],
+              "before": "",
+              "after": "，是把攻击者"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                555,
+                556
+              ],
+              "output_span": [
+                52,
+                77
+              ],
+              "before": "力",
+              "after": "够控制什么、诚实参与者怎样核验、出现分歧时怎样处理"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                557,
+                578
+              ],
+              "output_span": [
+                78,
+                85
+              ],
+              "before": "只要试图作恶的节点无法拥有过半的算力，就行",
+              "after": "都写成明确规则"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 4,
+          "section_span": [
+            793,
+            879
+          ],
+          "document_span": [
+            82191,
+            82277
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "但是，“作恶算力不到一半”只在特定协议及其假设下具有相应含义。比特币白皮书讨论了工作量证明链中诚实算力占优时的追赶概率，并要求节点检查交易有效性；它没有证明少于半数算力就不可能盗用密钥、伪造原始观察或滥用已获权限。Merkle-DAG的内容核验、历史一致性、身份与授权、实际执行，需要分别设计。攻击比例的门槛必须从所选协议中推导，不能把一个账本模型的条件直接搬到整个人类社会。[比特币白皮书](https://bitcoin.org/bitcoin.pdf)",
+          "reason": "说明多数算力条件的适用范围及内容记录与现实行为保护的区别",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 5,
+          "section_span": [
+            881,
+            1110
+          ],
+          "document_span": [
+            82279,
+            82508
+          ]
+        }
+      ]
+    },
+    {
+      "title": "文明的技术力量与自我治理能力",
+      "file": "01-chapter.md",
+      "level": 2,
+      "items": [
+        {
+          "kind": "editorial-addition",
+          "text": "### 正向与负向连锁反应，是两种理想化方向",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 0,
+          "section_span": [
+            19,
+            41
+          ],
+          "document_span": [
+            107476,
+            107498
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "关于以牙还牙策略正反方向的连锁反应，需要指出的是，这两个方向首先是一种理想型的简化模型。现实生活中，可以用一些接近两端的现象帮助理解，比如合作无间的终身伴侣或挚友之间的爱情和友情，比如因为琐事引发矛盾直至爆发冲突、引发血案的刑事案件。日常生活中的大量情况是介于两者之间的，合作与背叛互相间杂，误会与修复反复出现，难以预测和控制。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            582,
+            753
+          ],
+          "source_sha256": "c35b492e9d190d5df786c69b435d8267df0676cd3757a1bd7b0d026fb6cc3abd",
+          "retained_characters": 128,
+          "reason": "去掉对会话轮次的依赖；保留两个极端的例子，不把其发生比例写成已有统计结论",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                582,
+                597
+              ],
+              "output_span": [
+                0,
+                2
+              ],
+              "before": "接下来，我需要继续完善一下之前",
+              "after": "关于"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                603,
+                604
+              ],
+              "output_span": [
+                8,
+                8
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                608,
+                608
+              ],
+              "output_span": [
+                12,
+                13
+              ],
+              "before": "",
+              "after": "的"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                612,
+                615
+              ],
+              "output_span": [
+                17,
+                17
+              ],
+              "before": "的说法",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                623,
+                629
+              ],
+              "output_span": [
+                25,
+                25
+              ],
+              "before": "之前阐述的是",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                634,
+                635
+              ],
+              "output_span": [
+                30,
+                33
+              ],
+              "before": "的",
+              "after": "首先是"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                645,
+                647
+              ],
+              "output_span": [
+                43,
+                44
+              ],
+              "before": "，在",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                653,
+                660
+              ],
+              "output_span": [
+                50,
+                57
+              ],
+              "before": "属于极少发生的",
+              "after": "可以用一些接近"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                661,
+                663
+              ],
+              "output_span": [
+                58,
+                58
+              ],
+              "before": "种极",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                665,
+                667
+              ],
+              "output_span": [
+                60,
+                60
+              ],
+              "before": "个别",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                669,
+                669
+              ],
+              "output_span": [
+                62,
+                66
+              ],
+              "before": "",
+              "after": "帮助理解"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                709,
+                709
+              ],
+              "output_span": [
+                106,
+                107
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                719,
+                720
+              ],
+              "output_span": [
+                117,
+                123
+              ],
+              "before": "绝",
+              "after": "日常生活中的"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                721,
+                724
+              ],
+              "output_span": [
+                124,
+                125
+              ],
+              "before": "多数的",
+              "after": "量"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                745,
+                745
+              ],
+              "output_span": [
+                146,
+                156
+              ],
+              "before": "",
+              "after": "误会与修复反复出现，"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 1,
+          "section_span": [
+            43,
+            207
+          ],
+          "document_span": [
+            107500,
+            107664
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "一个人会在某件事上合作，又在另一件事上防守；一段长期友谊也会发生误判，一次冲突也可能因为解释和补救而停止。真正值得研究的，因此不是把所有人分成永远合作与永远背叛的两类，而是哪些条件让互动向合作移动，哪些条件让它滑向对抗，以及偏离之后能不能返回。重复博弈中不同策略在误差、收益和选择条件下会呈现不同结果，这正是需要比较机制的原因。[关于互惠策略与纠错的研究](https://www.nature.com/articles/364056a0)",
+          "reason": "把两极图景接到混合互动、误判与修复，不把TFT当作普遍行为定律",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 2,
+          "section_span": [
+            209,
+            429
+          ],
+          "document_span": [
+            107666,
+            107886
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 从有限的个人经验，到能够积累的文明知识",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 3,
+          "section_span": [
+            431,
+            454
+          ],
+          "document_span": [
+            107888,
+            107911
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "从人类社会的发展进程来看，早期的人类文明，人们既缺乏充分可靠的理论知识指导，又缺乏有效收集推理判断所需相关信息的手段，只能在人类社会活动的反复持续博弈中，凭人类智能体自身容量有限、难以持久精确存储信息的能力，以及相对于机器而言较慢、容易出错的推理计算能力，对较为简单或规模较小的事物收集信息，归纳抽象，形成经验并建立理论知识，然后进一步在实践中检验、修正、完善和升级理论。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            755,
+            938
+          ],
+          "source_sha256": "3bc5d1eac4bf745bfa60f895cb5d9a1cd2f5f309ab2931a5520c046a9c79d475",
+          "retained_characters": 159,
+          "reason": "保留原话，整理语序并限定成立条件",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                781,
+                783
+              ],
+              "output_span": [
+                26,
+                30
+              ],
+              "before": "正确",
+              "after": "充分可靠"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                796,
+                797
+              ],
+              "output_span": [
+                43,
+                43
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                799,
+                801
+              ],
+              "output_span": [
+                45,
+                45
+              ],
+              "before": "用于",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                805,
+                808
+              ],
+              "output_span": [
+                49,
+                51
+              ],
+              "before": "的足够",
+              "after": "所需"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                846,
+                849
+              ],
+              "output_span": [
+                89,
+                92
+              ],
+              "before": "且无法",
+              "after": "、难以"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                860,
+                860
+              ],
+              "output_span": [
+                103,
+                104
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                862,
+                869
+              ],
+              "output_span": [
+                106,
+                120
+              ],
+              "before": "低速且不够精确",
+              "after": "相对于机器而言较慢、容易出错"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                890,
+                892
+              ],
+              "output_span": [
+                141,
+                141
+              ],
+              "before": "进行",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                925,
+                926
+              ],
+              "output_span": [
+                174,
+                175
+              ],
+              "before": "和",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                928,
+                928
+              ],
+              "output_span": [
+                177,
+                178
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                930,
+                930
+              ],
+              "output_span": [
+                180,
+                181
+              ],
+              "before": "",
+              "after": "和"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                934,
+                937
+              ],
+              "output_span": [
+                185,
+                185
+              ],
+              "before": "的过程",
+              "after": ""
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 4,
+          "section_span": [
+            456,
+            642
+          ],
+          "document_span": [
+            107913,
+            108099
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "在这个漫长过程中，有了语言文字，以及书写、印刷、绘画，再到后面的拍照、录音、录像，直至计算机和AI的出现，碳基生物智能体创造了一整套硅基计算与智能技术，极大地提高了从信息采集、存储和处理，到实现归纳抽象、创造新知识、新技术、新工具的能力。所以，人类研究和发现复杂系统规律，并在一定范围内控制和改造这些系统的能力也越来越强，甚至已经开始影响地球的自然环境和自身身体的生物系统。\n\n在这些复杂系统的交互过程中，我们可以精确测量、记录，并通过计算机和AI收集更加丰富的数据，凭借计算机的强大算力和AI辅助推理抽象的能力，认识这些复杂系统的内在机制原理，提高预测和干预这些系统的能力。比如，计算机的出现，让人们对地质、海洋和天气变化有了更加系统的认识，提高了对一些现象的预测能力；计算机和AI的出现，也让人们对生物遗传、蛋白质结构和基因系统有了更深入的认识，并在特定任务和条件下具备预测、修改和干预的能力。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            938,
+            1282
+          ],
+          "source_sha256": "7c78d464a4020ed1d8b3decd81a844b6c908a401cdac62af7fc109354e6ebef6",
+          "retained_characters": 283,
+          "reason": "保留技术扩展认知能力的脉络；区分模型预测、有限干预与全面控制，蛋白质结构预测不冒充全部折叠动力学",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                938,
+                940
+              ],
+              "output_span": [
+                0,
+                9
+              ],
+              "before": "后来",
+              "after": "在这个漫长过程中，"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                951,
+                951
+              ],
+              "output_span": [
+                20,
+                21
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                953,
+                953
+              ],
+              "output_span": [
+                23,
+                24
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                963,
+                963
+              ],
+              "output_span": [
+                34,
+                35
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                965,
+                965
+              ],
+              "output_span": [
+                37,
+                38
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                974,
+                976
+              ],
+              "output_span": [
+                47,
+                49
+              ],
+              "before": "ai",
+              "after": "AI"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                987,
+                988
+              ],
+              "output_span": [
+                60,
+                60
+              ],
+              "before": "，",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                996,
+                996
+              ],
+              "output_span": [
+                68,
+                71
+              ],
+              "before": "",
+              "after": "计算与"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                998,
+                999
+              ],
+              "output_span": [
+                73,
+                73
+              ],
+              "before": "体",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1004,
+                1005
+              ],
+              "output_span": [
+                78,
+                79
+              ],
+              "before": "的",
+              "after": "地"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1013,
+                1013
+              ],
+              "output_span": [
+                87,
+                88
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1026,
+                1027
+              ],
+              "output_span": [
+                101,
+                102
+              ],
+              "before": "，",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1032,
+                1032
+              ],
+              "output_span": [
+                107,
+                108
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1035,
+                1035
+              ],
+              "output_span": [
+                111,
+                112
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1041,
+                1042
+              ],
+              "output_span": [
+                118,
+                119
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1044,
+                1044
+              ],
+              "output_span": [
+                121,
+                122
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1051,
+                1051
+              ],
+              "output_span": [
+                129,
+                136
+              ],
+              "before": "",
+              "after": "复杂系统规律，"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1052,
+                1052
+              ],
+              "output_span": [
+                137,
+                143
+              ],
+              "before": "",
+              "after": "在一定范围内"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1054,
+                1056
+              ],
+              "output_span": [
+                145,
+                150
+              ],
+              "before": "复杂",
+              "after": "和改造这些"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1069,
+                1078
+              ],
+              "output_span": [
+                163,
+                169
+              ],
+              "before": "都有可能控制和改造",
+              "after": "已经开始影响"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1095,
+                1100
+              ],
+              "output_span": [
+                186,
+                189
+              ],
+              "before": "的能力了，",
+              "after": "。\n\n"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1122,
+                1122
+              ],
+              "output_span": [
+                211,
+                212
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1124,
+                1124
+              ],
+              "output_span": [
+                214,
+                215
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1131,
+                1134
+              ],
+              "output_span": [
+                222,
+                224
+              ],
+              "before": "ai来",
+              "after": "AI"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1136,
+                1138
+              ],
+              "output_span": [
+                226,
+                228
+              ],
+              "before": "足够",
+              "after": "更加"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1144,
+                1145
+              ],
+              "output_span": [
+                234,
+                234
+              ],
+              "before": "并",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1150,
+                1153
+              ],
+              "output_span": [
+                239,
+                239
+              ],
+              "before": "和ai",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1159,
+                1159
+              ],
+              "output_span": [
+                245,
+                249
+              ],
+              "before": "",
+              "after": "AI辅助"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1163,
+                1163
+              ],
+              "output_span": [
+                253,
+                254
+              ],
+              "before": "",
+              "after": "的"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1166,
+                1168
+              ],
+              "output_span": [
+                257,
+                259
+              ],
+              "before": "获得",
+              "after": "认识"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1181,
+                1187
+              ],
+              "output_span": [
+                272,
+                275
+              ],
+              "before": "并获得控制和",
+              "after": "，提高"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1189,
+                1189
+              ],
+              "output_span": [
+                277,
+                280
+              ],
+              "before": "",
+              "after": "和干预"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1196,
+                1197
+              ],
+              "output_span": [
+                287,
+                288
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1199,
+                1199
+              ],
+              "output_span": [
+                290,
+                291
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1212,
+                1212
+              ],
+              "output_span": [
+                304,
+                305
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1214,
+                1215
+              ],
+              "output_span": [
+                307,
+                308
+              ],
+              "before": "对",
+              "after": "和"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1219,
+                1220
+              ],
+              "output_span": [
+                312,
+                312
+              ],
+              "before": "都",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1222,
+                1224
+              ],
+              "output_span": [
+                314,
+                330
+              ],
+              "before": "初步",
+              "after": "更加系统的认识，提高了对一些现象"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1227,
+                1230
+              ],
+              "output_span": [
+                333,
+                333
+              ],
+              "before": "和控制",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1232,
+                1233
+              ],
+              "output_span": [
+                335,
+                336
+              ],
+              "before": "，",
+              "after": "；"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1237,
+                1239
+              ],
+              "output_span": [
+                340,
+                342
+              ],
+              "before": "ai",
+              "after": "AI"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1242,
+                1242
+              ],
+              "output_span": [
+                345,
+                347
+              ],
+              "before": "",
+              "after": "，也"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1250,
+                1250
+              ],
+              "output_span": [
+                355,
+                356
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1253,
+                1255
+              ],
+              "output_span": [
+                359,
+                361
+              ],
+              "before": "折叠",
+              "after": "结构"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1262,
+                1264
+              ],
+              "output_span": [
+                368,
+                372
+              ],
+              "before": "系统",
+              "after": "更深入的"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1266,
+                1266
+              ],
+              "output_span": [
+                374,
+                375
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1267,
+                1268
+              ],
+              "output_span": [
+                376,
+                385
+              ],
+              "before": "且",
+              "after": "在特定任务和条件下"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1270,
+                1271
+              ],
+              "output_span": [
+                387,
+                387
+              ],
+              "before": "了",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1273,
+                1273
+              ],
+              "output_span": [
+                389,
+                390
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1276,
+                1278
+              ],
+              "output_span": [
+                393,
+                395
+              ],
+              "before": "控制",
+              "after": "干预"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 5,
+          "section_span": [
+            644,
+            1043
+          ],
+          "document_span": [
+            108101,
+            108500
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "预测和控制仍是不同的能力。能够预报天气，不等于能够任意控制天气；能够预测蛋白质结构，也不等于已经掌握整个生命系统。天气模型与AlphaFold展示了明确任务中的进展，世界气象组织也明确区分有限的人工影响天气与缺乏科学依据的大尺度天气控制。承认这些范围，才能把自然科学已经实现的进步作为真实参照。[天气预测研究](https://arxiv.org/abs/2306.06079)、[AlphaFold论文](https://pubmed.ncbi.nlm.nih.gov/34265844/)、[世界气象组织说明](https://public.wmo.int/content/wmo-statement-weather-modification)",
+          "reason": "用已核对的原始研究和机构说明限定自然系统预测与控制的范围",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 6,
+          "section_span": [
+            1045,
+            1369
+          ],
+          "document_span": [
+            108502,
+            108826
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 研究人类社会时，信息的提供者也是有意愿的参与者",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 7,
+          "section_span": [
+            1371,
+            1398
+          ],
+          "document_span": [
+            108828,
+            108855
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "但是，对人类文明这个复杂的社会系统来说，要收集的系统信息，是我们所有人类智能体的自身信息。与许多物理测量不同，这里的信息提供者会理解研究、评价研究，并依据自己的处境决定提供什么。即使研究人体和疾病也需要认真面对人的意愿，而社会研究更直接涉及人与人之间的利益、信任和权力。对于具有主观能动性的人类来说，收集信息和处理信息的技术能力不断提高以后，是否愿意真实地提供这些信息，就可能成为决定性的瓶颈。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            1282,
+            1402
+          ],
+          "source_sha256": "a07d855b68c1ff9e2d5e6f8f5250717865a7769e96a54e3e496527eba47adc64",
+          "retained_characters": 86,
+          "reason": "修正前文生物例子也涉及人的自身信息这一不连贯处；把唯一瓶颈改为可能的决定性瓶颈",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                1284,
+                1292
+              ],
+              "output_span": [
+                2,
+                2
+              ],
+              "before": "所有这些复杂系统",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1293,
+                1310
+              ],
+              "output_span": [
+                3,
+                3
+              ],
+              "before": "要收集的数据都不是我们人类自身，而",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1351,
+                1351
+              ],
+              "output_span": [
+                44,
+                54
+              ],
+              "before": "",
+              "after": "。与许多物理测量不同"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1352,
+                1352
+              ],
+              "output_span": [
+                55,
+                135
+              ],
+              "before": "",
+              "after": "这里的信息提供者会理解研究、评价研究，并依据自己的处境决定提供什么。即使研究人体和疾病也需要认真面对人的意愿，而社会研究更直接涉及人与人之间的利益、信任和权力。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1377,
+                1377
+              ],
+              "output_span": [
+                160,
+                162
+              ],
+              "before": "",
+              "after": "技术"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1380,
+                1383
+              ],
+              "output_span": [
+                165,
+                170
+              ],
+              "before": "是瓶颈",
+              "after": "断提高以后"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1388,
+                1388
+              ],
+              "output_span": [
+                175,
+                178
+              ],
+              "before": "",
+              "after": "真实地"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1394,
+                1394
+              ],
+              "output_span": [
+                184,
+                193
+              ],
+              "before": "",
+              "after": "，就可能成为决定性"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1395,
+                1401
+              ],
+              "output_span": [
+                194,
+                196
+              ],
+              "before": "主观意愿才是",
+              "after": "瓶颈"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 8,
+          "section_span": [
+            1400,
+            1597
+          ],
+          "document_span": [
+            108857,
+            109054
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "对于动物，人类在一些实验中已经采用了违背动物自身意愿、限制其自由，甚至伤害或终结其生命的手段，进行信息收集和理论检验，引发了人们在道德层面的争论。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            1402,
+            1479
+          ],
+          "source_sha256": "186092b05f2587dceec6742ab9494ebc965115c78163d715c409cb136258933a",
+          "retained_characters": 57,
+          "reason": "保留伦理类比，将其范围限定为一些动物实验",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                1407,
+                1409
+              ],
+              "output_span": [
+                5,
+                10
+              ],
+              "before": "我们",
+              "after": "人类在一些"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1410,
+                1412
+              ],
+              "output_span": [
+                11,
+                13
+              ],
+              "before": "际上",
+              "after": "验中"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1424,
+                1427
+              ],
+              "output_span": [
+                25,
+                28
+              ],
+              "before": "志，控",
+              "after": "愿、限"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1429,
+                1431
+              ],
+              "output_span": [
+                30,
+                30
+              ],
+              "before": "自身",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1438,
+                1441
+              ],
+              "output_span": [
+                37,
+                40
+              ],
+              "before": "和毁灭",
+              "after": "或终结"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1444,
+                1446
+              ],
+              "output_span": [
+                43,
+                43
+              ],
+              "before": "存在",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1447,
+                1451
+              ],
+              "output_span": [
+                44,
+                44
+              ],
+              "before": "强制暴力",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1453,
+                1453
+              ],
+              "output_span": [
+                46,
+                47
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1462,
+                1464
+              ],
+              "output_span": [
+                56,
+                58
+              ],
+              "before": "实践",
+              "after": "检验"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 9,
+          "section_span": [
+            1599,
+            1672
+          ],
+          "document_span": [
+            109056,
+            109129
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "对于人类社会，如果通过传统的金字塔架构的社会治理体系，依靠权力差距和暴力机关的威慑强行收集信息，那么即使取得了大量记录，也可能得到被权力压制扭曲、被刻意隐瞒或欺骗的、既不全面也不真实的数据。对于建立长期自愿合作而言，这种办法会同时伤害信任与信息质量。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            1479,
+            1570
+          ],
+          "source_sha256": "28cc7d2925e1da439e5f787d3c5a67f500710e056e18df10d95c291de5387da9",
+          "retained_characters": 67,
+          "reason": "保留权力压制可能扭曲信息的机制解释，不把全部强制调查及其结果一概断言为虚假",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                1479,
+                1481
+              ],
+              "output_span": [
+                0,
+                9
+              ],
+              "before": "显然",
+              "after": "对于人类社会，如果"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1499,
+                1501
+              ],
+              "output_span": [
+                27,
+                29
+              ],
+              "before": "通过",
+              "after": "依靠"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1510,
+                1510
+              ],
+              "output_span": [
+                38,
+                39
+              ],
+              "before": "",
+              "after": "的"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1512,
+                1515
+              ],
+              "output_span": [
+                41,
+                41
+              ],
+              "before": "的手段",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1522,
+                1529
+              ],
+              "output_span": [
+                48,
+                50
+              ],
+              "before": "是最差的策略，",
+              "after": "那么"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1531,
+                1533
+              ],
+              "output_span": [
+                52,
+                64
+              ],
+              "before": "收集",
+              "after": "取得了大量记录，也可能得"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1534,
+                1539
+              ],
+              "output_span": [
+                65,
+                65
+              ],
+              "before": "的信息也是",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1544,
+                1546
+              ],
+              "output_span": [
+                70,
+                70
+              ],
+              "before": "下被",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1548,
+                1549
+              ],
+              "output_span": [
+                72,
+                73
+              ],
+              "before": "的",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1558,
+                1558
+              ],
+              "output_span": [
+                82,
+                83
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1570,
+                1570
+              ],
+              "output_span": [
+                95,
+                125
+              ],
+              "before": "",
+              "after": "对于建立长期自愿合作而言，这种办法会同时伤害信任与信息质量。"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 10,
+          "section_span": [
+            1674,
+            1799
+          ],
+          "document_span": [
+            109131,
+            109256
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "假如一个人知道，说出设备缺陷会让自己丢掉工作，说出真正的需要会让自己受到惩罚，那么更密集的问卷和更多摄像头，也未必能得到更好的认识。人们会学习哪些回答安全，组织也可能逐渐只听见自己愿意听见的话。于是，记录的数量增加了，系统理解自身的能力却未必随之增加。要改变这一点，需要先改变真实表达之后会发生什么。",
+          "reason": "补足从权力关系到信息选择与失真的具体例子",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 11,
+          "section_span": [
+            1801,
+            1951
+          ],
+          "document_span": [
+            109258,
+            109408
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "在我看来，这也是为什么人类在许多领域对大自然的认知、预测的知识理论和技术改造能力，明显领先于人类对自身社会系统的认知、协调和自我约束能力的重要因素之一。信息提供者是否信任信息的使用机制，是理解这种文明失配的一条关键线索。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            1570,
+            1632
+          ],
+          "source_sha256": "77a2d5c8114a4fb17fcf592fceb9021d25e7087cbd99e516154852509432f2e6",
+          "retained_characters": 55,
+          "reason": "保留文明能力失配的判断，标明作者解释而不宣称已证明是各领域最重要的单一原因",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                1570,
+                1570
+              ],
+              "output_span": [
+                0,
+                5
+              ],
+              "before": "",
+              "after": "在我看来，"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1579,
+                1579
+              ],
+              "output_span": [
+                14,
+                18
+              ],
+              "before": "",
+              "after": "许多领域"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1586,
+                1586
+              ],
+              "output_span": [
+                25,
+                26
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1601,
+                1603
+              ],
+              "output_span": [
+                41,
+                43
+              ],
+              "before": "遥遥",
+              "after": "明显"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1618,
+                1620
+              ],
+              "output_span": [
+                58,
+                61
+              ],
+              "before": "预测",
+              "after": "、协调"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1621,
+                1623
+              ],
+              "output_span": [
+                62,
+                66
+              ],
+              "before": "控制",
+              "after": "自我约束"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1626,
+                1627
+              ],
+              "output_span": [
+                69,
+                69
+              ],
+              "before": "最",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1631,
+                1631
+              ],
+              "output_span": [
+                73,
+                75
+              ],
+              "before": "",
+              "after": "之一"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1632,
+                1632
+              ],
+              "output_span": [
+                76,
+                110
+              ],
+              "before": "",
+              "after": "信息提供者是否信任信息的使用机制，是理解这种文明失配的一条关键线索。"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 12,
+          "section_span": [
+            1953,
+            2063
+          ],
+          "document_span": [
+            109410,
+            109520
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "但愿意提供信息，也不会自动解决全部认识问题。数据可能遗漏重要因素，相关关系不一定是因果关系，参与者还会根据已经公布的预测改变行动。因此，保护真实表达是重要前提，随后仍需要检验理论、识别因果、比较方案并持续修正。新机制要同时改善这些条件。",
+          "reason": "补足信息到因果与预测之间的推理环节，保留人的反应性和复杂系统不确定性",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 13,
+          "section_span": [
+            2065,
+            2183
+          ],
+          "document_span": [
+            109522,
+            109640
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 挥舞巨大力量的文明，也必须学会约束自己",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 14,
+          "section_span": [
+            2185,
+            2208
+          ],
+          "document_span": [
+            109642,
+            109665
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "如果人类文明操纵外部世界的能力，与理解和约束自身行为的能力不匹配，任由这种失配不断扩大，就可能做出自我伤害甚至自我毁灭的行为。它就像一个力大无比、却自身脆弱的小孩子，挥舞着千斤的链子锤：力量越来越大，却不知道怎样控制方向，最终可能砸到自己。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            1632,
+            1723
+          ],
+          "source_sha256": "7711d7bb24efe14f7b0d0d843b669d077af124b925910ed079922526e58c7742",
+          "retained_characters": 73,
+          "reason": "保留链子锤类比与文明失配风险，避免把灾难写成已证明的必然结局",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                1647,
+                1647
+              ],
+              "output_span": [
+                15,
+                16
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1648,
+                1650
+              ],
+              "output_span": [
+                17,
+                22
+              ],
+              "before": "控制",
+              "after": "理解和约束"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1652,
+                1652
+              ],
+              "output_span": [
+                24,
+                26
+              ],
+              "before": "",
+              "after": "行为"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1658,
+                1660
+              ],
+              "output_span": [
+                32,
+                32
+              ],
+              "before": "的话",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1661,
+                1664
+              ],
+              "output_span": [
+                33,
+                47
+              ],
+              "before": "早晚会",
+              "after": "任由这种失配不断扩大，就可能"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1679,
+                1680
+              ],
+              "output_span": [
+                62,
+                64
+              ],
+              "before": "，",
+              "after": "。它"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1688,
+                1689
+              ],
+              "output_span": [
+                72,
+                73
+              ],
+              "before": "，",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1708,
+                1712
+              ],
+              "output_span": [
+                92,
+                99
+              ],
+              "before": "胡乱挥舞",
+              "after": "：力量越来越大"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1713,
+                1716
+              ],
+              "output_span": [
+                100,
+                115
+              ],
+              "before": "早晚会",
+              "after": "却不知道怎样控制方向，最终可能"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1720,
+                1722
+              ],
+              "output_span": [
+                119,
+                119
+              ],
+              "before": "一样",
+              "after": ""
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 15,
+          "section_span": [
+            2210,
+            2330
+          ],
+          "document_span": [
+            109667,
+            109787
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "人类一百多年来，已经遭遇了两次世界大战、美苏冷战和核危机。面对国际间的大国对抗、AI竞赛，如果各方都怕对方先掌握了AI，就会威胁甚至毁灭自己，于是拼命地想压过对方，就可能重演当年核武器竞赛中对落后的恐惧。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            1723,
+            1811
+          ],
+          "source_sha256": "cf2483236dbb1dfc0df02e5a59354692128b49897fcebdffc5cd63aaf8a9c63b",
+          "retained_characters": 68,
+          "reason": "更正美俄冷战为美苏冷战；将所有国家都抱同一动机改为明确的条件情境",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                1742,
+                1743
+              ],
+              "output_span": [
+                19,
+                20
+              ],
+              "before": "和",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1744,
+                1745
+              ],
+              "output_span": [
+                21,
+                22
+              ],
+              "before": "俄",
+              "after": "苏"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1747,
+                1748
+              ],
+              "output_span": [
+                24,
+                25
+              ],
+              "before": "，",
+              "after": "和"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1749,
+                1750
+              ],
+              "output_span": [
+                26,
+                26
+              ],
+              "before": "弹",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1752,
+                1758
+              ],
+              "output_span": [
+                28,
+                31
+              ],
+              "before": "，现在又处在",
+              "after": "。面对"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1761,
+                1763
+              ],
+              "output_span": [
+                34,
+                37
+              ],
+              "before": "中美",
+              "after": "的大国"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1765,
+                1768
+              ],
+              "output_span": [
+                39,
+                42
+              ],
+              "before": "，ai",
+              "after": "、AI"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1771,
+                1771
+              ],
+              "output_span": [
+                45,
+                49
+              ],
+              "before": "",
+              "after": "如果各方"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1779,
+                1781
+              ],
+              "output_span": [
+                57,
+                59
+              ],
+              "before": "ai",
+              "after": "AI"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1784,
+                1784
+              ],
+              "output_span": [
+                62,
+                66
+              ],
+              "before": "",
+              "after": "威胁甚至"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1793,
+                1794
+              ],
+              "output_span": [
+                75,
+                76
+              ],
+              "before": "的",
+              "after": "地"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1801,
+                1802
+              ],
+              "output_span": [
+                83,
+                87
+              ],
+              "before": "像",
+              "after": "可能重演"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                1804,
+                1805
+              ],
+              "output_span": [
+                89,
+                89
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1810,
+                1810
+              ],
+              "output_span": [
+                94,
+                101
+              ],
+              "before": "",
+              "after": "中对落后的恐惧"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 16,
+          "section_span": [
+            2332,
+            2434
+          ],
+          "document_span": [
+            109789,
+            109891
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "要知道，当双方都越害怕发生什么，又越是采取会刺激对方恐惧的行动时，就可能让这件事越容易发生。就像人们越是害怕对方会伤害自己，越是会武装自己；越是发现对方在武装自己，越是害怕，从而越是武装自己。\n\n这种相互回应驱动的负面连锁反应，即使暂时停下来，也不等于达到了对整体更好的结果。比如，双方势均力敌，达成了互相威慑的局面，就像冷战时期美苏的核武器竞争；再比如，一方在某种关键技术上遥遥领先，领先一方使用它对另一方实施毁灭性打击，比如美国对日本广岛和长崎投放原子弹。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            1811,
+            2001
+          ],
+          "source_sha256": "1eefa03f50740e3b90de62b20e75b1a2427d791bbdc87004fb618e5691af7038",
+          "retained_characters": 143,
+          "reason": "保留安全困境的反馈链与历史例子；不把恐惧等同必然自我实现，也不把所有结局直接定义为局部最优",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                1827,
+                1827
+              ],
+              "output_span": [
+                16,
+                33
+              ],
+              "before": "",
+              "after": "又越是采取会刺激对方恐惧的行动时，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1828,
+                1831
+              ],
+              "output_span": [
+                34,
+                37
+              ],
+              "before": "意味着",
+              "after": "可能让"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1835,
+                1837
+              ],
+              "output_span": [
+                41,
+                43
+              ],
+              "before": "可能",
+              "after": "容易"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1839,
+                1840
+              ],
+              "output_span": [
+                45,
+                46
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1863,
+                1864
+              ],
+              "output_span": [
+                69,
+                70
+              ],
+              "before": "，",
+              "after": "；"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1889,
+                1890
+              ],
+              "output_span": [
+                95,
+                98
+              ],
+              "before": "，",
+              "after": "。\n\n"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1891,
+                1898
+              ],
+              "output_span": [
+                99,
+                104
+              ],
+              "before": "个以牙还牙策略",
+              "after": "种相互回应"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1907,
+                1907
+              ],
+              "output_span": [
+                113,
+                134
+              ],
+              "before": "",
+              "after": "，即使暂时停下来，也不等于达到了对整体更好"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1908,
+                1929
+              ],
+              "output_span": [
+                135,
+                138
+              ],
+              "before": "终点，无论是哪种可能性，都不是全局最优解，",
+              "after": "结果。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1948,
+                1949
+              ],
+              "output_span": [
+                157,
+                158
+              ],
+              "before": "部",
+              "after": "面"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1952,
+                1952
+              ],
+              "output_span": [
+                161,
+                165
+              ],
+              "before": "",
+              "after": "冷战时期"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1953,
+                1954
+              ],
+              "output_span": [
+                166,
+                167
+              ],
+              "before": "俄",
+              "after": "苏"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1960,
+                1961
+              ],
+              "output_span": [
+                173,
+                174
+              ],
+              "before": "，",
+              "after": "；"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1964,
+                1964
+              ],
+              "output_span": [
+                177,
+                178
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1966,
+                1966
+              ],
+              "output_span": [
+                180,
+                188
+              ],
+              "before": "",
+              "after": "在某种关键技术上"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1978,
+                1981
+              ],
+              "output_span": [
+                200,
+                206
+              ],
+              "before": "彻底摧",
+              "after": "对另一方实施"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                1982,
+                1987
+              ],
+              "output_span": [
+                207,
+                211
+              ],
+              "before": "或镇压对方",
+              "after": "灭性打击"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                1995,
+                1995
+              ],
+              "output_span": [
+                219,
+                224
+              ],
+              "before": "",
+              "after": "广岛和长崎"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 17,
+          "section_span": [
+            2436,
+            2666
+          ],
+          "document_span": [
+            109893,
+            110123
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "无论哪种，都不能只因为达成了暂时稳定，或一方取得了军事优势，就被视为对人类整体更优的结果。它们仍可能具有高昂的对抗成本，以及误判、局势失控乃至自我毁灭的风险。这也是人类为什么对核技术或AI技术心怀恐惧的重要原因之一。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            2001,
+            2056
+          ],
+          "source_sha256": "d116ef80dbbe5cb04ccf06f63a5692fa4b1b2d3a713a7dd68492ecaa5a077e26",
+          "retained_characters": 46,
+          "reason": "把局部最优判断改为具体代价与风险，避免缺少收益定义时作数学断言",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                2005,
+                2005
+              ],
+              "output_span": [
+                4,
+                5
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2006,
+                2006
+              ],
+              "output_span": [
+                6,
+                8
+              ],
+              "before": "",
+              "after": "不能"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2007,
+                2011
+              ],
+              "output_span": [
+                9,
+                40
+              ],
+              "before": "是局部最",
+              "after": "因为达成了暂时稳定，或一方取得了军事优势，就被视为对人类整体更"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2015,
+                2017
+              ],
+              "output_span": [
+                44,
+                50
+              ],
+              "before": "，都",
+              "after": "。它们仍可能"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2019,
+                2019
+              ],
+              "output_span": [
+                52,
+                65
+              ],
+              "before": "",
+              "after": "高昂的对抗成本，以及误判、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2023,
+                2023
+              ],
+              "output_span": [
+                69,
+                71
+              ],
+              "before": "",
+              "after": "乃至"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2030,
+                2031
+              ],
+              "output_span": [
+                78,
+                79
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2044,
+                2046
+              ],
+              "output_span": [
+                92,
+                94
+              ],
+              "before": "ai",
+              "after": "AI"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2053,
+                2053
+              ],
+              "output_span": [
+                101,
+                103
+              ],
+              "before": "",
+              "after": "重要"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2055,
+                2055
+              ],
+              "output_span": [
+                105,
+                107
+              ],
+              "before": "",
+              "after": "之一"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 18,
+          "section_span": [
+            2668,
+            2776
+          ],
+          "document_span": [
+            110125,
+            110233
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 技术的可靠性，与使用技术的文明的可靠性",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 19,
+          "section_span": [
+            2778,
+            2801
+          ],
+          "document_span": [
+            110235,
+            110258
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "实际上，技术本身之所以是既能提供帮助也能造成伤害的双刃剑，有两个相互联系的重要因素：一个是技术本身的可靠性，另一个则是掌握和使用这些技术的人类文明体本身的可靠性。人类在许多领域对大自然的认知、预测的知识理论和技术改造能力，明显领先于对自身社会系统的认知、协调和自我约束能力，这种现状使得第二个因素成为了不能忽视的风险和严重短板，需要我们尽早尽快地解决。否则，技术越强大，错误决策与相互对抗可能造成的伤害也越大。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            2056,
+            2242
+          ],
+          "source_sha256": "4d606d5d0f0cf79d76c5d9700bc4a514ff7040dc2ef92226f512573e9e925015",
+          "retained_characters": 146,
+          "reason": "保留双重可靠性的中心判断，改正错字，避免将所有风险压成两个独立且可直接排序的变量",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                2059,
+                2059
+              ],
+              "output_span": [
+                3,
+                4
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2084,
+                2088
+              ],
+              "output_span": [
+                29,
+                29
+              ],
+              "before": "根本原因",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2091,
+                2092
+              ],
+              "output_span": [
+                32,
+                42
+              ],
+              "before": "，",
+              "after": "相互联系的重要因素："
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2118,
+                2119
+              ],
+              "output_span": [
+                68,
+                68
+              ],
+              "before": "挥",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2131,
+                2137
+              ],
+              "output_span": [
+                80,
+                81
+              ],
+              "before": "，前面提到的",
+              "after": "。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2140,
+                2140
+              ],
+              "output_span": [
+                84,
+                88
+              ],
+              "before": "",
+              "after": "许多领域"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2147,
+                2147
+              ],
+              "output_span": [
+                95,
+                96
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2162,
+                2164
+              ],
+              "output_span": [
+                111,
+                113
+              ],
+              "before": "遥遥",
+              "after": "明显"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2167,
+                2169
+              ],
+              "output_span": [
+                116,
+                116
+              ],
+              "before": "人类",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2179,
+                2181
+              ],
+              "output_span": [
+                126,
+                129
+              ],
+              "before": "预测",
+              "after": "、协调"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2182,
+                2184
+              ],
+              "output_span": [
+                130,
+                134
+              ],
+              "before": "控制",
+              "after": "自我约束"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2186,
+                2187
+              ],
+              "output_span": [
+                136,
+                139
+              ],
+              "before": "的",
+              "after": "，这种"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2189,
+                2190
+              ],
+              "output_span": [
+                141,
+                141
+              ],
+              "before": "，",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2200,
+                2202
+              ],
+              "output_span": [
+                151,
+                155
+              ],
+              "before": "最大",
+              "after": "不能忽视"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2206,
+                2206
+              ],
+              "output_span": [
+                159,
+                161
+              ],
+              "before": "",
+              "after": "严重"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2217,
+                2218
+              ],
+              "output_span": [
+                172,
+                173
+              ],
+              "before": "的",
+              "after": "地"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2220,
+                2221
+              ],
+              "output_span": [
+                175,
+                176
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2223,
+                2223
+              ],
+              "output_span": [
+                178,
+                179
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2225,
+                2231
+              ],
+              "output_span": [
+                181,
+                198
+              ],
+              "before": "失控自我毁灭",
+              "after": "越强大，错误决策与相互对抗可能造成"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2232,
+                2237
+              ],
+              "output_span": [
+                199,
+                202
+              ],
+              "before": "风险概率会",
+              "after": "伤害也"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2238,
+                2241
+              ],
+              "output_span": [
+                203,
+                204
+              ],
+              "before": "来越高",
+              "after": "大"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 20,
+          "section_span": [
+            2803,
+            3008
+          ],
+          "document_span": [
+            110260,
+            110465
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "看看现在的世界吧。一方面，我们已经具备了在特定实验条件下操纵单个原子、组合出想要的结构的能力，可以在很小的芯片上集成数以亿计的晶体管，可以通过编辑部分人类细胞的基因治疗某些疾病，可以建造飞船走向太空；另一方面，我们的社会仍然充满了意识形态冲突、政治动荡和残酷的暴力战争。小到交通路怒、家庭暴力、邻里纠纷、劳资矛盾，大到美国的国会山事件、法国历史上的学生运动所呈现的社会矛盾，更不用说已经发生的俄乌战争、美伊之间的冲突，以及以色列与阿拉伯国家和巴勒斯坦之间长期的战争与冲突。\n\n这些事件的性质、责任与历史条件并不相同，和平表达分歧也不能与暴力伤害等同。但它们共同促使我们追问：技术能力已经如此强大，人类为什么还不能更可靠地处理自身的矛盾？如果把精力和资源过度放在发展技术的能力和可靠性上，却忽视改造人类社会体制，提高人类文明自身的协调和约束能力，使两者的差距越来越大、越来越不匹配，就可能缘木求鱼、南辕北辙，在放大伤害后果的路上越走越远，直到难以挽回。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            2244,
+            2567
+          ],
+          "source_sha256": "5eae8d265afe227ba67a964f84dc5349bb321e6bdcfef0aa0c49fe4d03e47693",
+          "retained_characters": 243,
+          "reason": "保留科技与社会冲突的对照及主要例子；限定原子操作与基因治疗，避免把不同事件混成同一种暴力或未经核实的当日战况",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                2252,
+                2253
+              ],
+              "output_span": [
+                8,
+                9
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2264,
+                2264
+              ],
+              "output_span": [
+                20,
+                28
+              ],
+              "before": "",
+              "after": "在特定实验条件下"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2270,
+                2270
+              ],
+              "output_span": [
+                34,
+                35
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2276,
+                2278
+              ],
+              "output_span": [
+                41,
+                46
+              ],
+              "before": "形状",
+              "after": "结构的能力"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2282,
+                2285
+              ],
+              "output_span": [
+                50,
+                51
+              ],
+              "before": "指甲大",
+              "after": "很"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2292,
+                2292
+              ],
+              "output_span": [
+                58,
+                60
+              ],
+              "before": "",
+              "after": "数以"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2293,
+                2295
+              ],
+              "output_span": [
+                61,
+                63
+              ],
+              "before": "万个",
+              "after": "计的"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2301,
+                2301
+              ],
+              "output_span": [
+                69,
+                71
+              ],
+              "before": "",
+              "after": "通过"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2303,
+                2303
+              ],
+              "output_span": [
+                73,
+                75
+              ],
+              "before": "",
+              "after": "部分"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2305,
+                2305
+              ],
+              "output_span": [
+                77,
+                80
+              ],
+              "before": "",
+              "after": "细胞的"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2309,
+                2309
+              ],
+              "output_span": [
+                84,
+                86
+              ],
+              "before": "",
+              "after": "某些"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2322,
+                2323
+              ],
+              "output_span": [
+                99,
+                100
+              ],
+              "before": "，",
+              "after": "；"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2333,
+                2333
+              ],
+              "output_span": [
+                110,
+                112
+              ],
+              "before": "",
+              "after": "仍然"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2338,
+                2338
+              ],
+              "output_span": [
+                117,
+                119
+              ],
+              "before": "",
+              "after": "形态"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2340,
+                2341
+              ],
+              "output_span": [
+                121,
+                122
+              ],
+              "before": "，",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2344,
+                2345
+              ],
+              "output_span": [
+                125,
+                126
+              ],
+              "before": "乱",
+              "after": "荡"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2353,
+                2354
+              ],
+              "output_span": [
+                134,
+                135
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2360,
+                2361
+              ],
+              "output_span": [
+                141,
+                142
+              ],
+              "before": "，",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2365,
+                2366
+              ],
+              "output_span": [
+                146,
+                147
+              ],
+              "before": "，",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2370,
+                2371
+              ],
+              "output_span": [
+                151,
+                152
+              ],
+              "before": "，",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2384,
+                2387
+              ],
+              "output_span": [
+                165,
+                168
+              ],
+              "before": "暴乱，",
+              "after": "事件、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2389,
+                2389
+              ],
+              "output_span": [
+                170,
+                173
+              ],
+              "before": "",
+              "after": "历史上"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2394,
+                2394
+              ],
+              "output_span": [
+                178,
+                186
+              ],
+              "before": "",
+              "after": "所呈现的社会矛盾"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2399,
+                2399
+              ],
+              "output_span": [
+                191,
+                196
+              ],
+              "before": "",
+              "after": "已经发生的"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2403,
+                2404
+              ],
+              "output_span": [
+                200,
+                201
+              ],
+              "before": "，",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2406,
+                2408
+              ],
+              "output_span": [
+                203,
+                208
+              ],
+              "before": "战争",
+              "after": "之间的冲突"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2409,
+                2409
+              ],
+              "output_span": [
+                209,
+                211
+              ],
+              "before": "",
+              "after": "以及"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2412,
+                2412
+              ],
+              "output_span": [
+                214,
+                215
+              ],
+              "before": "",
+              "after": "与"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2415,
+                2415
+              ],
+              "output_span": [
+                218,
+                225
+              ],
+              "before": "",
+              "after": "国家和巴勒斯坦"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2417,
+                2421
+              ],
+              "output_span": [
+                227,
+                229
+              ],
+              "before": "旷日持久",
+              "after": "长期"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2424,
+                2424
+              ],
+              "output_span": [
+                232,
+                272
+              ],
+              "before": "",
+              "after": "与冲突。\n\n这些事件的性质、责任与历史条件并不相同，和平表达分歧也不能与暴力伤害"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2425,
+                2426
+              ],
+              "output_span": [
+                273,
+                297
+              ],
+              "before": "等",
+              "after": "同。但它们共同促使我们追问：技术能力已经如此强大"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2427,
+                2429
+              ],
+              "output_span": [
+                298,
+                298
+              ],
+              "before": "以及",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2431,
+                2439
+              ],
+              "output_span": [
+                300,
+                314
+              ],
+              "before": "对核武器以及AI",
+              "after": "为什么还不能更可靠地处理自身"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2440,
+                2445
+              ],
+              "output_span": [
+                315,
+                318
+              ],
+              "before": "恐惧情绪，",
+              "after": "矛盾？"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2447,
+                2455
+              ],
+              "output_span": [
+                320,
+                320
+              ],
+              "before": "按照现在的趋势，",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2461,
+                2462
+              ],
+              "output_span": [
+                326,
+                328
+              ],
+              "before": "都",
+              "after": "过度"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2477,
+                2480
+              ],
+              "output_span": [
+                343,
+                346
+              ],
+              "before": "而不是",
+              "after": "却忽视"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2498,
+                2498
+              ],
+              "output_span": [
+                364,
+                369
+              ],
+              "before": "",
+              "after": "协调和约束"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2500,
+                2505
+              ],
+              "output_span": [
+                371,
+                371
+              ],
+              "before": "和可靠性上",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2506,
+                2506
+              ],
+              "output_span": [
+                372,
+                373
+              ],
+              "before": "",
+              "after": "使"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2515,
+                2516
+              ],
+              "output_span": [
+                382,
+                383
+              ],
+              "before": "，",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2523,
+                2529
+              ],
+              "output_span": [
+                390,
+                393
+              ],
+              "before": "最终的结果是",
+              "after": "就可能"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2533,
+                2533
+              ],
+              "output_span": [
+                397,
+                398
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2539,
+                2547
+              ],
+              "output_span": [
+                404,
+                410
+              ],
+              "before": "技术失控自我毁灭",
+              "after": "放大伤害后果"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2557,
+                2559
+              ],
+              "output_span": [
+                420,
+                422
+              ],
+              "before": "无法",
+              "after": "难以"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2561,
+                2566
+              ],
+              "output_span": [
+                424,
+                424
+              ],
+              "before": "，万劫不复",
+              "after": ""
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 21,
+          "section_span": [
+            3010,
+            3435
+          ],
+          "document_span": [
+            110467,
+            110892
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "单原子排列已有明确实验先例，基因编辑也已经进入特定疾病的临床治疗。这些成就说明某些能力确实已经到来，而不是说明人类已经可以任意改造物质和生命。它们使“怎样共同决定如何使用力量”成为更加现实的问题。[单原子排列实验](https://research.ibm.com/publications/positioning-single-atoms-with-a-scanning-tunnelling-microscope)、[FDA关于首批镰状细胞病基因疗法的公告](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease)",
+          "reason": "为保留的科技例子给出一手来源，不提供治疗建议或夸大适用范围",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 22,
+          "section_span": [
+            3437,
+            3790
+          ],
+          "document_span": [
+            110894,
+            111247
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 让真实分享带来保护与回报，改变文明认识自身的条件",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 23,
+          "section_span": [
+            3792,
+            3820
+          ],
+          "document_span": [
+            111249,
+            111277
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "实际上，我们已经具备或正在逐步具备收集人类社会系统许多重要信息的客观能力，而且这些能力——基础的存储容量和算力，以及日新月异的AI技术——正在快速发展；仍在探索中的脑机接口技术，也提出了新的可能。所以，如何让人类自主提供与合作有关的自身信息，正在成为整个发展进程中的一个重要瓶颈问题。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            2569,
+            2692
+          ],
+          "source_sha256": "44481c9795d8515152bd009a80790d87c57072804f7eca2d822a1141d3042f40",
+          "retained_characters": 89,
+          "reason": "保留技术进化与自愿分享瓶颈，避免宣称已具备收集全部社会信息的客观能力",
+          "edits": [
+            {
+              "operation": "replace",
+              "source_span": [
+                2580,
+                2582
+              ],
+              "output_span": [
+                11,
+                15
+              ],
+              "before": "即将",
+              "after": "正在逐步"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2592,
+                2592
+              ],
+              "output_span": [
+                25,
+                29
+              ],
+              "before": "",
+              "after": "许多重要"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2595,
+                2597
+              ],
+              "output_span": [
+                32,
+                32
+              ],
+              "before": "所有",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2608,
+                2609
+              ],
+              "output_span": [
+                43,
+                45
+              ],
+              "before": "（",
+              "after": "——"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2627,
+                2629
+              ],
+              "output_span": [
+                63,
+                65
+              ],
+              "before": "ai",
+              "after": "AI"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2631,
+                2634
+              ],
+              "output_span": [
+                67,
+                69
+              ],
+              "before": "，以及",
+              "after": "——"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2635,
+                2641
+              ],
+              "output_span": [
+                70,
+                81
+              ],
+              "before": "处于萌芽状态",
+              "after": "在快速发展；仍在探索中"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2648,
+                2656
+              ],
+              "output_span": [
+                88,
+                88
+              ],
+              "before": "）正在飞速进化着",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2657,
+                2657
+              ],
+              "output_span": [
+                89,
+                98
+              ],
+              "before": "",
+              "after": "也提出了新的可能。"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2659,
+                2659
+              ],
+              "output_span": [
+                100,
+                101
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2661,
+                2663
+              ],
+              "output_span": [
+                103,
+                104
+              ],
+              "before": "解决",
+              "after": "让"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2665,
+                2665
+              ],
+              "output_span": [
+                106,
+                108
+              ],
+              "before": "",
+              "after": "自主"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2667,
+                2667
+              ],
+              "output_span": [
+                110,
+                116
+              ],
+              "before": "",
+              "after": "与合作有关的"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2671,
+                2677
+              ],
+              "output_span": [
+                120,
+                123
+              ],
+              "before": "的主观能动性",
+              "after": "，正在"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2679,
+                2680
+              ],
+              "output_span": [
+                125,
+                125
+              ],
+              "before": "了",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2686,
+                2686
+              ],
+              "output_span": [
+                131,
+                132
+              ],
+              "before": "",
+              "after": "中"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2687,
+                2687
+              ],
+              "output_span": [
+                133,
+                137
+              ],
+              "before": "",
+              "after": "一个重要"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2691,
+                2692
+              ],
+              "output_span": [
+                141,
+                142
+              ],
+              "before": "，",
+              "after": "。"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 24,
+          "section_span": [
+            3822,
+            3964
+          ],
+          "document_span": [
+            111279,
+            111421
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "我们设计的这个新机制，就在于试图改造旧体制，消除固化的支配性权力差，增强合作，减少对抗，从机制上限制权力的滥用和伤害的发生，为人们提供的信息建立不被用来伤害自身的实际保障，提高人们分享自身信息的主观能动性。让人们从分享个体信息中得到正向回报，进而进一步激励人们扩大有益信息分享的范围和深度，并使这个正向反馈机制能够可靠、持续地运行下去。这就是我希望从根本上改善的瓶颈。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            2692,
+            2859
+          ],
+          "source_sha256": "5ab2297687c414e748e1fd48a648b59d65751de9c0ad75c75f7f80d243fbedeb",
+          "retained_characters": 147,
+          "reason": "尽量保留原段，将绝对保证表述为要建立并验证的保护机制，同时保留分享范围选择",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                2702,
+                2702
+              ],
+              "output_span": [
+                10,
+                11
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2715,
+                2715
+              ],
+              "output_span": [
+                24,
+                30
+              ],
+              "before": "",
+              "after": "固化的支配性"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2747,
+                2749
+              ],
+              "output_span": [
+                62,
+                63
+              ],
+              "before": "保障",
+              "after": "为"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2756,
+                2756
+              ],
+              "output_span": [
+                70,
+                72
+              ],
+              "before": "",
+              "after": "建立"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2757,
+                2759
+              ],
+              "output_span": [
+                73,
+                78
+              ],
+              "before": "会对",
+              "after": "被用来伤害"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2761,
+                2765
+              ],
+              "output_span": [
+                80,
+                85
+              ],
+              "before": "产生伤害",
+              "after": "的实际保障"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2782,
+                2783
+              ],
+              "output_span": [
+                102,
+                103
+              ],
+              "before": "，",
+              "after": "。"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2810,
+                2812
+              ],
+              "output_span": [
+                130,
+                130
+              ],
+              "before": "继续",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2814,
+                2814
+              ],
+              "output_span": [
+                132,
+                134
+              ],
+              "before": "",
+              "after": "有益"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2826,
+                2828
+              ],
+              "output_span": [
+                146,
+                147
+              ],
+              "before": "保证",
+              "after": "使"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2836,
+                2836
+              ],
+              "output_span": [
+                155,
+                157
+              ],
+              "before": "",
+              "after": "能够"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2838,
+                2838
+              ],
+              "output_span": [
+                159,
+                160
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2840,
+                2841
+              ],
+              "output_span": [
+                162,
+                163
+              ],
+              "before": "的",
+              "after": "地"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2846,
+                2846
+              ],
+              "output_span": [
+                168,
+                174
+              ],
+              "before": "",
+              "after": "这就是我希望"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2850,
+                2854
+              ],
+              "output_span": [
+                178,
+                181
+              ],
+              "before": "解决这个",
+              "after": "改善的"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2856,
+                2858
+              ],
+              "output_span": [
+                183,
+                183
+              ],
+              "before": "问题",
+              "after": ""
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 25,
+          "section_span": [
+            3966,
+            4150
+          ],
+          "document_span": [
+            111423,
+            111607
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "这里的回报，不必只是金钱或名望。自己的问题更容易得到解决，提出的灵感能够找到合作者，受到损害时可以得到帮助，拒绝不必要的披露也不会失去基本保障，都是人愿意继续参与的理由。正向循环也不以不断暴露更多私人细节为唯一指标：能够在更少暴露下产生同样有用的公共知识，同样是一种进步。",
+          "reason": "补足自愿分享的利益逻辑，防止把持续增加披露变为个人义务",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 26,
+          "section_span": [
+            4152,
+            4288
+          ],
+          "document_span": [
+            111609,
+            111745
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "从而，更好地完成对人类文明这个复杂系统自身的研究，建立更准确的理论、更有效的社会体制，让人类文明体的内部也像高级生物体的内部一样，各个组成部分通过复杂而可靠的机制相互合作，为整体提供更强的生存能力，以及与外界更强的感知和交互能力。\n\n所有人类个体之间，在计算机和AI的帮助下，获得更充分、更可靠的信息，以能够检验的因果关系进行推理和决策，不断提高对博弈走向、过程和结果的理解与调节能力，共同构建强大的分布式动态权重智能神经网络系统，作为人类文明体的大脑，共同参与这个文明体在宇宙中的进化和发展。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            2859,
+            3090
+          ],
+          "source_sha256": "adc1af8ad2821e5e40dfd4ddf7b3aa223b89a4daee0f93b022e80ffab9aacf34",
+          "retained_characters": 196,
+          "reason": "保留文明智能体的整体图景，把精确控制一切博弈改为可检验且持续提高的理解与调节能力",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                2861,
+                2861
+              ],
+              "output_span": [
+                2,
+                3
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2863,
+                2864
+              ],
+              "output_span": [
+                5,
+                6
+              ],
+              "before": "的",
+              "after": "地"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2871,
+                2871
+              ],
+              "output_span": [
+                13,
+                15
+              ],
+              "before": "",
+              "after": "这个"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2889,
+                2890
+              ],
+              "output_span": [
+                33,
+                34
+              ],
+              "before": "，",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2918,
+                2925
+              ],
+              "output_span": [
+                62,
+                71
+              ],
+              "before": "（所有细胞之间",
+              "after": "一样，各个组成部分"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2929,
+                2930
+              ],
+              "output_span": [
+                75,
+                76
+              ],
+              "before": "且",
+              "after": "而"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2935,
+                2935
+              ],
+              "output_span": [
+                81,
+                82
+              ],
+              "before": "",
+              "after": "相"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                2936,
+                2937
+              ],
+              "output_span": [
+                83,
+                83
+              ],
+              "before": "相",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2941,
+                2943
+              ],
+              "output_span": [
+                87,
+                88
+              ],
+              "before": "生物",
+              "after": "整"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2954,
+                2954
+              ],
+              "output_span": [
+                99,
+                101
+              ],
+              "before": "",
+              "after": "以及"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2967,
+                2971
+              ],
+              "output_span": [
+                114,
+                117
+              ],
+              "before": "）一样，",
+              "after": "。\n\n"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                2979,
+                2979
+              ],
+              "output_span": [
+                125,
+                126
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2992,
+                2993
+              ],
+              "output_span": [
+                139,
+                141
+              ],
+              "before": "取",
+              "after": "得更"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                2994,
+                2995
+              ],
+              "output_span": [
+                142,
+                147
+              ],
+              "before": "足",
+              "after": "分、更可靠"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                3000,
+                3002
+              ],
+              "output_span": [
+                152,
+                156
+              ],
+              "before": "可靠",
+              "after": "能够检验"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                3007,
+                3008
+              ],
+              "output_span": [
+                161,
+                161
+              ],
+              "before": "来",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                3016,
+                3024
+              ],
+              "output_span": [
+                169,
+                174
+              ],
+              "before": "并且能精确的控制",
+              "after": "不断提高对"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                3026,
+                3027
+              ],
+              "output_span": [
+                176,
+                176
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                3035,
+                3035
+              ],
+              "output_span": [
+                184,
+                192
+              ],
+              "before": "",
+              "after": "的理解与调节能力"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                3070,
+                3072
+              ],
+              "output_span": [
+                227,
+                231
+              ],
+              "before": "控制",
+              "after": "共同参与"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                3074,
+                3076
+              ],
+              "output_span": [
+                233,
+                233
+              ],
+              "before": "人类",
+              "after": ""
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 27,
+          "section_span": [
+            4290,
+            4537
+          ],
+          "document_span": [
+            111747,
+            111994
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "这种生物体的类比，借鉴的是信息反馈和功能协作，不是把人变成没有选择的细胞。共同的大脑也不应成为另一个凌驾于个体之上的主人。个人仍然能够表达不同需要、质疑判断、选择参与范围；文明对自身的控制，首先意味着参与者更有能力共同约束任意伤害，而不是少数人更有能力操纵所有人。",
+          "reason": "说明整体智能与个人主权相容的条件，连接本书已有平等和退出原则",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 28,
+          "section_span": [
+            4539,
+            4671
+          ],
+          "document_span": [
+            111996,
+            112128
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "### 关键岔路口上的选择",
+          "reason": "节标题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 29,
+          "section_span": [
+            4673,
+            4686
+          ],
+          "document_span": [
+            112130,
+            112143
+          ]
+        },
+        {
+          "kind": "source-adaptation",
+          "text": "现在，我们正处在这样的一个关键节点和岔路口，面对两个值得认真辨认的方向：一个方向，是在负向连锁反应中不断加大对抗，增加文明自我伤害乃至自我毁灭的危险；另一个方向，则是在正向的连锁反应中提高合作与自我修正的能力，争取迈向文明进化的奇点，迈向人类文明的新形态。我希望这篇文章能让人们对此有一个清醒、明确的认识，并作出有利于共同生存与创造的选择。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            3092,
+            3218
+          ],
+          "source_sha256": "dc6ed552ced283fbaea2d6c121360f3cd3be0b3246b6c54e3be185cdf9ccd191",
+          "retained_characters": 108,
+          "reason": "保留作者希望与方向选择，将必然结局改为可受行动影响的风险与目标",
+          "edits": [
+            {
+              "operation": "insert",
+              "source_span": [
+                3094,
+                3094
+              ],
+              "output_span": [
+                2,
+                3
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                3096,
+                3096
+              ],
+              "output_span": [
+                5,
+                6
+              ],
+              "before": "",
+              "after": "正"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                3097,
+                3098
+              ],
+              "output_span": [
+                7,
+                8
+              ],
+              "before": "于",
+              "after": "在"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                3105,
+                3106
+              ],
+              "output_span": [
+                15,
+                15
+              ],
+              "before": "的",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                3108,
+                3108
+              ],
+              "output_span": [
+                17,
+                18
+              ],
+              "before": "",
+              "after": "和"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                3112,
+                3112
+              ],
+              "output_span": [
+                22,
+                24
+              ],
+              "before": "",
+              "after": "面对"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                3114,
+                3114
+              ],
+              "output_span": [
+                26,
+                33
+              ],
+              "before": "",
+              "after": "值得认真辨认的"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                3116,
+                3120
+              ],
+              "output_span": [
+                35,
+                36
+              ],
+              "before": "的选择，",
+              "after": "："
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                3124,
+                3124
+              ],
+              "output_span": [
+                40,
+                41
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                3133,
+                3135
+              ],
+              "output_span": [
+                50,
+                59
+              ],
+              "before": "走向",
+              "after": "不断加大对抗，增加"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                3137,
+                3138
+              ],
+              "output_span": [
+                61,
+                67
+              ],
+              "before": "的",
+              "after": "自我伤害乃至"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                3142,
+                3145
+              ],
+              "output_span": [
+                71,
+                75
+              ],
+              "before": "终结，",
+              "after": "的危险；"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                3150,
+                3150
+              ],
+              "output_span": [
+                80,
+                81
+              ],
+              "before": "",
+              "after": "，"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                3161,
+                3161
+              ],
+              "output_span": [
+                92,
+                107
+              ],
+              "before": "",
+              "after": "提高合作与自我修正的能力，争取"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                3185,
+                3187
+              ],
+              "output_span": [
+                131,
+                131
+              ],
+              "before": "我的",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                3197,
+                3198
+              ],
+              "output_span": [
+                141,
+                141
+              ],
+              "before": "能",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                3203,
+                3203
+              ],
+              "output_span": [
+                146,
+                147
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                3210,
+                3211
+              ],
+              "output_span": [
+                154,
+                155
+              ],
+              "before": "做",
+              "after": "作"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                3212,
+                3214
+              ],
+              "output_span": [
+                156,
+                166
+              ],
+              "before": "正确",
+              "after": "有利于共同生存与创造"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 30,
+          "section_span": [
+            4688,
+            4858
+          ],
+          "document_span": [
+            112145,
+            112315
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "这两个方向不是两个已经写好的结局。真实社会会在合作与冲突之间反复变化，而制度的意义，就在于使我们有更好的能力识别这种变化，在错误尚可修正时纠正它，在合作刚刚出现时保护它。技术进步与制度建设应当互相促进，让文明增加力量的同时，也增加理解自己、保护自己和共同选择未来的能力。",
+          "reason": "与开篇理想模型相呼应，避免重新把现实简化为不可逆的二选一宿命",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 31,
+          "section_span": [
+            4860,
+            4995
+          ],
+          "document_span": [
+            112317,
+            112452
+          ]
+        }
+      ]
+    },
+    {
+      "title": "统一基本规则，扩大制度探索的多样性",
+      "file": "06-institutional-exploration.md",
+      "level": 3,
+      "items": [
+        {
+          "kind": "source-adaptation",
+          "text": "我想强调的是，新机制在统一基本规则的前提下，要尽可能扩大公共社会规则的多样性尝试能力。一个可进化的系统，面对近乎无限多可能性的人类社会制度规则的演化路径迷宫，怎样才能高效地并行分叉，进行多样化的探索，尽量以更高的能量使用效率、更小的进化成本，找出更快、更短、更优的演化路径，构造更好的人类社会制度？",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            25,
+            210
+          ],
+          "source_sha256": "07bed702f6bb5425bc1598701792ecb35c18cbd268c194c932d6a8205af2d827",
+          "retained_characters": 127,
+          "reason": "去掉对研究轮次的依赖，保留演化迷宫与效率目标，不承诺有限资源可遍历无限路径",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                25,
+                42
+              ],
+              "output_span": [
+                0,
+                0
+              ],
+              "before": "round 1中你提到的，其实就是",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                47,
+                47
+              ],
+              "output_span": [
+                5,
+                6
+              ],
+              "before": "",
+              "after": "是"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                63,
+                63
+              ],
+              "output_span": [
+                22,
+                25
+              ],
+              "before": "",
+              "after": "要尽可"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                64,
+                67
+              ],
+              "output_span": [
+                26,
+                28
+              ],
+              "before": "够保证",
+              "after": "扩大"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                81,
+                87
+              ],
+              "output_span": [
+                42,
+                43
+              ],
+              "before": "的最大化，让",
+              "after": "。"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                96,
+                99
+              ],
+              "output_span": [
+                52,
+                54
+              ],
+              "before": "如何在",
+              "after": "面对"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                123,
+                124
+              ],
+              "output_span": [
+                78,
+                78
+              ],
+              "before": "中",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                125,
+                127
+              ],
+              "output_span": [
+                79,
+                83
+              ],
+              "before": "如何",
+              "after": "怎样才能"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                129,
+                130
+              ],
+              "output_span": [
+                85,
+                86
+              ],
+              "before": "的",
+              "after": "地"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                135,
+                135
+              ],
+              "output_span": [
+                91,
+                93
+              ],
+              "before": "",
+              "after": "进行"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                139,
+                141
+              ],
+              "output_span": [
+                97,
+                97
+              ],
+              "before": "高效",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                143,
+                162
+              ],
+              "output_span": [
+                99,
+                99
+              ],
+              "before": "所有演化可能性，充分高效的遍历这些路径",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                175,
+                176
+              ],
+              "output_span": [
+                112,
+                113
+              ],
+              "before": "，",
+              "after": "、"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                188,
+                188
+              ],
+              "output_span": [
+                125,
+                126
+              ],
+              "before": "",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                190,
+                191
+              ],
+              "output_span": [
+                128,
+                129
+              ],
+              "before": "的",
+              "after": "、"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                193,
+                194
+              ],
+              "output_span": [
+                131,
+                133
+              ],
+              "before": "进",
+              "after": "的演"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                209,
+                210
+              ],
+              "output_span": [
+                148,
+                149
+              ],
+              "before": "。",
+              "after": "？"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 0,
+          "section_span": [
+            23,
+            172
+          ],
+          "document_span": [
+            125587,
+            125736
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "统一的，是使不同试验能够共存、交流并承担责任的基本规则；多样的，是具体问题怎样解决。两组人可以在不侵害彼此权益的范围内尝试不同的协作办法，记录各自的条件、成本和结果，再相互借鉴。好的局部经验不必等待一个组织统一全部社会才开始传播，失败的路径也不必让后来者重新付出同样的代价。",
+          "reason": "解释统一规则与制度多样性怎样相容",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 1,
+          "section_span": [
+            174,
+            311
+          ],
+          "document_span": [
+            125738,
+            125875
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "近乎无限的可能性，不意味着现实中必须穷尽每一条路径。更有效的探索，是保留多样候选，尽早排除明显无效的方向，把资源放到最能增加认识的比较上，同时为尚未被多数人理解的新方向留出机会。这里的“更优”也要说明对谁更优、在哪些条件下更优，不能只缩短某一组人的时间，却把代价转移给另一组人。现实试验与虚拟试验相互反馈，才有可能逐步提高整个探索过程的效率。",
+          "reason": "补足有限资源下的搜索、比较和外部成本条件",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 2,
+          "section_span": [
+            313,
+            484
+          ],
+          "document_span": [
+            125877,
+            126048
+          ]
+        }
+      ]
+    },
+    {
+      "title": "虚拟人类社会实验室，让制度能够先被体验和检验",
+      "file": "07-digital-society-laboratory.md",
+      "level": 3,
+      "items": [
+        {
+          "kind": "source-adaptation",
+          "text": "除了现实中的多样化实验机制之外，我设想的由AI驱动的数字空间中的虚拟人类社会实验室和游戏，也可以起到巨大的加速作用。这有些像人类借助生物实验室，对生物特征和基因进行有目的的实验，加快原本在自然条件下需要漫长时间才能观察和比较的变化。",
+          "ref": "CIVILIZATION-REPLY",
+          "source_role": "user",
+          "source_span": [
+            210,
+            325
+          ],
+          "source_sha256": "0a0083c71fca9c106e7583eba6fb9626a9a043d8cbebb63502b0b1fbc3d45c27",
+          "retained_characters": 83,
+          "reason": "保留社会实验室与生物实验类比，不把模拟速度写成已经能压缩全部亿万年自然演化的事实",
+          "edits": [
+            {
+              "operation": "delete",
+              "source_span": [
+                212,
+                216
+              ],
+              "output_span": [
+                2,
+                2
+              ],
+              "before": "你提到的",
+              "after": ""
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                234,
+                236
+              ],
+              "output_span": [
+                20,
+                20
+              ],
+              "before": "那个",
+              "after": ""
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                257,
+                258
+              ],
+              "output_span": [
+                41,
+                42
+              ],
+              "before": "/",
+              "after": "和"
+            },
+            {
+              "operation": "delete",
+              "source_span": [
+                266,
+                269
+              ],
+              "output_span": [
+                50,
+                50
+              ],
+              "before": "加速的",
+              "after": ""
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                272,
+                272
+              ],
+              "output_span": [
+                53,
+                55
+              ],
+              "before": "",
+              "after": "加速"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                274,
+                276
+              ],
+              "output_span": [
+                57,
+                61
+              ],
+              "before": "，就",
+              "after": "。这有些"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                279,
+                282
+              ],
+              "output_span": [
+                64,
+                66
+              ],
+              "before": "先通过",
+              "after": "借助"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                288,
+                290
+              ],
+              "output_span": [
+                72,
+                73
+              ],
+              "before": "进行",
+              "after": "对"
+            },
+            {
+              "operation": "insert",
+              "source_span": [
+                297,
+                297
+              ],
+              "output_span": [
+                80,
+                84
+              ],
+              "before": "",
+              "after": "进行有目"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                298,
+                300
+              ],
+              "output_span": [
+                85,
+                86
+              ],
+              "before": "加速",
+              "after": "的"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                303,
+                306
+              ],
+              "output_span": [
+                89,
+                91
+              ],
+              "before": "来完成",
+              "after": "加快"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                308,
+                312
+              ],
+              "output_span": [
+                93,
+                99
+              ],
+              "before": "现实世界",
+              "after": "在自然条件下"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                314,
+                317
+              ],
+              "output_span": [
+                101,
+                105
+              ],
+              "before": "亿万年",
+              "after": "漫长时间"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                319,
+                321
+              ],
+              "output_span": [
+                107,
+                112
+              ],
+              "before": "完成",
+              "after": "观察和比较"
+            },
+            {
+              "operation": "replace",
+              "source_span": [
+                322,
+                323
+              ],
+              "output_span": [
+                113,
+                114
+              ],
+              "before": "进",
+              "after": "变"
+            }
+          ],
+          "author_acceptance": "original preserved; editorial adaptation available for author review",
+          "ordinal": 0,
+          "section_span": [
+            28,
+            144
+          ],
+          "document_span": [
+            131672,
+            131788
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "在数字空间中，可以复制同一个初始状态，让不同分支尝试不同的规则；也可以把一次失败之前的状态保存下来，改变一个条件，再观察结果怎样变化。面对资源突然短缺、信息发生误判、参与者能力差异很大等情境，规则是否仍然能够维持合作，就不必只靠一幅理想化的宣传画来说明。",
+          "reason": "补足虚拟实验能够提供的具体操作与辨别问题",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 1,
+          "section_span": [
+            146,
+            273
+          ],
+          "document_span": [
+            131790,
+            131917
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "这里需要区分三件事：故事让人理解一种生活的可能，游戏让参与者体验选择与反馈，社会模拟则试图对明确的问题给出可检验的预测。故事可以采用远未来的设定；研究模型必须说明哪些条件来自现实，哪些只是设定。已有研究用千余人的访谈或问卷构建生成式代理，在一定范围内预测回答和行为；这种进展支持继续研究，却没有把整个社会的长期演化变成已经验证的模拟能力。[生成式个体模拟研究](https://arxiv.org/abs/2411.10109v3)",
+          "reason": "区分文化叙事、真人体验和经验预测，引用研究的具体范围而不推断全球社会已可模拟",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 2,
+          "section_span": [
+            275,
+            491
+          ],
+          "document_span": [
+            131919,
+            132135
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "如果所有虚拟参与者都由相似模型生成，他们可能共同遗漏现实中的某一种处境。模拟里的一百万人同时同意，也不等于现实中的一百万人真的愿意。实验应与获得同意的真实观察和小规模实践对照，检查不同人群、不同初始条件下的表现，并保留预测失败的情况。关于用大模型模拟社会参与者的方法研究，也强调人类基线、适用范围和校准的重要性。[社会模拟的方法讨论](https://arxiv.org/abs/2509.26080v2)",
+          "reason": "补足模拟到现实的验证环节，防止把生成多数当作真实同意",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 3,
+          "section_span": [
+            493,
+            696
+          ],
+          "document_span": [
+            132137,
+            132340
+          ]
+        },
+        {
+          "kind": "editorial-addition",
+          "text": "因此，我所期待的加速，是让虚拟世界帮助提出方案、暴露问题、筛选值得进一步试验的方向，再由现实实践检验和修正模型。数字状态可以回退，现实中的人的损失却不能总是回退；进入真实事务时，需要重新确认授权、成本和停止条件。只有这条往返通路建立起来，游戏才可能成为制度演化的实验室，而不仅仅是把我们希望相信的未来反复演给自己看。",
+          "reason": "连接数字分叉、现实检验和个人保护，保留探索愿景",
+          "basis_refs": [],
+          "author_acceptance": "editorial proposal; no individual author adoption asserted",
+          "ordinal": 4,
+          "section_span": [
+            698,
+            856
+          ],
+          "document_span": [
+            132342,
+            132500
+          ]
+        }
+      ]
+    }
+  ]
+}

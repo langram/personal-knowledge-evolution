@@ -1,0 +1,14 @@
+{
+  "status": "pass",
+  "native_events_verified": 3,
+  "source_spans_replayed": 21,
+  "passages_replayed": 46,
+  "insertion_count": 4,
+  "outside_insertions_byte_preserved": true,
+  "insertion_and_inverse_replayed": true,
+  "prior_appendix_unchanged_and_last": true,
+  "draft_revision_verified": true,
+  "draft_source_spans_replayed": 21,
+  "combined_sha256": "55c65d61c43cb09cc73e057e122eabc36c53a7d9e5526658c561ca0b180116c1",
+  "scope": "Source identities, roles, times, edit replay and placement; not proof of scientific or institutional claims."
+}
