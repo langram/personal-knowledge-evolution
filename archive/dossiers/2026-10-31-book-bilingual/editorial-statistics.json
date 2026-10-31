@@ -1,0 +1,12 @@
+{
+  "chinese_sha256": "3d28bff8167f26cb1382903c433073409d34b80cf11293f02a81df5efe04740b",
+  "english_sha256": "3aca278155670daa67c117c81a163506fd7c2d96654fa260f22a388dc729b02a",
+  "chinese_cjk_characters": 145371,
+  "chinese_total_characters": 170751,
+  "english_whitespace_words": 61139,
+  "chapters_in_each_edition": 31,
+  "chinese_edits": 10,
+  "net_added_cjk": 1116,
+  "external_citation_occurrences": 69,
+  "count_method": "CJK U+4E00..U+9FFF; English whitespace-delimited tokens, including headings/tables/links."
+}

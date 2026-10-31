@@ -1,0 +1,271 @@
+{
+  "schema": "pkst-editorial/full-book-audit@1",
+  "source_sha256": "3d28bff8167f26cb1382903c433073409d34b80cf11293f02a81df5efe04740b",
+  "chapters_reviewed": 31,
+  "baseline_finding": "Edition 12 already contained no direct affirmative normality-implies-no-domination claim. Related equality/need/analogy ambiguities were clarified in ten bounded edits.",
+  "current_finding": "No remaining affirmative inference from normal ability/need distributions to guaranteed absence of dominant nodes.",
+  "method": "Full chapter reading during English adaptation plus contextual review of distribution, equality, accumulation and domination passages.",
+  "remaining_distribution_mentions": [
+    {
+      "line": 1233,
+      "text": "对于动态权重会不会重新集中成少数人的权力，我的一个判断是，不能忽略能力差异与权力积累之间的区别，人类能力上的差异，与权力和财富在反复的不对等博弈中所产生的巨大累积，并不是同一种现象。能力可以通过学习和练习不断积累，能力之间也可能存在很大差异。防止支配，不能靠预先假定这些差异很小、符合正态分布，或者天然不能积累；要看规则是否允许某种优势变成对其他人的长期控制。",
+      "disposition": "retained rejection of a distribution premise or contextual explanation"
+    },
+    {
+      "line": 1253,
+      "text": "所以，重要的不是让能力去逼近正态分布，而是让系统的机制，能够让这些不同能力的个体建立起尽可能有效的合作，让这些偏科和全面的人们有效沟通、合作起来，共同完成跨领域的深度合作。",
+      "disposition": "retained rejection of a distribution premise or contextual explanation"
+    },
+    {
+      "line": 1337,
+      "text": "个体需要的差异，不等于财富和支配权可以无限累积。具体需要究竟怎样分布，仍然要看所讨论的资源和人群；不能先画出一条钟形曲线，再要求每个人把自己的生活塞进去。理解需要，是为了更好地满足人，并为每个人的发展提供适合的条件，而不是为了把人变成某个固定指标。还需要区分个人消费的适宜范围，与满足需要所需的资源成本：一个人的食量有限，不代表医疗、照护、无障碍设备或学习条件的成本都相近。需要更多支持的人，不应当因为偏离平均数而被排除。消费有边界，也不能自动推出资源和权力不会集中；防止集中成为支配，仍然要靠共同资源的用途、授权范围、复核和退出等具体规则。",
+      "disposition": "retained rejection of a distribution premise or contextual explanation"
+    },
+    {
+      "line": 2598,
+      "text": "我所追求的目标，是让培养机会、设备、基本生活保障等外部条件更公平，让每个人有充足的自由发展的时间和自由，逐步了解自己的特长，发展自己偏好的能力。重要的不是让能力去逼近正态分布，而是让系统的机制，能够让这些不同能力的个体建立起尽可能有效的合作，让这些偏科和全面的人们有效沟通、合作起来，共同完成跨领域的深度合作。",
+      "disposition": "retained rejection of a distribution premise or contextual explanation"
+    },
+    {
+      "line": 2600,
+      "text": "这条制度论证，不需要把“能力和需求服从正态分布”作为前提。观察到的绩效分布，同时受到培养条件、机会、资源累积、任务选择和评价方式的影响；它不能直接告诉我们先天能力怎样分布，也不能证明改善条件以后必然得到另一种特定分布。相同的钟表时间，也不代表相同的可支配时间、学习速度或适合的发展路径。公平的条件值得争取，不需要等待某条统计曲线成立。",
+      "disposition": "retained rejection of a distribution premise or contextual explanation"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "01",
+      "title": "前言：为什么要重新考察数学、科学与文明",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "02",
+      "title": "极限、悖论与认识的边界",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "03",
+      "title": "存在、变化与可构造性",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "04",
+      "title": "不动点、最小化、最大化与涌现",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "05",
+      "title": "物理世界与层层构造的自然",
+      "full_read": true,
+      "edits": [
+        "ZH-01",
+        "ZH-02"
+      ],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "06",
+      "title": "意识、信息与自我驱动的智能",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "07",
+      "title": "合作、冲突与社会结构的形成",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "08",
+      "title": "机器、人工智能与平等的物质条件",
+      "full_read": true,
+      "edits": [
+        "ZH-03",
+        "ZH-04"
+      ],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "09",
+      "title": "语言、公共知识与文明的共同记忆",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "10",
+      "title": "个人知识的语义空间与时间线",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "11",
+      "title": "从反复思考到可以复用的能力",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "12",
+      "title": "新语言、Structoken 与 FPM",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "13",
+      "title": "MerkleVM 与可以生长的软件种子",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "14",
+      "title": "AI时代的Merkle-DAG语言与软件生态",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "15",
+      "title": "人和 AI 怎样共同研究与构造",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "16",
+      "title": "具有感官与行动能力的文明智能",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "17",
+      "title": "动态权重的社会神经网络",
+      "full_read": true,
+      "edits": [
+        "ZH-05",
+        "ZH-06"
+      ],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "18",
+      "title": "个人需求与集体资源的两种分配",
+      "full_read": true,
+      "edits": [
+        "ZH-07",
+        "ZH-08"
+      ],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "19",
+      "title": "产品、组织与决策的全面开放",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "20",
+      "title": "个人数据主权、隐私与公共知识",
+      "full_read": true,
+      "edits": [
+        "ZH-09"
+      ],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "21",
+      "title": "权力的约束、伤害的防止与信任的生长",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "22",
+      "title": "公共知识、互惠与合作的正向循环",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "23",
+      "title": "文明的技术力量与自我治理能力",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "24",
+      "title": "个人信息采集、数据主权与技术落地",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "25",
+      "title": "从一个人的云存储开始",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "26",
+      "title": "自由区的生长与制度的和平演化",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "27",
+      "title": "自我实现的科幻与文化建设",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "28",
+      "title": "科学、教育与文明的持续创造",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "29",
+      "title": "从数学家的灵感到文明的共同创造",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "30",
+      "title": "后记：让每一个人都成为创造者",
+      "full_read": true,
+      "edits": [],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    },
+    {
+      "id": "31",
+      "title": "附录　对理论基础与实践可行性的自我反思",
+      "full_read": true,
+      "edits": [
+        "ZH-10"
+      ],
+      "finding": "No affirmative distribution-based guarantee of non-domination; source proposals and qualifications retained."
+    }
+  ],
+  "scope_boundary": "Editorial consistency review, not fresh verification of every scientific or historical claim or external URL."
+}

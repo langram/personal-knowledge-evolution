@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "source_events": 3,
+  "historical_sources": 2,
+  "chinese_replacements": 10,
+  "outside_replacements": "byte-identical to edition 12; reversible replay verified",
+  "chapters_in_each_edition": 31,
+  "heading_and_subheading_count": 210,
+  "external_citation_occurrences": 69,
+  "appendix": "revised and still last in both editions",
+  "chinese_sha256": "3d28bff8167f26cb1382903c433073409d34b80cf11293f02a81df5efe04740b",
+  "english_sha256": "3aca278155670daa67c117c81a163506fd7c2d96654fa260f22a388dc729b02a",
+  "editorial_semantic_review": "all source chapters read and adapted; statistical-premise consistency reviewed in context",
+  "boundary": "Automated checks establish bytes, attribution, replay and structural coverage, not absolute translation equivalence or validity of the theory."
+}

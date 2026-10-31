@@ -1,0 +1,378 @@
+{
+  "source_sha256": "3d28bff8167f26cb1382903c433073409d34b80cf11293f02a81df5efe04740b",
+  "title_zh": "# 新原理：现代科学与人类文明的构造\n\n",
+  "chapters": [
+    {
+      "id": "01",
+      "title_zh": "前言：为什么要重新考察数学、科学与文明",
+      "char_span": [
+        20,
+        5610
+      ],
+      "source_file": "zh-chapters/01.md",
+      "sha256": "32d12985c05b48952ec4bc1d016843e9c7584e723def926574fea6ebe285b9d6",
+      "characters": 5590,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "02",
+      "title_zh": "极限、悖论与认识的边界",
+      "char_span": [
+        5610,
+        9518
+      ],
+      "source_file": "zh-chapters/02.md",
+      "sha256": "9dcb8457344824fdb0c556b8d20dee7855f909ac2d7ed65fcb1a54b41a99bba7",
+      "characters": 3908,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "03",
+      "title_zh": "存在、变化与可构造性",
+      "char_span": [
+        9518,
+        13364
+      ],
+      "source_file": "zh-chapters/03.md",
+      "sha256": "54917b71ba1711a570062674c47654250cb239b42705ee467f66846249829a73",
+      "characters": 3846,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "04",
+      "title_zh": "不动点、最小化、最大化与涌现",
+      "char_span": [
+        13364,
+        17972
+      ],
+      "source_file": "zh-chapters/04.md",
+      "sha256": "cb6c2d6634b5f10f78598ffb37c335237c867e1cff30559535b625f5f217da2b",
+      "characters": 4608,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "05",
+      "title_zh": "物理世界与层层构造的自然",
+      "char_span": [
+        17972,
+        21515
+      ],
+      "source_file": "zh-chapters/05.md",
+      "sha256": "e11159c200a5fc6e42a43b2cb3474fe77cec6e1345a77121e0f3f13b49f86c46",
+      "characters": 3543,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "06",
+      "title_zh": "意识、信息与自我驱动的智能",
+      "char_span": [
+        21515,
+        25803
+      ],
+      "source_file": "zh-chapters/06.md",
+      "sha256": "207404081c894294fa3fe617e8d48e917189e8caa27b7459f65de734c3da5a1e",
+      "characters": 4288,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "07",
+      "title_zh": "合作、冲突与社会结构的形成",
+      "char_span": [
+        25803,
+        32422
+      ],
+      "source_file": "zh-chapters/07.md",
+      "sha256": "46f8085f01fd4d1d2c2f5542ea7fc373d91145cfa89006cbff1a9479185dcc5a",
+      "characters": 6619,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "08",
+      "title_zh": "机器、人工智能与平等的物质条件",
+      "char_span": [
+        32422,
+        35785
+      ],
+      "source_file": "zh-chapters/08.md",
+      "sha256": "784e832c755d3f1fcae3d960cbff762ff2283ca86199ea89d0f4b23c86db30cf",
+      "characters": 3363,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "09",
+      "title_zh": "语言、公共知识与文明的共同记忆",
+      "char_span": [
+        35785,
+        39171
+      ],
+      "source_file": "zh-chapters/09.md",
+      "sha256": "89e1984b6fe2ac35951bf11d630e5b79fe6de835c991032f158cb5513b61ee5d",
+      "characters": 3386,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "10",
+      "title_zh": "个人知识的语义空间与时间线",
+      "char_span": [
+        39171,
+        42690
+      ],
+      "source_file": "zh-chapters/10.md",
+      "sha256": "17e4793799b42db45109c1ef12794544f3c7033d7920ea2d2d8b40169ddc2d1a",
+      "characters": 3519,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "11",
+      "title_zh": "从反复思考到可以复用的能力",
+      "char_span": [
+        42690,
+        46536
+      ],
+      "source_file": "zh-chapters/11.md",
+      "sha256": "99eaacbde750af25643476937107b86e10ca9ac70d08dbf705f9e668e6a3ea64",
+      "characters": 3846,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "12",
+      "title_zh": "新语言、Structoken 与 FPM",
+      "char_span": [
+        46536,
+        51389
+      ],
+      "source_file": "zh-chapters/12.md",
+      "sha256": "e15f5a40f3665312431bb1ba5ca47963c90c1dfd0e77334d1865ab2a6fb2c575",
+      "characters": 4853,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "13",
+      "title_zh": "MerkleVM 与可以生长的软件种子",
+      "char_span": [
+        51389,
+        55212
+      ],
+      "source_file": "zh-chapters/13.md",
+      "sha256": "e22d7aff5d6c1d5bc45c26a995af2788af89803bdb6e891c74949bd8eb5094a3",
+      "characters": 3823,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "14",
+      "title_zh": "AI时代的Merkle-DAG语言与软件生态",
+      "char_span": [
+        55212,
+        68222
+      ],
+      "source_file": "zh-chapters/14.md",
+      "sha256": "54df64c335f104489704a0ffdd4eb202ec7415ce192211df5418a8dff9a5ddb1",
+      "characters": 13010,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "15",
+      "title_zh": "人和 AI 怎样共同研究与构造",
+      "char_span": [
+        68222,
+        71589
+      ],
+      "source_file": "zh-chapters/15.md",
+      "sha256": "9cd9866d97a6540dee3625d13e7b7e72906f67e5915e2f264875463633abaae7",
+      "characters": 3367,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "16",
+      "title_zh": "具有感官与行动能力的文明智能",
+      "char_span": [
+        71589,
+        75899
+      ],
+      "source_file": "zh-chapters/16.md",
+      "sha256": "c56596c6c7b5b5bf495e04fbd6b844c2e108ce4d559d4ef7bc3c35da7d9dd50c",
+      "characters": 4310,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "17",
+      "title_zh": "动态权重的社会神经网络",
+      "char_span": [
+        75899,
+        85814
+      ],
+      "source_file": "zh-chapters/17.md",
+      "sha256": "da501b82c0f7fbe845e1b493362bdc55a29038e9f2a74e344e6f688d5be40643",
+      "characters": 9915,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "18",
+      "title_zh": "个人需求与集体资源的两种分配",
+      "char_span": [
+        85814,
+        90910
+      ],
+      "source_file": "zh-chapters/18.md",
+      "sha256": "6c55dedea6462a0e73ddb03f4127e065a21d3c5fdf6f52800a06c71e869dfc70",
+      "characters": 5096,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "19",
+      "title_zh": "产品、组织与决策的全面开放",
+      "char_span": [
+        90910,
+        94999
+      ],
+      "source_file": "zh-chapters/19.md",
+      "sha256": "a8f87cabcd1d5b217a7cbf54185e4e21da2b49a72ee7d40cb086083539101b29",
+      "characters": 4089,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "20",
+      "title_zh": "个人数据主权、隐私与公共知识",
+      "char_span": [
+        94999,
+        99346
+      ],
+      "source_file": "zh-chapters/20.md",
+      "sha256": "7d07d1adb321a318bf773604fdd06a637db49168360f0a35d06872785eeb7f1a",
+      "characters": 4347,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "21",
+      "title_zh": "权力的约束、伤害的防止与信任的生长",
+      "char_span": [
+        99346,
+        105234
+      ],
+      "source_file": "zh-chapters/21.md",
+      "sha256": "9ec863e613427ba7495711f835b33f0378c5e2cc2dd2dabbb94d34dee3a0b6dc",
+      "characters": 5888,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "22",
+      "title_zh": "公共知识、互惠与合作的正向循环",
+      "char_span": [
+        105234,
+        110660
+      ],
+      "source_file": "zh-chapters/22.md",
+      "sha256": "71ecf4580e13d9a562344fc21a50bf05a5ded7c7f07fd23ab988b64c1f300ebb",
+      "characters": 5426,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "23",
+      "title_zh": "文明的技术力量与自我治理能力",
+      "char_span": [
+        110660,
+        115657
+      ],
+      "source_file": "zh-chapters/23.md",
+      "sha256": "27a5efd6146df3c433c7a63efe27f2b4c2860497f3fab54718b2a83fe3721520",
+      "characters": 4997,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "24",
+      "title_zh": "个人信息采集、数据主权与技术落地",
+      "char_span": [
+        115657,
+        125174
+      ],
+      "source_file": "zh-chapters/24.md",
+      "sha256": "cae182dc7aa6549ecfed0e068b005cdb24c39134c39db36f52beeb0f13440824",
+      "characters": 9517,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "25",
+      "title_zh": "从一个人的云存储开始",
+      "char_span": [
+        125174,
+        128080
+      ],
+      "source_file": "zh-chapters/25.md",
+      "sha256": "11258189caa32bd9e0c75d599ddd80aa39ebb51889b5c88db1ae45966fae4dc3",
+      "characters": 2906,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "26",
+      "title_zh": "自由区的生长与制度的和平演化",
+      "char_span": [
+        128080,
+        132181
+      ],
+      "source_file": "zh-chapters/26.md",
+      "sha256": "706fd86df6485ef678e05009887a6cd9e174e48ef9493a3ed14b55f0ecf1028e",
+      "characters": 4101,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "27",
+      "title_zh": "自我实现的科幻与文化建设",
+      "char_span": [
+        132181,
+        136646
+      ],
+      "source_file": "zh-chapters/27.md",
+      "sha256": "967c0a3581dfabf02ca28232d8ffba28bb9a606019dd422b6edb2770fdb89979",
+      "characters": 4465,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "28",
+      "title_zh": "科学、教育与文明的持续创造",
+      "char_span": [
+        136646,
+        139563
+      ],
+      "source_file": "zh-chapters/28.md",
+      "sha256": "4dc6ea3df5407abe4367876e198ce00d82a475885acc1f20ca7b841eb1e48956",
+      "characters": 2917,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "29",
+      "title_zh": "从数学家的灵感到文明的共同创造",
+      "char_span": [
+        139563,
+        156705
+      ],
+      "source_file": "zh-chapters/29.md",
+      "sha256": "825898cad9ec48ec6e66458409199a61995380100bd659f6db9308a6b0315b11",
+      "characters": 17142,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "30",
+      "title_zh": "后记：让每一个人都成为创造者",
+      "char_span": [
+        156705,
+        157853
+      ],
+      "source_file": "zh-chapters/30.md",
+      "sha256": "9a3c97829461c9e2d64fad0ab700dc26eda1f49dce4ab0452ec230289d9a3c50",
+      "characters": 1148,
+      "review": "pending full reading and English adaptation"
+    },
+    {
+      "id": "31",
+      "title_zh": "附录　对理论基础与实践可行性的自我反思",
+      "char_span": [
+        157853,
+        170751
+      ],
+      "source_file": "zh-chapters/31.md",
+      "sha256": "19554de619c31685ae0a17c7a0c46fd3d7cc2a9425e1575b666e4dc111baa859",
+      "characters": 12898,
+      "review": "pending full reading and English adaptation"
+    }
+  ]
+}

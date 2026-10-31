@@ -6,12 +6,14 @@
 
 ## 阅读文章
 
+- [《新原理》中英双语简介与分享入口 / Book introduction](book/readme.md)
 - [《新原理》当前全文](book/current.md)
-- [本次修订：公平发展、能力多样性与跨领域合作](archive/dossiers/2026-10-31-ability-cooperation/01-section.md)
+- [New Principles — complete English edition](book/current.en.md)
+- [公平发展、能力多样性与跨领域合作](archive/dossiers/2026-10-31-ability-cooperation/01-section.md)
 - [能力形成、资源累积与分布](archive/dossiers/2026-10-31-ability-resource-formation/01-section.md)
 - [文明自我治理、权重边界与制度探索](archive/dossiers/2026-10-31-civilization-self-governance/08-edition-additions.md)
 - [个人信息采集、数据主权与技术落地](archive/dossiers/2026-10-30-recording-and-reflection/01-chapter.md)
-- [书末附录：对理论基础与实践可行性的自我反思](archive/dossiers/2026-10-30-recording-and-reflection/05-self-reflection-appendix.md)
+- [书末附录：对理论基础与实践可行性的自我反思](book/current.md#附录对理论基础与实践可行性的自我反思)
 - [公共知识、互惠与合作的正向循环](archive/dossiers/2026-10-29-cooperation-feedback/01-chapter.md)
 - [新增：AI时代的Merkle-DAG语言与软件生态](archive/dossiers/2026-10-29-merkle-native/01-chapter.md)
 - [Merkle-DAG章节的原话与演化记录](archive/dossiers/2026-10-29-merkle-native/04-evolution-and-placement.md)
@@ -19,7 +21,7 @@
 - [从数学家的灵感到文明的共同创造](archive/dossiers/2026-10-26-shared-credit/01-chapter.md)
 - [从学生的灵感到基层的创造](archive/dossiers/2026-10-26-shared-credit/05-section-ten.md)
 - [现存版本与修改过程](history/README.md)
-- [本轮原话与逐项改写对照](archive/dossiers/2026-10-31-ability-cooperation/03-source-ledger.md)
+- [本轮全文修订与英文对照记录](archive/dossiers/2026-10-31-book-bilingual/04-editorial-notes.md)
 
 ## 运行访问接口
 
@@ -71,3 +73,5 @@ python -m pkst_public serve
 2026年10月31日第十一版补入作者关于资源参与能力形成的回应，区分现有绩效、成长条件与不同制度下的能力分布。体育项目的比较保留为待检验假说；全文与编辑记录见[说明](archive/dossiers/2026-10-31-ability-resource-formation/04-editorial-notes.md)。
 
 2026年10月31日第十二版记录作者明确接受的思想修订：从强调能力正态分布，转向公平的发展条件、能力多样性与跨领域合作。[思想修正时间线](archive/dossiers/2026-10-31-ability-cooperation/07-thought-evolution.md)保留早期命题、回应和明确修正；正文按最新理解独立展开。
+
+2026年10月31日第十三版统一正文与附录：公平的发展条件、能力互补和跨领域合作不依赖正态分布前提；防止支配作为可检验的制度目标。新增[完整英文版](book/current.en.md)与[中英双语分享页](book/readme.md)，保留[中文修改和英文来源关系](archive/dossiers/2026-10-31-book-bilingual/04-editorial-notes.md)。

@@ -82,5 +82,26 @@
     "file": "archive/dossiers/2026-10-31-ability-cooperation/02-new-principles.md",
     "sha256": "0862a69ffba3cae375bb7c03f77aa156d1e086a98b2efafd22669dac5ae69977",
     "cjk_characters": 144255
+  },
+  {
+    "edition": "13-book-bilingual",
+    "title": "全文一致性修订与中英文完整版本",
+    "file": "archive/dossiers/2026-10-31-book-bilingual/01-new-principles.zh.md",
+    "sha256": "3d28bff8167f26cb1382903c433073409d34b80cf11293f02a81df5efe04740b",
+    "cjk_characters": 145371,
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "translations": {
+      "en": {
+        "file": "archive/dossiers/2026-10-31-book-bilingual/02-new-principles.en.md",
+        "sha256": "3aca278155670daa67c117c81a163506fd7c2d96654fa260f22a388dc729b02a",
+        "whitespace_words": 61139,
+        "derived_from_sha256": "3d28bff8167f26cb1382903c433073409d34b80cf11293f02a81df5efe04740b",
+        "method": "complete idiomatic adaptation"
+      }
+    },
+    "landing_page": "book/readme.md"
   }
 ]

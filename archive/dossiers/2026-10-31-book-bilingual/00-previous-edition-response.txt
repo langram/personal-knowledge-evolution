@@ -1,0 +1,16 @@
+已完成[《新原理》第十二版](https://github.com/langram/personal-knowledge-evolution/blob/main/book/current.md)，并同步到公开 GitHub 仓库，提交 `33f5bcf`。
+
+- [修订正文](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-10-31-ability-cooperation/01-section.md)：尽量保留你的表达，重点展开公平的发展条件、能力多样性、能力互补与跨领域深度合作。
+- [思想修正时间线](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-10-31-ability-cooperation/07-thought-evolution.md)：新增六条会话记录，连接两条历史原话，保存从强调正态分布到明确接受能力互补思路的八个讨论阶段。
+- [原话与修改对照](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-10-31-ability-cooperation/03-source-ledger.md)：区分你的原话、润色和编辑补充，保留旧版本及实际修改记录。
+
+来源、版本关系、检索接口和公开访问均已校验；本地与 GitHub 一致。
+
+<oai-mem-citation>
+<citation_entries>
+MEMORY.md:86-92|note=[preserve author revision and verify manuscript publication]
+</citation_entries>
+<rollout_ids>
+01a16c8a-f6e1-7580-b378-b6e49f0be965
+</rollout_ids>
+</oai-mem-citation>

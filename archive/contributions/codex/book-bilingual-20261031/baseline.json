@@ -1,0 +1,29 @@
+{
+  "pointer": {
+    "report": "report-20261031-ability-cooperation-v1.json",
+    "snapshot": "bafyreiaieqfqcgotlykkethlrrm7cknldcbtrqlhkoywb34ig5dx35c4di",
+    "database": "contributions\\codex\\catalog\\.private\\20261031-ability-cooperation-v1\\catalog.sqlite"
+  },
+  "document": "bafyreihmai5b4cji3h6cy5ylgec7c3shfydsxwdfswum2rymkfhbrhvovy",
+  "dossier_root": "bafyreiez33f6bnvn4q2jqymupljgwlboxwvlesit6use37vn4ddlogkcmy",
+  "concepts": [
+    "bafyreibwmacaggexl24c7ymrgtufqtjcih7jmgqpowbgaldrbdb3t43uve",
+    "bafyreicypmabrnm2idltafmqi267zl2rdkshabv6jyfnioyjyt3dtocry4",
+    "bafyreib4hhjvjpol4wg3rvdhrdgczi5mbug2xrss7uytjiwstixhp52ysu",
+    "bafyreidx4mj4xutr7vss5kjazs6azhakzpx44bvdjyq2dmqc2sfydl6mou",
+    "bafyreieruqyun2aay6woajrzx3okf7573ovm7svgs76vdjgwmgwpmgt7pm",
+    "bafyreihwpwf5vlifk63rev5rqqdt4y3gqx6d7mgmbtjoyn3fjdvnv5ttn4"
+  ],
+  "sources": {
+    "EDITION-ELEVEN-RESPONSE": "bafyreihntlch6enb2kqvr623j2qcfl7mtk2pxujkqgthcpupstaojvbp34",
+    "DEVELOPMENT-GOALS": "bafyreig3eopshtx3pvl3rmb47vn3k2ey2lfafymrtc7wpwa4dcwnptusea",
+    "GOALS-REVIEW": "bafyreia7vyc5ai3unwmg3wadfhs54ts7ytiwodspzavmepv3lv4sjsa5zi",
+    "AUTHOR-REVISION": "bafyreifzpscwjbr5otat7trcptxevcetwxandlyg37eptgyr44rojas33u",
+    "COOPERATION-SYNTHESIS": "bafyreih6jiee3izh4wqhkq6hk3dhod2cervloz4nvts4gwifso6zt6erwy",
+    "INTEGRATION-REQUEST": "bafyreifygbnilkr4kdq3t27jgnzqlamp3ieuc3vtiyhudpvu3mbv6lftdu",
+    "CIVILIZATION-REPLY": "bafyreifrejl5gmdpemom4m7jk47fyvpw77qzec3jaykkf3b3qs5gypbshq",
+    "ABILITY-RESOURCE-REPLY": "bafyreigq7plmrcdsu3jp3rtvvrogxzvuu2rhrk4ycmnny6gahrofqedmla"
+  },
+  "manuscript": "dossiers\\2026-10-31-ability-cooperation\\02-new-principles.md",
+  "sha256": "0862a69ffba3cae375bb7c03f77aa156d1e086a98b2efafd22669dac5ae69977"
+}
