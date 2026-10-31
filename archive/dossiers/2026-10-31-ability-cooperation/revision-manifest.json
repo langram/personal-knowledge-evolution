@@ -1,0 +1,39 @@
+{
+  "operation": "replace-section-and-align-needs-paragraph",
+  "baseline_sha256": "f0126b98aaa60d7b8dcb5bfe8dce8dbabe5fe95302c1b2201f3d3a009930788a",
+  "combined_sha256": "0862a69ffba3cae375bb7c03f77aa156d1e086a98b2efafd22669dac5ae69977",
+  "replacements": [
+    {
+      "file": "01-section.md",
+      "before_file": "05-previous-section.md",
+      "old_byte_span": [
+        233622,
+        242759
+      ],
+      "before_sha256": "b2de54cbd5cc8265e37c845381ab4c64c9c173ff3fe8f1163d45897f56420649",
+      "after_sha256": "15c4acccdd217a85fdf06162f1827d5e7e042005d7ae52054a630fe4c4be8bfd",
+      "marker": "### 需求、能力与决策权重，为什么不能成为新的资本",
+      "new_byte_span": [
+        233622,
+        244998
+      ],
+      "patch": "06-section-revision.patch"
+    },
+    {
+      "file": "08-needs-paragraph.md",
+      "before_file": "05-previous-needs-paragraph.md",
+      "old_byte_span": [
+        248121,
+        248546
+      ],
+      "before_sha256": "98e1dc4f326fdfe2518c99cd9b00447bb4aa44868dd0f8f6903df15252a9bbb3",
+      "after_sha256": "ba6cf8bfbb350cf3f4bb7910a90b01bf3e7597a5504d87e1c297efa3fd564e74",
+      "marker": "我用正态分布来帮助理解个体需要，关注的是人与人之间存在一定范围内的差异，而这种差异不等于财富和支配权可以无限累积。具体需要究竟怎样分布，仍然要看所讨论的资源和人群；不能先画出一条钟形曲线，再要求每个人把自己的生活塞进去。理解需要，是为了更好地满足人，而不是为了把人变成某个固定指标。",
+      "new_byte_span": [
+        250360,
+        250734
+      ],
+      "patch": "06-needs-revision.patch"
+    }
+  ]
+}

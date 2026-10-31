@@ -1,0 +1,17 @@
+{
+  "combined_sha256": "0862a69ffba3cae375bb7c03f77aa156d1e086a98b2efafd22669dac5ae69977",
+  "prior_cjk": 143553,
+  "combined_cjk": 144255,
+  "section_cjk": 3410,
+  "net_added_cjk": 702,
+  "source_events": 6,
+  "replacements": 2,
+  "passage_units": 35,
+  "user_adaptations": 6,
+  "user_selected_characters": 447,
+  "user_verbatim_retained_characters": 325,
+  "assistant_adaptations": 5,
+  "assistant_selected_characters": 548,
+  "assistant_verbatim_retained_characters": 515,
+  "retention_scope": "Character matches within selected source spans, separately by speaker; not a percentage of the new section."
+}

@@ -75,5 +75,12 @@
     "file": "archive/dossiers/2026-10-31-ability-resource-formation/02-new-principles.md",
     "sha256": "f0126b98aaa60d7b8dcb5bfe8dce8dbabe5fe95302c1b2201f3d3a009930788a",
     "cjk_characters": 143553
+  },
+  {
+    "edition": "12-ability-cooperation",
+    "title": "公平发展、能力多样性与跨领域合作",
+    "file": "archive/dossiers/2026-10-31-ability-cooperation/02-new-principles.md",
+    "sha256": "0862a69ffba3cae375bb7c03f77aa156d1e086a98b2efafd22669dac5ae69977",
+    "cjk_characters": 144255
   }
 ]

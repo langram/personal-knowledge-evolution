@@ -1,0 +1,17 @@
+{
+  "status": "pass",
+  "source_events": 6,
+  "historical_sources": 2,
+  "timeline_stages": 8,
+  "explicit_author_revision": true,
+  "source_adaptations": {
+    "user": 6,
+    "assistant": 5
+  },
+  "passage_units": 35,
+  "replacements": 2,
+  "outside_replacements": "byte-identical",
+  "last_appendix": "byte-identical and still last",
+  "current_sha256": "0862a69ffba3cae375bb7c03f77aa156d1e086a98b2efafd22669dac5ae69977",
+  "boundary": "Text, attribution, explicit acceptance and version-link checks; not proof of biological, statistical or institutional hypotheses."
+}

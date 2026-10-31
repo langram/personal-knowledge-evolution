@@ -1,0 +1,21 @@
+**你的核心因果批评有道理：资源不只是影响能力能换来多少成果，也会参与塑造能力本身。** 因而，旧制度下观察到的绩效分布，不能直接回答培养条件更公平之后，人的能力会怎样分布。我此前虽然区分了绩效与能力，但没有充分展开这一层。
+
+这条解释有研究支持。技能形成研究讨论了早期投入、已有技能与后续学习相互促进的机制；科研资助研究也发现，早期获得资助，会扩大后续获取资源的优势。[技能形成研究](https://jenni.uchicago.edu/papers/Cunha-Heckman_AER_v97n2_2007.pdf)、[科研资助研究](https://pmc.ncbi.nlm.nih.gov/articles/PMC5948972/)
+
+仍须区分：**资源累积能够塑造差距，不等于所有偏态都只由资本造成，也不能直接证明资源平等后所有能力与需求必然正态分布。** 你对跑跳、高尔夫和跳伞的比较有研究价值，我保留了这个具体预测，并明确写成需要控制训练条件、参与者筛选和测量指标的假说。
+
+已写入《新原理》第十一版，净增 **1,789 汉字**，同步到 GitHub 和 Merkle-DAG 库：
+
+- [阅读修订小节](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-10-31-ability-resource-formation/01-section.md)
+- [原话与修改对照](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-10-31-ability-resource-formation/03-source-ledger.md)
+
+原话完整保留，公开版本校验通过。提交：`e4b6412`。
+
+<oai-mem-citation>
+<citation_entries>
+MEMORY.md:86-92|note=[preserve author originals and verify manuscript publication]
+</citation_entries>
+<rollout_ids>
+01a16c8a-f6e1-7580-b378-b6e49f0be965
+</rollout_ids>
+</oai-mem-citation>

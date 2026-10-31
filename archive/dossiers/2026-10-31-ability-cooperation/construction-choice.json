@@ -1,0 +1,19 @@
+{
+  "scope": "One manuscript section, one adjacent alignment paragraph, explicit author revision and source archive.",
+  "candidates": [
+    {
+      "path": "append-current-chat-to-book",
+      "limitation": "Leaves superseded premises in current prose."
+    },
+    {
+      "path": "replace-entire-book-or-build-new-publisher",
+      "limitation": "Unnecessary rewriting and framework cost."
+    },
+    {
+      "path": "two-reversible-replacements-with-explicit-revision-links",
+      "limitation": "Requires source-span and old-byte checks before activation."
+    }
+  ],
+  "selected": "two-reversible-replacements-with-explicit-revision-links",
+  "cost_basis": "Reuse current codec, catalog and public API; no measured energy claim."
+}

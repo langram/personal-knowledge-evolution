@@ -1,0 +1,31 @@
+[
+  {
+    "id": "S2",
+    "title": "The Technology of Skill Formation",
+    "authors": "Flavio Cunha; James Heckman",
+    "year": 2007,
+    "url": "https://jenni.uchicago.edu/papers/Cunha-Heckman_AER_v97n2_2007.pdf",
+    "read_scope": "Published author-hosted AER PDF, opening and skill-formation discussion, especially printed pages 31 and 35–36.",
+    "supports": "A multistage skill-formation model with environmental investments, self-productivity and dynamic complementarity, organized around developmental evidence.",
+    "does_not_establish": "Universal normality or a universal exponential law for ability; all resource differences are financial capital.",
+    "reuse_scope": "Citation and bounded interpretation retained from edition eleven; no new full-paper review claimed in this editorial pass."
+  },
+  {
+    "id": "S3",
+    "title": "The Matthew effect in science funding",
+    "authors": "Thijs Bol; Mathijs de Vaan; Arnout van de Rijt",
+    "year": 2018,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5948972/",
+    "doi": "10.1073/pnas.1719557115",
+    "read_scope": "Full primary article text returned by PNAS search plus PMC abstract, regression-discontinuity identification and main results.",
+    "supports": "Local comparison near a Dutch early-career grant threshold: later funding divergence and participation/status mechanisms; original grant excluded from the later-funding comparison.",
+    "does_not_establish": "A twofold ability difference, all sources of inequality, or normality after resources are equalized.",
+    "reuse_scope": "Citation and bounded interpretation retained from edition eleven; no new full-paper review claimed in this editorial pass."
+  },
+  {
+    "id": "INHERITED-BITCOIN",
+    "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+    "url": "https://bitcoin.org/bitcoin.pdf",
+    "reuse_scope": "Unchanged protocol-scope paragraph inherited from editions ten and eleven; no new safety claim or review."
+  }
+]

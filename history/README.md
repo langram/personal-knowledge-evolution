@@ -15,6 +15,7 @@
 |个人信息采集与全书自我反思|135,630|[正文](../archive/dossiers/2026-10-30-recording-and-reflection/02-new-principles.md)|
 |文明自我治理与制度多样性探索|141,764|[正文](../archive/dossiers/2026-10-31-civilization-self-governance/02-new-principles.md)|
 |能力形成、资源累积与分布的因果区分|143,553|[正文](../archive/dossiers/2026-10-31-ability-resource-formation/02-new-principles.md)|
+|公平发展、能力多样性与跨领域合作|144,255|[正文](../archive/dossiers/2026-10-31-ability-cooperation/02-new-principles.md)|
 
 更早的[整体框架与起步方案](../archive/dossiers/2026-10-25-seed/README.md)保存实践路线、宣传文本和创作计划。
 
@@ -33,3 +34,5 @@
 2026年10月31日加入[文明的技术力量与自我治理能力](../archive/dossiers/2026-10-31-civilization-self-governance/01-chapter.md)，并扩展动态权重、制度分叉和虚拟社会实验室。[全部增补](../archive/dossiers/2026-10-31-civilization-self-governance/08-edition-additions.md)、[原话与逐项编辑](../archive/dossiers/2026-10-31-civilization-self-governance/03-source-ledger.md)及[编辑说明](../archive/dossiers/2026-10-31-civilization-self-governance/04-editorial-notes.md)同时保留。
 
 2026年10月31日第十一版重写动态权重中的[能力形成与资源累积讨论](../archive/dossiers/2026-10-31-ability-resource-formation/01-section.md)，保存[原话与修改对照](../archive/dossiers/2026-10-31-ability-resource-formation/03-source-ledger.md)及[编辑说明](../archive/dossiers/2026-10-31-ability-resource-formation/04-editorial-notes.md)。
+
+2026年10月31日第十二版按作者最新确认重写[公平发展、能力多样性与跨领域合作](../archive/dossiers/2026-10-31-ability-cooperation/01-section.md)，保存[原话与修改对照](../archive/dossiers/2026-10-31-ability-cooperation/03-source-ledger.md)、[思想修正时间线](../archive/dossiers/2026-10-31-ability-cooperation/07-thought-evolution.md)及[编辑说明](../archive/dossiers/2026-10-31-ability-cooperation/04-editorial-notes.md)。

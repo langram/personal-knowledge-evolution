@@ -1,0 +1,22 @@
+{
+  "pointer": {
+    "report": "report-20261031-ability-resource-formation-v1.json",
+    "snapshot": "bafyreibeuh5mgpukdo2bm56tw3muv3wt6fjgof3syxjbqfs2vn3or4tnfy",
+    "database": "contributions\\codex\\catalog\\.private\\20261031-ability-resource-formation-v1\\catalog.sqlite"
+  },
+  "document": "bafyreiggpneuw4rz4nxankos5k4azdg4hu3csvxym4zhad2swotnzpi65a",
+  "dossier_root": "bafyreigmf6mu3dcyjgcxlattftjannscqqwgzhqbzv2u66si3vgzkmwv6y",
+  "concepts": [
+    "bafyreif5avqkr4o3elupm62hv6g2jozdtwqiqh5filx2zy2rrq7du464ja",
+    "bafyreibkvqy6cymkgsxbsejtph64jqg4mbp5if7nuq5ix3bflraxgho63i",
+    "bafyreifv2brhol3q47qtwd44f3fc4t5h2ma4kdzvveg5htbo6cppnj5mmq",
+    "bafyreietp5hfw2eyw2xbw4suvaur2sgzpf2ylw5lsp7fpj2znyv4n457y4",
+    "bafyreide7w5mmf7nimeujgep5lori7mbqrlbzubn2c7o2vx6iubwnysiwu"
+  ],
+  "sources": {
+    "EDITION-TEN-RESPONSE": "bafyreicmycfbxb5yqtfo3qecc4nefxn3aaifkbcwjegrx233qlbo3mmumu",
+    "ABILITY-RESOURCE-REPLY": "bafyreigq7plmrcdsu3jp3rtvvrogxzvuu2rhrk4ycmnny6gahrofqedmla"
+  },
+  "manuscript": "dossiers\\2026-10-31-ability-resource-formation\\02-new-principles.md",
+  "sha256": "f0126b98aaa60d7b8dcb5bfe8dce8dbabe5fe95302c1b2201f3d3a009930788a"
+}

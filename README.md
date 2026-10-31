@@ -7,7 +7,8 @@
 ## 阅读文章
 
 - [《新原理》当前全文](book/current.md)
-- [本次修订：能力形成、资源累积与分布](archive/dossiers/2026-10-31-ability-resource-formation/01-section.md)
+- [本次修订：公平发展、能力多样性与跨领域合作](archive/dossiers/2026-10-31-ability-cooperation/01-section.md)
+- [能力形成、资源累积与分布](archive/dossiers/2026-10-31-ability-resource-formation/01-section.md)
 - [文明自我治理、权重边界与制度探索](archive/dossiers/2026-10-31-civilization-self-governance/08-edition-additions.md)
 - [个人信息采集、数据主权与技术落地](archive/dossiers/2026-10-30-recording-and-reflection/01-chapter.md)
 - [书末附录：对理论基础与实践可行性的自我反思](archive/dossiers/2026-10-30-recording-and-reflection/05-self-reflection-appendix.md)
@@ -18,7 +19,7 @@
 - [从数学家的灵感到文明的共同创造](archive/dossiers/2026-10-26-shared-credit/01-chapter.md)
 - [从学生的灵感到基层的创造](archive/dossiers/2026-10-26-shared-credit/05-section-ten.md)
 - [现存版本与修改过程](history/README.md)
-- [本轮原话与逐项改写对照](archive/dossiers/2026-10-31-ability-resource-formation/03-source-ledger.md)
+- [本轮原话与逐项改写对照](archive/dossiers/2026-10-31-ability-cooperation/03-source-ledger.md)
 
 ## 运行访问接口
 
@@ -68,3 +69,5 @@ python -m pkst_public serve
 2026年10月31日形成第十版：加入作者对制度分叉、动态权重和混合互惠反馈的回应，展开文明技术力量与自我治理能力的关系。完整保留原话、首遍草稿、再校订差异与来源。详见[本次编辑说明](archive/dossiers/2026-10-31-civilization-self-governance/04-editorial-notes.md)。
 
 2026年10月31日第十一版补入作者关于资源参与能力形成的回应，区分现有绩效、成长条件与不同制度下的能力分布。体育项目的比较保留为待检验假说；全文与编辑记录见[说明](archive/dossiers/2026-10-31-ability-resource-formation/04-editorial-notes.md)。
+
+2026年10月31日第十二版记录作者明确接受的思想修订：从强调能力正态分布，转向公平的发展条件、能力多样性与跨领域合作。[思想修正时间线](archive/dossiers/2026-10-31-ability-cooperation/07-thought-evolution.md)保留早期命题、回应和明确修正；正文按最新理解独立展开。
