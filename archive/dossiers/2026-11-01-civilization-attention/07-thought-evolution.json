@@ -1,0 +1,199 @@
+{
+  "schema": "ca/evolution@1",
+  "previous_edition": "13-book-bilingual",
+  "stages": [
+    {
+      "step": 1,
+      "ref": "PREVIOUS-EDITION-RESPONSE",
+      "role": "assistant",
+      "event_time": {
+        "value": "2026-10-31T05:08:59.877Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreiadent6ffxbeu5tvb2x3ppjpracb7orvhmjkez3vl4klbxppdogju",
+      "content": "bafyreibobte25qxcdnvao4q4y3lcfv664bkdob7pv4ob645v6njmaurs64",
+      "text_sha256": "1b9710d352c596aed5a83678c539a758106526e30d253dd33342f0d58285f49f",
+      "status": "prior release context"
+    },
+    {
+      "step": 2,
+      "ref": "AUTHOR-ATTENTION",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-01T03:46:51.912Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreiarnuwatacommxq4hmtsdrruzco5zkt7lshqdfoqfutag5nqzwgqy",
+      "content": "bafyreid3qzg4zh754u6xu2hcepisay5nqhzgl4odmngeltd46ff5uuavgi",
+      "text_sha256": "fe470ef2bc7c09f50f163aeff36c05cafa3c39912580c9a2ba6ca737eddc73db",
+      "status": "author proposal"
+    },
+    {
+      "step": 3,
+      "ref": "RESPONSE-ATTENTION",
+      "role": "assistant",
+      "event_time": {
+        "value": "2026-11-01T03:52:28.531Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreiaudpm364vy4vp454axwdu26otvnzknth5b5fm3fn2cldy74kbsyi",
+      "content": "bafyreid4ibzgh4dewseiuzs5fixlazlh55ffk7pwq6pys3vqbrjvj3ckvm",
+      "text_sha256": "8ba4302126871aaf064d0b61826769276790084e83338dd014f24e7951c8978f",
+      "status": "assistant response, not automatic author endorsement"
+    },
+    {
+      "step": 4,
+      "ref": "AUTHOR-QKV-RUNTIME",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-01T05:45:24.506Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreidfl7vcn73ikkl4ia2f6v2s52ii7lgwffq5fd5lztuwbh3i3wtgmu",
+      "content": "bafyreiemqop4sor67h6chjkoia2boew6jpoq6mpr5irmexybmazrntqab4",
+      "text_sha256": "a81c865419287ab61ccaefaf96e4cf7710118107bb2a33bb12062382d698585a",
+      "status": "author proposal"
+    },
+    {
+      "step": 5,
+      "ref": "RESPONSE-QKV-RUNTIME",
+      "role": "assistant",
+      "event_time": {
+        "value": "2026-11-01T05:51:31.076Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreicvsy7tcqs7vlizxfocuhxwkxi5jsplq7gjvkbxt2dzi6gpft2igm",
+      "content": "bafyreif2nvsj75x4jf3mzj6ekzcgy2a6zroiamq7a66qo4pn5n5gdu53ki",
+      "text_sha256": "c2d0c35edcc452c08f5b8922337228ade2e98d613b38618b4c3f7a0d32ad708e",
+      "status": "assistant response, not automatic author endorsement"
+    },
+    {
+      "step": 6,
+      "ref": "AUTHOR-GAME-MODEL",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-01T06:21:06.117Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreiaxmfj5p7we6npvhyus56js4xgrlfdqcscect5kpnpsk7uh3zepe4",
+      "content": "bafyreigu3m5gwq6drzh6e7z5m5tuknfzpowxncowlzl4wsfuhry6oa264i",
+      "text_sha256": "88a10df4ceb07bc42cbccfa2070921b6debf966decbca030f67c8192c1cfdde8",
+      "status": "author proposal"
+    },
+    {
+      "step": 7,
+      "ref": "RESPONSE-GAME-MODEL",
+      "role": "assistant",
+      "event_time": {
+        "value": "2026-11-01T06:28:39.636Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreic4igtbfxr4w5a7po7u2ycflrmmdqsrx2udwudkr3uxvdpahlyqbe",
+      "content": "bafyreib4lhzrnfyo6purh4ljg6qkqbufpq6tgtyrv5t563zk35bg25wqxq",
+      "text_sha256": "87f3a6829a61a556929e68179a24fa20f9cb37ec80dd99310040be519aaeb9f8",
+      "status": "assistant response, not automatic author endorsement"
+    },
+    {
+      "step": 8,
+      "ref": "AUTHOR-EMERGENCE",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-01T06:35:48.382Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreih5upbh34w7rs4gyt6qkrohhzb6yl4a67a7vwkjupthim34izkjde",
+      "content": "bafyreibcuxbqybsn2idbevrsbpftitvcw5xxhid3j7zwtqv246s2jbv4ii",
+      "text_sha256": "63742c32e8378c31b3e23d70d358c23d8941d96368165731d4d524d97c18f106",
+      "status": "author proposal"
+    },
+    {
+      "step": 9,
+      "ref": "RESPONSE-EMERGENCE",
+      "role": "assistant",
+      "event_time": {
+        "value": "2026-11-01T06:38:58.521Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreibgims55irkf34hbgeaeupe6einbv6lwygp4ohhfewf7rrxdaak2u",
+      "content": "bafyreiege3fh7qfenxveeva6br7sp7mzddshchhlltwd5meeejzzzeg2d4",
+      "text_sha256": "1fc914a59eb94e63dfcc34854781c354488ced86cdba790f07bc17278bae2001",
+      "status": "assistant response, not automatic author endorsement"
+    },
+    {
+      "step": 10,
+      "ref": "AUTHOR-PARTICIPATION",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-01T06:51:05.133Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreiar6fmtqpdc7cknfqoztbvfcmoytduwghtwj3fcwdkmztury4cyna",
+      "content": "bafyreihlbsgqy4v7upxcg4sljygrotiqfsueyc6ldau5gxfq67wf7qox3a",
+      "text_sha256": "a3f167383a3c41d3c61dfb272760d73e06f882909aa001070a09ce9414130177",
+      "status": "author proposal"
+    },
+    {
+      "step": 11,
+      "ref": "RESPONSE-PARTICIPATION",
+      "role": "assistant",
+      "event_time": {
+        "value": "2026-11-01T06:52:56.198Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreifg6xha3ssbfvkeindeu2zzwto5n734aeol7nptjsjmjqpdo527xa",
+      "content": "bafyreia6lu22jqwgyrmfklxsf3craev54zflvxker6epko6peyhxhrqiea",
+      "text_sha256": "de40e80a9158efed39fc317a0eaef91658dad8004416172d9d5647a4482d94c8",
+      "status": "assistant response, not automatic author endorsement"
+    },
+    {
+      "step": 12,
+      "ref": "AUTHOR-INTEGRATION-AND-SPEECH",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-01T09:42:45.110Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreibwvvls2uho5xlkweu3vfbm4bthmjvizdejoxhpykatknvkg66oyu",
+      "content": "bafyreid6sctvgb4tbpzo7h2fhfhjo5tlklycom6m6t3nueyqfiti4ohsry",
+      "text_sha256": "e386e8f91ec6fc8b80e8eb6bdecf9c22c6312401b78bad9351ce59c8b3354e62",
+      "status": "author proposal"
+    }
+  ],
+  "boundary": "Native message timestamps describe visible speech events, not first invention; no hidden reasoning captured."
+}

@@ -1,0 +1,30 @@
+{
+  "status": "pass",
+  "text": {
+    "status": "pass",
+    "edition": "14-civilization-attention",
+    "reversible_edits": 12,
+    "native_source_roundtrips": 12,
+    "exact_author_spans_verified": 11,
+    "chapters": 32,
+    "headings": 223,
+    "citation_occurrences": 88,
+    "new_external_sources": 19,
+    "unchanged_chapter_pairs": 28,
+    "chinese_sha256": "f1721b9fb718426d0224dec3f9e5bb240b94e1e437910e754593cf2a03cbe9d5",
+    "english_sha256": "3677144c133772ba9b0ab2a536438eda9ed83997d505a9ff8970d0c5c6f21ff8",
+    "boundary": "Checks prove provenance and structural/replay properties; semantic review is editorial, not a mathematical equivalence proof or author approval."
+  },
+  "editions": 14,
+  "api_source_roundtrips": 12,
+  "translation_relationships": 32,
+  "public_events": 158321,
+  "public_objects": 359291,
+  "local_links_checked": 112,
+  "historical_corpus_rows_byte_preserved": 164442,
+  "added_events": 12,
+  "added_public_objects": 148,
+  "protected_research_branch": "4127d3f9ec4cfb7a61cbb2ea195cd6d64faef110",
+  "baseline_commit": "6ef27958b512f5237339512a78a2bfec432c035d",
+  "boundary": "New sources and bounded edit provenance verified; unchanged historical claims not re-researched; checks do not establish social-system effectiveness."
+}

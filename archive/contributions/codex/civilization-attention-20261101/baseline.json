@@ -1,0 +1,22 @@
+{
+  "pointer": {
+    "report": "report-20261031-book-bilingual-v1.json",
+    "snapshot": "bafyreibicorwz6vz5tadyle5a5bxdwb5upucsdotw2ilgjxtj72scodx5u",
+    "database": "contributions\\codex\\catalog\\.private\\20261031-book-bilingual-v1\\catalog.sqlite"
+  },
+  "document": "bafyreicekytmq65zmp76v4437ijqm4oni7qbiktqmauqpjvgqwioxji72u",
+  "english_document": "bafyreic4p4jdnnvwu4yckto6fmlnq7dr4c32od6iwj6i4dgef3uxnb7ire",
+  "dossier_root": "bafyreiaopr5lzwit2twnn3bbonor2u32ncmjficqz42qzf5tacfgfcbsnu",
+  "concepts": [
+    "bafyreid2i2qncdkw6fzlqdnyoiazftc7wgstd5xru3qkycpd64n5wfuylq",
+    "bafyreifnmrba573yoqfdboj2qdiv2k4ev7gnwdxishcratyqd52wawo3au",
+    "bafyreigqavzj4jvadra7pl3mqn4233ceqfazllby3xfudyi5uzdnlqaaqm"
+  ],
+  "manuscript": "dossiers\\2026-10-31-book-bilingual\\01-new-principles.zh.md",
+  "english_manuscript": "dossiers\\2026-10-31-book-bilingual\\02-new-principles.en.md",
+  "sha256": "3d28bff8167f26cb1382903c433073409d34b80cf11293f02a81df5efe04740b",
+  "english_sha256": "3aca278155670daa67c117c81a163506fd7c2d96654fa260f22a388dc729b02a",
+  "base_commit": "6ef27958b512f5237339512a78a2bfec432c035d",
+  "protected_research_branch": "4127d3f9ec4cfb7a61cbb2ea195cd6d64faef110",
+  "prior_event_count": 212765
+}

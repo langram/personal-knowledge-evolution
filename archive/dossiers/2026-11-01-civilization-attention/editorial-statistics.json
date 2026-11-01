@@ -1,0 +1,21 @@
+{
+  "edition": "14-civilization-attention",
+  "chinese_cjk_characters": 155771,
+  "previous_chinese_cjk_characters": 145371,
+  "english_whitespace_words": 66947,
+  "previous_english_whitespace_words": 61139,
+  "chinese_sha256": "f1721b9fb718426d0224dec3f9e5bb240b94e1e437910e754593cf2a03cbe9d5",
+  "english_sha256": "3677144c133772ba9b0ab2a536438eda9ed83997d505a9ff8970d0c5c6f21ff8",
+  "chapters": 32,
+  "headings": 223,
+  "external_citation_occurrences": 88,
+  "revisions_by_language": {
+    "zh": 6,
+    "en": 6
+  },
+  "unchanged_chapter_pairs": 28,
+  "new_visible_events": 12,
+  "author_messages": 6,
+  "passages_with_exact_author_spans": 8,
+  "exact_author_span_boundary": "Matching spans are evidence of reused words, not a claim that all additions are quotations."
+}

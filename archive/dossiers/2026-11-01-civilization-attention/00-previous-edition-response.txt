@@ -1,0 +1,20 @@
+已完成第十三版，并同步到个人知识库和公开 GitHub 仓库。
+
+正文与附录完成 **10处一致性修订**，统一强调公平的发展条件、能力互补和跨领域合作；防止支配不再依赖任何预设的能力分布。原话、历史版本和思想修正过程均保留。
+
+英文版已完整改写，约 **6.1万词**，涵盖全部31个章节，包括前言、后记和附录。
+
+- **[中英双语简介与分享入口](https://github.com/langram/personal-knowledge-evolution/blob/main/book/readme.md)**
+- [中文全文](https://github.com/langram/personal-knowledge-evolution/blob/main/book/current.md)
+- [英文全文](https://github.com/langram/personal-knowledge-evolution/blob/main/book/current.en.md)
+
+来源、版本、接口及文件完整性检查已通过，也已确认可以匿名访问。提交：`6ef2795`。
+
+<oai-mem-citation>
+<citation_entries>
+MEMORY.md:86-92|note=[preserve author revision and verify manuscript publication]
+</citation_entries>
+<rollout_ids>
+01a16c8a-f6e1-7580-b378-b6e49f0be965
+</rollout_ids>
+</oai-mem-citation>

@@ -1,0 +1,11 @@
+{
+  "status": "pass",
+  "recorded_at": "2026-11-01T10:13:03.175300+00:00",
+  "tests": {
+    "command": "python -X utf8 -m unittest discover -s tests -v",
+    "passed": 4,
+    "failed": 0
+  },
+  "scope": "Read-only public API, provenance roundtrip, parameter boundaries and HTTP behavior; not institutional effectiveness.",
+  "storage": "Generated after manuscript snapshot; covered by public file manifest and Git."
+}

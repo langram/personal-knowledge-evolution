@@ -1,0 +1,1949 @@
+{
+  "schema": "ca/passage-manifest@1",
+  "coordinate": "unicode-scalar-half-open",
+  "minimum_exact_span_characters": 24,
+  "passages": [
+    {
+      "id": "bridge-001",
+      "edit": "bridge",
+      "document_span": [
+        85679,
+        85779
+      ],
+      "sha256": "2be31dd74b31898341fc039ba244dfbc3f09c14da6ad85be8d1b323c950164ad",
+      "source_refs": [
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-001",
+      "edit": "01-attention",
+      "document_span": [
+        85781,
+        85798
+      ],
+      "sha256": "3e7659b6855f6599763ae987f8b9a60c46bcc7b8862f585add68b4b04bd98377",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-002",
+      "edit": "01-attention",
+      "document_span": [
+        85800,
+        85943
+      ],
+      "sha256": "d10dd38e0b31c69c3b3ec17bb7513d778a41a9ff03e843b8dc99f2752acc4bfb",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-ATTENTION",
+          "source_span": [
+            650,
+            682
+          ],
+          "paragraph_span": [
+            4,
+            36
+          ],
+          "text": "这套基于动态权重决策的智能神经网络的人类文明架构，从空泛的想象，"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-003",
+      "edit": "01-attention",
+      "document_span": [
+        85945,
+        86048
+      ],
+      "sha256": "9b0bd25aff8b6c47edad7e789b8a773a1fbd74eeba123053750354e68e1ed2e6",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-004",
+      "edit": "01-attention",
+      "document_span": [
+        86050,
+        86068
+      ],
+      "sha256": "ab41d49098b1bbaef16b985f0ded16d5ec5959c6a4b8be588a32baab738c4805",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-005",
+      "edit": "01-attention",
+      "document_span": [
+        86070,
+        86335
+      ],
+      "sha256": "db015ce19f365f0e7300b87776bf64deeef69aa23a70ddb0b94afd87505257b0",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-ATTENTION",
+          "source_span": [
+            37,
+            61
+          ],
+          "paragraph_span": [
+            0,
+            24
+          ],
+          "text": "资源有限，效率驱动，靠权重选择性聚焦更重要的因素"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-006",
+      "edit": "01-attention",
+      "document_span": [
+        86337,
+        86456
+      ],
+      "sha256": "7eeed40c6f3d59aa1a2c3c6b78107fca17e375c6c52c262f1d774f8259afe53c",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-ATTENTION",
+          "source_span": [
+            246,
+            270
+          ],
+          "paragraph_span": [
+            14,
+            38
+          ],
+          "text": "且变化的信息中，通过动态权重建立准确的上下文关联"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-007",
+      "edit": "01-attention",
+      "document_span": [
+        86458,
+        86711
+      ],
+      "sha256": "3394cfab9f62bf0ffbaec226e814dfb019ca68775b23dba2de5443afa3a06c8c",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-008",
+      "edit": "01-attention",
+      "document_span": [
+        86713,
+        86855
+      ],
+      "sha256": "b1d178d1271e777494bad6f04cb1405283e3395105aa9b38d6ed0278b931bb25",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-009",
+      "edit": "01-attention",
+      "document_span": [
+        86857,
+        86875
+      ],
+      "sha256": "d677d3a04650eb7d6afdde894f062586565a6b11b5e1b2e2c187cbf2c6b1f264",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-010",
+      "edit": "01-attention",
+      "document_span": [
+        86877,
+        87047
+      ],
+      "sha256": "8c68df09e19b447eb9377e0032fa32634e9a844fe808c7542fb116656bb34e54",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-011",
+      "edit": "01-attention",
+      "document_span": [
+        87049,
+        87180
+      ],
+      "sha256": "36495c3e7fdad03d6439b4e0494a0f087e7ac631939b155f2ae0e1d7b59c7d80",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-012",
+      "edit": "01-attention",
+      "document_span": [
+        87182,
+        87430
+      ],
+      "sha256": "5e20cda31e46a863a6066ba3ec49c1bc92f10389f37bd3d2a451cbe6d948cb3e",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-013",
+      "edit": "01-attention",
+      "document_span": [
+        87432,
+        87540
+      ],
+      "sha256": "d3c8d1c1a44bbedad23a04a9e4f7c162390f69146f37d714fea2f26cdfaff91c",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-014",
+      "edit": "01-attention",
+      "document_span": [
+        87542,
+        87689
+      ],
+      "sha256": "c5a7c96ec73356e2a41d288542f8bd3c3eed84512bdd451a434aadc1bafc4023",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-015",
+      "edit": "01-attention",
+      "document_span": [
+        87691,
+        87829
+      ],
+      "sha256": "507a7d0a46fe8dac1f2baa0bf7c1ee3b94d69f1b17bb0aa4af04b0d540632658",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-016",
+      "edit": "01-attention",
+      "document_span": [
+        87831,
+        87850
+      ],
+      "sha256": "6f7318f6a9f3cc2cb3d20564212962601ad719f51fa3b1e6c09777de45a2060c",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-017",
+      "edit": "01-attention",
+      "document_span": [
+        87852,
+        88036
+      ],
+      "sha256": "9b9c9c74f163cd534afbaed5e175d71a1e53e0b7eca9d565ad0b9fc6c4c3f6ef",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-QKV-RUNTIME",
+          "source_span": [
+            177,
+            217
+          ],
+          "paragraph_span": [
+            72,
+            112
+          ],
+          "text": "属性会改变，甚至会毁灭。不可再生的资源随着消耗而等量减少，可再生资源则不是这样，"
+        },
+        {
+          "ref": "AUTHOR-QKV-RUNTIME",
+          "source_span": [
+            217,
+            267
+          ],
+          "paragraph_span": [
+            123,
+            173
+          ],
+          "text": "人的奖励和惩罚措施，会改变另一个人的资源数量，甚至是这个人今后的决策倾向等等。所以显然不能刻舟求剑式"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-018",
+      "edit": "01-attention",
+      "document_span": [
+        88038,
+        88209
+      ],
+      "sha256": "8cdc5ffb3e312a2ac92c95fe94026c2ddd17b457f09b45183adaf15649e1b0bc",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-019",
+      "edit": "01-attention",
+      "document_span": [
+        88211,
+        88232
+      ],
+      "sha256": "8f0fe1a2ea5acc5f1335f95ec05442683ee04e2b2f73208dd0fa845e6b53bf0c",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-020",
+      "edit": "01-attention",
+      "document_span": [
+        88234,
+        88272
+      ],
+      "sha256": "776e478aee939902a428bcaa76789669f595283478fce7fd90b47a52d6d2aba8",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-021",
+      "edit": "01-attention",
+      "document_span": [
+        88274,
+        88372
+      ],
+      "sha256": "e6862fd0aa53c0265260ff19401a6fbc56b101e1b0e512352af586508eb50f13",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-022",
+      "edit": "01-attention",
+      "document_span": [
+        88374,
+        88581
+      ],
+      "sha256": "60fce9a7eefff86410d78fae373e75052e0da444aab4f75c4cb95445964dba8d",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-023",
+      "edit": "01-attention",
+      "document_span": [
+        88583,
+        88754
+      ],
+      "sha256": "a0b6741fb1cc6d4b443a80ce38e5a192242bef206f4493dc60ad505ba0ea30ae",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-024",
+      "edit": "01-attention",
+      "document_span": [
+        88756,
+        88773
+      ],
+      "sha256": "7e3c809bd27f432c9c398bc8f988a5f7b97bb1a465297d2f1bdd21f88be0415e",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-025",
+      "edit": "01-attention",
+      "document_span": [
+        88775,
+        88989
+      ],
+      "sha256": "97d358abd6720f7264409515be96e9b3ef8d5fb89994c445b9ea881e95521088",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-QKV-RUNTIME",
+          "source_span": [
+            427,
+            458
+          ],
+          "paragraph_span": [
+            17,
+            48
+          ],
+          "text": "一类是基于逻辑因果性和先后构造顺序才能完成，另一类是可并行运行"
+        },
+        {
+          "ref": "AUTHOR-QKV-RUNTIME",
+          "source_span": [
+            619,
+            691
+          ],
+          "paragraph_span": [
+            69,
+            141
+          ],
+          "text": "建造当中，每个阶段中很多任务又是可以并行进行的。商业运行也是如此，产品必须先设计才能制造，先生产才能使用，但是具体的制造和使用却是可以并行进行的"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-026",
+      "edit": "01-attention",
+      "document_span": [
+        88991,
+        89154
+      ],
+      "sha256": "594fdbb347aa647671efb116c64622904369225afa001b22bd0164fedcf8ddfa",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-027",
+      "edit": "01-attention",
+      "document_span": [
+        89156,
+        89342
+      ],
+      "sha256": "bf134d25e35efbc244aeea708ab272633f12801b054bedd6859204a14d27473e",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-028",
+      "edit": "01-attention",
+      "document_span": [
+        89344,
+        89552
+      ],
+      "sha256": "1d119c2d2e2dd70e02326b6699c3c56a8eeff10f15cd5b4bcacf8c371009d6ca",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-029",
+      "edit": "01-attention",
+      "document_span": [
+        89554,
+        89706
+      ],
+      "sha256": "6a9a3b4ac52b7c860aad62c2f799131cc3529c98cf4d9174eb19f74a12eaf691",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-030",
+      "edit": "01-attention",
+      "document_span": [
+        89708,
+        89727
+      ],
+      "sha256": "926404542d3ea5d061ddc12aedb5740f0210c236a3c8e8104e176c64989c0700",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-031",
+      "edit": "01-attention",
+      "document_span": [
+        89729,
+        89882
+      ],
+      "sha256": "cc57e9c3c7855e88ad8f9eaf30ac349e71496cf44b2854965473e1d57770c85b",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-032",
+      "edit": "01-attention",
+      "document_span": [
+        89884,
+        89997
+      ],
+      "sha256": "af59567c18604cce939c55eeb957d83939d749343556a5c98f31e900ad212cde",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-033",
+      "edit": "01-attention",
+      "document_span": [
+        89999,
+        90117
+      ],
+      "sha256": "f2f32c7eb7c62d856540c3bc7058c40160ddf2e0ccfbbc556721d285d2009cef",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-034",
+      "edit": "01-attention",
+      "document_span": [
+        90119,
+        90247
+      ],
+      "sha256": "67ef4e0f75e200f042363d6df08f77d130fcdbe9995531b1b7f5a54b2386c886",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-035",
+      "edit": "01-attention",
+      "document_span": [
+        90249,
+        90264
+      ],
+      "sha256": "456183e156ac33a5debcc8e099a58a9cd334b8a964da54702b16536b6ab2aca7",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-036",
+      "edit": "01-attention",
+      "document_span": [
+        90266,
+        90380
+      ],
+      "sha256": "62a2ca7c52fa9352a3459794145ccf0efa4ab568b187b700e4c085fe06690a72",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-037",
+      "edit": "01-attention",
+      "document_span": [
+        90382,
+        90547
+      ],
+      "sha256": "78c6cdf469e130a9213e1a9462676b46b0c6f0dd96d20659d0759e87e7d0acda",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-038",
+      "edit": "01-attention",
+      "document_span": [
+        90549,
+        90693
+      ],
+      "sha256": "e7c220b42c6da879a0061bc655c6a4c980d3b07479be1bbb28b6666306c98ca6",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-039",
+      "edit": "01-attention",
+      "document_span": [
+        90695,
+        90864
+      ],
+      "sha256": "c7fdf387a80827e9fe1187f711bba3bde41468b7b9bde1198905a8651b5f2e9a",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-040",
+      "edit": "01-attention",
+      "document_span": [
+        90866,
+        91036
+      ],
+      "sha256": "bae4035e0097b4ed0eb1fc49d54d8efbaa4853e8a3a32438671a5536993efeab",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-041",
+      "edit": "01-attention",
+      "document_span": [
+        91038,
+        91234
+      ],
+      "sha256": "cb45636552f8a6f0638c470241b028da7dcaaf09ce3899240a0cd30f954422e5",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-042",
+      "edit": "01-attention",
+      "document_span": [
+        91236,
+        91456
+      ],
+      "sha256": "cbbfa22f7433bd891f592b6c1f436efe1191473dd2ad0cd78eb1c214c7b8667b",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-043",
+      "edit": "01-attention",
+      "document_span": [
+        91458,
+        91672
+      ],
+      "sha256": "81bc6e66980c1f156d0824ced2135d7409ec1d0bbb015f436e383fb1321628cc",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-044",
+      "edit": "01-attention",
+      "document_span": [
+        91674,
+        91689
+      ],
+      "sha256": "0cb270af5c4c03af0728dd41dc2b9fc5cfd3682861002a28e1c131cf7a10fcb5",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-045",
+      "edit": "01-attention",
+      "document_span": [
+        91691,
+        91876
+      ],
+      "sha256": "be5d61be0d3ec588261d6df6be08625a46eb0b8171b683d0c2056336c46bb24b",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-046",
+      "edit": "01-attention",
+      "document_span": [
+        91878,
+        92081
+      ],
+      "sha256": "c87a27b0c4c5df3abacc3cd9fdc380635aabe570910eebca1df98399d1bc015d",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-047",
+      "edit": "01-attention",
+      "document_span": [
+        92083,
+        92221
+      ],
+      "sha256": "2c6f8469682324afc1b19918a710f25a34d1839a38227e88b82e731bf97bd446",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-048",
+      "edit": "01-attention",
+      "document_span": [
+        92223,
+        92444
+      ],
+      "sha256": "c07bf6761d41343174586159c2ccc9a4d1eeacc4598adda648d6b710fd0949b2",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-049",
+      "edit": "01-attention",
+      "document_span": [
+        92446,
+        92666
+      ],
+      "sha256": "7963cd41b75eb730a7fd272f7cfda4f24c98f3b132cb7e7ba5414d618d0618ca",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-050",
+      "edit": "01-attention",
+      "document_span": [
+        92668,
+        92683
+      ],
+      "sha256": "c83e9b5110dd2ddc3489925238288513d983e3112b4d4ad3489b04130c2cf4fa",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-051",
+      "edit": "01-attention",
+      "document_span": [
+        92685,
+        92831
+      ],
+      "sha256": "1ccac239e91d09f40063b67ab78743487ec308b12f11d8abed21f1cd3bccc1b9",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-052",
+      "edit": "01-attention",
+      "document_span": [
+        92833,
+        92984
+      ],
+      "sha256": "181ac0e9081dd62216d3dcd01def3a3ac3cbc1d5aa8bf5b67d5db38229a108c3",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-053",
+      "edit": "01-attention",
+      "document_span": [
+        92986,
+        93097
+      ],
+      "sha256": "3fe3b8820f7f477cead5b300f24a0c3a4c2f40745d3e6afe01626ece86f51351",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-attention-054",
+      "edit": "01-attention",
+      "document_span": [
+        93099,
+        93217
+      ],
+      "sha256": "d8c7af0c7648fccea6caa4227002bd1239a6822ea08bf03a09df571d48d4e703",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "RESPONSE-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "RESPONSE-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "RESPONSE-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "RESPONSE-EMERGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "02-watchmen-001",
+      "edit": "02-watchmen",
+      "document_span": [
+        120843,
+        120865
+      ],
+      "sha256": "d447e3536ba6140b876c9960cfae85f0db933c531cfc56631c74b89cec331718",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "02-watchmen-002",
+      "edit": "02-watchmen",
+      "document_span": [
+        120867,
+        121224
+      ],
+      "sha256": "cbd4540f9ed841a89c4391d67ba7e1df429b8b779ebcb21aa23a198c9a646871",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-INTEGRATION-AND-SPEECH",
+          "source_span": [
+            601,
+            638
+          ],
+          "paragraph_span": [
+            0,
+            37
+          ],
+          "text": "在经典科幻作品《守望者》（Watchmen）中，为了把美国与苏联从濒临爆发"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "02-watchmen-003",
+      "edit": "02-watchmen",
+      "document_span": [
+        121226,
+        121386
+      ],
+      "sha256": "822dc3bd71b8c1021a70d82aa18621af450b6589e024be8368a1dfa95e5d9d65",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "02-watchmen-004",
+      "edit": "02-watchmen",
+      "document_span": [
+        121388,
+        121476
+      ],
+      "sha256": "53e41bc43e1d4c456d9165889a17a6c0aabc0af15639b8d91b4ba82c4968bc81",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-INTEGRATION-AND-SPEECH",
+          "source_span": [
+            797,
+            885
+          ],
+          "paragraph_span": [
+            0,
+            88
+          ],
+          "text": "在我看来，采用这种方式，显然不是最聪明的上策，也不应该是最聪明的人应该采用的手段。因为人类社会进化的轨迹，并不是预先铺设好的轨道，只有碾死一个人，还是碾死一群人的两条轨道选择。"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "02-watchmen-005",
+      "edit": "02-watchmen",
+      "document_span": [
+        121478,
+        121613
+      ],
+      "sha256": "1685006f9884808ad3bcfb6b25fc9274d06fc008c028924c4ad8c9f5eb2c0f5b",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "02-watchmen-006",
+      "edit": "02-watchmen",
+      "document_span": [
+        121615,
+        121884
+      ],
+      "sha256": "5b39c41c437537bb81edbc00b8bb9a7df6a3934c3d84dbc88c1793bf4ab39fc7",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "02-watchmen-007",
+      "edit": "02-watchmen",
+      "document_span": [
+        121886,
+        122048
+      ],
+      "sha256": "84a52b4859e7e33ed63ae2a14f13e60f668abf75056fe7cd1d3f0a2e2c1b64f2",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "02-watchmen-008",
+      "edit": "02-watchmen",
+      "document_span": [
+        122050,
+        122203
+      ],
+      "sha256": "ad18ca8c4c24c18a011a69358c16f87fdec66626f2d7b6b8a86b8883ee1607b1",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "02-watchmen-009",
+      "edit": "02-watchmen",
+      "document_span": [
+        122205,
+        122341
+      ],
+      "sha256": "151ae49663d2ac82a5e05a343d038f240ad5115e38d8575ab62048036a272057",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "02-watchmen-010",
+      "edit": "02-watchmen",
+      "document_span": [
+        122343,
+        122507
+      ],
+      "sha256": "33e627e759ad0f68eb76e29600e57b5b892193f1679fc51fbf86b3a81b9fb1e1",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "02-watchmen-011",
+      "edit": "02-watchmen",
+      "document_span": [
+        122509,
+        122677
+      ],
+      "sha256": "ab80051c3a8578e0b73eb62e2e97c2001919314877d95cfc947325f83bbdd4eb",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-singularities-001",
+      "edit": "03-singularities",
+      "document_span": [
+        123693,
+        123714
+      ],
+      "sha256": "cdb1ee65c6addd80c1955dfc4ab27288a8ef1b0a98b153de9b777f24be9f9f47",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-singularities-002",
+      "edit": "03-singularities",
+      "document_span": [
+        123716,
+        123840
+      ],
+      "sha256": "3ce3de6d2405468894cb816775e0bf4fa66ee933279ec2ca4c8771ddbfc41c46",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-singularities-003",
+      "edit": "03-singularities",
+      "document_span": [
+        123842,
+        124201
+      ],
+      "sha256": "8101b912463874c06e29df917030211a284d4122f7fe711ec4a02c6adb7c6cf5",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-singularities-004",
+      "edit": "03-singularities",
+      "document_span": [
+        124203,
+        124606
+      ],
+      "sha256": "94dc6af795c234f30a197ff42fc88fbf788ea5a7af6bb31078e03174769e7895",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-singularities-005",
+      "edit": "03-singularities",
+      "document_span": [
+        124608,
+        124730
+      ],
+      "sha256": "df1731e80911e79eca47aa1b8985dd9b6c9e2c015562d978f9de117b2c8c2efb",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-singularities-006",
+      "edit": "03-singularities",
+      "document_span": [
+        124732,
+        124898
+      ],
+      "sha256": "3214efb55233869de1608a945b8fa6166ddcf8890cf9a74057ad460527bba05a",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-singularities-007",
+      "edit": "03-singularities",
+      "document_span": [
+        124900,
+        125033
+      ],
+      "sha256": "78dc7aa9d9a8a697aa9715fa24ee0644373c3b027d28b481889c2763efccbd01",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-singularities-008",
+      "edit": "03-singularities",
+      "document_span": [
+        125035,
+        125184
+      ],
+      "sha256": "9fd0b4588b3d5a9e816db42a54dd1bc0652ae4375e43abb812e476747326c5e2",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-singularities-009",
+      "edit": "03-singularities",
+      "document_span": [
+        125186,
+        125324
+      ],
+      "sha256": "f215f70c8d46d24131359fae87f4fe0a0bbbaef134085d036fb7aab29a6a3861",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-singularities-010",
+      "edit": "03-singularities",
+      "document_span": [
+        125326,
+        125476
+      ],
+      "sha256": "1ef7665c3de556258e429debf5a8fa0b681cc38f41441f95506f4d0955e8f258",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-singularities-011",
+      "edit": "03-singularities",
+      "document_span": [
+        125478,
+        125574
+      ],
+      "sha256": "d7880396f15804a1fe56e0f822649703e50f2009e26532204f054801a6e59854",
+      "source_refs": [
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "04-participation-001",
+      "edit": "04-participation",
+      "document_span": [
+        126457,
+        126477
+      ],
+      "sha256": "f3f0994bda7805f66afe886edd57f4a42dd91e7668e0ca239c8dcfe12e608f37",
+      "source_refs": [
+        "AUTHOR-PARTICIPATION",
+        "RESPONSE-PARTICIPATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "04-participation-002",
+      "edit": "04-participation",
+      "document_span": [
+        126479,
+        126681
+      ],
+      "sha256": "df3f6b3a0f977856601ec0ee97b3a77bff5d1d88ff573c91b193005eafa82899",
+      "source_refs": [
+        "AUTHOR-PARTICIPATION",
+        "RESPONSE-PARTICIPATION"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-PARTICIPATION",
+          "source_span": [
+            29,
+            72
+          ],
+          "paragraph_span": [
+            29,
+            72
+          ],
+          "text": "重要的不是具体哪个数学模型，重要的是经过我们反复迭代研究实验构造出来的那个新体制算法，"
+        },
+        {
+          "ref": "AUTHOR-PARTICIPATION",
+          "source_span": [
+            80,
+            130
+          ],
+          "paragraph_span": [
+            95,
+            145
+          ],
+          "text": "模型一样，公式中这些变量的计算，都需要获得足够充足和准确的系统中对象的数据，才能够完成算法的计算。这"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "04-participation-003",
+      "edit": "04-participation",
+      "document_span": [
+        126683,
+        126826
+      ],
+      "sha256": "688d98a6a09f6fe9a4ea5834a916418887be0247dd7641d79f4e013ba014eb0f",
+      "source_refs": [
+        "AUTHOR-PARTICIPATION",
+        "RESPONSE-PARTICIPATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "04-participation-004",
+      "edit": "04-participation",
+      "document_span": [
+        126828,
+        126975
+      ],
+      "sha256": "06509ac6fee7a25b150ec8dd72e24fdf315f7a9cb9cb13f2d86a2f403aa74cbd",
+      "source_refs": [
+        "AUTHOR-PARTICIPATION",
+        "RESPONSE-PARTICIPATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "04-participation-005",
+      "edit": "04-participation",
+      "document_span": [
+        126977,
+        127128
+      ],
+      "sha256": "b8f7531f262ead42badc3d421e251a42adbcb60220af9320f981b3d1ec2eb0f8",
+      "source_refs": [
+        "AUTHOR-PARTICIPATION",
+        "RESPONSE-PARTICIPATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "04-participation-006",
+      "edit": "04-participation",
+      "document_span": [
+        127130,
+        127260
+      ],
+      "sha256": "75757aa57d80ee99da1103e698ed95655513352591114d6c67c636a9765ffa31",
+      "source_refs": [
+        "AUTHOR-PARTICIPATION",
+        "RESPONSE-PARTICIPATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "04-participation-007",
+      "edit": "04-participation",
+      "document_span": [
+        127262,
+        127376
+      ],
+      "sha256": "245413adb3703838d83127ce06e0748781c561fcadab0f49a9a21c4d98263898",
+      "source_refs": [
+        "AUTHOR-PARTICIPATION",
+        "RESPONSE-PARTICIPATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "04-participation-008",
+      "edit": "04-participation",
+      "document_span": [
+        127378,
+        127496
+      ],
+      "sha256": "9e3b3ce61bf033334d69f8f245850ff1928a6a2c661b6ad82a6ba4d133ad4baf",
+      "source_refs": [
+        "AUTHOR-PARTICIPATION",
+        "RESPONSE-PARTICIPATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "05-reflection-001",
+      "edit": "05-reflection",
+      "document_span": [
+        181633,
+        181656
+      ],
+      "sha256": "7ceeeb95d22bcf53f862ea4cb3a9d8a13d343c593fb61a438375cb24245f836c",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "AUTHOR-PARTICIPATION",
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "05-reflection-002",
+      "edit": "05-reflection",
+      "document_span": [
+        181658,
+        181820
+      ],
+      "sha256": "142a14c6c92c7285e7d462e07cc275cc3c6225ebc24462bc1b0721b433cca99f",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "AUTHOR-PARTICIPATION",
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "05-reflection-003",
+      "edit": "05-reflection",
+      "document_span": [
+        181822,
+        181955
+      ],
+      "sha256": "669b18d98ecd9f57f0284afb51c71b2c2b16069107ec80bcf0166e6e8b9a8dee",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "AUTHOR-PARTICIPATION",
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "05-reflection-004",
+      "edit": "05-reflection",
+      "document_span": [
+        181957,
+        182299
+      ],
+      "sha256": "1e3174230bb3e3f00cea5a6dd7318a0edfa06e6d6010def111f0971e7f82a7e3",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "AUTHOR-PARTICIPATION",
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "05-reflection-005",
+      "edit": "05-reflection",
+      "document_span": [
+        182301,
+        182439
+      ],
+      "sha256": "105e28f16a25bcd05885e0144ba4ab8735ab2513333f603ad49fdbd24c8b1bca",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "AUTHOR-PARTICIPATION",
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "05-reflection-006",
+      "edit": "05-reflection",
+      "document_span": [
+        182441,
+        182596
+      ],
+      "sha256": "36bbe2b01d9762734ec4d5285981a08bf8a53037855dfd5bcaf9c9dfe86a70e1",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "AUTHOR-PARTICIPATION",
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "05-reflection-007",
+      "edit": "05-reflection",
+      "document_span": [
+        182598,
+        182753
+      ],
+      "sha256": "a4dbbd6401b4b00ef6f238fe6b88d8a28e84b07353d80a5ad8f20448e7871468",
+      "source_refs": [
+        "AUTHOR-ATTENTION",
+        "AUTHOR-QKV-RUNTIME",
+        "AUTHOR-GAME-MODEL",
+        "AUTHOR-EMERGENCE",
+        "AUTHOR-PARTICIPATION",
+        "AUTHOR-INTEGRATION-AND-SPEECH"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    }
+  ]
+}

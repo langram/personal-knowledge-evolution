@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "edition": "14-civilization-attention",
+  "reversible_edits": 12,
+  "native_source_roundtrips": 12,
+  "exact_author_spans_verified": 11,
+  "chapters": 32,
+  "headings": 223,
+  "citation_occurrences": 88,
+  "new_external_sources": 19,
+  "unchanged_chapter_pairs": 28,
+  "chinese_sha256": "f1721b9fb718426d0224dec3f9e5bb240b94e1e437910e754593cf2a03cbe9d5",
+  "english_sha256": "3677144c133772ba9b0ab2a536438eda9ed83997d505a9ff8970d0c5c6f21ff8",
+  "boundary": "Checks prove provenance and structural/replay properties; semantic review is editorial, not a mathematical equivalence proof or author approval."
+}

@@ -103,5 +103,28 @@
       }
     },
     "landing_page": "book/readme.md"
+  },
+  {
+    "edition": "14-civilization-attention",
+    "title": "文明注意力、动态博弈与制度自我进化",
+    "file": "archive/dossiers/2026-11-01-civilization-attention/01-new-principles.zh.md",
+    "sha256": "f1721b9fb718426d0224dec3f9e5bb240b94e1e437910e754593cf2a03cbe9d5",
+    "cjk_characters": 155771,
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "translations": {
+      "en": {
+        "file": "archive/dossiers/2026-11-01-civilization-attention/02-new-principles.en.md",
+        "sha256": "3677144c133772ba9b0ab2a536438eda9ed83997d505a9ff8970d0c5c6f21ff8",
+        "whitespace_words": 66947,
+        "derived_from_sha256": "f1721b9fb718426d0224dec3f9e5bb240b94e1e437910e754593cf2a03cbe9d5",
+        "method": "idiomatic adaptation; unchanged chapters inherited from edition 13"
+      }
+    },
+    "landing_page": "book/readme.md",
+    "previous_edition": "13-book-bilingual",
+    "revision_manifest": "archive/dossiers/2026-11-01-civilization-attention/revision-manifest.json"
   }
 ]

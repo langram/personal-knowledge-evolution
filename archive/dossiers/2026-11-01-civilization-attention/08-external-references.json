@@ -1,0 +1,116 @@
+[
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9142748/",
+    "title": "Competitive brain activity in visual attention",
+    "type": "research review",
+    "scope": "Visual selection and competition; does not establish a literal QKV implementation in brains."
+  },
+  {
+    "url": "https://arxiv.org/html/1706.03762v7",
+    "title": "Attention Is All You Need",
+    "type": "research",
+    "scope": "QKV, attention and parallelization; social functions and authority boundaries are this book's design proposals."
+  },
+  {
+    "url": "https://arxiv.org/abs/2006.10637",
+    "title": "Temporal Graph Networks for Deep Learning on Dynamic Graphs",
+    "type": "research",
+    "scope": "Event-based changing graph representations, not a complete model of civilization."
+  },
+  {
+    "url": "https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf",
+    "title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
+    "type": "research",
+    "scope": "Multiple centers and scales of governance, not proof of the proposed attention architecture."
+  },
+  {
+    "url": "https://www.mit.edu/~6.7980/nfgs_nash.html",
+    "title": "Normal-form games and Nash equilibrium",
+    "type": "university teaching",
+    "scope": "Definition and examples of equilibrium; no implication of fairness or universal learning convergence."
+  },
+  {
+    "url": "https://timroughgarden.org/f13/l/l2.pdf",
+    "title": "Mechanism Design Basics",
+    "type": "university teaching",
+    "scope": "Incentives and truthful reporting under specified mechanisms; not a general society-wide guarantee."
+  },
+  {
+    "url": "https://www.cs.cornell.edu/~eva/algorithmic-game-theory.pdf",
+    "title": "Algorithmic Game Theory",
+    "type": "research textbook",
+    "scope": "Cooperative games and cost sharing; contribution scores still require a defensible characteristic function and counterfactual assumptions."
+  },
+  {
+    "url": "https://www.ma.huji.ac.il/hart/papers/adapt.pdf",
+    "title": "A Simple Adaptive Procedure Leading to Correlated Equilibrium",
+    "type": "research",
+    "scope": "Regret matching and empirical correlated equilibrium in fixed finite games; no convergence claim for an open-ended civilization."
+  },
+  {
+    "url": "https://mlanthology.org/icml/1994/littman1994icml-markov/",
+    "title": "Markov Games as a Framework for Multi-Agent Reinforcement Learning",
+    "type": "research",
+    "scope": "Markov-game framework; this paper's demonstrated algorithm emphasizes two-player zero-sum games. General formulations are discussed in the accompanying stochastic-games teaching source."
+  },
+  {
+    "url": "https://www.mit.edu/~6.7980/stochastic_games.html",
+    "title": "Stochastic games",
+    "type": "university teaching",
+    "scope": "States, histories and strategies; state sufficiency remains a modeling assumption."
+  },
+  {
+    "url": "https://arxiv.org/abs/1909.07528",
+    "title": "Emergent Tool Use From Multi-Agent Autocurricula",
+    "type": "research",
+    "scope": "Emergent tool-use behavior within an engineered environment; not proof that arbitrary future invention can be predicted."
+  },
+  {
+    "url": "https://proceedings.mlr.press/v119/wang20l.html",
+    "title": "Enhanced POET",
+    "type": "research",
+    "scope": "Coevolution of challenges and agents in bounded representations; no unlimited open-endedness guarantee."
+  },
+  {
+    "url": "https://www.dc.com/blog/2019/10/27/after-watchmen-its-summer-and-were-running-out-of-ice",
+    "title": "After Watchmen: It's Summer and We're Running Out of Ice",
+    "type": "publisher commentary",
+    "scope": "Original comic's fabricated alien squid attack; publisher search extract inspected, direct page access returned 403."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Watchmen_%282009_film%29",
+    "title": "Watchmen (2009 film), plot and adaptation",
+    "type": "secondary film reference",
+    "scope": "Film frames Doctor Manhattan; plot checked, with no use as evidence about actual states or necessary outcomes."
+  },
+  {
+    "url": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+    "title": "AlphaEvolve research account, 14 May 2025",
+    "type": "research-team account",
+    "scope": "Verified program search used in algorithms and computing/AI infrastructure; no demonstrated unrestricted recursive general intelligence or singularity date."
+  },
+  {
+    "url": "https://sakana.ai/dgm/",
+    "title": "Darwin Gödel Machine research account, 30 May 2025",
+    "type": "research-team account",
+    "scope": "Agent code self-modification with evaluation in programming tasks; limited benchmarks and evaluation integrity remain relevant."
+  },
+  {
+    "url": "https://www.whitehouse.gov/releases/2025/07/white-house-unveils-americas-ai-action-plan/",
+    "title": "US AI Action Plan announcement, 23 July 2025",
+    "type": "official policy statement",
+    "scope": "Published competition-oriented policy goals; not evidence of all motivations or an irreversible race."
+  },
+  {
+    "url": "https://www.fmprc.gov.cn/eng/xw/zyxw/202507/t20250729_11679232.html",
+    "title": "Global AI Governance Action Plan, 26 July 2025",
+    "type": "official policy statement",
+    "scope": "Published cooperation/governance proposals; publication does not establish their implementation or effectiveness."
+  },
+  {
+    "url": "https://www.kellogg.northwestern.edu/academics-research/research/detail/1975/strategy-proofness-and-arrows-conditions-existence-and-correspondence-theorems/",
+    "title": "Strategy-proofness and Arrow's conditions, Satterthwaite (1975)",
+    "type": "research",
+    "scope": "Conditional social-choice impossibility result, not an unconditional claim that all democratic mechanisms are impossible."
+  }
+]
