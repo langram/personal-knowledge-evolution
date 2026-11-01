@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "command": "python -X utf8 -m unittest discover -s tests -v",
+  "tests": 4,
+  "checks": [
+    "author source and provenance roundtrip",
+    "read-only HTTP endpoints and errors",
+    "exclusion of internal envelopes",
+    "parameter boundaries"
+  ],
+  "evidence": "Observed exit code 0 from the test run after this edition was prepared",
+  "scope": "Existing public API tests; new event and translation links also verified by release-verification.json"
+}

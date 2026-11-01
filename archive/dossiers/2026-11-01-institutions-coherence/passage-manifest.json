@@ -1,0 +1,710 @@
+{
+  "schema": "ic/passage-manifest@1",
+  "coordinate": "unicode-scalar-half-open",
+  "minimum_exact_span_characters": 24,
+  "passages": [
+    {
+      "id": "01-chess-boundary-001",
+      "edit": "01-chess-boundary",
+      "document_span": [
+        3538,
+        3630
+      ],
+      "sha256": "fc77c87290c1a9146b2b426f3344dc2d8362c9d3cc4064921460d3058d7fe158",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "01-chess-boundary-002",
+      "edit": "01-chess-boundary",
+      "document_span": [
+        3632,
+        3757
+      ],
+      "sha256": "205e92fe5a0e9cc471140b2d6bb8e6171923952351f600ec630f305201fcbdf8",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "02-preface-duplication-001",
+      "edit": "02-preface-duplication",
+      "document_span": [
+        4551,
+        4710
+      ],
+      "sha256": "a6af33849a88e5004e6b0cd36cc19ae156ad17f506d5228f20dcb571ce9f1a84",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-personal-memory-scope-001",
+      "edit": "03-personal-memory-scope",
+      "document_span": [
+        25076,
+        25171
+      ],
+      "sha256": "97ba4cf86a4f8041b87d0e2e7728416b4e85b9ef3c68c25ce198c9d1049290d1",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "03-personal-memory-scope-002",
+      "edit": "03-personal-memory-scope",
+      "document_span": [
+        25173,
+        25302
+      ],
+      "sha256": "9ce8d40134ad2ea5dbccc73df0c512deff3a9e26ba92ef67485c28f7d2d10089",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "04-dispositions-and-institutions-001",
+      "edit": "04-dispositions-and-institutions",
+      "document_span": [
+        29471,
+        29654
+      ],
+      "sha256": "75a1e48798b5fe17e710fb2d96c6274520e186363d09b2b037594f0eac8fb1fa",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "05-feedback-not-convergence-theorem-001",
+      "edit": "05-feedback-not-convergence-theorem",
+      "document_span": [
+        30238,
+        30517
+      ],
+      "sha256": "25962ee2284ee4efc8628862c529ac948abc7a3d2d0b1d25998db47d984ccb8f",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "06-vm-to-ecosystem-001",
+      "edit": "06-vm-to-ecosystem",
+      "document_span": [
+        55274,
+        55412
+      ],
+      "sha256": "0a1426cd50d282bd7dc4f0b150bb916fad752bfc1f7f30ce7db4492da109e069",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "07-credit-cross-reference-001",
+      "edit": "07-credit-cross-reference",
+      "document_span": [
+        67789,
+        67820
+      ],
+      "sha256": "f9f2eaa13e985a5b70bb15052e77e9fa1b5e88eba8287f8b8ae4981a2123682b",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "08-coordination-scope-001",
+      "edit": "08-coordination-scope",
+      "document_span": [
+        73908,
+        74034
+      ],
+      "sha256": "4c5057e6302a338f8d4550cae15bf238e62762af2a948b367ed11a092f1fc845",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "08-coordination-scope-002",
+      "edit": "08-coordination-scope",
+      "document_span": [
+        74036,
+        74176
+      ],
+      "sha256": "4529c23549ba93d400550240d8ed29bafac870af49bed0eef59c8f3513fcfe7c",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "09-capability-does-not-select-goals-001",
+      "edit": "09-capability-does-not-select-goals",
+      "document_span": [
+        75127,
+        75215
+      ],
+      "sha256": "670894e94c4e47f539c5b1df4b879419d1e53cdafd0b821b97c8e54180c0978d",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "09-capability-does-not-select-goals-002",
+      "edit": "09-capability-does-not-select-goals",
+      "document_span": [
+        75217,
+        75337
+      ],
+      "sha256": "2ddf453e095d10411bd17d16ccd006930b518ed07b282cbcb18cb415d71572f0",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "10-equal-start-and-evidence-001",
+      "edit": "10-equal-start-and-evidence",
+      "document_span": [
+        77409,
+        77562
+      ],
+      "sha256": "4ff56409e04318ec5661a40c00e0787922ff3fd3ff8129b017bd3420718977ba",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "10-equal-start-and-evidence-002",
+      "edit": "10-equal-start-and-evidence",
+      "document_span": [
+        77564,
+        77728
+      ],
+      "sha256": "dd5e4b131bff91bf0b141f6fb9504dea1b7c8d16f546f03980369fe4b7ff0bc7",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "11-sharing-scope-001",
+      "edit": "11-sharing-scope",
+      "document_span": [
+        77926,
+        78154
+      ],
+      "sha256": "013902af9e256f4766c6e033e20936b1ec84caccf81eceb8b0b25f4c6ba42cc7",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "11-sharing-scope-002",
+      "edit": "11-sharing-scope",
+      "document_span": [
+        78156,
+        78258
+      ],
+      "sha256": "e59ccd9f0bc9c18e4c528b03d58f5c221a7664520bbe3451ac1230f3c1cdcb16",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "12-attention-existing-layers-001",
+      "edit": "12-attention-existing-layers",
+      "document_span": [
+        86676,
+        86779
+      ],
+      "sha256": "9b0bd25aff8b6c47edad7e789b8a773a1fbd74eeba123053750354e68e1ed2e6",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "12-attention-existing-layers-002",
+      "edit": "12-attention-existing-layers",
+      "document_span": [
+        86781,
+        86932
+      ],
+      "sha256": "7819820ca7f46152b52a4918e2b4dfb56a22fa10ab97034f1a91072cd3b038f9",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "13-personal-space-continuity-001",
+      "edit": "13-personal-space-continuity",
+      "document_span": [
+        87761,
+        87931
+      ],
+      "sha256": "8c68df09e19b447eb9377e0032fa32634e9a844fe808c7542fb116656bb34e54",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "13-personal-space-continuity-002",
+      "edit": "13-personal-space-continuity",
+      "document_span": [
+        87933,
+        88035
+      ],
+      "sha256": "913cbd612055d2eb62e9b7c8113c354c5c662b44a61ef63ebe153295ba88d8a1",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "14-runtime-continuity-001",
+      "edit": "14-runtime-continuity",
+      "document_span": [
+        89571,
+        89742
+      ],
+      "sha256": "a0b6741fb1cc6d4b443a80ce38e5a192242bef206f4493dc60ad505ba0ea30ae",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "14-runtime-continuity-002",
+      "edit": "14-runtime-continuity",
+      "document_span": [
+        89744,
+        89865
+      ],
+      "sha256": "142130fd0f3251443874778b445997f612c7b1328c607660a0faa6b96a2f02f7",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "15-bounded-experiment-bridge-001",
+      "edit": "15-bounded-experiment-bridge",
+      "document_span": [
+        93944,
+        94095
+      ],
+      "sha256": "181ac0e9081dd62216d3dcd01def3a3ac3cbc1d5aa8bf5b67d5db38229a108c3",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "15-bounded-experiment-bridge-002",
+      "edit": "15-bounded-experiment-bridge",
+      "document_span": [
+        94097,
+        94201
+      ],
+      "sha256": "c279acdb26cb92137975f301bdc20c4a369a50d065154fcb7473e53cbd3d2ce9",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "16-needs-personal-choice-001",
+      "edit": "16-needs-personal-choice",
+      "document_span": [
+        95546,
+        95875
+      ],
+      "sha256": "84d2617bc4ccf8afa9771f43ef86aa0b02c87932af91c99af6386df48118b1c3",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "16-needs-personal-choice-002",
+      "edit": "16-needs-personal-choice",
+      "document_span": [
+        95877,
+        96000
+      ],
+      "sha256": "ca493a557950e6a28c3aa4f4c90e86bc6ceb2d3a13a4690b29a0f9609ec9679d",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "17-institutional-gap-001",
+      "edit": "17-institutional-gap",
+      "document_span": [
+        125035,
+        125056
+      ],
+      "sha256": "b6fe2d58ae22e2217d479f95714b9260155a51693a84096539b6c15212e59cfc",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "17-institutional-gap-002",
+      "edit": "17-institutional-gap",
+      "document_span": [
+        125058,
+        125189
+      ],
+      "sha256": "3eb8ce959caa3e6c45a1e9dd36631f6af28689ae409eb8ae48153768d1267e02",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "17-institutional-gap-003",
+      "edit": "17-institutional-gap",
+      "document_span": [
+        125191,
+        125459
+      ],
+      "sha256": "f8c68275ce41827268f917be069f09798f161c7667acac346955292c18c6efd1",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "17-institutional-gap-004",
+      "edit": "17-institutional-gap",
+      "document_span": [
+        125461,
+        125706
+      ],
+      "sha256": "8ae15fa2a5b34dd7813c783812ec4b1710a371a50e5789af0e3f6e831b9657e7",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "17-institutional-gap-005",
+      "edit": "17-institutional-gap",
+      "document_span": [
+        125708,
+        126089
+      ],
+      "sha256": "ccbf5738c2fa28f1bac61c97ecf46ccc65ab4238acf3f27154f440e954a71365",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "17-institutional-gap-006",
+      "edit": "17-institutional-gap",
+      "document_span": [
+        126091,
+        126478
+      ],
+      "sha256": "144514baef9ac012bb8c1c70b47b94bdca21c741ac629fd74f14b8ac3d4bdeb5",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "17-institutional-gap-007",
+      "edit": "17-institutional-gap",
+      "document_span": [
+        126480,
+        126688
+      ],
+      "sha256": "213cc35bdd8287274e5c1007359bfd0aed6c4efadf56f0ffde8e75efeaea0a12",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "17-institutional-gap-008",
+      "edit": "17-institutional-gap",
+      "document_span": [
+        126690,
+        126991
+      ],
+      "sha256": "a60b35e5b7fa6007b6b9adfd6d4a868f7f2cd1b22f63fee8bb75f60bc4e25f12",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "17-institutional-gap-009",
+      "edit": "17-institutional-gap",
+      "document_span": [
+        126993,
+        127211
+      ],
+      "sha256": "724c9fecb331e560de84b563f04eb1211fda45555926e9dd67dc1eaefcb17cc0",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "17-institutional-gap-010",
+      "edit": "17-institutional-gap",
+      "document_span": [
+        127213,
+        127436
+      ],
+      "sha256": "5008bdcea123f4ef2443ca83af203955d29eb195e68b431eefd348adbf968d95",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "17-institutional-gap-011",
+      "edit": "17-institutional-gap",
+      "document_span": [
+        127438,
+        127668
+      ],
+      "sha256": "2ae11e80199cc07eb561cb75bf12bb24e64f9ed6fb4541dbd70b375de91e9093",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW",
+          "source_span": [
+            364,
+            401
+          ],
+          "paragraph_span": [
+            84,
+            121
+          ],
+          "text": "。如果任由技术发展和制度变革之间的巨大速度落差再继续扩大下去，不稳定因素就"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "18-participation-transition-001",
+      "edit": "18-participation-transition",
+      "document_span": [
+        130456,
+        130634
+      ],
+      "sha256": "3b5a251c19bdd1ca6505500c49077f6481b85052df91b77fea7c52e4936ad01f",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "19-seed-entry-deduplication-001",
+      "edit": "19-seed-entry-deduplication",
+      "document_span": [
+        141307,
+        141438
+      ],
+      "sha256": "533d7839fb383fa8a0b7cb5b645dffe66a149f910064cf142cc151231cdb5772",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "20-mathematics-attention-connection-001",
+      "edit": "20-mathematics-attention-connection",
+      "document_span": [
+        163614,
+        163724
+      ],
+      "sha256": "90efbbe3a8038f6a958718ccabb27dc0461a8a35a2e974982c836f62c489c1d9",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "20-mathematics-attention-connection-002",
+      "edit": "20-mathematics-attention-connection",
+      "document_span": [
+        163726,
+        163851
+      ],
+      "sha256": "65e18966d5ffaa757c0c2bc3cbaf590b18d22becacb34c4a774704b2b93305a0",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "21-empirical-reflection-001",
+      "edit": "21-empirical-reflection",
+      "document_span": [
+        186761,
+        186781
+      ],
+      "sha256": "2a0103bc982d48bcb7a06b209173cd26b378df2213b53fbd5f56e22ead869581",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "21-empirical-reflection-002",
+      "edit": "21-empirical-reflection",
+      "document_span": [
+        186783,
+        186982
+      ],
+      "sha256": "346822ec316a565d3f8bf1c38ee78ada55776d3d5b1dad0732d83aa2db35415c",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "21-empirical-reflection-003",
+      "edit": "21-empirical-reflection",
+      "document_span": [
+        186984,
+        187157
+      ],
+      "sha256": "13a5b1a0b955871f841814fb77f12162c176e35f725eb887ee7eb525c4f3593b",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "21-empirical-reflection-004",
+      "edit": "21-empirical-reflection",
+      "document_span": [
+        187159,
+        187393
+      ],
+      "sha256": "44ecf575d47b45d116efefbe4ff412abec015b2f7e1e901162178f87e45cbc56",
+      "source_refs": [
+        "AUTHOR-INSTITUTIONAL-GAP-AND-REVIEW"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    }
+  ]
+}

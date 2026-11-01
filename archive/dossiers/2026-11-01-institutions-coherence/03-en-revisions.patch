@@ -1,0 +1,214 @@
+--- edition-14/02-new-principles.en.md
++++ 15-institutions-coherence/02-new-principles.en.md
+@@ -44,6 +44,8 @@
+ 
+ A sacrifice, of course, is not intelligent merely because it is a sacrifice. Defying common sense does not automatically produce knowledge. The real question is whether relinquishing an assumption allows us to explain something previously unexplained, construct something previously unattainable, or achieve better results in practice.
+ 
++There is also a fundamental difference between pieces and people. A player may move their pieces under the rules of chess; this does not entitle a few decision-makers to sacrifice other people's lives or basic rights for a supposedly better future. Applied to institutions, the analogy invites us to reconsider assumptions, choose costs we are willing to bear ourselves, and find paths that reduce shared losses.
++
+ Nor does the possibility of a better theory erase the value of an existing one. Relativity did not make Newtonian mechanics useless; engineering still relies on it. A worthwhile new framework should explain why the older one works, where it works, and why it encounters limits elsewhere. Reconstruction should expand our capabilities by building on what we have learned.
+ 
+ Before developing a precise account, we can begin with an informed guess about the overall picture. Precision will require appropriate rules and mathematical forms. Finding those forms among the many branches of modern mathematics is no small task. My intuition points toward a field that deserves particular attention: category theory.
+@@ -58,7 +60,7 @@
+ 
+ The subjects range from category theory through computer science and AI to several actual software projects. Across them, I try to reason from first principles, taking existing arrangements apart conceptually and asking how they might be reconstructed.
+ 
+-Knowledge can be shared by many individuals, but the organizations that create and use it vary enormously. A biological brain acquires its capabilities through connections and feedback among many neurons. No single neuron holds permanent personal authority over the whole. Human organizations, by contrast, often arrange social networks into relatively fixed pyramids. Resources, power, and decision-making influence depend heavily on a person's position. An exceptional entrepreneur or political leader may lose some cognitive capacity with age, while retaining authority that does not readily pass to someone now better able to exercise it. Repeated interaction under unequal power and resource conditions can also produce waste and poor allocation.
++Knowledge can be shared by many people, yet the organizations that create and use it differ greatly. A brain develops capabilities through connections and feedback among neurons; many human organizations attach resources, authority, and influence to relatively fixed positions. How can shared knowledge and feedback actually change collective decisions, rather than leave everyone waiting for a few people in authority to change their minds? This is one of the questions the book will develop.
+ 
+ Several pieces would be needed to turn an alternative into practice. A Merkle-DAG framework could preserve the evolving “DNA” of human knowledge. AI-assisted personal tools could use a large model for unfamiliar work—the cold path—then turn useful results into reusable procedures—the hot path. Such tools could become the means by which a person and their AI, together functioning as a social neuron, receive information and act on the world. In the analogy, they serve as synapses.
+ 
+@@ -392,6 +394,8 @@
+ 
+ An AI architecture could experiment with a persistent context for reflection, selecting material from conversations and observations in light of its current questions, and initiating further inquiry. A problem encountered while reading would not disappear at the end of a chat. It could remain a thread to revisit when new evidence arrives. The system might connect the evidence, reassess a judgment, or propose an experiment capable of distinguishing alternatives. Input would then contribute to a continuing activity rather than trigger an isolated reply.
+ 
++Here, a unified context means the personal memories and tasks this agent is authorized to use. It does not mean collecting everyone's internal conversations into a central model. Personal agents can exchange permitted information for a shared task while retaining separate private spaces. Continuing personal reflection and cooperation across civilization are connected but distinct levels.
++
+ But talking to oneself is not the same as learning. A system that repeatedly feeds its own guesses back to itself may mistake repetition for evidence and become more certain of an error. Reflection must connect to observation, other perspectives, and the results of action. Initiative and feedback have to be designed together.
+ 
+ Rich connections may support new functions; sustained reflection may help a system examine its own limits and build new capabilities. A model that maintains such a context and uses tested experience in further learning might outperform some existing training arrangements. That is a question for concrete systems and comparisons.
+@@ -450,7 +454,7 @@
+ 
+ In an environment that constrains arbitrary violence and provides effective communication and appeal, force may instead be costly and peaceful negotiation more successful. Even a person with intense emotional reactions may learn to use relatively measured responses.
+ 
+-Within either setting, differences can still appear around difficult or borderline cases. Broadly conciliatory participants may divide into harder and softer positions; even an authoritarian system can contain competing hawkish and dovish approaches. These possibilities are reasons to investigate the interaction of dispositions and institutions, rather than infer an entire social order from either alone.
++People do not respond identically even within the same institutions. Physiology, experience, position, and interpretation can differ. At a difficult threshold, participants who usually favor conciliatory methods may divide into harder and softer positions; highly centralized systems can also contain hawkish and dovish approaches to a particular issue. Whether and how genetic factors contribute requires specific investigation. Neither an institutional label nor a genotype determines in advance how a person will act.
+ 
+ ### Why Does Success Change the Next Choice?
+ 
+@@ -460,7 +464,7 @@
+ 
+ Persistence therefore does not establish shared benefit. Local success can make a path increasingly familiar, until alternatives become hard to imagine. An institutional alternative must change the organization of feedback, not merely replace the occupant of a powerful position.
+ 
+-Rewards and penalties can be viewed as an evaluative mechanism; repeated reciprocal responses apply that mechanism over time. Under suitable conditions, relationships strengthen or separate in patterned ways. The intensity of responses affects convergence, resilience, and stability. Too much rigidity can trap a system in a local optimum and undermine its capacity to evolve; too little stability can prevent sustained cooperation. Designing feedback that supports both persistence and change is a central problem for civilization.
++In a simplified model, rewards and penalties can form part of an evaluation process, while repeated reciprocal responses provide feedback. Relationships may strengthen or weaken and, under suitable conditions, sustain cooperation. Misjudgment, excessive responses, or changing circumstances may instead cause oscillation, breakdown, or withdrawal. Tit for Tat is a particular strategy, not the iteration of any arbitrary evaluation function; invoking a fixed point does not prove social convergence. The strength of a response affects both stability and the room for repair. Excessive rigidity can obstruct change, while fragile relationships may fail to sustain cooperation. Designing feedback, incentives, and repair so that persistence and change support each other is therefore a central problem for civilization.
+ 
+ ### Why Preserving Differences Can Be More Powerful Than Eliminating Them
+ 
+@@ -858,7 +862,7 @@
+ 
+ Bootstrapping does not mean replacing the live system immediately after every proposed change. New methods can be tested on copies and bounded tasks before adoption. Preserving old versions, understanding why a change was made, and restoring a working state after failure are conditions for sustained growth.
+ 
+-MerkleVM is therefore both a vision of personal digital space and an entry point into a shared construction network. It begins with real devices, existing applications, and actual needs. As it connects capabilities, research and development themselves will need better forms of cooperation than one person manually carrying every discussion between systems.
++MerkleVM is therefore both a vision of personal digital space and an entry point into a shared construction network. It begins with real devices, existing applications, and actual needs. For this software seed to keep growing, we must explain how its objects, programs, and execution records can form a language and software ecosystem that different AIs and devices can understand, check, and extend together.
+ 
+ ## Merkle-DAG Languages and Software in the AI Era
+ 
+@@ -1016,7 +1020,7 @@
+ 
+ If we extend the metaphor to civilization's activities, the framework becomes something like a semantic engine for the real world: shared tools through which people can act, interact, and create. The point of the analogy is constructive capacity. Real people have purposes, dignity, and lives that cannot be reduced to one game score. A common technical foundation does not authorize a center to prescribe everyone's objective.
+ 
+-Verifiable links among knowledge, code, experiments, and their evidence could let a mathematician's idea, a user's observation, or an improved function enter wider cooperation. Others could ask what a result used, what changed, what has been checked, and what remains speculative. The earlier discussion of contribution and recognition would gain a practical technical basis.
++Verifiable links among knowledge, code, experiments, and their evidence could let a mathematician's idea, a user's observation, or an improved function enter wider cooperation. Others could ask what a result used, what changed, what has been checked, and what remains speculative. Questions of contribution, recognition, and the growth of knowledge would thereby gain a practical technical basis.
+ 
+ If personal data and capabilities no longer depend entirely on an application's private names and packaging, leaving a service, changing devices, or choosing a different AI could preserve personal continuity. That is a technical condition of data sovereignty. Community rules, resource allocations, and decision procedures could likewise have explicit versions and grounds for change.
+ 
+@@ -1118,6 +1122,8 @@
+ 
+ Such coordination can span many devices and participants. Its unity lies in connected information and compatible action, not an irreplaceable supreme individual. Other nodes should be able to identify, supplement, and replace a failing node. Maintaining someone's position must not require the whole system to preserve their error.
+ 
++What needs coordination is the interdependence and shared commitments of a particular undertaking, not every person's goals on every question. People may retain different preferences, and groups may try different approaches. Shared resources and effects on others call for constraints at the relevant scale. This is why attention within personal spaces and across civilization must operate at distinct but connected levels.
++
+ To interpret a shared coordinating capacity as a “super-boss” would simply reproduce the old organizational imagination. The real problem is how to create collective capacity while retaining local diversity and participants' equal standing.
+ 
+ ### Greater Capabilities Can Change the Conditions of Cooperation
+@@ -1132,6 +1138,8 @@
+ 
+ Greater technical capability does not automatically change interests, however. A tool may broaden access or be monopolized to extend an existing advantage. Organization and control determine much of the difference.
+ 
++Greater capability also does not choose goals for people or AI. More abundant resources expand the possibilities for cooperation but do not, by themselves, ensure that a system values human life and autonomy. Goals, permissions, constraints on action, and actual feedback still need to be designed and tested together. Technical reliability and the reliability of the civilization using the technology must both improve.
++
+ If one person owns an exceptionally productive machine and everyone else must rent it on that person's terms, its power can increase the owner's control. If its knowledge, productive capacity, and conditions of use are jointly governed by participants, the same machine may reduce the labor each needs to sustain a good life.
+ 
+ Many fears about AI taking jobs are therefore also fears about control. People may be permitted to use AI while having no effective say over the institutions that determine what it does to their lives.
+@@ -1168,10 +1176,14 @@
+ 
+ The proposed network would let human and artificial intelligences participate, create, and offer judgments in areas they choose. A common initial basis for evaluating contributions could be revised through feedback in the relevant domain, rather than inherited from rank or status.
+ 
++An equal starting position means opportunities to participate, speak, and receive a fair hearing. It does not require us to assign identical credibility to every technical judgment despite existing evidence. A newcomer needs a route to submit evidence and change the assessment; a well-tested method need not start from zero for the sake of symmetry. Agents may represent and assist people, but copying agents must not multiply a principal's basic rights or manufacture independent evidence.
++
+ This contrasts with strongly fixed arrangements. Dictatorships and oligarchies concentrate influence so heavily that recognizing and correcting errors can become extraordinarily difficult, sometimes requiring upheaval. Representative systems adjust important positions through periodic elections, but those cycles can still respond slowly to particular errors and changing circumstances.
+ 
+ Better collective decisions require better opportunities to understand situations, exchange information, and judge evidence. Recording and analyzing useful information is an evolving objective, not a claim that everything can be collected at once. Information relevant to cooperation can be shared appropriately, while details contained within components and irrelevant to outside interactions need not be exposed.
+ 
++Whether information may be shared still depends on purpose, rights, and permission. Being useful to cooperation does not automatically justify publishing the underlying personal records. A personal space may supply only an authorized result or proof. Better evidence for collective judgment and protection of private boundaries must be designed together.
++
+ Two directions support each other. Digital records make evidence available, traceable, and verifiable. AI can improve people's access to knowledge and reasoning tools. Fairness here does not require identical interests, experience, or judgment. It requires real opportunities to understand, express views, learn, and check conclusions. Some people attain extraordinary depth in a narrow field; others connect fields. Effective communication can make those abilities complementary. These conditions provide a basis for studying dynamic decision-making, whose effectiveness must still be tested in concrete tasks.
+ 
+ Defined computational problems can use deterministic programs. Modest uncertainty may be addressed through collaboration among AI agents. More complex social, political, and economic questions require combining judgments while preserving their uncertainty and differences.
+@@ -1298,6 +1310,8 @@
+ 
+ The comparison is initially a functional one. Brains, Transformers, and human societies differ in their structures, learning processes, and relationships of authority and rights. The task is to extract mechanisms we can build and test. Transplanting the vocabulary of one system into another does not complete the design.
+ 
++Earlier chapters described shared memory that preserves evidence, software that reuses tested capabilities, and domain judgments revised through feedback. The next step is to connect them in operation: which material and participants a question should reach, which work can follow an established hot path, which unfamiliar problem needs further investigation on a cold path, and when action gains permission to change the world. The attention architecture should make these capabilities work together.
++
+ ### Limited resources and selective attention
+ 
+ Resources are finite, and efficiency requires us to focus selectively on what matters. This is the first feature of attention I want to draw on. Our eyes and brains continually receive visual and auditory input. When we read in a noisy cafe, we cannot process every detail equally closely. We suppress some distractions and concentrate on the page. An important, unexpected sound can also interrupt that concentration. Research on attention examines competition and selection guided by behavioral goals; it does not establish that the brain runs the same algorithm as a Transformer. [Research on competition and selection in visual attention](https://pubmed.ncbi.nlm.nih.gov/9142748/)
+@@ -1311,6 +1325,8 @@
+ ### QKV in personal and shared spaces
+ 
+ I envisage a root AI agent for each person: a personal super agent that helps map a space encompassing the individual and their private resources. A person and their agent would work together to organize attention within that space, supporting self-management and development. These personal spaces and intelligences would also participate in a wider civilizational space, where attention and cooperation could be organized around shared concerns.
++
++This is the same personal space supported by the knowledge archive and MerkleVM: memory preserves experience and evidence, the runtime manages tools and resources, and the personal agent helps select and coordinate their use. These are different functions within one arrangement, not reasons to create another copy of the person's data and another control center for each new term.
+ 
+ A personal root agent could provide a unified interface backed by several replaceable models, tools, and devices. Its role would be to help a person understand their information and choices, subject to that person's authorization and correction. Cooperation in a shared space involves multiple participants with independent wills. Increasing the system's scale would not automatically make personal information available for everyone to inspect or use.
+ 
+@@ -1343,6 +1359,8 @@
+ Inventory depletion may be recorded item by item. Forest regeneration depends on time and ecological conditions. Trust must be understood through actual cooperation. These cannot all be reduced to adding or subtracting a score. Learning can give a person new capabilities and change the tasks they can undertake; a device leaving the system can require dependent plans to be rearranged. Research on dynamic graphs already addresses attributes and connections that change through events, providing a reference for this part of the work. [Temporal Graph Networks](https://arxiv.org/abs/2006.10637)
+ 
+ A Merkle-DAG can preserve the evidence and versions associated with these changes. An object's identity must be distinguished from the version of its state. A device remains the same device when its available capacity changes, and its old state should not silently be overwritten as though it had always been the new one. Once retired, it remains part of the historical record but must no longer appear as an available resource. Observations, inferences, proposals, authorizations, actions, and outcomes should also retain their relationships. Hashes help verify content and version integrity. Whether a record corresponds to reality, and whether permission remains valid, require separate checks.
++
++This extends the earlier distinction among object versions, execution environments, and actions. A completed record is immutable; the world it describes is not. Our account of current states, commitments, and permissions must keep changing. The runtime admits new objects and rules, while the historical record preserves how those changes occurred. Together they support learning.
+ 
+ ### Combining sequential dependencies with parallel exploration
+ 
+@@ -1407,6 +1425,8 @@
+ 
+ Comparisons can include simple rules and fixed roles alongside dynamic attention and more elaborate game-theoretic mechanisms. With the same information and budgets, do needs get met more effectively? Are errors and delays reduced? Can false reports profit? Can work continue after a coordinator leaves? The system's own computing, communication, and maintenance costs must be included. A task already handled well by a simple method need not be made complicated to fit a grand analogy.
+ 
++The bounded prediction experiments discussed earlier already show that dynamic weighting need not outperform simpler methods. The shared-storage experiment proposed here is a further test that still needs to be carried out. It adds actual permissions, resource commitments, and participants' responses. Prediction accuracy cannot stand in for evidence that collective governance works.
++
+ The capability to develop is reliable cooperation within the interactions currently understood, together with room for new problems, technologies, and rules. Attention helps identify relevance; game theory examines strategic interaction; mechanism design improves conditions for cooperation; records and verification preserve the process of change. Their combination should be determined through repeated research and experiment.
+ 
+ As shared decision-making becomes more concrete, another immediate question remains. If someone's technical judgment receives less weight, should their livelihood also be reduced? If a person contributes a better algorithm, should they permanently own more of the common resources? These questions lead to a further basic distinction: personal needs and collective resources must be considered separately.
+@@ -1431,6 +1451,8 @@
+ 
+ Too little water, food, rest, or stimulation can harm a person; excess can also cause problems. The intensity and duration of thought, communication, and other activity likewise have practical limits and conditions. Viewed more abstractly, a person is an open system exchanging energy and resources with an environment. Individual needs vary, and their appropriate conditions can be investigated. Enjoyable food does not justify unlimited calories; enjoyable games or films do not make continuous immersion beneficial.
+ 
++Investigating these conditions does not produce one correct formula for everyone's mental life, to be prescribed by an administrator or AI. Needs include exploration, changing preferences, and the freedom to arrange one's life. A system can supply evidence and help people understand consequences, while remaining open to their objections to its account of them. Trade-offs imposed by limited shared resources require collective deliberation.
++
+ Meeting needs therefore means neither giving everyone an identical amount nor awarding the largest share to whoever makes the largest demand. A child, an adult, and someone requiring particular care may need different arrangements. One uniform allowance can be superficially equal and materially unfair.
+ 
+ Nor should a statistical curve prescribe people's lives. Needs depend on the resource, population, and circumstances. Understanding them should help support people and their development. We must also distinguish an appropriate amount of consumption from the cost of meeting a need. A finite appetite says little about the resources required for medical treatment, care, accessibility equipment, or learning. People needing greater support should not be excluded for departing from an average.
+@@ -1864,6 +1886,28 @@
+ 
+ There are documented experiments in arranging individual atoms, and gene editing has entered clinical treatment for particular diseases. These achievements show that certain capabilities have arrived, not that we can reshape matter and life at will. They make the shared governance of powerful tools a concrete, present question. [Single-atom positioning experiment](https://research.ibm.com/publications/positioning-single-atoms-with-a-scanning-tunnelling-microscope), [FDA announcement on the first gene therapies for sickle cell disease](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease)
+ 
++### Why technological gains do not automatically become shared well-being
++
++One alarming feature of our age is the gap between the speed at which technology changes the world and the speed at which we revise the rules of cooperation. Since the Second World War, information technology alone has brought successive waves of computers, integrated circuits, mobile communications, the internet, and AI. Our ability to gather information, organize production, share knowledge, and act bears little resemblance to what it was a few decades ago.
++
++That does not mean political, economic, and financial institutions have stood still. Decolonization, changes to welfare and market institutions, China's reforms, the dissolution of the Soviet Union, and changes to the international monetary system have transformed many lives. The harder question is why, after such changes, ownership of resources, control of information, and decision-making power still reinforce one another in so many organizations. Technology may multiply the reach and speed of a decision. Have the people affected gained comparable powers to understand it, participate in it, constrain it, or correct it? This is the institutional mismatch I want to examine. The argument does not require us to pretend that recent history was motionless.
++
++The computer and information age, particularly since the late 1970s, has helped create enormous wealth. Growth, however, does not distribute its gains fairly by itself. The World Bank estimates that global real comprehensive wealth per person rose by 21 percent between 1995 and 2020. This measure includes produced, human, and natural capital, as well as net foreign assets; it is not a measure of the money and property available to each household, nor did every country improve together. [The Changing Wealth of Nations 2024](https://www.worldbank.org/en/publication/the-changing-wealth-of-nations)
++
++Meanwhile, wealth became more concentrated at the top in some major economies. Saez and Zucman estimated that the share held by the wealthiest 0.1 percent of US families rose from about 7 percent in 1978 to about 22 percent in 2012—roughly three times its earlier level. A separate historical estimate for China put the top 1 percent's share at about 15 percent in 1995 and 30 percent in 2015. These figures concern different groups and periods. They do not establish that the top 0.1 percent's share tripled in both countries, and they are not estimates for today. They illustrate why productive capacity and the distribution of wealth must be examined separately. [US wealth concentration study](https://eml.berkeley.edu/~saez/SaezZucman2015.pdf), [World Inequality Report 2018](https://wir2018.wid.world/executive-summary.html)
++
++The gap also appears in public life. Political polarization, exclusionary nationalist appeals, and dissatisfaction with government and economic circumstances recur in some countries, while international conflict persists. These problems have different causes, but they remind us that greater wealth and technical power do not guarantee a more trustworthy shared life. In the OECD's 2023 survey across 30 member countries, 44 percent of respondents reported low or no trust in their national government, compared with 39 percent reporting high or moderately high trust. This is evidence from particular countries and a particular period, not a verdict on the whole world or on every public service. [OECD explanation of its trust survey](https://www.oecd.org/en/about/news/press-releases/2024/07/governments-must-better-engage-all-citizens-to-tackle-growing-gaps-in-trust.html)
++
++At the personal level, I want to distinguish two forms of improvement that are easily conflated. One concerns the material conditions of a good life: food, housing, health care, education, and useful tools. The other concerns how that life feels: whether we feel secure, can shape our days, find meaning in our efforts, and receive respect in cooperation. This is a distinction for developing the argument, not a pair of standardized statistical measures. Technological gains and public institutions can improve the first without ensuring that the second keeps pace, especially when distribution, participation, and correction remain inadequate.
++
++Nor should this be described as a universal collapse in well-being among ordinary people or the young. The World Happiness Report 2026 identifies declining youth life evaluations in the United States, Canada, Australia, New Zealand, and Western Europe relative to earlier periods; other regions do not show the same overall pattern. That variation needs explanation. Living costs, opportunities, relationships, public services, and digital media may affect people through different pathways. A trend in reported happiness cannot, by itself, establish one institutional explanation. [World Happiness Report 2026 executive summary](https://www.worldhappiness.report/ed/2026/executive-summary-happiness-and-social-media/)
++
++The information age adds another effect: bad news travels far and fast. A distant conflict can immediately enter millions of daily lives. When platforms repeatedly favor material that provokes clicks, the world people encounter may feel more threatening. A study of randomized online news headline experiments found that negative wording increased click-through rates. That identifies an incentive within competition for attention; it does not, on its own, prove that negative news causes a general decline in mental health. [Research on negative wording and online news consumption](https://www.nature.com/articles/s41562-023-01538-4)
++
++This gives the earlier discussion of attention a concrete institutional purpose. When a system directs attention, is it trying to keep people watching and clicking, or to help them understand real problems and gain the ability to address them? Predicting what someone will click is not the same as knowing what will help them live well over time. A new system needs more than a cleverer recommendation algorithm. People must be able to help determine its aims, inspect its grounds, change its settings, or leave. Reducing needless fear must also not become an excuse to hide real bad news. Accidents, abuse, and failures have to remain visible if they are to be repaired.
++
++My concern, then, is that our growing powers to produce, inform, and act may fail to become fair opportunities, dependable cooperation, and lives people can meaningfully direct. If the gap between technological change and institutional adaptation keeps widening, pressures may accumulate until they produce a serious conflict or crisis. Whether that happens, and what form it takes, still depends on how people respond. We should improve cooperation and correction while harm can still be prevented, rather than wait for a crisis to force change at a much higher cost.
++
+ ### Keeping civilization's capacity for correction abreast of technological acceleration
+ 
+ As AI develops rapidly, systems have begun, within particular tasks, to contribute to the improvement of their own tools, programs, and research processes. As these capabilities develop, AI-assisted technological progress may in turn make AI research more efficient. The technological singularity that people have long discussed therefore deserves serious consideration as a possible scenario for which to prepare.
+@@ -1902,7 +1946,7 @@
+ 
+ ### Cooperation, information quality, and institutions developing together
+ 
+-No particular mathematical model is necessarily the best eventual basis for the new system. What matters is not a particular model's name, but how the algorithms we construct through repeated research, iteration, and experiment can understand and improve real cooperation. As with a Markov game, computing the variables requires sufficiently rich and accurate information about the objects within the system. What counts as sufficient and accurate must be judged against the actual task. This brings us back to an important condition for making the system possible: active cooperation and meaningful participation by everyone taking part.
++Returning to the civilizational runtime, models such as Markov games are candidate tools for studying continuing interaction. What matters is how the algorithms developed through research, iteration, and experiment can understand and improve real cooperation. Whether information is sufficiently rich and accurate depends on the task; whether truthful information becomes available also depends on how participants understand and use the institution. The technical design of attention and games therefore has to connect with institutional feedback.
+ 
+ Information about human civilization differs from many measurements of natural phenomena because the people supplying it interpret the institution and choose how to respond to their circumstances. Willingness to cooperate cannot be treated as an arbitrary constant outside the algorithm. Institutions influence what people are willing to say and do; those choices affect information quality; information quality affects the judgments algorithms can make. The mechanism through which information is obtained must itself be studied as part of the institution.
+ 
+@@ -2085,7 +2129,7 @@
+ 
+ ## Starting with One Person's Cloud Storage
+ 
+-This starting point differs from conventional crowdfunding. First, consumers can also be producers and creators. Second, no minimum number of participants or funding target must be reached before work begins. It can start with me, with the simplest and cheapest cloud storage, funded from my own small savings. Third, participation is flexible. Those who support the direction can contribute more money or effort and help build the service as well as use it. Those who prefer to observe can remain consumers and provide basic feedback. In every case, the new system must protect users' data sovereignty.
++I can begin on my own, with the simplest cloud storage I can afford and a small amount of my own money. This is a practical entry into the open organization described earlier: no crowdfunding threshold has to be reached, and users can gradually become builders. Whether someone contributes substantially or simply wants to use the service, their data sovereignty must remain protected.
+ 
+ Why begin with cloud storage? It addresses an existing, everyday problem: information is scattered across devices, accounts, and services. We need it, yet cannot always find, understand, or take it with us. Solving this creates immediate personal value while preparing the foundation for a longer-term network of knowledge, computation, and cooperation.
+ 
+@@ -2469,6 +2513,8 @@
+ First, the researcher and their AI clarify the observation: which equations, which transformation, which examples, and which conditions? The AI searches for related work and marks unresolved questions. The resulting object is still a conjecture. Recording it does not make it a discovery already established.
+ 
+ Second, within the researcher's permissions, the question reaches nodes able to contribute. One person recognizes a lemma from another field that may explain the cancellation. Another reformulates the problem for computation. AI helps retrieve literature, manipulate symbols, and make initial trials of different approaches. The originator need not master every tool before being entitled to collaborate.
++
++Here the earlier attention architecture has a concrete role. The unresolved question supplies Q; the conditions under which methods, experience, and existing results apply provide matching keys; permitted materials and assistance supply V. Attention helps the seed find suitable conditions to grow. It does not replace proof, or make the person ranked most highly by a model an authority entitled to own the result.
+ 
+ Third, a collaborator finds a counterexample. The original conjecture is false, but the process has not returned to zero. The counterexample reveals a boundary: perhaps another condition is needed or the problem should be split into cases. The original conjecture, counterexample, and revised conjecture all remain. Finding the counterexample is a contribution because it prevents further work down an excluded path.
+ 
+@@ -2835,6 +2881,14 @@
+ Experiments in AI-assisted algorithm development and agent code modification provide concrete entry points for studying iterative improvement. They do not determine the date of a technological singularity or establish that the probability of civilizational destruction must approach a particular value. Coordinating technological and civilizational transformations is a risk scenario and an institutional goal proposed in this book. Treating urgency scientifically requires studying capability growth, the scope of effects, the speed at which errors spread, and the capacity for correction, while retaining different possible rates of development and paths of international cooperation.
+ 
+ The Watchmen example is an ethical and institutional thought experiment. The differences between comic and film can be checked, but a character's choices are not evidence of how real countries must behave. Its practical question is which mechanisms can expand peaceful options before a crisis, protect life during it, and repair trust afterward. Answering that requires further construction and verification. Criticizing one tragic choice does not establish that another arrangement can resolve every conflict.
++
++### Testing the claim of an institutional gap
++
++Evidence about wealth concentration, trust in government, and young people's well-being gives us concrete questions to investigate. Taken together, it does not prove that existing institutions necessarily cause every problem or that the proposed system will solve them all. Total wealth must be distinguished from shares of wealth, income from assets, the top 0.1 percent from the top 1 percent, and one period or region from another. A global average cannot describe everyone's circumstances; deterioration in some places cannot stand for a worldwide trend. Experiments on negative headlines measure clicking behavior, not long-term mental health.
++
++The claim that institutions lag behind technology also needs to become more precise. There is no common ruler with which to measure their respective speeds. For a particular service, organization, or public decision, we can instead examine how technology expands the reach of an action and accelerates the spread of an error. We can then ask how long affected people need to discover the problem, raise an objection, stop the harm, and secure a remedy. Shortening that second chain without sacrificing basic rights or shifting costs onto weaker participants would be progress relevant to this book's aims.
++
++Further research should compare arrangements for distribution and governance, examining material conditions, discretionary time, meaningful participation, trust, and people's evaluations of their own lives. It must distinguish the effects of technology, public policy, demographics, and other circumstances. If an existing arrangement proves more reliable for the same task, or if a new attention and weighting system merely increases clicks, uploads, and apparent agreement without improving lives, the proposal should change. Even higher reported satisfaction requires us to look for people who left, remained silent, or bore uncounted costs. A civilizational system that hopes to evolve must allow evidence to revise its account of its own superiority.
+ 
+ ### Letting reality revise a scientific anticipation
+ 

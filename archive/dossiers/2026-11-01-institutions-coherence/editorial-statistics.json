@@ -1,0 +1,21 @@
+{
+  "edition": "15-institutions-coherence",
+  "chinese_cjk_characters": 159417,
+  "previous_chinese_cjk_characters": 155771,
+  "english_whitespace_words": 68954,
+  "previous_english_whitespace_words": 66947,
+  "chinese_sha256": "d8fb406e40826089e63a6738cf94914acfa3d036065ddaea4da4be041bd704d2",
+  "english_sha256": "923a9c37742ee2a6c5d777fffb2936d033019a97fa6d6203b8e0d8efb6005e7f",
+  "chapters": 32,
+  "headings": 225,
+  "external_citation_occurrences": 94,
+  "revisions_by_language": {
+    "zh": 21,
+    "en": 21
+  },
+  "unchanged_chapter_pairs": 19,
+  "new_visible_events": 2,
+  "author_messages": 1,
+  "passages_with_exact_author_spans": 1,
+  "exact_author_span_boundary": "Exact latest-message matches are recorded; retained baseline author wording has its earlier provenance, not a new attribution."
+}

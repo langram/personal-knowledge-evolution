@@ -21,7 +21,7 @@
 - [从数学家的灵感到文明的共同创造](archive/dossiers/2026-10-26-shared-credit/01-chapter.md)
 - [从学生的灵感到基层的创造](archive/dossiers/2026-10-26-shared-credit/05-section-ten.md)
 - [现存版本与修改过程](history/README.md)
-- [本轮新增章节、原话与中英对照记录](archive/dossiers/2026-11-01-civilization-attention/04-editorial-notes.md)
+- [本轮全文衔接、新增论述与中英对照记录](archive/dossiers/2026-11-01-institutions-coherence/04-editorial-notes.md)
 
 ## 运行访问接口
 
@@ -77,3 +77,5 @@ python -m pkst_public serve
 2026年10月31日第十三版统一正文与附录：公平的发展条件、能力互补和跨领域合作不依赖正态分布前提；防止支配作为可检验的制度目标。新增[完整英文版](book/current.en.md)与[中英双语分享页](book/readme.md)，保留[中文修改和英文来源关系](archive/dossiers/2026-10-31-book-bilingual/04-editorial-notes.md)。
 
 2026年11月1日第十四版新增“从注意力到可演化的文明运行时”，补入合作意愿与信息质量的迭代关系、技术加速下的制度纠错能力，以及《守望者》引出的和平演化选择。中英文均为32章，原话和来源链完整保存，详见[本版修改记录](archive/dossiers/2026-11-01-civilization-attention/04-editorial-notes.md)。
+
+2026年11月1日第十五版增补技术红利、财富分配与生活体验的讨论，并完成中文全书衔接复核及对应英文修订。原话、事实口径、逐项修改和思想演化分别保存，详见[本版修改记录](archive/dossiers/2026-11-01-institutions-coherence/04-editorial-notes.md)。

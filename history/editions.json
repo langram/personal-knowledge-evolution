@@ -126,5 +126,28 @@
     "landing_page": "book/readme.md",
     "previous_edition": "13-book-bilingual",
     "revision_manifest": "archive/dossiers/2026-11-01-civilization-attention/revision-manifest.json"
+  },
+  {
+    "edition": "15-institutions-coherence",
+    "title": "制度与技术落差、生活体验及全书衔接修订",
+    "file": "archive/dossiers/2026-11-01-institutions-coherence/01-new-principles.zh.md",
+    "sha256": "d8fb406e40826089e63a6738cf94914acfa3d036065ddaea4da4be041bd704d2",
+    "cjk_characters": 159417,
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "translations": {
+      "en": {
+        "file": "archive/dossiers/2026-11-01-institutions-coherence/02-new-principles.en.md",
+        "sha256": "923a9c37742ee2a6c5d777fffb2936d033019a97fa6d6203b8e0d8efb6005e7f",
+        "whitespace_words": 68954,
+        "derived_from_sha256": "d8fb406e40826089e63a6738cf94914acfa3d036065ddaea4da4be041bd704d2",
+        "method": "idiomatic adaptation; unchanged chapters inherited from edition 14"
+      }
+    },
+    "landing_page": "book/readme.md",
+    "previous_edition": "14-civilization-attention",
+    "revision_manifest": "archive/dossiers/2026-11-01-institutions-coherence/revision-manifest.json"
   }
 ]

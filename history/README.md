@@ -18,6 +18,7 @@
 |公平发展、能力多样性与跨领域合作|144,255|[正文](../archive/dossiers/2026-10-31-ability-cooperation/02-new-principles.md)|
 |全文一致性修订与中英文完整版本|145,371|[中文](../archive/dossiers/2026-10-31-book-bilingual/01-new-principles.zh.md) · [English](../archive/dossiers/2026-10-31-book-bilingual/02-new-principles.en.md)|
 |文明注意力、动态博弈与制度自我进化|155,771|[中文](../archive/dossiers/2026-11-01-civilization-attention/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-01-civilization-attention/02-new-principles.en.md)|
+|制度与技术落差、生活体验及全书衔接修订|159,417|[中文](../archive/dossiers/2026-11-01-institutions-coherence/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-01-institutions-coherence/02-new-principles.en.md)|
 
 更早的[整体框架与起步方案](../archive/dossiers/2026-10-25-seed/README.md)保存实践路线、宣传文本和创作计划。
 
@@ -42,3 +43,5 @@
 2026年10月31日第十三版完成正文与末尾附录的一致性审读，按公平发展、能力多样性与跨领域合作作十处精确修订，并增加完整英文版及[中英双语书籍入口](../book/readme.md)。[修改与来源记录](../archive/dossiers/2026-10-31-book-bilingual/04-editorial-notes.md)保存原话、逐项差异、审读记录和英文派生关系。
 
 2026年11月1日第十四版收录后续注意力、QKV、持续状态、动态博弈与主动合作的讨论，并加入技术加速与文明自我修正、《守望者》与扩大和平选项的论述。新增一章与四个小节，中英文同步。[修改与来源记录](../archive/dossiers/2026-11-01-civilization-attention/04-editorial-notes.md)保存作者原话、思想演化、逐项差异与英文派生关系。
+
+2026年11月1日第十五版增补制度与技术落差、财富分配与生活体验，通读中文全书并修补注意力、博弈和文明自我进化的衔接，中英文同步。[修改、来源与32章复核记录](../archive/dossiers/2026-11-01-institutions-coherence/04-editorial-notes.md)。

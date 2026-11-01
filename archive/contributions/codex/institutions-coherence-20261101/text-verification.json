@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "edition": "15-institutions-coherence",
+  "reversible_edits": 42,
+  "native_source_roundtrips": 2,
+  "exact_author_spans_verified": 1,
+  "chapters": 32,
+  "headings": 225,
+  "citation_occurrences": 94,
+  "new_external_sources": 6,
+  "unchanged_chapter_pairs": 19,
+  "chinese_sha256": "d8fb406e40826089e63a6738cf94914acfa3d036065ddaea4da4be041bd704d2",
+  "english_sha256": "923a9c37742ee2a6c5d777fffb2936d033019a97fa6d6203b8e0d8efb6005e7f",
+  "boundary": "Checks prove provenance and structural/replay properties; semantic review is editorial, not a mathematical equivalence proof or author approval."
+}

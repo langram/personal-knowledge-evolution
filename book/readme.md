@@ -10,22 +10,22 @@
 
 《新原理》从存在、变化与可构造性出发，讨论知识与智能如何相互促进，以及人类如何在 AI 时代共同构造新的社会组织方式。全书将数学与自然科学的探索，连接到公共知识、个人数据主权、动态权重决策、按需保障与共同资源治理，并提出从一个人的知识库和云存储开始、逐步扩展合作的实践路径。
 
-新增讨论将个人与文明层级的注意力、持续变化的社会状态和博弈机制连接起来，并考察技术加速之下，制度怎样通过自愿合作、公开检验与和平试验持续自我修正。
+个人与文明层级的注意力、持续变化的社会状态和博弈机制，在书中与数据主权和能力复用相连接。最新修订进一步讨论技术红利、财富分配与生活体验之间的落差，并考察制度怎样通过自愿合作、公开检验与和平试验持续自我修正。
 
 本书强调公平的发展条件、能力多样性与跨领域合作。防止支配不以任何预设的能力分布为保证，而要通过可以核验、质疑、修正和退出的机制接受实践检验。数学假说、经验依据、制度主张与已实现能力在正文及末尾自我反思附录中分别讨论。
 
 *New Principles* explores how knowledge and intelligence can reinforce one another, and how people might build new forms of cooperation in the age of AI. Beginning with questions about existence, change, and what can be constructed, it connects scientific inquiry with shared knowledge, personal data sovereignty, dynamic decision weights, provision according to need, and the governance of common resources. Its practical path starts small: one person's knowledge archive and cloud storage, growing through voluntary cooperation.
 
-New chapters and sections connect attention at personal and civilizational scales with changing social states and strategic interaction. They ask how institutions can keep learning through voluntary cooperation, public scrutiny, and peaceful experiments as technology accelerates.
+The book connects attention at personal and civilizational scales with changing social states, strategic interaction, data sovereignty, and reusable capabilities. The latest revision examines gaps between technological gains, wealth distribution, and lived well-being, asking how institutions can keep learning through voluntary cooperation, public scrutiny, and peaceful experiments.
 
 The book argues for fair conditions in which diverse abilities can develop and complement one another across disciplines. Freedom from domination is a goal to test through accountable, revisable institutions—not a consequence assumed from a statistical distribution. The final appendix critically assesses the mathematics, scientific hypotheses, social arguments, and feasibility of the proposed systems. The complete English edition is written for English readers, with the original arguments, examples, and qualifications retained.
 
 **版本与来源 / Versions and sources**
 
 - [编辑与版本历史 / Editorial and version history](https://github.com/langram/personal-knowledge-evolution/blob/main/history/README.md)
-- [本版修改记录 / This edition's revision record](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-01-civilization-attention/04-editorial-notes.md)
-- [逐章中英对照目录 / Chinese–English chapter map](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-01-civilization-attention/05-translation-notes.md)
-- [思想演化记录 / Evolution of the argument](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-01-civilization-attention/07-thought-evolution.md)
+- [本版修改记录 / This edition's revision record](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-01-institutions-coherence/04-editorial-notes.md)
+- [逐章中英对照目录 / Chinese–English chapter map](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-01-institutions-coherence/05-translation-notes.md)
+- [思想演化记录 / Evolution of the argument](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-01-institutions-coherence/07-thought-evolution.md)
 - [知识库与只读接口 / Knowledge archive and read-only API](https://github.com/langram/personal-knowledge-evolution/blob/main/README.md)
 
 原话、AI 回答、编辑补写与作者采纳记录分别保存。欢迎带着问题、不同意见和实践经验阅读与讨论。  

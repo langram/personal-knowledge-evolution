@@ -1,0 +1,21 @@
+已完成**第十四版**，新增约 **1.04万汉字**，中英文同步，并已推送 GitHub。
+
+- 新增“从注意力到可演化的文明运行时”一章，整合 QKV、动态状态、博弈机制和开放式演化。
+- 在文明自我治理部分加入《守望者》、技术与文明奇点，以及主动合作与信息质量的讨论。
+- 在末尾附录补充这些新论述的自我反思与检验条件。
+
+正文尽量沿用你的表达和演讲语气；奇点时间、不可逆性与零风险等表述改为有条件的推演。**原话、来源、思想演化和完整修改记录均已入库保留。**
+
+[中文全文](https://github.com/langram/personal-knowledge-evolution/blob/main/book/current.md) · [英文全文](https://github.com/langram/personal-knowledge-evolution/blob/main/book/current.en.md) · [本轮新增内容](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-01-civilization-attention/06-additions.zh.md) · [修改与来源说明](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-01-civilization-attention/04-editorial-notes.md)
+
+提交为 `11689a4`；原话还原、版本哈希和接口检查通过，已确认远端全文可公开访问。
+
+<oai-mem-citation>
+<citation_entries>
+MEMORY.md:96-97|note=[Preserve author revisions and distinct source attribution]
+MEMORY.md:102-104|note=[Follow verified bilingual archive and publication workflow]
+</citation_entries>
+<rollout_ids>
+01a16c8a-f6e1-7580-b378-b6e49f0be965
+</rollout_ids>
+</oai-mem-citation>
