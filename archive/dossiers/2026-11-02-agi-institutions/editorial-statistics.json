@@ -1,0 +1,21 @@
+{
+  "edition": "16-agi-institutions",
+  "chinese_cjk_characters": 162398,
+  "previous_chinese_cjk_characters": 159417,
+  "english_whitespace_words": 70493,
+  "previous_english_whitespace_words": 68954,
+  "chinese_sha256": "0b7426630c86718e5a92669947a150e7eb419f04e56bdb76445fc4de37215df1",
+  "english_sha256": "0c1eb8671cc68cce29a8ef153f9294667383af02bbdb84a047eb74992533d2ac",
+  "chapters": 32,
+  "headings": 228,
+  "external_citation_occurrences": 96,
+  "revisions_by_language": {
+    "zh": 2,
+    "en": 2
+  },
+  "unchanged_chapter_pairs": 31,
+  "new_visible_events": 2,
+  "author_messages": 1,
+  "passages_with_exact_author_spans": 4,
+  "exact_author_span_boundary": "Exact matches record retained latest-message wording; semantic association does not attribute all editorial explanation to the author."
+}

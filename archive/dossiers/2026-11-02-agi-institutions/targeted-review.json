@@ -1,0 +1,26 @@
+{
+  "schema": "ag/targeted-review@1",
+  "edition": "16-agi-institutions",
+  "baseline_edition": "15-institutions-coherence",
+  "baseline_sha256": {
+    "zh": "d8fb406e40826089e63a6738cf94914acfa3d036065ddaea4da4be041bd704d2",
+    "en": "923a9c37742ee2a6c5d777fffb2936d033019a97fa6d6203b8e0d8efb6005e7f"
+  },
+  "reviewed_chapters": [
+    16
+  ],
+  "coverage": {
+    "semantic": "Chinese and English chapter 16, including the new sections and the transition to dynamic weights.",
+    "structural": "All 32 chapter pairs, headings, citation sequences, reversible boundaries and exact inherited bytes.",
+    "inherited": "31 unchanged chapter pairs; edition-15 full Chinese review retained as historical evidence, not claimed to be repeated this turn.",
+    "external_facts": "Two original sources on intelligence/goals and reward specification. Literary references used as distinct motifs, not uniform plot summaries."
+  },
+  "findings": [
+    "The prior chapter already separates capability from goals; the addition makes the author AGI scenario conditional and develops the control question.",
+    "Human common interests require participation and revision, rather than a self-appointed single utility maximizer.",
+    "Task-relevant information, local processing and authorized evidence do not imply access to every private thought.",
+    "Possible institutional alternatives do not establish a globally optimal design or remove technical AI risks.",
+    "The closing transition connects cooperation to dynamic weights without turning relevance into executive authority."
+  ],
+  "author_approval": "Editorial judgments and English adaptation are pending author review, not recorded acceptance."
+}

@@ -21,7 +21,7 @@
 - [从数学家的灵感到文明的共同创造](archive/dossiers/2026-10-26-shared-credit/01-chapter.md)
 - [从学生的灵感到基层的创造](archive/dossiers/2026-10-26-shared-credit/05-section-ten.md)
 - [现存版本与修改过程](history/README.md)
-- [本轮全文衔接、新增论述与中英对照记录](archive/dossiers/2026-11-01-institutions-coherence/04-editorial-notes.md)
+- [本轮超级智能论述、原话与中英对照记录](archive/dossiers/2026-11-02-agi-institutions/04-editorial-notes.md)
 
 ## 运行访问接口
 
@@ -79,3 +79,5 @@ python -m pkst_public serve
 2026年11月1日第十四版新增“从注意力到可演化的文明运行时”，补入合作意愿与信息质量的迭代关系、技术加速下的制度纠错能力，以及《守望者》引出的和平演化选择。中英文均为32章，原话和来源链完整保存，详见[本版修改记录](archive/dossiers/2026-11-01-civilization-attention/04-editorial-notes.md)。
 
 2026年11月1日第十五版增补技术红利、财富分配与生活体验的讨论，并完成中文全书衔接复核及对应英文修订。原话、事实口径、逐项修改和思想演化分别保存，详见[本版修改记录](archive/dossiers/2026-11-01-institutions-coherence/04-editorial-notes.md)。
+
+2026年11月2日第十六版新增超级智能与制度想象的讨论，区分知识、目标、信息需求与权力结构。作者原话、编辑限定、英文派生和思想演化分别保存，详见[本版修改记录](archive/dossiers/2026-11-02-agi-institutions/04-editorial-notes.md)。

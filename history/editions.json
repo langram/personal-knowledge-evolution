@@ -149,5 +149,28 @@
     "landing_page": "book/readme.md",
     "previous_edition": "14-civilization-attention",
     "revision_manifest": "archive/dossiers/2026-11-01-institutions-coherence/revision-manifest.json"
+  },
+  {
+    "edition": "16-agi-institutions",
+    "title": "超级智能、老大哥与制度想象的边界",
+    "file": "archive/dossiers/2026-11-02-agi-institutions/01-new-principles.zh.md",
+    "sha256": "0b7426630c86718e5a92669947a150e7eb419f04e56bdb76445fc4de37215df1",
+    "cjk_characters": 162398,
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "translations": {
+      "en": {
+        "file": "archive/dossiers/2026-11-02-agi-institutions/02-new-principles.en.md",
+        "sha256": "0c1eb8671cc68cce29a8ef153f9294667383af02bbdb84a047eb74992533d2ac",
+        "whitespace_words": 70493,
+        "derived_from_sha256": "0b7426630c86718e5a92669947a150e7eb419f04e56bdb76445fc4de37215df1",
+        "method": "idiomatic adaptation; unchanged chapters inherited from edition 15"
+      }
+    },
+    "landing_page": "book/readme.md",
+    "previous_edition": "15-institutions-coherence",
+    "revision_manifest": "archive/dossiers/2026-11-02-agi-institutions/revision-manifest.json"
   }
 ]

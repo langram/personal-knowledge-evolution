@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "edition": "16-agi-institutions",
+  "reversible_edits": 4,
+  "native_source_roundtrips": 2,
+  "exact_author_spans_verified": 4,
+  "chapters": 32,
+  "headings": 228,
+  "citation_occurrences": 96,
+  "new_external_sources": 2,
+  "unchanged_chapter_pairs": 31,
+  "chinese_sha256": "0b7426630c86718e5a92669947a150e7eb419f04e56bdb76445fc4de37215df1",
+  "english_sha256": "0c1eb8671cc68cce29a8ef153f9294667383af02bbdb84a047eb74992533d2ac",
+  "boundary": "Checks prove provenance and structural/replay properties; semantic review is editorial, not a mathematical equivalence proof or author approval."
+}

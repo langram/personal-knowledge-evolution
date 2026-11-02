@@ -1,0 +1,7 @@
+{
+  "status": "pass",
+  "returncode": 0,
+  "command": "python -X utf8 -m unittest discover -s tests -v",
+  "output": "test_author_source_and_provenance_roundtrip (test_public.PublicArchiveTests.test_author_source_and_provenance_roundtrip) ... ok\r\ntest_http_read_only_and_errors (test_public.PublicArchiveTests.test_http_read_only_and_errors) ... 127.0.0.1 - - [02/Nov/2026 09:00:24] \"GET /v1/stats HTTP/1.1\" 200 -\r\n127.0.0.1 - - [02/Nov/2026 09:00:25] \"GET /v1/search?q=%E5%8A%A8%E6%80%81%E6%9D%83%E9%87%8D&limit=2 HTTP/1.1\" 200 -\r\n127.0.0.1 - - [02/Nov/2026 09:00:25] \"GET /v1/editions HTTP/1.1\" 200 -\r\n127.0.0.1 - - [02/Nov/2026 09:00:25] \"GET /v1/search?limit=999 HTTP/1.1\" 400 -\r\n127.0.0.1 - - [02/Nov/2026 09:00:25] \"GET /v1/objects/not-a-cid HTTP/1.1\" 404 -\r\n127.0.0.1 - - [02/Nov/2026 09:00:25] \"GET /../../README.md HTTP/1.1\" 404 -\r\n127.0.0.1 - - [02/Nov/2026 09:00:25] code 501, message Unsupported method ('POST')\r\n127.0.0.1 - - [02/Nov/2026 09:00:25] \"POST /v1/stats HTTP/1.1\" 501 -\r\nok\r\ntest_no_internal_envelopes_or_secret_only_hashes (test_public.PublicArchiveTests.test_no_internal_envelopes_or_secret_only_hashes) ... ok\r\ntest_parameter_boundaries (test_public.PublicArchiveTests.test_parameter_boundaries) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 4 tests in 1.357s\r\n\r\nOK\r\n",
+  "recorded_at": "2026-11-02T01:00:25.786812+00:00"
+}

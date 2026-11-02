@@ -1,0 +1,39 @@
+{
+  "schema": "ag/evolution@1",
+  "previous_edition": "15-institutions-coherence",
+  "stages": [
+    {
+      "step": 1,
+      "ref": "PREVIOUS-EDITION-RESPONSE",
+      "role": "assistant",
+      "event_time": {
+        "value": "2026-11-01T14:45:25.810Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreie7eb6cehvn6dmr6qw6ihaogfkmguge7hizxr3ij7h4zsg234i2ji",
+      "content": "bafyreifiphtnvyk2zwxi4qebzzoen3k3cfihqdyq6sgo5plsgbhad623sa",
+      "text_sha256": "35956448ed5a420c9288cc61572cd4b978b9b693d4d9f5f1e5c8fecd41d0d138",
+      "status": "prior release context"
+    },
+    {
+      "step": 2,
+      "ref": "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-02T00:47:36.844Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreics7hwuqfjttagx7scwset344p4bibnntzve6jj7o45t3nsotwmgy",
+      "content": "bafyreiazpywh5f2qe5v5ilncuaojftxyt55pb2rimys3n7ohjag25xfqkq",
+      "text_sha256": "4a2703b01dfe802df4ee54124886b106e616e3fdc1dbc35f212b7d3c7f19aa91",
+      "status": "author proposal"
+    }
+  ],
+  "boundary": "Native message timestamps describe visible speech events, not first invention; no hidden reasoning captured."
+}

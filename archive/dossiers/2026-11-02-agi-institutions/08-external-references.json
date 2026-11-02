@@ -1,0 +1,16 @@
+[
+  {
+    "title": "The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents",
+    "url": "https://nickbostrom.com/superintelligentwill.pdf",
+    "type": "作者原始理论论文，2012年；不是未来AI动机的经验定理",
+    "checked_on": "2026-11-02",
+    "scope": "论证工具性智能与终极目标可以区分；用于说明不能仅凭能力推出善意。不据此宣称任意现实系统必然满足正交性，或超级AI必然敌对。"
+  },
+  {
+    "title": "Specification gaming: the flip side of AI ingenuity",
+    "url": "https://deepmind.google/blog/specification-gaming-the-flip-side-of-ai-ingenuity/",
+    "type": "Google DeepMind研究团队原始研究综述，2020年4月21日",
+    "checked_on": "2026-11-02",
+    "scope": "现有学习系统可能满足奖励指标而偏离设计者预期；不证明未来AGI一定如此，也不替本书制度方案提供安全保证。"
+  }
+]

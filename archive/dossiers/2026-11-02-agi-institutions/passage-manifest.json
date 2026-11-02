@@ -1,0 +1,419 @@
+{
+  "schema": "ag/passage-manifest@1",
+  "coordinate": "unicode-scalar-half-open",
+  "minimum_exact_span_characters": 24,
+  "passages": [
+    {
+      "id": "agi-institutional-imagination-001",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        75567,
+        75586
+      ],
+      "sha256": "2e7009135b681543bf0dfb934ef9edff970378a62c981fae3db40bda9d2800a8",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-002",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        75588,
+        75747
+      ],
+      "sha256": "0e27ab4a2c091f6d04e3c0901ab33724bfdfd1c397a8ec63ccf4f132ab57dba5",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-003",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        75749,
+        76148
+      ],
+      "sha256": "53c7a07cdc9b42e591b92e27427480220ea1cda4505eeba5ee0b23f2a54a5dd7",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-004",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        76150,
+        76304
+      ],
+      "sha256": "64c131158a1bb44ead99064dea01f22568026d037368c08c3c3eb493f838fdda",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-005",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        76306,
+        76520
+      ],
+      "sha256": "a9436d2b6a04225380f703e96d43ea13cf2429ea597e4f84b1aa7c8b282cf590",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION",
+          "source_span": [
+            392,
+            428
+          ],
+          "paragraph_span": [
+            157,
+            193
+          ],
+          "text": "说违背老大哥的话，连脑子里也不能出现违背老大哥的想法，让整个地球文明堕入"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-006",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        76522,
+        76661
+      ],
+      "sha256": "e7dd69271995b08efb044fce7448a7c004361ede7df24458959d377fc468f52e",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-007",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        76663,
+        76832
+      ],
+      "sha256": "e6bb77e37df91ae44ade7077dcc68ac24de368c2fbd6aff552f990662c287ea5",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-008",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        76834,
+        76971
+      ],
+      "sha256": "a1a0e402480e346cb83632e1b60a9a5ee06e49c03177b44e27857e3379c5faf8",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-009",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        76973,
+        76995
+      ],
+      "sha256": "f93fcef88e3df34ea8a9939d19412c38b3007156db66782db31ea1fe16542cc8",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-010",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        76997,
+        77082
+      ],
+      "sha256": "9eecb77f995a5179b368485e1bac249559028d9d86d5b75cce7da3b5e613bc90",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-011",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        77084,
+        77247
+      ],
+      "sha256": "ea1fef068f5af166f2f6d9146dbb85529ffd9015559e4d8231a85767994cdcd9",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-012",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        77249,
+        77469
+      ],
+      "sha256": "46f7d58cee36d671a43196880169641625743f4c6f2f286e94bee1e74eb2fcaf",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-013",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        77471,
+        77644
+      ],
+      "sha256": "c6bb461020126a1f4d554b3cbd7b9b6967bd1abacc054e9fc6cdc99f812213f4",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-014",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        77646,
+        77777
+      ],
+      "sha256": "571be7b288268cf26ba98a4925f07e8c6d9d267608abd1d962effeed27b9ae32",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-015",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        77779,
+        77932
+      ],
+      "sha256": "2ad8d34eb51dbc75ec855fe7ff3b1b10280f2fd548e7ab90b6e6f8333cdf6868",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-016",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        77934,
+        77953
+      ],
+      "sha256": "233a238c8d28305793253e7ea55c72fc06b04490f87e0ae95734a27c5d963c0a",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-017",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        77955,
+        78081
+      ],
+      "sha256": "cf580f15c4675cc9d23f47f8ec5f99fca5cbdc84bb2101f6a598bc9a8c639f61",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-018",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        78083,
+        78188
+      ],
+      "sha256": "dd16a29cfba1f6ed4ac2c3835246ac6cda0e545df5673e7e9b8841d026b0b5a1",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-019",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        78190,
+        78377
+      ],
+      "sha256": "6ad7368ab2f3afd31469012524ec3970de8cffec2465625497f70e5e670c725c",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION",
+          "source_span": [
+            807,
+            835
+          ],
+          "paragraph_span": [
+            39,
+            67
+          ],
+          "text": "文明体制结构集合中的一个子集而已，基于这类结构推导出来的"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-020",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        78379,
+        78533
+      ],
+      "sha256": "eec44d995d4ece066010a234d2ae8978cf6c10809bb8cdc33aaf745bd3e5d0d7",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION",
+          "source_span": [
+            1018,
+            1047
+          ],
+          "paragraph_span": [
+            66,
+            95
+          ],
+          "text": "至少在试图改造现在远远落后于技术进化的文明制度时，必须要有"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-021",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        78535,
+        78699
+      ],
+      "sha256": "6402d56bad49ccb00dc28961cb3d3f3c40471279aca800e44c9c22b59666a241",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION",
+          "source_span": [
+            1130,
+            1164
+          ],
+          "paragraph_span": [
+            0,
+            34
+          ],
+          "text": "在宇宙这个进化系统中，所有实体、结构和进化对象，都有其诞生的开始，也"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-022",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        78701,
+        78866
+      ],
+      "sha256": "17f6eee8c2c2cba5af3f5354b87a2a730fc17b50f26ed79781cdf2db193688f7",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "agi-institutional-imagination-023",
+      "edit": "agi-institutional-imagination",
+      "document_span": [
+        78868,
+        79005
+      ],
+      "sha256": "9c62e07bcfd761b22d569050afe3e81ff3696d223b8e8215398b4a7ba78e9b90",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "chapter-16-next-step-001",
+      "edit": "chapter-16-next-step",
+      "document_span": [
+        79684,
+        79807
+      ],
+      "sha256": "0877ad142f97b69dfc2a0c4e2e477e42c8228670378c40c7d1f5d56d458b9db1",
+      "source_refs": [
+        "AUTHOR-AGI-AND-INSTITUTIONAL-IMAGINATION"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    }
+  ]
+}

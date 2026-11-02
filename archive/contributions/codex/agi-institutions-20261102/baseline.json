@@ -1,0 +1,25 @@
+{
+  "pointer": {
+    "report": "report-20261101-institutions-coherence-v1.json",
+    "snapshot": "bafyreiey755i5fulamhqjz35q5amdpfr4jyu4q4s2i3hwlrpu7hd5sb35u",
+    "database": "contributions\\codex\\catalog\\.private\\20261101-institutions-coherence-v1\\catalog.sqlite"
+  },
+  "document": "bafyreiggs5qo2bauz4ra7vorphdpbqf62kyxnx3x2do6yzhzuyl65qhlmi",
+  "english_document": "bafyreig7cp4ie6c6ytkpyxuln4jqud3ljicnsppvulh2sfddoal2xgp6xi",
+  "dossier_root": "bafyreicb6iskwmzpvlvuuaber4ymsj7t5vcvtfvrwyqnyttyp7ammhjrim",
+  "concepts": [
+    "bafyreiebb6kvrlh3lqz3ale3styawvzogi4hlskhh5xqju554ofexcpcd4",
+    "bafyreihrsfdcluxlmalwkudljyf4ulend6a4ugytaemvtr25xmdre4xyq4",
+    "bafyreiczbuzexwni4llvm6ozgf74lx36uwhjp33slqgkidcqvam4zeerje",
+    "bafyreia5whthjh7u7izi3dtbgybssb5jywsq7orcv7ab5zksrve5o64mzy",
+    "bafyreif6leeld4jju4mzqzhpiinrqbdlyzzsgl6uf5jlyndpulnktj4uze",
+    "bafyreiduijrg3bqe5upi6webddtqwa5z7cnm2tro6cbyxvnwgig7azkpri"
+  ],
+  "manuscript": "dossiers\\2026-11-01-institutions-coherence\\01-new-principles.zh.md",
+  "english_manuscript": "dossiers\\2026-11-01-institutions-coherence\\02-new-principles.en.md",
+  "sha256": "d8fb406e40826089e63a6738cf94914acfa3d036065ddaea4da4be041bd704d2",
+  "english_sha256": "923a9c37742ee2a6c5d777fffb2936d033019a97fa6d6203b8e0d8efb6005e7f",
+  "base_commit": "aec9595a09a5ebc6d3385393ac1c4ac6e42b791e",
+  "protected_research_branch": "4127d3f9ec4cfb7a61cbb2ea195cd6d64faef110",
+  "prior_event_count": 212779
+}
