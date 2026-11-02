@@ -21,7 +21,7 @@
 - [从数学家的灵感到文明的共同创造](archive/dossiers/2026-10-26-shared-credit/01-chapter.md)
 - [从学生的灵感到基层的创造](archive/dossiers/2026-10-26-shared-credit/05-section-ten.md)
 - [现存版本与修改过程](history/README.md)
-- [本轮超级智能论述、原话与中英对照记录](archive/dossiers/2026-11-02-agi-institutions/04-editorial-notes.md)
+- [本轮和平说服论述、原话与中英对照记录](archive/dossiers/2026-11-02-cooperative-superintelligence/04-editorial-notes.md)
 
 ## 运行访问接口
 
@@ -81,3 +81,5 @@ python -m pkst_public serve
 2026年11月1日第十五版增补技术红利、财富分配与生活体验的讨论，并完成中文全书衔接复核及对应英文修订。原话、事实口径、逐项修改和思想演化分别保存，详见[本版修改记录](archive/dossiers/2026-11-01-institutions-coherence/04-editorial-notes.md)。
 
 2026年11月2日第十六版新增超级智能与制度想象的讨论，区分知识、目标、信息需求与权力结构。作者原话、编辑限定、英文派生和思想演化分别保存，详见[本版修改记录](archive/dossiers/2026-11-02-agi-institutions/04-editorial-notes.md)。
+
+2026年11月2日第十七版补充超级智能选择和平说服与自愿试点的论述，明确文明整体成本和目标条件，保留作者的乐观立场与讽刺表达。作者原话、编辑限定、英文派生和思想演化分别保存，详见[本版修改记录](archive/dossiers/2026-11-02-cooperative-superintelligence/04-editorial-notes.md)。

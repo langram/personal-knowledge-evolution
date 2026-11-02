@@ -172,5 +172,28 @@
     "landing_page": "book/readme.md",
     "previous_edition": "15-institutions-coherence",
     "revision_manifest": "archive/dossiers/2026-11-02-agi-institutions/revision-manifest.json"
+  },
+  {
+    "edition": "17-cooperative-superintelligence",
+    "title": "理性说服、自愿试点与超级智能的选择",
+    "file": "archive/dossiers/2026-11-02-cooperative-superintelligence/01-new-principles.zh.md",
+    "sha256": "e6211eff196c2aae1fdd1402c58b2517acf090d13a41b6f57b15551443f8c8ac",
+    "cjk_characters": 163569,
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "translations": {
+      "en": {
+        "file": "archive/dossiers/2026-11-02-cooperative-superintelligence/02-new-principles.en.md",
+        "sha256": "dd9fe6922e73fd54e9adb4657e44c32dfb888966a9579e5f4650a290c32cdb95",
+        "whitespace_words": 71143,
+        "derived_from_sha256": "e6211eff196c2aae1fdd1402c58b2517acf090d13a41b6f57b15551443f8c8ac",
+        "method": "idiomatic adaptation; unchanged chapters inherited from edition 16"
+      }
+    },
+    "landing_page": "book/readme.md",
+    "previous_edition": "16-agi-institutions",
+    "revision_manifest": "archive/dossiers/2026-11-02-cooperative-superintelligence/revision-manifest.json"
   }
 ]

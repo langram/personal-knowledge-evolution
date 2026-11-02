@@ -1,0 +1,25 @@
+{
+  "pointer": {
+    "report": "report-20261102-agi-institutions-v1.json",
+    "snapshot": "bafyreibyjvxk24as4gc5vzhts6eukpkt7ltksrocjjprac2p4jbsd62sqa",
+    "database": "contributions\\codex\\catalog\\.private\\20261102-agi-institutions-v1\\catalog.sqlite"
+  },
+  "document": "bafyreihohr62qtunlqvmhwtjpsjhqb73nuwvjv4zjdm37b6t4wc3bbmlfy",
+  "english_document": "bafyreicxafa4wavfgavtdzuzcc24ul7t45uhzu6jkgms2tukljjfdgyj3e",
+  "dossier_root": "bafyreid5gizywass4gjup2x43x7xiffashqrpq3sdrvblgqndbnrionchy",
+  "concepts": [
+    "bafyreidmv6ejiwzkgpv7wsvriw6oxtysftaytyaa4bsrezegnaxhhkvrtq",
+    "bafyreifqc34lz33qwb5llec45lzqoaactngh7ldlahd2pmxgnswy3tf3ra",
+    "bafyreidz5aa6acztiz3lpwis62z3s5xjsc6it3boqkuwqnszk635caileq",
+    "bafyreie44oiavwbrxobjv57yyj6cbd6dirzbyrxu47s4zxlqgt5y2la3cm",
+    "bafyreifqhp5bixihdrygluyt24qhhgjb3mg5i7dcekvmirsviersyzjwoq",
+    "bafyreicewrvyp7rd63x3xzqge6ezuoor2gtjj5mni6rhmoyo5lxgkw3uja"
+  ],
+  "manuscript": "dossiers\\2026-11-02-agi-institutions\\01-new-principles.zh.md",
+  "english_manuscript": "dossiers\\2026-11-02-agi-institutions\\02-new-principles.en.md",
+  "sha256": "0b7426630c86718e5a92669947a150e7eb419f04e56bdb76445fc4de37215df1",
+  "english_sha256": "0c1eb8671cc68cce29a8ef153f9294667383af02bbdb84a047eb74992533d2ac",
+  "base_commit": "2315cdc8b09a8faccdaecacd2eb41ad33d78ea41",
+  "protected_research_branch": "4127d3f9ec4cfb7a61cbb2ea195cd6d64faef110",
+  "prior_event_count": 212781
+}

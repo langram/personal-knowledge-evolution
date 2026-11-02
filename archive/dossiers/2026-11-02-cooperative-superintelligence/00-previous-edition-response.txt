@@ -1,0 +1,23 @@
+已完成**第十六版**，中英文、个人 Merkle-DAG 知识库和 GitHub 均已同步，提交为 [`2315cdc`](https://github.com/langram/personal-knowledge-evolution/commit/2315cdc8b09a8faccdaecacd2eb41ad33d78ea41)。
+
+内容放在第16章“具有感官与行动能力的文明智能”，新增约3,000汉字，分为三节：
+
+- 超级智能为什么总被想象成老大哥
+- 获取合作信息，不等于全面接管个人生活
+- 不要让旧制度规定未来想象的边界
+
+保留了你的科幻对照、推理顺序和表达力度。其中，“训练于人类知识便必然追求人类利益”等推断改为明确假设。**完整原话、编辑补充和演化关系分别保存**。
+
+[直接阅读新增内容](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-02-agi-institutions/06-additions.zh.md) · [中文全文](https://github.com/langram/personal-knowledge-evolution/blob/main/book/current.md) · [English](https://github.com/langram/personal-knowledge-evolution/blob/main/book/current.en.md)
+
+来源、双语对应、文件完整性和接口测试均通过，已确认 GitHub 公开版本与本地一致。
+
+<oai-mem-citation>
+<citation_entries>
+MEMORY.md:159-162|note=[Preserve attribution and verified bilingual publication workflow]
+MEMORY.md:166-167|note=[Validate exact edits and retain source bytes]
+</citation_entries>
+<rollout_ids>
+01a16c8a-f6e1-7580-b378-b6e49f0be965
+</rollout_ids>
+</oai-mem-citation>

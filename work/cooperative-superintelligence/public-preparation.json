@@ -1,0 +1,52 @@
+{
+  "status": "prepared",
+  "update": {
+    "edition": "17-cooperative-superintelligence",
+    "source_snapshot": "bafyreichijee5r4zjdemz6yzupxlsetalf7e2ja27hoyoxkqieox3l2gxq",
+    "window_start": "2026-11-02T01:04:24.691Z",
+    "window_end": "2026-11-02T01:35:34.730Z",
+    "added_events": 2,
+    "added_user_messages": 1,
+    "added_assistant_final_answers": 1,
+    "added_public_objects": 97,
+    "added_editorial_objects": 93,
+    "new_original_blocks_verified": 141,
+    "previous_link_targets_verified": 103,
+    "recorded_at": "2026-11-02T01:42:07.514181+00:00"
+  },
+  "events": [
+    {
+      "cid": "bafyreib3txhkxo6udsdmu7x5rkwdjmpnjugzu6hzmo3bzjrfyr3vyjrv2q",
+      "original_occurrence": "bafyreidxohdssuprzksz3tpwdtsreyyml3aay5n5n6vur6723ewlpnfvtm",
+      "source": "bafyreid25ahzpiipch4uuczhmsws3eg53jkkxyswffdzd5kit2umkigesu",
+      "platform": "codex-local",
+      "thread": "01a16c8a-f6e1-7580-b378-b6e49f0be965",
+      "role": "assistant",
+      "actor": "ai",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": "2026-11-02T01:04:24.691Z",
+      "time_format": "rfc3339",
+      "content": [
+        "bafyreicibgajdrlf43lc52qt4tidlws6mhzzjvbyagxmfasxmvws5vlj7e"
+      ]
+    },
+    {
+      "cid": "bafyreignar7btd4j5uoa4yroxagzkw5lfgb257ynv23p4nsegrqf7iun4e",
+      "original_occurrence": "bafyreifblief4lh44rqa6iuti543lnqod7ct6ilbq4c5x3jlenvbcbzos4",
+      "source": "bafyreid25ahzpiipch4uuczhmsws3eg53jkkxyswffdzd5kit2umkigesu",
+      "platform": "codex-local",
+      "thread": "01a16c8a-f6e1-7580-b378-b6e49f0be965",
+      "role": "user",
+      "actor": "human",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": "2026-11-02T01:35:34.730Z",
+      "time_format": "rfc3339",
+      "content": [
+        "bafyreiclobjcb7kurxmrmf5cfqkhk7knt4czrtdr4g6ed3iu4erru2daai"
+      ]
+    }
+  ],
+  "editions": 17
+}

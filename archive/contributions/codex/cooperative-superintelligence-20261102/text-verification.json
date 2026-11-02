@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "edition": "17-cooperative-superintelligence",
+  "reversible_edits": 2,
+  "native_source_roundtrips": 2,
+  "exact_author_spans_verified": 1,
+  "chapters": 32,
+  "headings": 229,
+  "citation_occurrences": 97,
+  "new_external_sources": 1,
+  "unchanged_chapter_pairs": 31,
+  "chinese_sha256": "e6211eff196c2aae1fdd1402c58b2517acf090d13a41b6f57b15551443f8c8ac",
+  "english_sha256": "dd9fe6922e73fd54e9adb4657e44c32dfb888966a9579e5f4650a290c32cdb95",
+  "boundary": "Checks prove provenance and structural/replay properties; semantic review is editorial, not a mathematical equivalence proof or author approval."
+}

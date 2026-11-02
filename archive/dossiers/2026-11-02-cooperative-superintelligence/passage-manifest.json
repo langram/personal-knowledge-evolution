@@ -1,0 +1,140 @@
+{
+  "schema": "cs/passage-manifest@1",
+  "coordinate": "unicode-scalar-half-open",
+  "minimum_exact_span_characters": 24,
+  "passages": [
+    {
+      "id": "persuasion-and-voluntary-pilots-001",
+      "edit": "persuasion-and-voluntary-pilots",
+      "document_span": [
+        76973,
+        76996
+      ],
+      "sha256": "629ed1322dc392ba4f433e2b7aa5f084a84242bf0a94c7d0fb25801bcce18fbe",
+      "source_refs": [
+        "AUTHOR-PEACEFUL-SUPERINTELLIGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "persuasion-and-voluntary-pilots-002",
+      "edit": "persuasion-and-voluntary-pilots",
+      "document_span": [
+        76998,
+        77154
+      ],
+      "sha256": "8427925229fbd6fa6d9504e7ac55d735feaa23f60bc9e52d385bf4059be63043",
+      "source_refs": [
+        "AUTHOR-PEACEFUL-SUPERINTELLIGENCE"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-PEACEFUL-SUPERINTELLIGENCE",
+          "source_span": [
+            78,
+            102
+          ],
+          "paragraph_span": [
+            106,
+            130
+          ],
+          "text": "的小范围试点实践，以和平沟通的方式来说服人类大众"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "persuasion-and-voluntary-pilots-003",
+      "edit": "persuasion-and-voluntary-pilots",
+      "document_span": [
+        77156,
+        77504
+      ],
+      "sha256": "e6ac95e4a7b2a93453691b2804afb49b8184bd5ba8416c94085de6915cad4c2f",
+      "source_refs": [
+        "AUTHOR-PEACEFUL-SUPERINTELLIGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "persuasion-and-voluntary-pilots-004",
+      "edit": "persuasion-and-voluntary-pilots",
+      "document_span": [
+        77506,
+        77652
+      ],
+      "sha256": "11bf4c948744faba2245f0b68265dcde15679ed1b71491bb64033c1e13dcb5f6",
+      "source_refs": [
+        "AUTHOR-PEACEFUL-SUPERINTELLIGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "persuasion-and-voluntary-pilots-005",
+      "edit": "persuasion-and-voluntary-pilots",
+      "document_span": [
+        77654,
+        77839
+      ],
+      "sha256": "dce0ef88a48cd4094425c3ed299b180fa26de116e332c065885f284c91834a00",
+      "source_refs": [
+        "AUTHOR-PEACEFUL-SUPERINTELLIGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "persuasion-and-voluntary-pilots-006",
+      "edit": "persuasion-and-voluntary-pilots",
+      "document_span": [
+        77841,
+        77999
+      ],
+      "sha256": "2aa881b00aef1e34c86be850d7bb61e96577e52188bddc9f16b32af148b0c52c",
+      "source_refs": [
+        "AUTHOR-PEACEFUL-SUPERINTELLIGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "persuasion-and-voluntary-pilots-007",
+      "edit": "persuasion-and-voluntary-pilots",
+      "document_span": [
+        78001,
+        78148
+      ],
+      "sha256": "648ef242b8db305a88655cb53007026e3d3b6ee6e8c2dc732e68606f3aed7edb",
+      "source_refs": [
+        "AUTHOR-PEACEFUL-SUPERINTELLIGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "persuasion-and-voluntary-pilots-008",
+      "edit": "persuasion-and-voluntary-pilots",
+      "document_span": [
+        78150,
+        78348
+      ],
+      "sha256": "3742dfd3b557bdafc1a8bf39405db8279f081b9582127bf5f5c70db0676dbd84",
+      "source_refs": [
+        "AUTHOR-PEACEFUL-SUPERINTELLIGENCE"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    }
+  ]
+}

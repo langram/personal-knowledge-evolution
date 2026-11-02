@@ -1,0 +1,2067 @@
+{
+  "schema": "cs/translation-ledger@1",
+  "coordinate": "unicode-scalar-half-open",
+  "edition": "17-cooperative-superintelligence",
+  "chapters": [
+    {
+      "id": "01",
+      "title_zh": "前言：为什么要重新考察数学、科学与文明",
+      "title_en": "Preface: Rethinking Mathematics, Science, and Civilization",
+      "char_span": [
+        20,
+        5598
+      ],
+      "english_char_span": [
+        71,
+        14203
+      ],
+      "source_file": "zh-chapters/01.md",
+      "english_source_file": "en-chapters/01.md",
+      "sha256": "31ae1c3d1783d3f4b2865965d3ad54ef3b2898520ab85c6c91f802372164a73d",
+      "english_sha256": "b1b58d33e1b5295bf3d56de6bdab96721f822e86131ecf6b4bfeb1301331587f",
+      "english_source_sha256": "b1b58d33e1b5295bf3d56de6bdab96721f822e86131ecf6b4bfeb1301331587f",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "前言：为什么要重新考察数学、科学与文明",
+          "en": "Preface: Rethinking Mathematics, Science, and Civilization"
+        },
+        {
+          "level": 3,
+          "zh": "从数学与科学的关系开始",
+          "en": "Beginning with the Relationship Between Mathematics and Science"
+        },
+        {
+          "level": 3,
+          "zh": "为什么要暂时走出熟悉的框架",
+          "en": "Why Step Outside a Familiar Framework?"
+        },
+        {
+          "level": 3,
+          "zh": "从理解世界到共同构造文明",
+          "en": "From Understanding the World to Building Civilization Together"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "02",
+      "title_zh": "极限、悖论与认识的边界",
+      "title_en": "Limits, Paradoxes, and the Boundaries of Understanding",
+      "char_span": [
+        5598,
+        9506
+      ],
+      "english_char_span": [
+        14203,
+        24437
+      ],
+      "source_file": "zh-chapters/02.md",
+      "english_source_file": "en-chapters/02.md",
+      "sha256": "9dcb8457344824fdb0c556b8d20dee7855f909ac2d7ed65fcb1a54b41a99bba7",
+      "english_sha256": "3f6ff020295aec7e8bb27ff80de8d674641e6843407df7fb4772a2218b95edc3",
+      "english_source_sha256": "3f6ff020295aec7e8bb27ff80de8d674641e6843407df7fb4772a2218b95edc3",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "极限、悖论与认识的边界",
+          "en": "Limits, Paradoxes, and the Boundaries of Understanding"
+        },
+        {
+          "level": 3,
+          "zh": "走完一段路，是否必须先完成无穷件事情",
+          "en": "Must We Complete Infinitely Many Tasks to Finish a Journey?"
+        },
+        {
+          "level": 3,
+          "zh": "同一个事物，可以在什么意义上相同",
+          "en": "In What Sense Are Two Things the Same?"
+        },
+        {
+          "level": 3,
+          "zh": "一个系统开始描述自己，会发生什么",
+          "en": "What Happens When a System Describes Itself?"
+        },
+        {
+          "level": 3,
+          "zh": "有限的观察者，怎样面对越来越大的构造空间",
+          "en": "Finite Observers in an Expanding Space of Possibilities"
+        }
+      ],
+      "external_links": [
+        "https://homotopytypetheory.org/book/",
+        "https://www.tac.mta.ca/tac/reprints/articles/15/tr15abs.html"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "03",
+      "title_zh": "存在、变化与可构造性",
+      "title_en": "Existence, Change, and Constructibility",
+      "char_span": [
+        9506,
+        13352
+      ],
+      "english_char_span": [
+        24437,
+        34503
+      ],
+      "source_file": "zh-chapters/03.md",
+      "english_source_file": "en-chapters/03.md",
+      "sha256": "54917b71ba1711a570062674c47654250cb239b42705ee467f66846249829a73",
+      "english_sha256": "26b65472ad57861f3716d768fdfbbc88faea7ed167c6a1a40468a77b2759fe9f",
+      "english_source_sha256": "26b65472ad57861f3716d768fdfbbc88faea7ed167c6a1a40468a77b2759fe9f",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "存在、变化与可构造性",
+          "en": "Existence, Change, and Constructibility"
+        },
+        {
+          "level": 3,
+          "zh": "存在、变化与稳定的构造",
+          "en": "Stable Existence and Stable Construction"
+        },
+        {
+          "level": 3,
+          "zh": "为什么想把对象与变化放进同一个基本概念",
+          "en": "Could Objects and Transformations Share a More Basic Concept?"
+        },
+        {
+          "level": 3,
+          "zh": "内部结构与外部联系，怎样彼此说明",
+          "en": "Internal Structure and External Relationships"
+        },
+        {
+          "level": 3,
+          "zh": "容纳未定，并不需要取消已经确定的规则",
+          "en": "Accommodating Uncertainty Without Abandoning Rules"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "04",
+      "title_zh": "不动点、最小化、最大化与涌现",
+      "title_en": "Fixed Points, Minimization, Maximization, and Emergence",
+      "char_span": [
+        13352,
+        17960
+      ],
+      "english_char_span": [
+        34503,
+        45285
+      ],
+      "source_file": "zh-chapters/04.md",
+      "english_source_file": "en-chapters/04.md",
+      "sha256": "cb6c2d6634b5f10f78598ffb37c335237c867e1cff30559535b625f5f217da2b",
+      "english_sha256": "cf2975016f06d3114b8c13c8abb5b71d037527dff37c53975b36d3deb62b9a7a",
+      "english_source_sha256": "cf2975016f06d3114b8c13c8abb5b71d037527dff37c53975b36d3deb62b9a7a",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "不动点、最小化、最大化与涌现",
+          "en": "Fixed Points, Minimization, Maximization, and Emergence"
+        },
+        {
+          "level": 3,
+          "zh": "不动点，是相对于什么不动",
+          "en": "Fixed with Respect to What?"
+        },
+        {
+          "level": 3,
+          "zh": "为什么最小化与最大化可以同时发生",
+          "en": "How Can Minimization and Maximization Occur Together?"
+        },
+        {
+          "level": 3,
+          "zh": "最短的描述，与最省力的构造，是同一个问题吗",
+          "en": "Is the Shortest Description Also the Cheapest Construction?"
+        },
+        {
+          "level": 3,
+          "zh": "统一原理怎样进入具体学科",
+          "en": "Bringing a General Principle into Particular Disciplines"
+        }
+      ],
+      "external_links": [
+        "https://homepages.cwi.nl/~paulv/papers/incomp.pdf"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "05",
+      "title_zh": "物理世界与层层构造的自然",
+      "title_en": "The Physical World and Nature's Successive Levels of Construction",
+      "char_span": [
+        17960,
+        21503
+      ],
+      "english_char_span": [
+        45285,
+        54313
+      ],
+      "source_file": "zh-chapters/05.md",
+      "english_source_file": "en-chapters/05.md",
+      "sha256": "e11159c200a5fc6e42a43b2cb3474fe77cec6e1345a77121e0f3f13b49f86c46",
+      "english_sha256": "b1172af566343c4222834b1df989273f9c3f974b5f49862d06180720a4a53b21",
+      "english_source_sha256": "b1172af566343c4222834b1df989273f9c3f974b5f49862d06180720a4a53b21",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "物理世界与层层构造的自然",
+          "en": "The Physical World and Nature's Successive Levels of Construction"
+        },
+        {
+          "level": 3,
+          "zh": "积木为什么能够构造，积木本身又从哪里来",
+          "en": "Why Can Building Blocks Build—and Where Do They Come From?"
+        },
+        {
+          "level": 3,
+          "zh": "为什么有些构件特别善于形成丰富结构",
+          "en": "Why Are Some Components Especially Versatile?"
+        },
+        {
+          "level": 3,
+          "zh": "有序结构与熵增，为什么能够同时存在",
+          "en": "How Can Order Arise While Entropy Increases?"
+        },
+        {
+          "level": 3,
+          "zh": "更复杂的结构，是否一定带来更快的演化",
+          "en": "Does Greater Complexity Necessarily Accelerate Evolution?"
+        },
+        {
+          "level": 3,
+          "zh": "怎样让宏大的问题进入可研究的范围",
+          "en": "Making Large Questions Researchable"
+        }
+      ],
+      "external_links": [
+        "https://pubmed.ncbi.nlm.nih.gov/17738519/"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "06",
+      "title_zh": "意识、信息与自我驱动的智能",
+      "title_en": "Consciousness, Information, and Self-Directed Intelligence",
+      "char_span": [
+        21503,
+        25922
+      ],
+      "english_char_span": [
+        54313,
+        64630
+      ],
+      "source_file": "zh-chapters/06.md",
+      "english_source_file": "en-chapters/06.md",
+      "sha256": "680254704fdb9a383cb7f5de4b70b4f5900d35a687a55beef078957bd2e62b69",
+      "english_sha256": "2ca10522c02d937177763c0c29b13949f825a603a625657deeac620a3066e773",
+      "english_source_sha256": "2ca10522c02d937177763c0c29b13949f825a603a625657deeac620a3066e773",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "意识、信息与自我驱动的智能",
+          "en": "Consciousness, Information, and Self-Directed Intelligence"
+        },
+        {
+          "level": 3,
+          "zh": "从能够区分，到能够根据区别采取行动",
+          "en": "From Distinguishing Conditions to Acting on Them"
+        },
+        {
+          "level": 3,
+          "zh": "从细胞反应到人的意识，中间的层次怎样展开",
+          "en": "From Cellular Responses to Human Consciousness"
+        },
+        {
+          "level": 3,
+          "zh": "抽象与压缩，为什么与理解有关",
+          "en": "Why Do Abstraction and Compression Matter for Understanding?"
+        },
+        {
+          "level": 3,
+          "zh": "自我驱动，为什么不能只靠等待别人提问",
+          "en": "Why Self-Direction Requires More Than Waiting for Questions"
+        }
+      ],
+      "external_links": [
+        "https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/a4175d61479a35340d6307ae5e48ef5a_18-s097iap19textbook.pdf",
+        "https://research.ibm.com/publications/the-thermodynamics-of-computation-a-review"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "07",
+      "title_zh": "合作、冲突与社会结构的形成",
+      "title_en": "Cooperation, Conflict, and the Formation of Social Structures",
+      "char_span": [
+        25922,
+        32593
+      ],
+      "english_char_span": [
+        64630,
+        78786
+      ],
+      "source_file": "zh-chapters/07.md",
+      "english_source_file": "en-chapters/07.md",
+      "sha256": "d2dfda8716fb04b789625ebe4ab6b35ad6b92a021c81cc2dc3145103294e6cd7",
+      "english_sha256": "22c9a4d2d2024a9a776504738ec2ea753ffd509baf27236f751e9dd7da2bfe8c",
+      "english_source_sha256": "22c9a4d2d2024a9a776504738ec2ea753ffd509baf27236f751e9dd7da2bfe8c",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "合作、冲突与社会结构的形成",
+          "en": "Cooperation, Conflict, and the Formation of Social Structures"
+        },
+        {
+          "level": 3,
+          "zh": "从原子之间的结合，理解人之间的联系",
+          "en": "From Atomic Bonds to Human Relationships"
+        },
+        {
+          "level": 3,
+          "zh": "强硬与温和，是怎样形成的",
+          "en": "How Do Conciliatory and Confrontational Tendencies Develop?"
+        },
+        {
+          "level": 3,
+          "zh": "一个博弈模型没有写出的因素，并不等于不存在",
+          "en": "What a Model Leaves Out May Still Matter"
+        },
+        {
+          "level": 3,
+          "zh": "为什么一次成功，会改变下一次选择",
+          "en": "Why Does Success Change the Next Choice?"
+        },
+        {
+          "level": 3,
+          "zh": "保留差异，为什么可能比消灭差异更有力量",
+          "en": "Why Preserving Differences Can Be More Powerful Than Eliminating Them"
+        },
+        {
+          "level": 3,
+          "zh": "理解冲突的形成，并不等于放任伤害",
+          "en": "Understanding Conflict Does Not Mean Allowing Harm"
+        }
+      ],
+      "external_links": [
+        "https://pubmed.ncbi.nlm.nih.gov/7466396/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2650118/"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "08",
+      "title_zh": "机器、人工智能与平等的物质条件",
+      "title_en": "Machines, AI, and the Material Conditions of Equality",
+      "char_span": [
+        32593,
+        35956
+      ],
+      "english_char_span": [
+        78786,
+        86707
+      ],
+      "source_file": "zh-chapters/08.md",
+      "english_source_file": "en-chapters/08.md",
+      "sha256": "784e832c755d3f1fcae3d960cbff762ff2283ca86199ea89d0f4b23c86db30cf",
+      "english_sha256": "9a3917e47366f43b306b00aea9358e43de9caaee241eca069da43769427ee1cc",
+      "english_source_sha256": "9a3917e47366f43b306b00aea9358e43de9caaee241eca069da43769427ee1cc",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "机器、人工智能与平等的物质条件",
+          "en": "Machines, AI, and the Material Conditions of Equality"
+        },
+        {
+          "level": 3,
+          "zh": "智力劳动为什么也能发生机器革命",
+          "en": "Intellectual Work Can Have a Machine Revolution Too"
+        },
+        {
+          "level": 3,
+          "zh": "平等不要求每个人变成同一个人",
+          "en": "Equality Does Not Require Identical People"
+        },
+        {
+          "level": 3,
+          "zh": "生产力增加以后，为什么还需要改变组织形式",
+          "en": "Why Greater Productivity Still Requires Institutional Change"
+        },
+        {
+          "level": 3,
+          "zh": "工作减少以后，创造是否也会消失",
+          "en": "If There Is Less Work, Will There Be Less Creation?"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "09",
+      "title_zh": "语言、公共知识与文明的共同记忆",
+      "title_en": "Language, Common Knowledge, and Civilization's Memory",
+      "char_span": [
+        35956,
+        39342
+      ],
+      "english_char_span": [
+        86707,
+        94411
+      ],
+      "source_file": "zh-chapters/09.md",
+      "english_source_file": "en-chapters/09.md",
+      "sha256": "89e1984b6fe2ac35951bf11d630e5b79fe6de835c991032f158cb5513b61ee5d",
+      "english_sha256": "8e777f7fa85dd7d8331c9eec55496dbeedc9c14bc5122dce221bed5e4636c649",
+      "english_source_sha256": "8e777f7fa85dd7d8331c9eec55496dbeedc9c14bc5122dce221bed5e4636c649",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "语言、公共知识与文明的共同记忆",
+          "en": "Language, Common Knowledge, and Civilization's Memory"
+        },
+        {
+          "level": 3,
+          "zh": "先有一个名字，还是先完全知道它是什么",
+          "en": "Can We Name Something Before We Fully Understand It?"
+        },
+        {
+          "level": 3,
+          "zh": "共同知道，比把文件放在网上更进一步",
+          "en": "Common Knowledge Is More Than a File on the Internet"
+        },
+        {
+          "level": 3,
+          "zh": "为什么要把知识的身份与保存位置分开",
+          "en": "Why Separate a Piece of Knowledge from Its Storage Location?"
+        },
+        {
+          "level": 3,
+          "zh": "从网页之间的连接，到知识内部的连接",
+          "en": "From Links Between Pages to Links Within Knowledge"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "10",
+      "title_zh": "个人知识的语义空间与时间线",
+      "title_en": "The Semantic Space and Timeline of Personal Knowledge",
+      "char_span": [
+        39342,
+        42861
+      ],
+      "english_char_span": [
+        94411,
+        102789
+      ],
+      "source_file": "zh-chapters/10.md",
+      "english_source_file": "en-chapters/10.md",
+      "sha256": "17e4793799b42db45109c1ef12794544f3c7033d7920ea2d2d8b40169ddc2d1a",
+      "english_sha256": "51284f3959f86fcd01db369b5a030a6489bc75e27f51aba1eb3451d530795d5b",
+      "english_source_sha256": "51284f3959f86fcd01db369b5a030a6489bc75e27f51aba1eb3451d530795d5b",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "个人知识的语义空间与时间线",
+          "en": "The Semantic Space and Timeline of Personal Knowledge"
+        },
+        {
+          "level": 3,
+          "zh": "语义空间与演化空间，是两个相互联系的方向",
+          "en": "Meaning and Evolution Are Related but Distinct"
+        },
+        {
+          "level": 3,
+          "zh": "树状目录之下，为什么需要一张图",
+          "en": "Why a Reading Tree Needs a Graph Underneath"
+        },
+        {
+          "level": 3,
+          "zh": "原话、提炼与判断，为什么都要保留",
+          "en": "Preserve the Words, the Interpretation, and the Judgment"
+        },
+        {
+          "level": 3,
+          "zh": "资料怎样进入个人知识系统",
+          "en": "Bringing Material into the System"
+        },
+        {
+          "level": 3,
+          "zh": "记录的目的，是让想法继续生长",
+          "en": "A Record Should Help Ideas Grow"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "11",
+      "title_zh": "从反复思考到可以复用的能力",
+      "title_en": "From Repeated Reasoning to Reusable Capability",
+      "char_span": [
+        42861,
+        46707
+      ],
+      "english_char_span": [
+        102789,
+        111223
+      ],
+      "source_file": "zh-chapters/11.md",
+      "english_source_file": "en-chapters/11.md",
+      "sha256": "99eaacbde750af25643476937107b86e10ca9ac70d08dbf705f9e668e6a3ea64",
+      "english_sha256": "ae48d2405abad19ceed3f0db42500bb03a8b2faaad8fdbb385b63ef9f2eb5f41",
+      "english_source_sha256": "ae48d2405abad19ceed3f0db42500bb03a8b2faaad8fdbb385b63ef9f2eb5f41",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "从反复思考到可以复用的能力",
+          "en": "From Repeated Reasoning to Reusable Capability"
+        },
+        {
+          "level": 3,
+          "zh": "一次探索，怎样成为下一次可以使用的能力",
+          "en": "Turning an Exploration into a Capability"
+        },
+        {
+          "level": 3,
+          "zh": "从一个本地入口开始，把宏观任务和微观功能连接起来",
+          "en": "A Local Entry Point Connecting Large Tasks to Small Functions"
+        },
+        {
+          "level": 3,
+          "zh": "自然语言入口，不等于把所有界面都变成聊天框",
+          "en": "A Natural-Language Entry Point Need Not Be a Chat Window"
+        },
+        {
+          "level": 3,
+          "zh": "更低层的实现，为什么有时反而更慢",
+          "en": "Why Can a Lower-Level Implementation Be Slower?"
+        },
+        {
+          "level": 3,
+          "zh": "能力怎样在反馈中继续改变",
+          "en": "Capabilities Must Keep Learning from Feedback"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "12",
+      "title_zh": "新语言、Structoken 与 FPM",
+      "title_en": "A New Language, Structoken, and FPM",
+      "char_span": [
+        46707,
+        51560
+      ],
+      "english_char_span": [
+        111223,
+        121657
+      ],
+      "source_file": "zh-chapters/12.md",
+      "english_source_file": "en-chapters/12.md",
+      "sha256": "e15f5a40f3665312431bb1ba5ca47963c90c1dfd0e77334d1865ab2a6fb2c575",
+      "english_sha256": "de45cb1aae250647f29ac0f6d5e0cd915d462327c5db95d028f255170b741306",
+      "english_source_sha256": "de45cb1aae250647f29ac0f6d5e0cd915d462327c5db95d028f255170b741306",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "新语言、Structoken 与 FPM",
+          "en": "A New Language, Structoken, and FPM"
+        },
+        {
+          "level": 3,
+          "zh": "让自然语言成为丰富的入口，让内部关系保持明确",
+          "en": "Rich Human Expression, Explicit Internal Relationships"
+        },
+        {
+          "level": 3,
+          "zh": "内容标识，怎样参与语言与依赖结构",
+          "en": "Content Identity in a Language and Its Dependencies"
+        },
+        {
+          "level": 3,
+          "zh": "哈希值之间的距离，不是意义之间的距离",
+          "en": "Hash Distance Is Not Semantic Distance"
+        },
+        {
+          "level": 3,
+          "zh": "Structoken：结构可能保存在哪里",
+          "en": "Structoken: Where Might Structure Be Represented?"
+        },
+        {
+          "level": 3,
+          "zh": "不确定性也可以有类型和内部结构",
+          "en": "Uncertainty Can Have Types and Structure"
+        },
+        {
+          "level": 3,
+          "zh": "FPM 与认知前端：共同结构和个体表达怎样分工",
+          "en": "FPM and Cognitive Front Ends"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "13",
+      "title_zh": "MerkleVM 与可以生长的软件种子",
+      "title_en": "MerkleVM and a Software Seed That Can Grow",
+      "char_span": [
+        51560,
+        55414
+      ],
+      "english_char_span": [
+        121657,
+        129689
+      ],
+      "source_file": "zh-chapters/13.md",
+      "english_source_file": "en-chapters/13.md",
+      "sha256": "291fa5a0446264ca3f589998da057509c856c317731277c75fd73b86138b7947",
+      "english_sha256": "89793f7ca03964d04b009016d9b56681556464a935e4b5de097ce18f610d1e2f",
+      "english_source_sha256": "89793f7ca03964d04b009016d9b56681556464a935e4b5de097ce18f610d1e2f",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "MerkleVM 与可以生长的软件种子",
+          "en": "MerkleVM and a Software Seed That Can Grow"
+        },
+        {
+          "level": 3,
+          "zh": "一台手机，怎样使用分散在其他地方的能力",
+          "en": "Using a Phone to Reach Capabilities Elsewhere"
+        },
+        {
+          "level": 3,
+          "zh": "从个人空间到共同网络，哪些内容可以共享",
+          "en": "What Can Personal Spaces Share?"
+        },
+        {
+          "level": 3,
+          "zh": "种子怎样先利用旧系统，再逐步改造它",
+          "en": "A Seed That Uses Existing Systems Before Replacing Them"
+        },
+        {
+          "level": 3,
+          "zh": "让 AI 能够工作，也让个人保有控制",
+          "en": "Letting AI Work While Keeping the Person in Control"
+        },
+        {
+          "level": 3,
+          "zh": "自举：让构造工具逐渐参与自己的成长",
+          "en": "Bootstrapping Tools That Help Improve Themselves"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "14",
+      "title_zh": "AI时代的Merkle-DAG语言与软件生态",
+      "title_en": "Merkle-DAG Languages and Software in the AI Era",
+      "char_span": [
+        55414,
+        68419
+      ],
+      "english_char_span": [
+        129689,
+        156490
+      ],
+      "source_file": "zh-chapters/14.md",
+      "english_source_file": "en-chapters/14.md",
+      "sha256": "7280974a9430354cc58486773096127ca05205a98299e0486180c5a02bf20e4b",
+      "english_sha256": "af89bd0e16248bbfad1f2684f35d61debe984a34b33ef3f2d438cd3fe38d06ce",
+      "english_source_sha256": "af89bd0e16248bbfad1f2684f35d61debe984a34b33ef3f2d438cd3fe38d06ce",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "AI时代的Merkle-DAG语言与软件生态",
+          "en": "Merkle-DAG Languages and Software in the AI Era"
+        },
+        {
+          "level": 3,
+          "zh": "计算机内部，为什么到处都是人的习惯",
+          "en": "Why Are Human Conventions Everywhere Inside Computers?"
+        },
+        {
+          "level": 3,
+          "zh": "当构造者变成AI，机器还需要模仿人的操作吗",
+          "en": "Must an AI Builder Imitate Human Operations?"
+        },
+        {
+          "level": 3,
+          "zh": "从一段代码到整个网络，为什么要反复换一种组织方式",
+          "en": "Why Reorganize the Same Objects at Every Boundary?"
+        },
+        {
+          "level": 3,
+          "zh": "对象的名字，怎样由它自身的构造来决定",
+          "en": "Deriving an Object's Identity from Its Construction"
+        },
+        {
+          "level": 3,
+          "zh": "底层改进以后，上层怎样沿着依赖链生长",
+          "en": "Propagating Improvements Through Dependencies"
+        },
+        {
+          "level": 3,
+          "zh": "逻辑上拆得细，物理上就一定要存得碎吗",
+          "en": "Fine-Grained Logic Does Not Require Fragmented Storage"
+        },
+        {
+          "level": 3,
+          "zh": "从选择一个品牌，变成组合自己需要的能力",
+          "en": "Choosing Capabilities Instead of Committing to a Brand"
+        },
+        {
+          "level": 3,
+          "zh": "共同底座怎样容纳不同语言、平台和设备",
+          "en": "A Shared Foundation for Different Languages, Platforms, and Devices"
+        },
+        {
+          "level": 3,
+          "zh": "让软件种子从兼容走向真正的替代",
+          "en": "Growing Beyond Compatibility Wrappers"
+        },
+        {
+          "level": 3,
+          "zh": "效率为什么可能提高，又怎样知道确实提高了",
+          "en": "Where Might Efficiency Improve—and How Would We Know?"
+        },
+        {
+          "level": 3,
+          "zh": "为什么这也是新文明的信息科学底座",
+          "en": "An Information Foundation for a Different Civilization"
+        }
+      ],
+      "external_links": [
+        "https://ipld.io/docs/data-model/",
+        "https://www.unison-lang.org/docs/the-big-idea/",
+        "https://www.unison-lang.org/docs/usage-topics/workflow-how-tos/update-code/",
+        "https://mlir.llvm.org/docs/Rationale/Rationale/"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "15",
+      "title_zh": "人和 AI 怎样共同研究与构造",
+      "title_en": "How People and AI Can Research and Build Together",
+      "char_span": [
+        68419,
+        71786
+      ],
+      "english_char_span": [
+        156490,
+        164655
+      ],
+      "source_file": "zh-chapters/15.md",
+      "english_source_file": "en-chapters/15.md",
+      "sha256": "9cd9866d97a6540dee3625d13e7b7e72906f67e5915e2f264875463633abaae7",
+      "english_sha256": "641bb4302ba6360cb2e3b753a6ca049e0f25ed596ccc78304463b16bfbbe0f53",
+      "english_source_sha256": "641bb4302ba6360cb2e3b753a6ca049e0f25ed596ccc78304463b16bfbbe0f53",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "人和 AI 怎样共同研究与构造",
+          "en": "How People and AI Can Research and Build Together"
+        },
+        {
+          "level": 3,
+          "zh": "多种智能怎样合作，又怎样避免重复相信同一个错误",
+          "en": "Cooperation Without Repeating the Same Error"
+        },
+        {
+          "level": 3,
+          "zh": "曾经写过的代码，与现在应该构造的代码",
+          "en": "Code That Has Been Written and Code That Should Be Built"
+        },
+        {
+          "level": 3,
+          "zh": "没有验证器时，研究怎样开始",
+          "en": "Starting Research Without an Existing Verifier"
+        },
+        {
+          "level": 3,
+          "zh": "一个有限实验，怎样帮助修正宏大的设想",
+          "en": "How a Small Experiment Can Revise a Large Proposal"
+        },
+        {
+          "level": 3,
+          "zh": "研究记录为什么要包括失败、分歧和成本",
+          "en": "Why Preserve Failures, Disagreements, and Costs?"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "16",
+      "title_zh": "具有感官与行动能力的文明智能",
+      "title_en": "Civilizational Intelligence with Senses and the Capacity to Act",
+      "char_span": [
+        71786,
+        81186
+      ],
+      "english_char_span": [
+        164655,
+        189215
+      ],
+      "source_file": "zh-chapters/16.md",
+      "english_source_file": "en-chapters/16.md",
+      "sha256": "d9713815d7bab1208eecc9704c980b10fa87359cad6c2f00d891c1d20bbf9c05",
+      "english_sha256": "70abb350b53f125bcc1419c331f002143c16120ecc7e158999f64ab7eea34716",
+      "english_source_sha256": "70abb350b53f125bcc1419c331f002143c16120ecc7e158999f64ab7eea34716",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "具有感官与行动能力的文明智能",
+          "en": "Civilizational Intelligence with Senses and the Capacity to Act"
+        },
+        {
+          "level": 3,
+          "zh": "智力劳动中的机器，也需要感官和手脚",
+          "en": "Machines for Intellectual Work Need Senses and Hands"
+        },
+        {
+          "level": 3,
+          "zh": "共同的中枢意味着什么",
+          "en": "What Does a Shared Center of Coordination Mean?"
+        },
+        {
+          "level": 3,
+          "zh": "能力增长为什么可以改变合作的条件",
+          "en": "Greater Capabilities Can Change the Conditions of Cooperation"
+        },
+        {
+          "level": 3,
+          "zh": "超级智能为什么总被想象成老大哥",
+          "en": "Why Do We Keep Imagining Superintelligence as Big Brother?"
+        },
+        {
+          "level": 3,
+          "zh": "超级智能为什么应当选择说服，而不是强迫",
+          "en": "Why Superintelligence Should Choose Persuasion over Coercion"
+        },
+        {
+          "level": 3,
+          "zh": "获取合作信息，不等于全面接管个人生活",
+          "en": "Cooperation Requires Information, Not Control of Everyone's Life"
+        },
+        {
+          "level": 3,
+          "zh": "不要让旧制度规定未来想象的边界",
+          "en": "Existing Institutions Must Not Set the Limits of Our Imagination"
+        },
+        {
+          "level": 3,
+          "zh": "怎样理解对未来的担心",
+          "en": "Taking Concerns About the Future Seriously"
+        }
+      ],
+      "external_links": [
+        "https://nickbostrom.com/superintelligentwill.pdf",
+        "https://deepmind.google/blog/specification-gaming-the-flip-side-of-ai-ingenuity/",
+        "https://history.state.gov/historicaldocuments/frus1969-76v21/d93"
+      ],
+      "review": {
+        "status": "editorial-reviewed",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "17",
+      "title_zh": "动态权重的社会神经网络",
+      "title_en": "A Social Neural Network with Dynamic Decision Weights",
+      "char_span": [
+        81186,
+        91338
+      ],
+      "english_char_span": [
+        189215,
+        212111
+      ],
+      "source_file": "zh-chapters/17.md",
+      "english_source_file": "en-chapters/17.md",
+      "sha256": "93f86be77ac3cffb7d5bf5251cff03aa87b1deaf263d52c103691d243533266b",
+      "english_sha256": "80b9148d58e0b6e350aaa0cdad63a48a193e303032007080a3f7777f0c2cebbf",
+      "english_source_sha256": "80b9148d58e0b6e350aaa0cdad63a48a193e303032007080a3f7777f0c2cebbf",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "动态权重的社会神经网络",
+          "en": "A Social Neural Network with Dynamic Decision Weights"
+        },
+        {
+          "level": 3,
+          "zh": "决策节点为什么要从固定的人和职位中解放出来",
+          "en": "Freeing Decision Functions from Fixed People and Positions"
+        },
+        {
+          "level": 3,
+          "zh": "从垃圾邮件的判断，理解一个能够学习的决策过程",
+          "en": "Learning from the Example of Spam Detection"
+        },
+        {
+          "level": 3,
+          "zh": "个人 AI 怎样使广泛参与成为日常能力",
+          "en": "Personal AI as a Practical Means of Participation"
+        },
+        {
+          "level": 3,
+          "zh": "反馈为什么比一次性的权威判断更重要",
+          "en": "Feedback Matters More Than a One-Time Authoritative Judgment"
+        },
+        {
+          "level": 3,
+          "zh": "权重会不会重新变成特权",
+          "en": "Could Weights Become Privileges Again?"
+        },
+        {
+          "level": 3,
+          "zh": "公平的发展条件、能力多样性与跨领域合作",
+          "en": "Fair Conditions for Development, Diverse Abilities, and Cooperation Across Fields"
+        },
+        {
+          "level": 4,
+          "zh": "能力的成长条件，也属于制度需要解决的问题",
+          "en": "Institutions Shape the Conditions in Which Abilities Grow"
+        },
+        {
+          "level": 4,
+          "zh": "不同的能力结构，可以在合作中形成互补",
+          "en": "Different Ability Profiles Can Complement One Another"
+        },
+        {
+          "level": 4,
+          "zh": "跨领域的深度合作，需要把各方的条件连接起来",
+          "en": "Deep Cooperation Requires Connecting Each Field's Conditions"
+        },
+        {
+          "level": 4,
+          "zh": "让专业优势服务于共同创造",
+          "en": "Putting Expertise to Work for Shared Creation"
+        }
+      ],
+      "external_links": [
+        "https://jenni.uchicago.edu/papers/Cunha-Heckman_AER_v97n2_2007.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5948972/",
+        "https://bitcoin.org/bitcoin.pdf"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "18",
+      "title_zh": "从注意力到可演化的文明运行时",
+      "title_en": "From Attention to an Evolving Civilizational Runtime",
+      "char_span": [
+        91338,
+        99262
+      ],
+      "english_char_span": [
+        212111,
+        236971
+      ],
+      "source_file": "zh-chapters/18.md",
+      "english_source_file": "en-chapters/18.md",
+      "sha256": "fb9f2ac1711c794f86b03429fc7c32db306f70c3383dabbdb39b9e86f985d95b",
+      "english_sha256": "d1ec02808e392d9bdbdecac5891c74c1c3015154e4056436b41d913550d0b593",
+      "english_source_sha256": "d1ec02808e392d9bdbdecac5891c74c1c3015154e4056436b41d913550d0b593",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "从注意力到可演化的文明运行时",
+          "en": "From Attention to an Evolving Civilizational Runtime"
+        },
+        {
+          "level": 3,
+          "zh": "资源有限，为什么必须有所关注",
+          "en": "Limited resources and selective attention"
+        },
+        {
+          "level": 3,
+          "zh": "个人空间与共同空间中的QKV",
+          "en": "QKV in personal and shared spaces"
+        },
+        {
+          "level": 3,
+          "zh": "对象会变化，所以必须进入运行时",
+          "en": "Changing objects require a runtime"
+        },
+        {
+          "level": 3,
+          "zh": "顺序依赖与并行探索怎样结合",
+          "en": "Combining sequential dependencies with parallel exploration"
+        },
+        {
+          "level": 3,
+          "zh": "多个视角怎样形成可以执行的方案",
+          "en": "Turning multiple perspectives into an executable plan"
+        },
+        {
+          "level": 3,
+          "zh": "从博弈结果转向合作规则",
+          "en": "From the outcomes of a game to the rules of cooperation"
+        },
+        {
+          "level": 3,
+          "zh": "持续状态与新事物的出现",
+          "en": "Persistent states and the emergence of new things"
+        },
+        {
+          "level": 3,
+          "zh": "从最小合作场景开始检验",
+          "en": "Testing a small cooperative setting"
+        }
+      ],
+      "external_links": [
+        "https://pubmed.ncbi.nlm.nih.gov/9142748/",
+        "https://arxiv.org/html/1706.03762v7",
+        "https://arxiv.org/abs/2006.10637",
+        "https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf",
+        "https://www.mit.edu/~6.7980/nfgs_nash.html",
+        "https://timroughgarden.org/f13/l/l2.pdf",
+        "https://www.cs.cornell.edu/~eva/algorithmic-game-theory.pdf",
+        "https://www.ma.huji.ac.il/hart/papers/adapt.pdf",
+        "https://mlanthology.org/icml/1994/littman1994icml-markov/",
+        "https://www.mit.edu/~6.7980/stochastic_games.html",
+        "https://arxiv.org/abs/1909.07528",
+        "https://proceedings.mlr.press/v119/wang20l.html"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "19",
+      "title_zh": "个人需求与集体资源的两种分配",
+      "title_en": "Personal Needs and Collective Resources",
+      "char_span": [
+        99262,
+        104483
+      ],
+      "english_char_span": [
+        236971,
+        248038
+      ],
+      "source_file": "zh-chapters/19.md",
+      "english_source_file": "en-chapters/19.md",
+      "sha256": "3f21d05c40cba24f3a931a8b8abb0063510da2c6e28f30db2572121e417edf93",
+      "english_sha256": "55b5cd44c872c0682ad9af3a7d8ed4609ffab77f17e70787b754b44de1be8124",
+      "english_source_sha256": "55b5cd44c872c0682ad9af3a7d8ed4609ffab77f17e70787b754b44de1be8124",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "个人需求与集体资源的两种分配",
+          "en": "Personal Needs and Collective Resources"
+        },
+        {
+          "level": 3,
+          "zh": "个人能够消费的东西，与共同体需要组织的东西",
+          "en": "What a Person Uses and What a Community Must Organize"
+        },
+        {
+          "level": 3,
+          "zh": "为什么共同生产资源不能按个人消费来理解",
+          "en": "Collective Productive Resources Are Different from Personal Consumption"
+        },
+        {
+          "level": 3,
+          "zh": "贡献更多的人，为什么愿意参加",
+          "en": "Why Would Those Who Contribute More Join?"
+        },
+        {
+          "level": 3,
+          "zh": "个人生活为什么不应由一次评分决定",
+          "en": "A Judgment Score Should Not Determine a Person's Livelihood"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "20",
+      "title_zh": "产品、组织与决策的全面开放",
+      "title_en": "Opening Products, Organizations, and Decisions",
+      "char_span": [
+        104483,
+        108572
+      ],
+      "english_char_span": [
+        248038,
+        256013
+      ],
+      "source_file": "zh-chapters/20.md",
+      "english_source_file": "en-chapters/20.md",
+      "sha256": "a8f87cabcd1d5b217a7cbf54185e4e21da2b49a72ee7d40cb086083539101b29",
+      "english_sha256": "e6bd3dd92758d92273e7dac017392bd5f2a2afa4a76c483186bee1d6129e9a54",
+      "english_source_sha256": "e6bd3dd92758d92273e7dac017392bd5f2a2afa4a76c483186bee1d6129e9a54",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "产品、组织与决策的全面开放",
+          "en": "Opening Products, Organizations, and Decisions"
+        },
+        {
+          "level": 3,
+          "zh": "谁拥有对 AI 掌控权的控制权",
+          "en": "Who Controls the Power to Control AI?"
+        },
+        {
+          "level": 3,
+          "zh": "消费者为什么也可以成为生产者",
+          "en": "Consumers Can Also Be Producers"
+        },
+        {
+          "level": 3,
+          "zh": "共享贡献，怎样避免贡献者被抹掉",
+          "en": "Sharing Work Without Erasing Its Contributors"
+        },
+        {
+          "level": 3,
+          "zh": "从品牌之间的竞争，走向共同构造产品",
+          "en": "From Competing Brands to Building Products Together"
+        },
+        {
+          "level": 3,
+          "zh": "规模扩大为什么不应该变成新的垄断",
+          "en": "Growth Should Expand Capability, Not Monopoly"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "21",
+      "title_zh": "个人数据主权、隐私与公共知识",
+      "title_en": "Personal Data Sovereignty, Privacy, and Common Knowledge",
+      "char_span": [
+        108572,
+        112919
+      ],
+      "english_char_span": [
+        256013,
+        264917
+      ],
+      "source_file": "zh-chapters/21.md",
+      "english_source_file": "en-chapters/21.md",
+      "sha256": "7d07d1adb321a318bf773604fdd06a637db49168360f0a35d06872785eeb7f1a",
+      "english_sha256": "d974cc45bd0caabaac64ddb67391971fbd3bfe42c7b5533c531f9b6ae92c5eb0",
+      "english_source_sha256": "d974cc45bd0caabaac64ddb67391971fbd3bfe42c7b5533c531f9b6ae92c5eb0",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "个人数据主权、隐私与公共知识",
+          "en": "Personal Data Sovereignty, Privacy, and Common Knowledge"
+        },
+        {
+          "level": 3,
+          "zh": "个人数字空间，为什么也是个人能力的一部分",
+          "en": "Digital Space Is Part of Personal Capability"
+        },
+        {
+          "level": 3,
+          "zh": "隐私背后的权力关系",
+          "en": "The Power Relationships Behind Privacy"
+        },
+        {
+          "level": 3,
+          "zh": "全部记录与全部公开之间，需要什么联系",
+          "en": "A Complete Personal Record Is Not Universal Public Access"
+        },
+        {
+          "level": 3,
+          "zh": "可追溯的记忆，如何支持持续变化的人",
+          "en": "Traceable Memory for People Who Continue to Change"
+        }
+      ],
+      "external_links": [
+        "https://ipld.io/docs/intro/hello-world/",
+        "https://docs.ipfs.tech/concepts/privacy-and-encryption/"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "22",
+      "title_zh": "权力的约束、伤害的防止与信任的生长",
+      "title_en": "Constraining Power, Preventing Harm, and Building Trust",
+      "char_span": [
+        112919,
+        118807
+      ],
+      "english_char_span": [
+        264917,
+        283378
+      ],
+      "source_file": "zh-chapters/22.md",
+      "english_source_file": "en-chapters/22.md",
+      "sha256": "9ec863e613427ba7495711f835b33f0378c5e2cc2dd2dabbb94d34dee3a0b6dc",
+      "english_sha256": "6ae3fb182df7a0ebc516b5882a54fc40b93d2b40de5379c6c79fdfda7ce026a9",
+      "english_source_sha256": "6ae3fb182df7a0ebc516b5882a54fc40b93d2b40de5379c6c79fdfda7ce026a9",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "权力的约束、伤害的防止与信任的生长",
+          "en": "Constraining Power, Preventing Harm, and Building Trust"
+        },
+        {
+          "level": 3,
+          "zh": "人们害怕监控，究竟在害怕什么",
+          "en": "What are people afraid of when they fear surveillance?"
+        },
+        {
+          "level": 3,
+          "zh": "权力不对等，怎样使防守和控制互相加强",
+          "en": "How unequal power makes defense and control reinforce each other"
+        },
+        {
+          "level": 3,
+          "zh": "把权力关进笼子，必须包括制定规则的权力",
+          "en": "Constraining power must include the power to make the rules"
+        },
+        {
+          "level": 3,
+          "zh": "既要防止绕过规则牟利，也要防止规则本身固化不公",
+          "en": "Preventing both private gain through rule-breaking and injustice within the rules"
+        },
+        {
+          "level": 3,
+          "zh": "让监控帮助人，需要怎样的实际保护",
+          "en": "What protection would make surveillance useful to people?"
+        },
+        {
+          "level": 3,
+          "zh": "保护合作，也要能够处理意外和错误",
+          "en": "Protecting cooperation includes dealing with accidents and mistakes"
+        },
+        {
+          "level": 3,
+          "zh": "怎样使保护与合作形成良性循环",
+          "en": "How protection and cooperation can reinforce each other"
+        }
+      ],
+      "external_links": [
+        "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+        "https://docs.ipfs.tech/concepts/privacy-and-encryption/"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "23",
+      "title_zh": "公共知识、互惠与合作的正向循环",
+      "title_en": "Common Knowledge, Reciprocity, and the Growth of Cooperation",
+      "char_span": [
+        118807,
+        124233
+      ],
+      "english_char_span": [
+        283378,
+        298963
+      ],
+      "source_file": "zh-chapters/23.md",
+      "english_source_file": "en-chapters/23.md",
+      "sha256": "71ecf4580e13d9a562344fc21a50bf05a5ded7c7f07fd23ab988b64c1f300ebb",
+      "english_sha256": "60d363557b3d3f6134576e7d7d71e8009ae0f75df4a5aff1fb0460c503f52776",
+      "english_source_sha256": "60d363557b3d3f6134576e7d7d71e8009ae0f75df4a5aff1fb0460c503f52776",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "公共知识、互惠与合作的正向循环",
+          "en": "Common Knowledge, Reciprocity, and the Growth of Cooperation"
+        },
+        {
+          "level": 3,
+          "zh": "隐瞒造成的损失，为什么超过被隐瞒的事实本身",
+          "en": "Why concealment costs more than the concealed fact"
+        },
+        {
+          "level": 3,
+          "zh": "从怀疑到敌视，互相防守怎样变成共同损失",
+          "en": "From suspicion to hostility: how mutual defense becomes a shared loss"
+        },
+        {
+          "level": 3,
+          "zh": "正向起点为什么重要，为什么还需要纠错",
+          "en": "Why a cooperative start matters—and why it needs error correction"
+        },
+        {
+          "level": 3,
+          "zh": "把合作的起点、保护与修复，变成共同知道的规则",
+          "en": "Making cooperation, protection, and repair common knowledge"
+        },
+        {
+          "level": 3,
+          "zh": "公共记录与共同决策，怎样成为可以依靠的条件",
+          "en": "Making public records and shared decisions dependable"
+        },
+        {
+          "level": 3,
+          "zh": "理解人的形成过程，怎样减少把人固定成敌人的冲动",
+          "en": "Understanding how people develop can weaken the urge to make them permanent enemies"
+        }
+      ],
+      "external_links": [
+        "https://www.cs.cornell.edu/~eva/agtchap17.pdf",
+        "https://www.thepaper.cn/newsDetail_forward_34216478",
+        "https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion",
+        "https://www.hsgac.senate.gov/subcommittees/investigations/hearings/faa-oversight-of-boeings-broken-safety-culture/",
+        "https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0",
+        "https://www.epa.gov/archive/epa/newsreleases/epa-california-notify-volkswagen-clean-air-act-violations-carmaker-allegedly-used.html",
+        "https://public.websites.umich.edu/~axe/research/Axelrod%20and%20Hamilton%20EC%201981.pdf"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "24",
+      "title_zh": "文明的技术力量与自我治理能力",
+      "title_en": "Civilization's Technological Power and Its Capacity to Govern Itself",
+      "char_span": [
+        124233,
+        136601
+      ],
+      "english_char_span": [
+        298963,
+        334777
+      ],
+      "source_file": "zh-chapters/24.md",
+      "english_source_file": "en-chapters/24.md",
+      "sha256": "9eca83e2be4c9c639feb18ad1717dd327d06a2789d16a5b140f900ed8ca5f5ff",
+      "english_sha256": "f780e7093daaeac048407277d2d31431e51cca32b4a37524661e4203590b90e2",
+      "english_source_sha256": "f780e7093daaeac048407277d2d31431e51cca32b4a37524661e4203590b90e2",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "文明的技术力量与自我治理能力",
+          "en": "Civilization's Technological Power and Its Capacity to Govern Itself"
+        },
+        {
+          "level": 3,
+          "zh": "正向与负向连锁反应，是两种理想化方向",
+          "en": "Positive and negative chains of response are idealized directions"
+        },
+        {
+          "level": 3,
+          "zh": "从有限的个人经验，到能够积累的文明知识",
+          "en": "From limited personal experience to cumulative civilizational knowledge"
+        },
+        {
+          "level": 3,
+          "zh": "研究人类社会时，信息的提供者也是有意愿的参与者",
+          "en": "In social research, the sources of information are willing—or unwilling—participants"
+        },
+        {
+          "level": 3,
+          "zh": "挥舞巨大力量的文明，也必须学会约束自己",
+          "en": "A civilization wielding enormous power must learn to restrain itself"
+        },
+        {
+          "level": 3,
+          "zh": "人类的道路不只有电车难题中的两条轨道",
+          "en": "Humanity has more than the trolley problem's two tracks"
+        },
+        {
+          "level": 3,
+          "zh": "技术的可靠性，与使用技术的文明的可靠性",
+          "en": "The reliability of technology and the reliability of the civilization using it"
+        },
+        {
+          "level": 3,
+          "zh": "技术红利为什么没有自动变成共同幸福",
+          "en": "Why technological gains do not automatically become shared well-being"
+        },
+        {
+          "level": 3,
+          "zh": "让文明的自我修正能力跟上技术的加速",
+          "en": "Keeping civilization's capacity for correction abreast of technological acceleration"
+        },
+        {
+          "level": 3,
+          "zh": "让真实分享带来保护与回报，改变文明认识自身的条件",
+          "en": "Protection and reward for truthful sharing can change how civilization understands itself"
+        },
+        {
+          "level": 3,
+          "zh": "合作意愿、信息质量与制度共同迭代",
+          "en": "Cooperation, information quality, and institutions developing together"
+        },
+        {
+          "level": 3,
+          "zh": "关键岔路口上的选择",
+          "en": "Choosing at a critical fork"
+        }
+      ],
+      "external_links": [
+        "https://www.nature.com/articles/364056a0",
+        "https://arxiv.org/abs/2306.06079",
+        "https://pubmed.ncbi.nlm.nih.gov/34265844/",
+        "https://public.wmo.int/content/wmo-statement-weather-modification",
+        "https://www.dc.com/blog/2019/10/27/after-watchmen-its-summer-and-were-running-out-of-ice",
+        "https://en.wikipedia.org/wiki/Watchmen_%282009_film%29",
+        "https://research.ibm.com/publications/positioning-single-atoms-with-a-scanning-tunnelling-microscope",
+        "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease",
+        "https://www.worldbank.org/en/publication/the-changing-wealth-of-nations",
+        "https://eml.berkeley.edu/~saez/SaezZucman2015.pdf",
+        "https://wir2018.wid.world/executive-summary.html",
+        "https://www.oecd.org/en/about/news/press-releases/2024/07/governments-must-better-engage-all-citizens-to-tackle-growing-gaps-in-trust.html",
+        "https://www.worldhappiness.report/ed/2026/executive-summary-happiness-and-social-media/",
+        "https://www.nature.com/articles/s41562-023-01538-4",
+        "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+        "https://sakana.ai/dgm/",
+        "https://www.whitehouse.gov/releases/2025/07/white-house-unveils-americas-ai-action-plan/",
+        "https://www.fmprc.gov.cn/eng/xw/zyxw/202507/t20250729_11679232.html"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "25",
+      "title_zh": "个人信息采集、数据主权与技术落地",
+      "title_en": "Personal Information Collection, Data Sovereignty, and Practical Implementation",
+      "char_span": [
+        136601,
+        146118
+      ],
+      "english_char_span": [
+        334777,
+        363129
+      ],
+      "source_file": "zh-chapters/25.md",
+      "english_source_file": "en-chapters/25.md",
+      "sha256": "cae182dc7aa6549ecfed0e068b005cdb24c39134c39db36f52beeb0f13440824",
+      "english_sha256": "63b35a58e95dfa94156b2b0d0f3fd5032a6a9374ad0924a91bd250fa99497c46",
+      "english_source_sha256": "63b35a58e95dfa94156b2b0d0f3fd5032a6a9374ad0924a91bd250fa99497c46",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "个人信息采集、数据主权与技术落地",
+          "en": "Personal Information Collection, Data Sovereignty, and Practical Implementation"
+        },
+        {
+          "level": 3,
+          "zh": "可靠记录怎样同时改变事前选择和事后学习",
+          "en": "Reliable records can change both prior choices and subsequent learning"
+        },
+        {
+          "level": 3,
+          "zh": "怎样让一次损失成为下一次改进的材料",
+          "en": "Turning a loss into material for improvement"
+        },
+        {
+          "level": 3,
+          "zh": "设备怎样协同采集而不夺走人的选择",
+          "en": "Coordinating devices without taking away human choice"
+        },
+        {
+          "level": 3,
+          "zh": "个人的历史视野怎样成为具体权限",
+          "en": "Turning a person's historical field of view into explicit permissions"
+        },
+        {
+          "level": 3,
+          "zh": "密钥和版本怎样约束设备厂家与管理者",
+          "en": "Using keys and versions to constrain manufacturers and administrators"
+        },
+        {
+          "level": 3,
+          "zh": "多方事件怎样取得证据而不产生无限访问权",
+          "en": "Obtaining evidence for a shared event without granting unlimited access"
+        },
+        {
+          "level": 3,
+          "zh": "不可改写的历史怎样与撤销和删除并存",
+          "en": "Preserving history while allowing revocation and deletion"
+        },
+        {
+          "level": 3,
+          "zh": "新组织怎样证明自己值得信任",
+          "en": "How a new organization can demonstrate that it deserves trust"
+        },
+        {
+          "level": 3,
+          "zh": "虚拟空间能否帮助人处理现实中的冲动",
+          "en": "Can virtual spaces help people handle impulses in real life?"
+        },
+        {
+          "level": 3,
+          "zh": "从一个完整的小循环开始建设",
+          "en": "Begin with one complete, small cycle"
+        }
+      ],
+      "external_links": [
+        "https://nij.ojp.gov/topics/articles/five-things-about-deterrence",
+        "https://spec.c2pa.org/specifications/specifications/2.1/specs/C2PA_Specification.html",
+        "https://csrc.nist.gov/pubs/sp/800/193/final",
+        "https://www.rfc-editor.org/rfc/rfc9334.html",
+        "https://www.rfc-editor.org/rfc/rfc9162.html",
+        "https://doi.org/10.1016/j.cpr.2024.102414",
+        "https://news.osu.edu/breathe-dont-vent-turning-down-the-heat-is-key-to-managing-anger/",
+        "https://www.who.int/standards/classifications/frequently-asked-questions/gaming-disorder"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "26",
+      "title_zh": "从一个人的云存储开始",
+      "title_en": "Starting with One Person's Cloud Storage",
+      "char_span": [
+        146118,
+        148950
+      ],
+      "english_char_span": [
+        363129,
+        371759
+      ],
+      "source_file": "zh-chapters/26.md",
+      "english_source_file": "en-chapters/26.md",
+      "sha256": "b252d64907bdbaa8f6dcfcc59eb8aca50c9fd5df6c25985f096653318ede31e6",
+      "english_sha256": "07afdaf58533a4817a6973b042982de6639d00b3998e76e993f1e6f62e0a0f4c",
+      "english_source_sha256": "07afdaf58533a4817a6973b042982de6639d00b3998e76e993f1e6f62e0a0f4c",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "从一个人的云存储开始",
+          "en": "Starting with One Person's Cloud Storage"
+        },
+        {
+          "level": 3,
+          "zh": "第一份服务，究竟向使用者交付什么",
+          "en": "What does the first service actually deliver?"
+        },
+        {
+          "level": 3,
+          "zh": "先保存能够重新开始的材料，再建立越来越好的理解",
+          "en": "Preserve what allows a fresh start, then improve understanding"
+        },
+        {
+          "level": 3,
+          "zh": "本地与云端，怎样共同支持个人控制",
+          "en": "Combining local and cloud storage under personal control"
+        },
+        {
+          "level": 3,
+          "zh": "服务从一个人扩展到几个人时，什么要先准备好",
+          "en": "What must change when a second person joins?"
+        },
+        {
+          "level": 3,
+          "zh": "让一个人的改进，成为其他人可以使用的能力",
+          "en": "Making one person's improvement available to others"
+        },
+        {
+          "level": 3,
+          "zh": "什么时候扩展到计算和更多内容服务",
+          "en": "When to add computing and other content services"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "27",
+      "title_zh": "自由区的生长与制度的和平演化",
+      "title_en": "Growing a Free Zone and Evolving Institutions Peacefully",
+      "char_span": [
+        148950,
+        153051
+      ],
+      "english_char_span": [
+        371759,
+        383807
+      ],
+      "source_file": "zh-chapters/27.md",
+      "english_source_file": "en-chapters/27.md",
+      "sha256": "706fd86df6485ef678e05009887a6cd9e174e48ef9493a3ed14b55f0ecf1028e",
+      "english_sha256": "ecfb62e050f23dc06f61e1c3b2c52ec4e0af881d27ce8b129c3eec30d15cb9ff",
+      "english_source_sha256": "ecfb62e050f23dc06f61e1c3b2c52ec4e0af881d27ce8b129c3eec30d15cb9ff",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "自由区的生长与制度的和平演化",
+          "en": "Growing a Free Zone and Evolving Institutions Peacefully"
+        },
+        {
+          "level": 3,
+          "zh": "统一基本规则，扩大制度探索的多样性",
+          "en": "Common ground rules should enable diverse institutional experiments"
+        },
+        {
+          "level": 3,
+          "zh": "从租用资源到自己构造生产能力",
+          "en": "From renting resources to building productive capacity"
+        },
+        {
+          "level": 3,
+          "zh": "内部组织从第一天开始改变",
+          "en": "Internal organization must begin changing on day one"
+        },
+        {
+          "level": 3,
+          "zh": "为什么不必等到理想状态全部实现",
+          "en": "Why the ideal need not be achieved before work begins"
+        },
+        {
+          "level": 3,
+          "zh": "自由加入与自由退出，怎样成为成长的一部分",
+          "en": "Free entry and exit are part of growth"
+        },
+        {
+          "level": 3,
+          "zh": "规模扩大，为什么不应重新变成封闭的巨头",
+          "en": "Growth must not create another closed giant"
+        },
+        {
+          "level": 3,
+          "zh": "从生产合作走向更广的公共事务",
+          "en": "From productive cooperation to wider public affairs"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "28",
+      "title_zh": "自我实现的科幻与文化建设",
+      "title_en": "Self-Realizing Science Fiction and Cultural Creation",
+      "char_span": [
+        153051,
+        157516
+      ],
+      "english_char_span": [
+        383807,
+        396520
+      ],
+      "source_file": "zh-chapters/28.md",
+      "english_source_file": "en-chapters/28.md",
+      "sha256": "967c0a3581dfabf02ca28232d8ffba28bb9a606019dd422b6edb2770fdb89979",
+      "english_sha256": "4d53a1fcf6898621e648cc8bd8310cafa165a0917e8115fe06bfb6fa82eb24c4",
+      "english_source_sha256": "4d53a1fcf6898621e648cc8bd8310cafa165a0917e8115fe06bfb6fa82eb24c4",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "自我实现的科幻与文化建设",
+          "en": "Self-Realizing Science Fiction and Cultural Creation"
+        },
+        {
+          "level": 3,
+          "zh": "自我实现的科幻，怎样连接幻想与现实",
+          "en": "Connecting imagination and reality through self-realizing science fiction"
+        },
+        {
+          "level": 3,
+          "zh": "长寿、多样生命与跨时间的知识",
+          "en": "Long life, diverse forms of life, and knowledge across time"
+        },
+        {
+          "level": 3,
+          "zh": "创作者和建设者，可以是同一群人",
+          "en": "The creators and the builders can be the same people"
+        },
+        {
+          "level": 3,
+          "zh": "虚拟人类社会实验室，让制度能够先被体验和检验",
+          "en": "A virtual social laboratory for experiencing and testing institutions"
+        },
+        {
+          "level": 3,
+          "zh": "先写一个读者能够进入的故事",
+          "en": "Begin with a story a reader can enter"
+        },
+        {
+          "level": 3,
+          "zh": "从文字到视频，再到可以参与的世界",
+          "en": "From text to video to a world people can participate in"
+        }
+      ],
+      "external_links": [
+        "https://arxiv.org/abs/2411.10109v3",
+        "https://arxiv.org/abs/2509.26080v2"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "29",
+      "title_zh": "科学、教育与文明的持续创造",
+      "title_en": "Science, Education, and Civilization's Continuing Creativity",
+      "char_span": [
+        157516,
+        160433
+      ],
+      "english_char_span": [
+        396520,
+        404984
+      ],
+      "source_file": "zh-chapters/29.md",
+      "english_source_file": "en-chapters/29.md",
+      "sha256": "4dc6ea3df5407abe4367876e198ce00d82a475885acc1f20ca7b841eb1e48956",
+      "english_sha256": "6b0639c0e2e275d509fbd67c3aa332562704b40cf87443093be0c4d8c755be57",
+      "english_source_sha256": "6b0639c0e2e275d509fbd67c3aa332562704b40cf87443093be0c4d8c755be57",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "科学、教育与文明的持续创造",
+          "en": "Science, Education, and Civilization's Continuing Creativity"
+        },
+        {
+          "level": 3,
+          "zh": "每个人既是学生，也是老师",
+          "en": "Everyone is both a learner and a teacher"
+        },
+        {
+          "level": 3,
+          "zh": "数学是在发现，还是在创造",
+          "en": "Is mathematics discovered or created?"
+        },
+        {
+          "level": 3,
+          "zh": "能不能学习创造理论的过程",
+          "en": "Can we learn the process of creating theories?"
+        },
+        {
+          "level": 3,
+          "zh": "大胆想象，究竟意味着什么",
+          "en": "What does it mean to imagine boldly?"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "30",
+      "title_zh": "从数学家的灵感到文明的共同创造",
+      "title_en": "From a Mathematician's Insight to Civilization's Shared Creation",
+      "char_span": [
+        160433,
+        177702
+      ],
+      "english_char_span": [
+        404984,
+        452446
+      ],
+      "source_file": "zh-chapters/30.md",
+      "english_source_file": "en-chapters/30.md",
+      "sha256": "b02edade9189b670187feceb3565a8aa862b13427bc8097b744443d29b716bd4",
+      "english_sha256": "b3b74e8b3e3eb2101f60d3088e52073255cc57aa57f32e29f4291ba3403ed1cb",
+      "english_source_sha256": "b3b74e8b3e3eb2101f60d3088e52073255cc57aa57f32e29f4291ba3403ed1cb",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "从数学家的灵感到文明的共同创造",
+          "en": "From a Mathematician's Insight to Civilization's Shared Creation"
+        },
+        {
+          "level": 3,
+          "zh": "一、一个人为什么要把灵感藏起来",
+          "en": "1. Why would someone hide an insight?"
+        },
+        {
+          "level": 3,
+          "zh": "二、知识与智能怎样相互生成",
+          "en": "2. How knowledge and intelligence generate each other"
+        },
+        {
+          "level": 3,
+          "zh": "三、从知识共享到智能共享",
+          "en": "3. From shared knowledge to shared intelligence"
+        },
+        {
+          "level": 3,
+          "zh": "四、共同的智能，需要怎样的共同组织",
+          "en": "4. Shared intelligence needs shared organization"
+        },
+        {
+          "level": 3,
+          "zh": "五、让贡献可以共享，让贡献者不必消失",
+          "en": "5. Sharing contributions without making contributors disappear"
+        },
+        {
+          "level": 3,
+          "zh": "六、在第一点灵感出现时，就开始记录它的生长",
+          "en": "6. Record an idea's growth from its first appearance"
+        },
+        {
+          "level": 3,
+          "zh": "七、一颗灵感种子，怎样长成理论大树",
+          "en": "7. How a seed of insight can grow into a tree of theory"
+        },
+        {
+          "level": 3,
+          "zh": "八、怎样承认贡献，才能减少对贡献的争夺",
+          "en": "8. Recognizing contributions without intensifying the struggle over credit"
+        },
+        {
+          "level": 3,
+          "zh": "九、智能网络的能力，怎样成为每个人的能力",
+          "en": "9. Making the network's capabilities available to each person"
+        },
+        {
+          "level": 3,
+          "zh": "十、从学生的灵感，到基层的创造",
+          "en": "10. From a student's insight to invention at the grassroots"
+        },
+        {
+          "level": 3,
+          "zh": "十一、从一次可以核对的合作开始",
+          "en": "11. Begin with one collaboration whose record can be checked"
+        }
+      ],
+      "external_links": [
+        "https://zhishifenzi.com/depth/newsview/10737?category=multiple",
+        "https://monadnock.net/jefferson/mcpherson.html",
+        "https://www.gnu.org/gnu/initial-announcement.html",
+        "https://www.gnu.org/philosophy/selling.en.html",
+        "https://arxiv.org/abs/2311.16863v3",
+        "https://www.newtonproject.ox.ac.uk/his-life-and-work-at-a-glance",
+        "https://darwin-online.org.uk/content/contentblock?basepage=1&itemID=F350&hitpage=1&viewtype=text",
+        "https://www.mathunion.org/imu-awards/fields-medal",
+        "https://www.interfax.ru/russia/143587",
+        "https://www.zjzzgz.gov.cn/art/2011/4/25/art_1413013_14828112.html",
+        "https://cpc.people.com.cn/n1/2018/0703/c69113-30107101.html"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "31",
+      "title_zh": "后记：让每一个人都成为创造者",
+      "title_en": "Afterword: Let Everyone Become a Creator",
+      "char_span": [
+        177702,
+        178850
+      ],
+      "english_char_span": [
+        452446,
+        455785
+      ],
+      "source_file": "zh-chapters/31.md",
+      "english_source_file": "en-chapters/31.md",
+      "sha256": "9a3c97829461c9e2d64fad0ab700dc26eda1f49dce4ab0452ec230289d9a3c50",
+      "english_sha256": "8cd5726c58ecae83c8e3edaec682059a150b6a7586d59ac36afff8be924794fd",
+      "english_source_sha256": "8cd5726c58ecae83c8e3edaec682059a150b6a7586d59ac36afff8be924794fd",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "后记：让每一个人都成为创造者",
+          "en": "Afterword: Let Everyone Become a Creator"
+        }
+      ],
+      "external_links": [],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    },
+    {
+      "id": "32",
+      "title_zh": "附录　对理论基础与实践可行性的自我反思",
+      "title_en": "Appendix: A Critical Assessment of the Theory and Its Practical Feasibility",
+      "char_span": [
+        178850,
+        193504
+      ],
+      "english_char_span": [
+        455785,
+        499174
+      ],
+      "source_file": "zh-chapters/32.md",
+      "english_source_file": "en-chapters/32.md",
+      "sha256": "453a0677a454ae00200c7ab00d1239712ff9d39c17a62549ddad26858b814489",
+      "english_sha256": "94153b19b8e0d8bdff404517c720495d52b7eaaa28047e07375725a7697fe75c",
+      "english_source_sha256": "94153b19b8e0d8bdff404517c720495d52b7eaaa28047e07375725a7697fe75c",
+      "section_map": [
+        {
+          "level": 2,
+          "zh": "附录　对理论基础与实践可行性的自我反思",
+          "en": "Appendix: A Critical Assessment of the Theory and Its Practical Feasibility"
+        },
+        {
+          "level": 3,
+          "zh": "哪些问题需要证明，哪些问题需要实验与共同选择",
+          "en": "Which questions need proof, which need experiments, and which need shared choices?"
+        },
+        {
+          "level": 3,
+          "zh": "关于无穷、自指与不断扩展的数学体系",
+          "en": "Infinity, self-reference, and expanding mathematical systems"
+        },
+        {
+          "level": 3,
+          "zh": "对偶体究竟需要增加什么数学内容",
+          "en": "What mathematical content must a Dualoid add?"
+        },
+        {
+          "level": 3,
+          "zh": "不动点与最小化最大化之间还缺哪几座桥",
+          "en": "The missing bridges among fixed points, minimization, and maximization"
+        },
+        {
+          "level": 3,
+          "zh": "描述更短与构造更省为什么不能合并成一个结论",
+          "en": "A shorter description is not necessarily a cheaper construction"
+        },
+        {
+          "level": 3,
+          "zh": "自然科学中的共同图景还不是统一物理理论",
+          "en": "A common scientific picture is not yet a unified physical theory"
+        },
+        {
+          "level": 3,
+          "zh": "从生命和意识到社会行为需要逐层验证",
+          "en": "Life, consciousness, and social behavior require validation at each level"
+        },
+        {
+          "level": 3,
+          "zh": "社会博弈的依据支持到哪一步",
+          "en": "How far does the evidence on social interaction reach?"
+        },
+        {
+          "level": 3,
+          "zh": "公平的发展条件、能力互补与防止支配",
+          "en": "Fair conditions, complementary abilities, and preventing domination"
+        },
+        {
+          "level": 3,
+          "zh": "动态权重怎样避免成为新的固定权力",
+          "en": "How can dynamic weights avoid becoming entrenched power?"
+        },
+        {
+          "level": 3,
+          "zh": "目前能够建设什么，还不能承诺什么",
+          "en": "What can be built now, and what cannot yet be promised?"
+        },
+        {
+          "level": 3,
+          "zh": "技术能够运行以后经济与组织仍需独立成立",
+          "en": "Working technology does not by itself establish viable economics or organization"
+        },
+        {
+          "level": 3,
+          "zh": "注意力、动态博弈与技术加速需要怎样检验",
+          "en": "Testing attention, dynamic games, and technological acceleration"
+        },
+        {
+          "level": 3,
+          "zh": "制度落差的判断，怎样接受事实检验",
+          "en": "Testing the claim of an institutional gap"
+        },
+        {
+          "level": 3,
+          "zh": "怎样使科学预言能够被现实修正",
+          "en": "Letting reality revise a scientific anticipation"
+        }
+      ],
+      "external_links": [
+        "https://people.math.ethz.ch/~halorenz/4students/Literatur/TuringOrdinalLogic.pdf",
+        "https://emilyriehl.github.io/files/context.pdf",
+        "https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/a4175d61479a35340d6307ae5e48ef5a_18-s097iap19textbook.pdf",
+        "https://www.cs.cornell.edu/~bindel/nmds/00-Background/04-Calculus.html",
+        "https://homepages.cwi.nl/~paulv/papers/incomp.pdf",
+        "https://arxiv.org/abs/physics/0210005",
+        "https://www.damtp.cam.ac.uk/user/tong/dynamics/dynhtml/S2.html",
+        "https://pubmed.ncbi.nlm.nih.gov/17738519/",
+        "https://arxiv.org/abs/1511.03190",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11167064/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3279745/",
+        "https://pubmed.ncbi.nlm.nih.gov/16737372/",
+        "https://homepages.math.uic.edu/~lreyzin/papers/littlestone94.pdf",
+        "https://www.unison-lang.org/docs/the-big-idea/",
+        "https://metr.org/time-horizons/",
+        "https://dlc.dlib.indiana.edu/dlc/items/484f4147-bdce-4d55-9b8d-fe61f3b2d37b",
+        "https://www.kellogg.northwestern.edu/academics-research/research/detail/1975/strategy-proofness-and-arrows-conditions-existence-and-correspondence-theorems/"
+      ],
+      "review": {
+        "status": "inherited-byte-identical",
+        "scope": "Changed English passages and adjacent context compared with Chinese; full chapter structure and citations checked. Unchanged wording inherited, not claimed freshly reread in full; not author approval or proof of theory"
+      }
+    }
+  ],
+  "method": "Idiomatic English adaptation; unchanged translations inherited byte-for-byte from edition 16."
+}

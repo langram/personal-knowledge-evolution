@@ -1,0 +1,26 @@
+{
+  "schema": "cs/targeted-review@1",
+  "edition": "17-cooperative-superintelligence",
+  "baseline_edition": "16-agi-institutions",
+  "baseline_sha256": {
+    "zh": "0b7426630c86718e5a92669947a150e7eb419f04e56bdb76445fc4de37215df1",
+    "en": "0c1eb8671cc68cce29a8ef153f9294667383af02bbdb84a047eb74992533d2ac"
+  },
+  "reviewed_chapters": [
+    16
+  ],
+  "coverage": {
+    "semantic": "New bilingual section and surrounding chapter-16 discussion of goals, dystopian power, cooperation and information.",
+    "structural": "32 chapter pairs, aligned headings/citations, source roundtrips and reversible insertion; 31 chapter pairs byte-identical.",
+    "inherited": "All existing manuscript text retained. No new full-book reading claimed.",
+    "external_facts": "One official historical document for a bounded example of US intervention; earlier AI sources retained."
+  },
+  "findings": [
+    "A system born in an existing hierarchy may still propose peaceful institutional change.",
+    "Whole-civilization costs include lives, autonomy, trust and correction, rather than only the coercing actor's immediate cost.",
+    "Peaceful persuasion requires inspectable evidence and the possibility of refusal, withdrawal and correction.",
+    "The author's confidence and satire remain distinct from a proof that intelligence guarantees benevolence.",
+    "The historical source supports one documented proposal, not every US policy or universal comparative costs."
+  ],
+  "author_approval": "Conditional wording, example and English adaptation are editorial; no author acceptance is fabricated."
+}

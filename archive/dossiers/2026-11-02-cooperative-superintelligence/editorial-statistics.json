@@ -1,0 +1,21 @@
+{
+  "edition": "17-cooperative-superintelligence",
+  "chinese_cjk_characters": 163569,
+  "previous_chinese_cjk_characters": 162398,
+  "english_whitespace_words": 71143,
+  "previous_english_whitespace_words": 70493,
+  "chinese_sha256": "e6211eff196c2aae1fdd1402c58b2517acf090d13a41b6f57b15551443f8c8ac",
+  "english_sha256": "dd9fe6922e73fd54e9adb4657e44c32dfb888966a9579e5f4650a290c32cdb95",
+  "chapters": 32,
+  "headings": 229,
+  "external_citation_occurrences": 97,
+  "revisions_by_language": {
+    "zh": 1,
+    "en": 1
+  },
+  "unchanged_chapter_pairs": 31,
+  "new_visible_events": 2,
+  "author_messages": 1,
+  "passages_with_exact_author_spans": 1,
+  "exact_author_span_boundary": "Exact matches identify retained wording only; semantic association is not approval of editorial additions."
+}

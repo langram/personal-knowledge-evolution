@@ -1,0 +1,542 @@
+{
+  "schema": "cs/archive-report@1",
+  "status": "verified",
+  "recorded_at": "2026-11-02T01:41:20.721768+00:00",
+  "snapshot": "bafyreiamffy2tqhmtzfpviwjtn3yq27kfciv4633vgmxqjaadtx24dlnxu",
+  "federated_snapshot": "bafyreichijee5r4zjdemz6yzupxlsetalf7e2ja27hoyoxkqieox3l2gxq",
+  "baseline_snapshot": "bafyreibyjvxk24as4gc5vzhts6eukpkt7ltksrocjjprac2p4jbsd62sqa",
+  "document": "bafyreihnmq7hzhngnj3qg3ielosoc726lbni6zbvja5iv3m4hlrhmakqli",
+  "english_document": "bafyreie27auvzxuywp64hh6ockb6x4sp5voeu24tbqvlvbe2dscywmx5xa",
+  "book_landing": "bafyreia2n5rkl3bszpzkuoiorylxagcyjtxarfjxlqmu3qa5ll3uklequq",
+  "sections": [
+    "bafyreifgdteysl2yk5mpfqple3bw64uwpc7o4wmoacxrrvnmzcevua4mzi",
+    "bafyreigdjdz2evkifzrmesarndwxd3ix2gcdzzprwkosvb4xutaonhfmjm",
+    "bafyreifyi2swriqx7qbkfqp6kswdvsdgpeugfbt2cvmlxgrxa32dhqmt3y",
+    "bafyreid63urc2hf4sa4ukpsjj66twz4nweaew4244cxiycfeoh63estcx4",
+    "bafyreibyfoy7hda323rpjnrkiykfaa7in7kjiz7vqby3tbbscavl5mv3ia",
+    "bafyreibyourvnyw23vope5jb2qqrk4epcahodps2msbe5sr76wgcevb3by",
+    "bafyreigh6rfja65sje4rbvddskdkk2yk6iyo2o332ovbuytk4rgoaavoj4",
+    "bafyreics42flza5xwbjwk73lduwiuszcczjxt5vs6gq4ihpsjdcf2sbbny",
+    "bafyreicfrhu5qcyvstwz5uzwuufogsp3pphpqr4dlpasjqvmzy34ob2y7e",
+    "bafyreihzli753hnn35jascgqy3tyc33e2iyxvwhhd4whjp33vw4unis7ui",
+    "bafyreih3wgpu6d5777cux4yrmygmobfm2pi7jg7h3qd4nojz6zgrip4s3q",
+    "bafyreiadbvrbdzvna4mmx5t76h2sujnvsijuvsn2kyfwis5m73nnvbiinq",
+    "bafyreihyy3gd6hdqimmnmjixl2uvirrn7lh5jtnwvmvzi6q5occ2fxtaky",
+    "bafyreie4ibf4bg5wmbkswtnwl74aj76evfq2ybxq2vzi53z3clcry26krm",
+    "bafyreicmscwrn5a3qwwah5i7d4rouxt3mjiwah65zlshnmy2hyz3m2hkhu",
+    "bafyreif6salclvv52ft2rwie2eagq2g6zq762d5oxpmzdetud4o3uoqpza",
+    "bafyreicsgzcskau7jivavd2zj6lrevi6exucmpwavlnlaz37u5qatutmau",
+    "bafyreig2esntn35oq6gqxo63f7ftjle2p6jwnaihv623aivbk2yf2qcrlm",
+    "bafyreiapn4hr2me7wzzbrmzdgnsy2mj54ldohw5e2k2pgw5ahzseaozotu",
+    "bafyreie64htcbgu3nehnrpiaipkewzkurvfw4xqdibycfptnfjxi6jq5ge",
+    "bafyreiht6np36sdcjb4bhi4mbyyqdnw5qmq3wuf5vynr5s6uufk4ghapwm",
+    "bafyreihla4hoyerh2t42gbyztkh5fihlqd4l3zs3jkvpwqxukddifttg3e",
+    "bafyreicfjcphhoflwrnxsqlk7rvneycni4mt6sr5idx56iho6lpaf5kg3u",
+    "bafyreifbnz5cvgzbgmgfex3tccz7nzvx6q627kr63wxjixom5hrxgtsf74",
+    "bafyreifiiisf4qfvjb4lqmqporinhcg5uy4xbbc5vl74ad3mlnukoxvtei",
+    "bafyreicflzopokcivuzbh54uenvgz4rikvaildl6rae34gnm7bot3f54ce",
+    "bafyreibylqyfbs4dcbw4xento5d46teowxndi4pgx2oe327zdvrxgjkasa",
+    "bafyreicr4smdfewpax46r4ocowdn3qlvgjdcvhazsu4c3yx5nppwbjun3e",
+    "bafyreibla5y36bcjuapng2uuqyanhj7fyocdu5wavgbge2ovwvclqmgszq",
+    "bafyreihfqw7nj3tqtgvdn7r53ifo37dg33fzr6z2l4mt2lazwyn6gzqvvq",
+    "bafyreibbx2qjlicasmi53pvhoyptc7ahg66cqc2msgunf7divwjlsd5ya4",
+    "bafyreifswkses4na7e3xle2dhfgqnrl4x2fdtkwelbsazqhzks2nd6syoi"
+  ],
+  "translations": [
+    "bafyreiexhmpv3rkabwz3gc2f3anuzqpjooc4lekgg4n2c545xd6i2kiabm",
+    "bafyreigkrvld4ff6lx3ci2peomilo24r5h3qkdiqluakp6mpuwyrv3fkwq",
+    "bafyreiha223nb5czpvfbyhzk74yq4req7i3liq6jqjf5zqlxrrzrwhojnu",
+    "bafyreih2odudbalsbd7iqvec6zqol3getib556a3grxov5bksqt6ehtdoi",
+    "bafyreieaknf7dtis63bcav24kj3zodieg2maa6ro6kfliek6r3j3kfqvbq",
+    "bafyreihcpqlqhswxnsasdxwz52xwja7nreapyad64wn4qaf5fhif56mx44",
+    "bafyreiaucbq7ij43kwp555lnugbmw5k5tvbsb56pgxh5kbyrh6c6zp4zke",
+    "bafyreihpd5bsqomojhdoteskxd3quckqjvialffhtk7mwytlspwudzogtu",
+    "bafyreiax6bdx2qtwk6ho2tjioibg425ucfeljs4hqlppu2t35g3n4kai2a",
+    "bafyreidxxcu3gbrftgnpqdp3jhmroczqfjis2ht52nj6j3pygkd5qdk4n4",
+    "bafyreiaewbnn4hafro6chksdxetxlt3dhtrqovlkizh6mugr4x2gsoih2a",
+    "bafyreiea7dnx4k6sgcwq7meefpi2owx2z3tzdwbwuwuhb2d6y34k427aqu",
+    "bafyreicynruml56ng2q7cwjxh3dzixla4wx2z4g6allscqrigymc6fhkeu",
+    "bafyreibewnjvbxaaieo5rc5pyql6zl3doinfqmrp4aan5t7qx3iespp5ze",
+    "bafyreidir75gyi56t3t6ivvr5k4pnezttojs7upnvolaslc5cou2blfecu",
+    "bafyreicjiv7m3na7gv4tsgpmtxyhhrbot4ktdxzkpync5rvot4ysekn72y",
+    "bafyreiayxuqrd4sr6yduu5dnefcjqo6kxfozo3237dv42mxpzb375wv4oa",
+    "bafyreihqkp65lq5ymeau6nnw7x2sd2zxcdze3qm3xqbv2v6y7sveqfek54",
+    "bafyreicvcorxdoun7udorskrn22f4jfpc5ylyfclkqbti2zlvhsip2wjga",
+    "bafyreigjmhlyriduu6gucr6oakfksuu6bfsgl7yskuqykg5kwz6ag7omti",
+    "bafyreidayv6se57kgkaojt5r5sgq4ucf5q6tzunzxg4ofefue6mtqpmyle",
+    "bafyreibkyuxbpjsqofwa2pdst3ily5ks366edwau4ctqlx7v3l724ovagi",
+    "bafyreiajfcmp2cd3xydwm3wlc5g3s6547xvx5g46xun2ho5pkckjup25uy",
+    "bafyreigcdulmtg5rpron5rodrb2fvdsud2rbyc5zgae67uff4tfo5drpma",
+    "bafyreib533krrluhxw7wiivldve6hditr453i5oqy42tntsxr7o32bggga",
+    "bafyreic62zs4yt6mgmna4fwconji4iipmljzrarsne4krczoanyvzafl2q",
+    "bafyreigrzcsfhcc3p3rh764lxh4fok4s6eheurlmltzbw63e4ggiivyhdm",
+    "bafyreifxgqgf3e5ns3nywgcre4drjz2u7ve4aoddhdh2a57yu3h35pyuxu",
+    "bafyreigqljxlvttku5kwidpvkzinawil3cnwycac7peysxvmwfhpoq44p4",
+    "bafyreigibkvxstqdx6etyr6yseve56laf2xbxllurxwcqajyeie46qfy4e",
+    "bafyreihsr2qwyyxx22gwd6z5sabzznbye7n5ixqp3zwn3qchmopzjykuru",
+    "bafyreih6dssnzi6gwqu3qhcga44xgn3atxser2pv25jk6wdxphera2f56a"
+  ],
+  "revision_objects": [
+    "bafyreigfalvwwycn65s736yjj2l7yzukjliy33eqzzsz7dchzero7jsvzu",
+    "bafyreigfkogiejsfmysbs7uk6kim2peqeyo3hbq6pmuedvr7hx3v6s2yoi"
+  ],
+  "sources": {
+    "PREVIOUS-EDITION-RESPONSE": "bafyreib7g3b32t45n2gl6ieets2z6gq2y357drnboa47pwdfiwqzf724zi",
+    "AUTHOR-PEACEFUL-SUPERINTELLIGENCE": "bafyreiabrnbgbjchwbu5iacitshz2hn4xvqjwrg4wjebb7xfjab4swlzq4"
+  },
+  "occurrences": [
+    "bafyreidxohdssuprzksz3tpwdtsreyyml3aay5n5n6vur6723ewlpnfvtm",
+    "bafyreifblief4lh44rqa6iuti543lnqod7ct6ilbq4c5x3jlenvbcbzos4"
+  ],
+  "quotes": {
+    "PREVIOUS-EDITION-RESPONSE": "bafyreihzscc4edoxdoli376munkranj5q72vq73fah3qxkfu33bq4zeham",
+    "AUTHOR-PEACEFUL-SUPERINTELLIGENCE": "bafyreihosdoaqqwgt7ja6pfxasdnofv6blldsm3pep36hhgnp6bssh2lj4"
+  },
+  "concepts": [
+    "bafyreiha5cbrieku75tfg7zacy4osjku4fmsyfotncmzjzj5jv4ktvkkgy",
+    "bafyreidcnt3tbxohfdfvagolvtwavecqeymjz7ifqfeiaeeuwmlh5blgqu",
+    "bafyreiep56mem4zv6x6hecoymxeexdabrocukkmwfb2m7nebrlntewzyuu",
+    "bafyreihiocaqyshajqhv4xjczfwui5f5xz4zltknqyukn2py5xorpazvp4",
+    "bafyreihi4tag5nyhskzzngx7475iw2dfooijw32boqid2xwypzex7fopky",
+    "bafyreif4k5yh6nibt4zcurnxtwzmdvuf4gu6qxczxz6wgj2j2fn74cwpyq"
+  ],
+  "relations": [
+    "bafyreifhon5meonv473ipkcmautqzy7gaby4is3u3iuk33ciduiuiaqvau",
+    "bafyreiefhib4pn4c64aayxnl5xskf5ywvpbw54l5vk5te6tboe3cekq7we",
+    "bafyreibpti4wsgouhlugsalhexe7xnorfxyb3bmij5mkdgjr42bgreiqpq",
+    "bafyreifskmnyyeo7hei2q2fnualh23fbl35d5qrqsccsb7yvu7otdv66uq",
+    "bafyreiakkgdhc3zlmsa2utvwm4b3ihmzsqj4nlhetrlskh5po7bqq6sxk4",
+    "bafyreihw7fxife7n7pbk2cdyfiglbza7puotpkcfa55b3k57vrr46ew4jq",
+    "bafyreicjhaivet566xxmhwps3qna5ltubnwm65nne6b2rlhrkfizqm6b5u",
+    "bafyreig6nlgmboy4yi7cgzsyd2lmee2a45kyc4iay2l4rmalfrvvzwy7ru",
+    "bafyreigpm5qvyp2fovtbovyavvtxqdwixckxvkdpk4pypme662ztypuxom",
+    "bafyreic7q3sf4bzws5ij5x5yacccgnunxcpor25vvraweu5ktziy43vbc4",
+    "bafyreifl36tbw6okd3kjzxvu4qpxaaofu4x5fukuhlgrnkh3ig4ympdqyq",
+    "bafyreics7viiwkezktnqsub3bi4if7p6wc2qpylabnw5zl3d726s57vj2e"
+  ],
+  "change": "bafyreic2vputab23lyay6a4iuikmxojr742lad6tfkpzugxwbpsyqxceje",
+  "evolution_continuation": "bafyreiccsf5z3vp742hhfjmhlnjmnl257no46th35bcn7ewdhrt5daavw4",
+  "prior_author_revision": "bafyreidno3prqw2i26yvgbsszxpgmxswdtmvrz6pkwccrpnzbohkaebvqy",
+  "prior_author_acceptance": "bafyreifeh26lzxih6czrhp53xktbvooyssegds2kh5usxzcy6zskky2sn4",
+  "historical_sources": [],
+  "files": [
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\00-author-peaceful-superintelligence.txt",
+      "name": "00-author-peaceful-superintelligence.txt",
+      "raw": {
+        "$link": "bafkreiacwtovin5ycl7p4327srcx6lxzigbd7z2e2qoxjsckkwyohf32g4"
+      },
+      "bytes": 976,
+      "sha256": "02b4dd5437b812fefe6f5f94457f2ef941823fe744d41d74c84a55b0e3977a37"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\00-previous-edition-response.txt",
+      "name": "00-previous-edition-response.txt",
+      "raw": {
+        "$link": "bafkreibbv4cvoeessyqil6dn24vi3qu4zfzuoucqd5qqwzupmeg35wtwaq"
+      },
+      "bytes": 1482,
+      "sha256": "21af05571092962085f86dd72a8dc29cc9734750501f610b668f610dbeda7604"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\00-sources.json",
+      "name": "00-sources.json",
+      "raw": {
+        "$link": "bafkreihanp5u26r4qnsvjssjataaigo7wsvsk5olzmq33wi4f7zbbxw4ou"
+      },
+      "bytes": 4219,
+      "sha256": "e06bfb4d7a3c836554ca4904c00419dfb4ab2575cbcb21bdd91c2ff210dedc75"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\01-new-principles.zh.md",
+      "name": "01-new-principles.zh.md",
+      "raw": {
+        "$link": "bafkreihgeepp6glmfkxb7xiualcywjixvtyjbuj2ig3pk6yvkukeh6givq"
+      },
+      "bytes": 550166,
+      "sha256": "e6211eff196c2aae1fdd1402c58b2517acf090d13a41b6f57b15551443f8c8ac"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\02-new-principles.en.md",
+      "name": "02-new-principles.en.md",
+      "raw": {
+        "$link": "bafkreig5t7tjeltt7vkotlnumv7ejqzn7oeiszvjk6pf6rsqukimglg3su"
+      },
+      "bytes": 499813,
+      "sha256": "dd9fe6922e73fd54e9adb4657e44c32dfb888966a9579e5f4650a290c32cdb95"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\03-en-revisions.patch",
+      "name": "03-en-revisions.patch",
+      "raw": {
+        "$link": "bafkreiae5jdpo7sluykrb4m3d2yvok2kvhvaiwkdngopglil4piycc4dsy"
+      },
+      "bytes": 5577,
+      "sha256": "04ea46f77e4ba61510f19b1eb1572b4aa9ea045943699cf32d0be3d1810b8396"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\03-zh-revisions.patch",
+      "name": "03-zh-revisions.patch",
+      "raw": {
+        "$link": "bafkreiafizhi4fzwsq3bvla5yikbchvs22hqukue3ptfz65rhsdbma7nzq"
+      },
+      "bytes": 5068,
+      "sha256": "05464e8e173694361aac1dc214111eb2d68f0a2a84dbe65cfbb13c861603edcc"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\04-editorial-notes.md",
+      "name": "04-editorial-notes.md",
+      "raw": {
+        "$link": "bafkreid5a2i7sqy7shzenjcecky6peu5fkpaus7vqnx2a6mkfjfqqlmley"
+      },
+      "bytes": 2122,
+      "sha256": "7d0691f9431f91f246a44412b1e7929d2a9e0a4bf5836fa0798a2a4b082d8b26"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\05-translation-notes.md",
+      "name": "05-translation-notes.md",
+      "raw": {
+        "$link": "bafkreifll3aqfa6kieyrbvx5iz2yverwnn22xj42aealhihknfxfuzavum"
+      },
+      "bytes": 4422,
+      "sha256": "ab5ec10283ca413110d6fd46758a92366b75aba79a0100b3a0ea696e5a6415a3"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\06-additions.en.md",
+      "name": "06-additions.en.md",
+      "raw": {
+        "$link": "bafkreigrstafknv6izys76enq4inp3bwefai2oqzvtyqntlrq2acridfje"
+      },
+      "bytes": 4442,
+      "sha256": "d194c05536be46712ff88d8710d7ec3621408d3a19acf106cd71868028a06549"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\06-additions.zh.md",
+      "name": "06-additions.zh.md",
+      "raw": {
+        "$link": "bafkreibnayjnjrej34orxnim5ckvtp5dm3y5f5s3ubjdfk5o3ec3yfq5um"
+      },
+      "bytes": 3940,
+      "sha256": "2d0612d4c489df1d1bb50ce89559bfa366f1d2f65ba05232abaed905bc161da3"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\07-thought-evolution.json",
+      "name": "07-thought-evolution.json",
+      "raw": {
+        "$link": "bafkreifkgptmga37ulouxrio4u3u5wyngufg2ubzonmbnmve5ef6mr2gqe"
+      },
+      "bytes": 1381,
+      "sha256": "aa33e6c3037fa2dd4bc50ee5374edb0d350a6d5039735816b2a4e90be6474681"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\07-thought-evolution.md",
+      "name": "07-thought-evolution.md",
+      "raw": {
+        "$link": "bafkreibdrdavb5wf5qpv6rgr5copjvp4ggamas32d24qrnaw4vnjkrngwe"
+      },
+      "bytes": 1301,
+      "sha256": "2388c150f6c5ec1f5f44d1e89cf4d5fc3180c04b7a1eb908b416e55a9545a6b1"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\08-external-references.json",
+      "name": "08-external-references.json",
+      "raw": {
+        "$link": "bafkreigzky6w7lnhs45htjugn7yxnzxjngmln2uohxvxq5ywzq3y5idlfu"
+      },
+      "bytes": 578,
+      "sha256": "d9563d6fada7973a79a6866ff176e6e96998b6ea8e3deb787716cc378ea06b2d"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\08-source-ledger.md",
+      "name": "08-source-ledger.md",
+      "raw": {
+        "$link": "bafkreia3rpoanelvi5hfi5nlk6pi4cjcxedv3ih2ccvkiduyrdvaiff5ta"
+      },
+      "bytes": 971,
+      "sha256": "1b8bdc069175474e5475ab579e8e0922b9075da0fa10aaa40e9888ea0414bd98"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\book-readme.md",
+      "name": "book-readme.md",
+      "raw": {
+        "$link": "bafkreicenmhxbdq2lkxy7fdbxxppojro7yesx6dsrt2hacob5ksb6hn4e4"
+      },
+      "bytes": 4733,
+      "sha256": "446b0f708e1a5aaf8f9461bddef7262efe092bf8728cf47009c1eaa41f1dbc27"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\editorial-statistics.json",
+      "name": "editorial-statistics.json",
+      "raw": {
+        "$link": "bafkreibeyv7spzs5gtca3mbtgmvrx4y4osm5xql6kjphbzfekvuhhe5rmu"
+      },
+      "bytes": 794,
+      "sha256": "24c57f27e65d34c40db033332b1bf31c7499dbc17e525e70e4a455687393b165"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\passage-manifest.json",
+      "name": "passage-manifest.json",
+      "raw": {
+        "$link": "bafkreibkswepi4m3dvsgh3m6od5kshpkp66q32tmvsb4aaibtrgr4n3uvq"
+      },
+      "bytes": 4897,
+      "sha256": "2a9588f4719b1d6463ed9e70faa91dea7fbd0dea6cac83c001019c4d1e3774ac"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\revision-manifest.json",
+      "name": "revision-manifest.json",
+      "raw": {
+        "$link": "bafkreiepwbz6ddeusx67y3qoa4zvgewnnyz6ujonry2et6tvdowql6l5uq"
+      },
+      "bytes": 10926,
+      "sha256": "8fb073e18c9495fdfc6e0e07335312cd6e33ea25cd8e3449fa751bad05f97da4"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\targeted-review.json",
+      "name": "targeted-review.json",
+      "raw": {
+        "$link": "bafkreigfdj644v6bapmrgzcwwgpceb23jgg4ckgmtxbqi7uq7lrqjvfdwq"
+      },
+      "bytes": 1593,
+      "sha256": "c51a7dce57c103d9136456b19e22075b498dc128cc9dc3047e90fae304d4a3b4"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\targeted-review.md",
+      "name": "targeted-review.md",
+      "raw": {
+        "$link": "bafkreihg33kbnyt5z7hyfoolnvfcr72bziwegjver5kwkxtmiszypjsx4e"
+      },
+      "bytes": 923,
+      "sha256": "e6ded416e27dcfcf82b9cb6d4a28ff41ca2c4326a48f55655e6c44b387a657e1"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\translation-ledger.json",
+      "name": "translation-ledger.json",
+      "raw": {
+        "$link": "bafkreiglml5a2hdijkhzo6vv35vicppphbru4yspfemlitfkzqu6wdh23q"
+      },
+      "bytes": 82724,
+      "sha256": "cb62fa0d1c684a8f977ab5df6a813def38634e624f2918b44caacc29eb0cfadc"
+    },
+    {
+      "path": "dossiers\\2026-11-02-cooperative-superintelligence\\zh-revision-manifest.json",
+      "name": "zh-revision-manifest.json",
+      "raw": {
+        "$link": "bafkreihvq5wxsmgvigk4zcpa5mouiejeszjzgwzfezpwch6fsfulxw4tui"
+      },
+      "bytes": 5554,
+      "sha256": "f5876d7930d54195cc89e0eb1d4411249653935b25265f611fc59168bbdb93a2"
+    }
+  ],
+  "new_native_events": 2,
+  "current_events": 212783,
+  "new_objects": [
+    "bafkreia3rpoanelvi5hfi5nlk6pi4cjcxedv3ih2ccvkiduyrdvaiff5ta",
+    "bafkreiacwtovin5ycl7p4327srcx6lxzigbd7z2e2qoxjsckkwyohf32g4",
+    "bafkreiae5jdpo7sluykrb4m3d2yvok2kvhvaiwkdngopglil4piycc4dsy",
+    "bafkreiafizhi4fzwsq3bvla5yikbchvs22hqukue3ptfz65rhsdbma7nzq",
+    "bafkreiafrk6quk7t6wf6m2evtkhvg3hddauynhqnr5vop6lqm5lojyredm",
+    "bafkreib2etj2luzaabdd6x22wqg5fpeoyvgsy2cbbc3lyvmtkj3kv5z6my",
+    "bafkreib4memwcx6fd4jj3mox6pc7p6wi7wq3jxz2zdd3x3nttlatuvsrcq",
+    "bafkreibbv4cvoeessyqil6dn24vi3qu4zfzuoucqd5qqwzupmeg35wtwaq",
+    "bafkreibdrdavb5wf5qpv6rgr5copjvp4ggamas32d24qrnaw4vnjkrngwe",
+    "bafkreibeyv7spzs5gtca3mbtgmvrx4y4osm5xql6kjphbzfekvuhhe5rmu",
+    "bafkreibkswepi4m3dvsgh3m6od5kshpkp66q32tmvsb4aaibtrgr4n3uvq",
+    "bafkreibnayjnjrej34orxnim5ckvtp5dm3y5f5s3ubjdfk5o3ec3yfq5um",
+    "bafkreibvkwsfcwymhbikusjmz47uzyvqyywo4agx2yhq4duv3aupjlqaoi",
+    "bafkreicenmhxbdq2lkxy7fdbxxppojro7yesx6dsrt2hacob5ksb6hn4e4",
+    "bafkreid5a2i7sqy7shzenjcecky6peu5fkpaus7vqnx2a6mkfjfqqlmley",
+    "bafkreidqvozvbnj7cjn4yfazymy7aaquhqlbedwmpykytgpwjk365i2hcy",
+    "bafkreiduzydk4hihlmjdit6witnufrflda5x4o4fkbcpb5zivgxusoj2fa",
+    "bafkreie5nrviguda6dnrncgfcio5ximgktyu4qv3w3fbnj2xrik646wrnq",
+    "bafkreiepwbz6ddeusx67y3qoa4zvgewnnyz6ujonry2et6tvdowql6l5uq",
+    "bafkreifkgptmga37ulouxrio4u3u5wyngufg2ubzonmbnmve5ef6mr2gqe",
+    "bafkreifll3aqfa6kieyrbvx5iz2yverwnn22xj42aealhihknfxfuzavum",
+    "bafkreifrq3glscc3lclq3q6lbbkpcld7hwok5oefjfs5pzekwmlshmibpq",
+    "bafkreifuxec5cowylk6lx53rccctg3ouh2vvf75x6xd2vtk4b76so2c3vy",
+    "bafkreig5t7tjeltt7vkotlnumv7ejqzn7oeiszvjk6pf6rsqukimglg3su",
+    "bafkreigfdj644v6bapmrgzcwwgpceb23jgg4ckgmtxbqi7uq7lrqjvfdwq",
+    "bafkreiglml5a2hdijkhzo6vv35vicppphbru4yspfemlitfkzqu6wdh23q",
+    "bafkreigq53dhzobp4kdxcxtu6xhwzrtg42g3uaucyzbontnt6to5f6nvhq",
+    "bafkreigri7sm23vwucrutzqlpx4m2mwewapblfhqww3jncdsru7wplcyva",
+    "bafkreigrstafknv6izys76enq4inp3bwefai2oqzvtyqntlrq2acridfje",
+    "bafkreigtiqmkz6mdyuddssc4j2opamgudvsnygd67baxziwbzpywzvqf5u",
+    "bafkreigzky6w7lnhs45htjugn7yxnzxjngmln2uohxvxq5ywzq3y5idlfu",
+    "bafkreigzoe4blv52weqi53gjobgjqcyq7kdtlhfnnqxqbweryhjaxp44au",
+    "bafkreihanp5u26r4qnsvjssjataaigo7wsvsk5olzmq33wi4f7zbbxw4ou",
+    "bafkreihg33kbnyt5z7hyfoolnvfcr72bziwegjver5kwkxtmiszypjsx4e",
+    "bafkreihgeepp6glmfkxb7xiualcywjixvtyjbuj2ig3pk6yvkukeh6givq",
+    "bafkreihuzkodtanlm4qvqvljhv53zs5ufg5mugwmlxnl4syqofe4pseff4",
+    "bafkreihvq5wxsmgvigk4zcpa5mouiejeszjzgwzfezpwch6fsfulxw4tui",
+    "bafkreihwjv7cwtphezidv7sbfm2coh7qqt2rg47x5yy5aueipcqoymnyw4",
+    "bafyreia2n5rkl3bszpzkuoiorylxagcyjtxarfjxlqmu3qa5ll3uklequq",
+    "bafyreiabrnbgbjchwbu5iacitshz2hn4xvqjwrg4wjebb7xfjab4swlzq4",
+    "bafyreiadbvrbdzvna4mmx5t76h2sujnvsijuvsn2kyfwis5m73nnvbiinq",
+    "bafyreiaewbnn4hafro6chksdxetxlt3dhtrqovlkizh6mugr4x2gsoih2a",
+    "bafyreiajfcmp2cd3xydwm3wlc5g3s6547xvx5g46xun2ho5pkckjup25uy",
+    "bafyreiakkgdhc3zlmsa2utvwm4b3ihmzsqj4nlhetrlskh5po7bqq6sxk4",
+    "bafyreiamffy2tqhmtzfpviwjtn3yq27kfciv4633vgmxqjaadtx24dlnxu",
+    "bafyreiapjgrtztpug7hivvksxiry3qs6tfqlgvysnornplxpo35ls7zzsa",
+    "bafyreiapn4hr2me7wzzbrmzdgnsy2mj54ldohw5e2k2pgw5ahzseaozotu",
+    "bafyreiaucbq7ij43kwp555lnugbmw5k5tvbsb56pgxh5kbyrh6c6zp4zke",
+    "bafyreiax6bdx2qtwk6ho2tjioibg425ucfeljs4hqlppu2t35g3n4kai2a",
+    "bafyreiayxuqrd4sr6yduu5dnefcjqo6kxfozo3237dv42mxpzb375wv4oa",
+    "bafyreib533krrluhxw7wiivldve6hditr453i5oqy42tntsxr7o32bggga",
+    "bafyreib7g3b32t45n2gl6ieets2z6gq2y357drnboa47pwdfiwqzf724zi",
+    "bafyreibbx2qjlicasmi53pvhoyptc7ahg66cqc2msgunf7divwjlsd5ya4",
+    "bafyreibewnjvbxaaieo5rc5pyql6zl3doinfqmrp4aan5t7qx3iespp5ze",
+    "bafyreibjuwppapkxk6ipymyvrbtmq5aldt26bxm3723gsaqfm2ehpczl5e",
+    "bafyreibkyuxbpjsqofwa2pdst3ily5ks366edwau4ctqlx7v3l724ovagi",
+    "bafyreibla5y36bcjuapng2uuqyanhj7fyocdu5wavgbge2ovwvclqmgszq",
+    "bafyreibpti4wsgouhlugsalhexe7xnorfxyb3bmij5mkdgjr42bgreiqpq",
+    "bafyreibyfoy7hda323rpjnrkiykfaa7in7kjiz7vqby3tbbscavl5mv3ia",
+    "bafyreibylqyfbs4dcbw4xento5d46teowxndi4pgx2oe327zdvrxgjkasa",
+    "bafyreibyourvnyw23vope5jb2qqrk4epcahodps2msbe5sr76wgcevb3by",
+    "bafyreic2vputab23lyay6a4iuikmxojr742lad6tfkpzugxwbpsyqxceje",
+    "bafyreic62zs4yt6mgmna4fwconji4iipmljzrarsne4krczoanyvzafl2q",
+    "bafyreic7q3sf4bzws5ij5x5yacccgnunxcpor25vvraweu5ktziy43vbc4",
+    "bafyreiccsf5z3vp742hhfjmhlnjmnl257no46th35bcn7ewdhrt5daavw4",
+    "bafyreicfjcphhoflwrnxsqlk7rvneycni4mt6sr5idx56iho6lpaf5kg3u",
+    "bafyreicflzopokcivuzbh54uenvgz4rikvaildl6rae34gnm7bot3f54ce",
+    "bafyreicfrhu5qcyvstwz5uzwuufogsp3pphpqr4dlpasjqvmzy34ob2y7e",
+    "bafyreichijee5r4zjdemz6yzupxlsetalf7e2ja27hoyoxkqieox3l2gxq",
+    "bafyreicibgajdrlf43lc52qt4tidlws6mhzzjvbyagxmfasxmvws5vlj7e",
+    "bafyreicjhaivet566xxmhwps3qna5ltubnwm65nne6b2rlhrkfizqm6b5u",
+    "bafyreicjiv7m3na7gv4tsgpmtxyhhrbot4ktdxzkpync5rvot4ysekn72y",
+    "bafyreiclobjcb7kurxmrmf5cfqkhk7knt4czrtdr4g6ed3iu4erru2daai",
+    "bafyreicmscwrn5a3qwwah5i7d4rouxt3mjiwah65zlshnmy2hyz3m2hkhu",
+    "bafyreicr4smdfewpax46r4ocowdn3qlvgjdcvhazsu4c3yx5nppwbjun3e",
+    "bafyreics42flza5xwbjwk73lduwiuszcczjxt5vs6gq4ihpsjdcf2sbbny",
+    "bafyreics7viiwkezktnqsub3bi4if7p6wc2qpylabnw5zl3d726s57vj2e",
+    "bafyreicsgzcskau7jivavd2zj6lrevi6exucmpwavlnlaz37u5qatutmau",
+    "bafyreicvcorxdoun7udorskrn22f4jfpc5ylyfclkqbti2zlvhsip2wjga",
+    "bafyreicynruml56ng2q7cwjxh3dzixla4wx2z4g6allscqrigymc6fhkeu",
+    "bafyreid63urc2hf4sa4ukpsjj66twz4nweaew4244cxiycfeoh63estcx4",
+    "bafyreidayv6se57kgkaojt5r5sgq4ucf5q6tzunzxg4ofefue6mtqpmyle",
+    "bafyreidcnt3tbxohfdfvagolvtwavecqeymjz7ifqfeiaeeuwmlh5blgqu",
+    "bafyreidir75gyi56t3t6ivvr5k4pnezttojs7upnvolaslc5cou2blfecu",
+    "bafyreidxohdssuprzksz3tpwdtsreyyml3aay5n5n6vur6723ewlpnfvtm",
+    "bafyreidxxcu3gbrftgnpqdp3jhmroczqfjis2ht52nj6j3pygkd5qdk4n4",
+    "bafyreie27auvzxuywp64hh6ockb6x4sp5voeu24tbqvlvbe2dscywmx5xa",
+    "bafyreie4ibf4bg5wmbkswtnwl74aj76evfq2ybxq2vzi53z3clcry26krm",
+    "bafyreie64htcbgu3nehnrpiaipkewzkurvfw4xqdibycfptnfjxi6jq5ge",
+    "bafyreiea7dnx4k6sgcwq7meefpi2owx2z3tzdwbwuwuhb2d6y34k427aqu",
+    "bafyreieaknf7dtis63bcav24kj3zodieg2maa6ro6kfliek6r3j3kfqvbq",
+    "bafyreiefhib4pn4c64aayxnl5xskf5ywvpbw54l5vk5te6tboe3cekq7we",
+    "bafyreiep56mem4zv6x6hecoymxeexdabrocukkmwfb2m7nebrlntewzyuu",
+    "bafyreiexhmpv3rkabwz3gc2f3anuzqpjooc4lekgg4n2c545xd6i2kiabm",
+    "bafyreif4k5yh6nibt4zcurnxtwzmdvuf4gu6qxczxz6wgj2j2fn74cwpyq",
+    "bafyreif6salclvv52ft2rwie2eagq2g6zq762d5oxpmzdetud4o3uoqpza",
+    "bafyreifblief4lh44rqa6iuti543lnqod7ct6ilbq4c5x3jlenvbcbzos4",
+    "bafyreifbnz5cvgzbgmgfex3tccz7nzvx6q627kr63wxjixom5hrxgtsf74",
+    "bafyreifgdteysl2yk5mpfqple3bw64uwpc7o4wmoacxrrvnmzcevua4mzi",
+    "bafyreifhon5meonv473ipkcmautqzy7gaby4is3u3iuk33ciduiuiaqvau",
+    "bafyreifiiisf4qfvjb4lqmqporinhcg5uy4xbbc5vl74ad3mlnukoxvtei",
+    "bafyreifl36tbw6okd3kjzxvu4qpxaaofu4x5fukuhlgrnkh3ig4ympdqyq",
+    "bafyreifskmnyyeo7hei2q2fnualh23fbl35d5qrqsccsb7yvu7otdv66uq",
+    "bafyreifswkses4na7e3xle2dhfgqnrl4x2fdtkwelbsazqhzks2nd6syoi",
+    "bafyreifxgqgf3e5ns3nywgcre4drjz2u7ve4aoddhdh2a57yu3h35pyuxu",
+    "bafyreifyi2swriqx7qbkfqp6kswdvsdgpeugfbt2cvmlxgrxa32dhqmt3y",
+    "bafyreig2esntn35oq6gqxo63f7ftjle2p6jwnaihv623aivbk2yf2qcrlm",
+    "bafyreig6nlgmboy4yi7cgzsyd2lmee2a45kyc4iay2l4rmalfrvvzwy7ru",
+    "bafyreigcdulmtg5rpron5rodrb2fvdsud2rbyc5zgae67uff4tfo5drpma",
+    "bafyreigdjdz2evkifzrmesarndwxd3ix2gcdzzprwkosvb4xutaonhfmjm",
+    "bafyreigfalvwwycn65s736yjj2l7yzukjliy33eqzzsz7dchzero7jsvzu",
+    "bafyreigfkogiejsfmysbs7uk6kim2peqeyo3hbq6pmuedvr7hx3v6s2yoi",
+    "bafyreigh6rfja65sje4rbvddskdkk2yk6iyo2o332ovbuytk4rgoaavoj4",
+    "bafyreigibkvxstqdx6etyr6yseve56laf2xbxllurxwcqajyeie46qfy4e",
+    "bafyreigjmhlyriduu6gucr6oakfksuu6bfsgl7yskuqykg5kwz6ag7omti",
+    "bafyreigkrvld4ff6lx3ci2peomilo24r5h3qkdiqluakp6mpuwyrv3fkwq",
+    "bafyreigpm5qvyp2fovtbovyavvtxqdwixckxvkdpk4pypme662ztypuxom",
+    "bafyreigqljxlvttku5kwidpvkzinawil3cnwycac7peysxvmwfhpoq44p4",
+    "bafyreigrzcsfhcc3p3rh764lxh4fok4s6eheurlmltzbw63e4ggiivyhdm",
+    "bafyreigyhkbu6j7rvfy4picuuq6gqfytp4sgq4wn4bkuho44b5nx7dciqq",
+    "bafyreigymfrag3m2a35akswhe4j7wditw7ygimducdpg7dkaxqbtzrdtma",
+    "bafyreih2odudbalsbd7iqvec6zqol3getib556a3grxov5bksqt6ehtdoi",
+    "bafyreih3wgpu6d5777cux4yrmygmobfm2pi7jg7h3qd4nojz6zgrip4s3q",
+    "bafyreih6dssnzi6gwqu3qhcga44xgn3atxser2pv25jk6wdxphera2f56a",
+    "bafyreiha223nb5czpvfbyhzk74yq4req7i3liq6jqjf5zqlxrrzrwhojnu",
+    "bafyreiha5cbrieku75tfg7zacy4osjku4fmsyfotncmzjzj5jv4ktvkkgy",
+    "bafyreihcpqlqhswxnsasdxwz52xwja7nreapyad64wn4qaf5fhif56mx44",
+    "bafyreihfqw7nj3tqtgvdn7r53ifo37dg33fzr6z2l4mt2lazwyn6gzqvvq",
+    "bafyreihi4tag5nyhskzzngx7475iw2dfooijw32boqid2xwypzex7fopky",
+    "bafyreihiocaqyshajqhv4xjczfwui5f5xz4zltknqyukn2py5xorpazvp4",
+    "bafyreihla4hoyerh2t42gbyztkh5fihlqd4l3zs3jkvpwqxukddifttg3e",
+    "bafyreihnmq7hzhngnj3qg3ielosoc726lbni6zbvja5iv3m4hlrhmakqli",
+    "bafyreihosdoaqqwgt7ja6pfxasdnofv6blldsm3pep36hhgnp6bssh2lj4",
+    "bafyreihpd5bsqomojhdoteskxd3quckqjvialffhtk7mwytlspwudzogtu",
+    "bafyreihqkp65lq5ymeau6nnw7x2sd2zxcdze3qm3xqbv2v6y7sveqfek54",
+    "bafyreihsr2qwyyxx22gwd6z5sabzznbye7n5ixqp3zwn3qchmopzjykuru",
+    "bafyreiht6np36sdcjb4bhi4mbyyqdnw5qmq3wuf5vynr5s6uufk4ghapwm",
+    "bafyreihw7fxife7n7pbk2cdyfiglbza7puotpkcfa55b3k57vrr46ew4jq",
+    "bafyreihyy3gd6hdqimmnmjixl2uvirrn7lh5jtnwvmvzi6q5occ2fxtaky",
+    "bafyreihzli753hnn35jascgqy3tyc33e2iyxvwhhd4whjp33vw4unis7ui",
+    "bafyreihzscc4edoxdoli376munkranj5q72vq73fah3qxkfu33bq4zeham"
+  ],
+  "closure_blocks": 397,
+  "closure_counts": {
+    "acc/author-acceptance@1": 1,
+    "acc/document@1": 1,
+    "acc/source@1": 2,
+    "ag/document@1": 2,
+    "ag/evolution-continuation@1": 1,
+    "ag/source@1": 2,
+    "bb/document@1": 2,
+    "bb/evolution-continuation@1": 1,
+    "bb/source@1": 3,
+    "ca/document@1": 2,
+    "ca/evolution-continuation@1": 1,
+    "ca/source@1": 12,
+    "cf/document@1": 1,
+    "cs/book-landing@1": 1,
+    "cs/chapter@1": 32,
+    "cs/document@1": 2,
+    "cs/evolution-continuation@1": 1,
+    "cs/revision@1": 2,
+    "cs/source@1": 2,
+    "cs/translation@1": 32,
+    "csg/document@1": 1,
+    "csg/source@1": 1,
+    "ic/document@1": 2,
+    "ic/evolution-continuation@1": 1,
+    "ic/source@1": 2,
+    "math/document@1": 1,
+    "mn/document@1": 1,
+    "np/document@1": 1,
+    "np2/document@1": 1,
+    "pi/document@1": 1,
+    "pkst/activity@0.1": 1,
+    "pkst/change@0.1": 6,
+    "pkst/concept@0.1": 12,
+    "pkst/content@0.1": 24,
+    "pkst/extraction-record@0.1": 24,
+    "pkst/occurrence@0.1": 24,
+    "pkst/relation@0.1": 12,
+    "pkst/snapshot@0.1": 1,
+    "pkst/source@0.1": 1,
+    "pkst/statement@0.1": 5,
+    "pt/document@1": 1,
+    "raw": 168,
+    "rfa/document@1": 1,
+    "rr/document@1": 1,
+    "sc/document@1": 1
+  },
+  "verified_previous_link_targets": 103,
+  "full_catalog_blocks": 782419,
+  "text_verification": {
+    "status": "pass",
+    "edition": "17-cooperative-superintelligence",
+    "reversible_edits": 2,
+    "native_source_roundtrips": 2,
+    "exact_author_spans_verified": 1,
+    "chapters": 32,
+    "headings": 229,
+    "citation_occurrences": 97,
+    "new_external_sources": 1,
+    "unchanged_chapter_pairs": 31,
+    "chinese_sha256": "e6211eff196c2aae1fdd1402c58b2517acf090d13a41b6f57b15551443f8c8ac",
+    "english_sha256": "dd9fe6922e73fd54e9adb4657e44c32dfb888966a9579e5f4650a290c32cdb95",
+    "boundary": "Checks prove provenance and structural/replay properties; semantic review is editorial, not a mathematical equivalence proof or author approval."
+  },
+  "verification_scope": "new blocks, direct prior link targets, append graph, SQL links, exact sources, reversible edit replay and bilingual structure; earlier graph verification inherited"
+}

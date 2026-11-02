@@ -1,7 +1,7 @@
 {
   "boundary": "Public conversation and editorial projection, not a byte-complete raw backup. All preserved editorial versions are included; overwritten/unrecorded intermediate edits cannot be reconstructed.",
-  "catalog_events": 212781,
-  "editorial_objects": 2729,
+  "catalog_events": 212783,
+  "editorial_objects": 2822,
   "events_by_platform": {
     "chatgpt": 8240,
     "claude-ai": 2085,
@@ -9,12 +9,12 @@
     "claude-ai-project": 21,
     "claude-code": 3750,
     "claude-code-memory": 16,
-    "codex-local": 141327,
+    "codex-local": 141329,
     "gemini": 2870
   },
   "gemini_html_projections": 1443,
   "native_codex_channels": {
-    "None": 141213
+    "None": 141215
   },
   "omission_counts": {
     "no-publishable-text": 21511,
@@ -22,17 +22,17 @@
     "tool-or-internal-record": 11970
   },
   "omitted_events": 54456,
-  "public_objects": 359530,
-  "published_events": 158325,
+  "public_objects": 359627,
+  "published_events": 158327,
   "raw_backup_public": false,
   "record_kinds": {
-    "conversation": 158121,
+    "conversation": 158123,
     "material": 204
   },
   "redacted_entries": 23,
   "schema": "pkst-public/coverage@1",
   "source_blocks_cid_verified": 408086,
-  "source_snapshot": "bafyreibyjvxk24as4gc5vzhts6eukpkt7ltksrocjjprac2p4jbsd62sqa",
+  "source_snapshot": "bafyreichijee5r4zjdemz6yzupxlsetalf7e2ja27hoyoxkqieox3l2gxq",
   "incremental_updates": [
     {
       "edition": "06-protection-and-trust",
@@ -188,6 +188,20 @@
       "new_original_blocks_verified": 143,
       "previous_link_targets_verified": 102,
       "recorded_at": "2026-11-02T00:58:33.481719+00:00"
+    },
+    {
+      "edition": "17-cooperative-superintelligence",
+      "source_snapshot": "bafyreichijee5r4zjdemz6yzupxlsetalf7e2ja27hoyoxkqieox3l2gxq",
+      "window_start": "2026-11-02T01:04:24.691Z",
+      "window_end": "2026-11-02T01:35:34.730Z",
+      "added_events": 2,
+      "added_user_messages": 1,
+      "added_assistant_final_answers": 1,
+      "added_public_objects": 97,
+      "added_editorial_objects": 93,
+      "new_original_blocks_verified": 141,
+      "previous_link_targets_verified": 103,
+      "recorded_at": "2026-11-02T01:42:07.514181+00:00"
     }
   ]
 }
