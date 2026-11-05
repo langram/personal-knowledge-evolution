@@ -7,8 +7,8 @@
 ## 阅读文章
 
 - [《新原理》中英双语简介与分享入口 / Book introduction](book/readme.md)
-- [《新原理》当前全文](book/current.md)
-- [New Principles — complete English edition](book/current.en.md)
+- [《新原理：社会科学的数学原理》当前全文](book/current.md)
+- [Nova Principia — complete English edition](book/current.en.md)
 - [公平发展、能力多样性与跨领域合作](archive/dossiers/2026-10-31-ability-cooperation/01-section.md)
 - [能力形成、资源累积与分布](archive/dossiers/2026-10-31-ability-resource-formation/01-section.md)
 - [文明自我治理、权重边界与制度探索](archive/dossiers/2026-10-31-civilization-self-governance/08-edition-additions.md)
@@ -21,7 +21,7 @@
 - [从数学家的灵感到文明的共同创造](archive/dossiers/2026-10-26-shared-credit/01-chapter.md)
 - [从学生的灵感到基层的创造](archive/dossiers/2026-10-26-shared-credit/05-section-ten.md)
 - [现存版本与修改过程](history/README.md)
-- [本轮和平说服论述、原话与中英对照记录](archive/dossiers/2026-11-02-cooperative-superintelligence/04-editorial-notes.md)
+- [本轮相对性与对齐论述、原话与中英对照记录](archive/dossiers/2026-11-05-relativity-alignment/04-editorial-notes.md)
 
 ## 运行访问接口
 
@@ -83,3 +83,5 @@ python -m pkst_public serve
 2026年11月2日第十六版新增超级智能与制度想象的讨论，区分知识、目标、信息需求与权力结构。作者原话、编辑限定、英文派生和思想演化分别保存，详见[本版修改记录](archive/dossiers/2026-11-02-agi-institutions/04-editorial-notes.md)。
 
 2026年11月2日第十七版补充超级智能选择和平说服与自愿试点的论述，明确文明整体成本和目标条件，保留作者的乐观立场与讽刺表达。作者原话、编辑限定、英文派生和思想演化分别保存，详见[本版修改记录](archive/dossiers/2026-11-02-cooperative-superintelligence/04-editorial-notes.md)。
+
+2026年11月5日第十八版采用新书名《新原理：社会科学的数学原理》（Nova Principia），补入认知参考系、多层级对齐和自我反思。作者原话、Gemini回复、编辑限定与思想演化分别保存，详见[本版修改记录](archive/dossiers/2026-11-05-relativity-alignment/04-editorial-notes.md)。

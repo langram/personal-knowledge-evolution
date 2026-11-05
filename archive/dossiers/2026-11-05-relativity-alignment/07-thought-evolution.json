@@ -1,0 +1,292 @@
+{
+  "schema": "ra/evolution@1",
+  "previous_edition": "17-cooperative-superintelligence",
+  "stages": [
+    {
+      "step": 1,
+      "ref": "GEMINI-01-AUTHOR",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-05 01:25:29",
+        "format": "export-local",
+        "precision": "second",
+        "zone_known": false,
+        "unit": null
+      },
+      "occurrence": "bafyreiabti7wrb235vzofaog3k3eq7jtinkymvjvnj6jbz4er2kjml7fci",
+      "content": "bafyreiawvu5gvxv2g2upikk7aky2mbbg75id6h43bulyd6xxdkzucgf6jm",
+      "text_sha256": "e3b8aa78322afbf4d2bacdbf7a3c54bcad64a0f063b822b7e159a85887c039be",
+      "status": "author proposal or question",
+      "source_platform": "gemini",
+      "source_order": 1,
+      "clock_boundary": "Exported local time without timezone; reply timestamps missing"
+    },
+    {
+      "step": 2,
+      "ref": "GEMINI-01-RESPONSE",
+      "role": "assistant",
+      "event_time": {
+        "value": null,
+        "format": "missing",
+        "precision": null,
+        "zone_known": false,
+        "unit": null
+      },
+      "occurrence": "bafyreihn43mjvvoblsdhwm5b4ml5mdu4qytae3pyv4y5duwzso3vvveew4",
+      "content": "bafyreibuxx4nolkrogqmlvpa5ii7ttlntqvnwaxhnucugrmbewvwuqg57q",
+      "text_sha256": "976978647cf1a98a3a8cd5ae3ca6ac0345e7ac1999fbe4a899bf928f546fe123",
+      "status": "AI response; not automatic author endorsement",
+      "source_platform": "gemini",
+      "source_order": 2,
+      "clock_boundary": "Exported local time without timezone; reply timestamps missing"
+    },
+    {
+      "step": 3,
+      "ref": "GEMINI-02-AUTHOR",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-05 01:29:40",
+        "format": "export-local",
+        "precision": "second",
+        "zone_known": false,
+        "unit": null
+      },
+      "occurrence": "bafyreibnaiqfrwmvozxd77lwg5gmkv5vgnqqewni3au2n57trg2i3w55nq",
+      "content": "bafyreig3fzjw4vdakx3ofr5temhysuneie5ymysp2pwzau5itpmkjhiecq",
+      "text_sha256": "12aeadb31f4e30b9cdcc9a8e250fafd12009edebb0bd2fbebc63d27f842b34cf",
+      "status": "author proposal or question",
+      "source_platform": "gemini",
+      "source_order": 3,
+      "clock_boundary": "Exported local time without timezone; reply timestamps missing"
+    },
+    {
+      "step": 4,
+      "ref": "GEMINI-02-RESPONSE",
+      "role": "assistant",
+      "event_time": {
+        "value": null,
+        "format": "missing",
+        "precision": null,
+        "zone_known": false,
+        "unit": null
+      },
+      "occurrence": "bafyreieqiyrwwfugix46xlsrn7phtqbehu3wxbbfntvogxiov4gdcdiwt4",
+      "content": "bafyreif2my7fjgpd56wkqrjrqzkutpgc6usipbcmgkqnbsk5vp5iybxbqm",
+      "text_sha256": "fe0db1e8344bfba6caa5ead8e1616af5100c9847d7ad2840e09811a56d8aac3a",
+      "status": "AI response; not automatic author endorsement",
+      "source_platform": "gemini",
+      "source_order": 4,
+      "clock_boundary": "Exported local time without timezone; reply timestamps missing"
+    },
+    {
+      "step": 5,
+      "ref": "GEMINI-03-AUTHOR",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-05 01:31:38",
+        "format": "export-local",
+        "precision": "second",
+        "zone_known": false,
+        "unit": null
+      },
+      "occurrence": "bafyreiaqxnd26zxsg34k2d4qelcvitukfiyvzc5n5uuk5f7qj2zj3uqo2a",
+      "content": "bafyreifmtqo6vu26yqgkka6ed7xcrojdfipi5ukgiiunm7ixgjor54zgda",
+      "text_sha256": "aee47bc9363907c6f0cf345e9ace1b6d07b376ff1723c0a745545c0998e50d23",
+      "status": "author proposal or question",
+      "source_platform": "gemini",
+      "source_order": 5,
+      "clock_boundary": "Exported local time without timezone; reply timestamps missing"
+    },
+    {
+      "step": 6,
+      "ref": "GEMINI-03-RESPONSE",
+      "role": "assistant",
+      "event_time": {
+        "value": null,
+        "format": "missing",
+        "precision": null,
+        "zone_known": false,
+        "unit": null
+      },
+      "occurrence": "bafyreihzuacop43rjtpofztr5vqbjgtnbbodhooyufkyrhlq3fumgvuy4u",
+      "content": "bafyreictky6gfdot5tvodakyw33ewddcar3s3c2q6cypx2fw7gawzmz34y",
+      "text_sha256": "ab9260ee8884e8b07ce5a988c48c858d783df9bfb1bb9e0b359bf83c2896021c",
+      "status": "AI response; not automatic author endorsement",
+      "source_platform": "gemini",
+      "source_order": 6,
+      "clock_boundary": "Exported local time without timezone; reply timestamps missing"
+    },
+    {
+      "step": 7,
+      "ref": "GEMINI-04-AUTHOR",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-05 01:40:09",
+        "format": "export-local",
+        "precision": "second",
+        "zone_known": false,
+        "unit": null
+      },
+      "occurrence": "bafyreicbtrsnq7f2gy3mli2biggzmbae3odta4cgm7bid2vbyn2w25hiha",
+      "content": "bafyreihoczc6wlks3rjrdtu4skgdg5ykcqb2i2tzrkr3i64ny4swb5lcli",
+      "text_sha256": "51b927d235bdc95567bb75b048133a00da3bc8219bcf63a0e07e51334a0b73d9",
+      "status": "author proposal or question",
+      "source_platform": "gemini",
+      "source_order": 7,
+      "clock_boundary": "Exported local time without timezone; reply timestamps missing"
+    },
+    {
+      "step": 8,
+      "ref": "GEMINI-04-RESPONSE",
+      "role": "assistant",
+      "event_time": {
+        "value": null,
+        "format": "missing",
+        "precision": null,
+        "zone_known": false,
+        "unit": null
+      },
+      "occurrence": "bafyreihgq5fyotikldhepiipszexetmqfyjjm7sm6aaic5k6mdnr5onqoi",
+      "content": "bafyreihashbd3tu5u4wud4eihbs22kdkvuifiv2ttjxm72rpmwbpg2mt7i",
+      "text_sha256": "362c9beb5698ee9a37f92e3e27ac389cc876227f3a843691502b82dcc449d6d5",
+      "status": "AI response; not automatic author endorsement",
+      "source_platform": "gemini",
+      "source_order": 8,
+      "clock_boundary": "Exported local time without timezone; reply timestamps missing"
+    },
+    {
+      "step": 9,
+      "ref": "GEMINI-05-AUTHOR",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-05 01:56:34",
+        "format": "export-local",
+        "precision": "second",
+        "zone_known": false,
+        "unit": null
+      },
+      "occurrence": "bafyreiceucljixqlvcsprst6chuqxqoz7rdo6crxhjnyzrdmqcszihroea",
+      "content": "bafyreidm3kfsq3455i5py5zvirftz5hnuhn73jgt5rezqwssy3aoemjsry",
+      "text_sha256": "8bd92d042f96b4afa82c6593adab54ecd01fcfb305640e8874b891320e086238",
+      "status": "author proposal or question",
+      "source_platform": "gemini",
+      "source_order": 9,
+      "clock_boundary": "Exported local time without timezone; reply timestamps missing"
+    },
+    {
+      "step": 10,
+      "ref": "GEMINI-05-RESPONSE",
+      "role": "assistant",
+      "event_time": {
+        "value": null,
+        "format": "missing",
+        "precision": null,
+        "zone_known": false,
+        "unit": null
+      },
+      "occurrence": "bafyreicya5gn6xuzcqj74lzjdukt7nt7tapykr3droxcrtaf45vt36z2me",
+      "content": "bafyreibkzdb3ckb6hytf2bdy5ov5i3gzalsgwjqrfdtwwbihjnxslethia",
+      "text_sha256": "f09a015d09130c20135caf01035b4a75801a5f3b3ca4480549838a11cf3d1ebb",
+      "status": "AI response; not automatic author endorsement",
+      "source_platform": "gemini",
+      "source_order": 10,
+      "clock_boundary": "Exported local time without timezone; reply timestamps missing"
+    },
+    {
+      "step": 11,
+      "ref": "PREVIOUS-EDITION-RESPONSE",
+      "role": "assistant",
+      "event_time": {
+        "value": "2026-11-02T01:46:51.937Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreigzb6httnmtba76fvjwtyh2fbufy7spvueemtfyclt7ownshzwbuy",
+      "content": "bafyreifs2yjpiik5zynyq6b5iyzs5aq3o3eokropihte4ocz6roynkcwha",
+      "text_sha256": "acfdce9adc313ce8e7e1a8062a046d5ed773b740502312297b35fa7a0f835ef9",
+      "status": "AI response; not automatic author endorsement",
+      "source_platform": "codex-local",
+      "source_order": null,
+      "clock_boundary": "Native UTC timestamp"
+    },
+    {
+      "step": 12,
+      "ref": "AUTHOR-WORD-COUNT",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-02T02:28:14.544Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreiamsxsjxpsd7t6a7rpkkgstgzvjpbfqb3oodntssi5pqohid43ok4",
+      "content": "bafyreihovm66jhs6ywnjd3662dmg7ttnpok5ih2u2vgxw7n24jpatxfhk4",
+      "text_sha256": "6377414fa576b9766744f31bd883e890e6181cc93f8f5d5ba318fbfcf78b3da0",
+      "status": "author proposal or question",
+      "source_platform": "codex-local",
+      "source_order": null,
+      "clock_boundary": "Native UTC timestamp"
+    },
+    {
+      "step": 13,
+      "ref": "WORD-COUNT-RESPONSE",
+      "role": "assistant",
+      "event_time": {
+        "value": "2026-11-02T02:28:28.048Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreieig2qvbyionyw52yj47v73zc4754n4wz4xg6ydlz3fp6uuh7vglq",
+      "content": "bafyreib5zbdi3sl4gx5j54ykxu3vryhchfgljh53chdn7ht22cq6sqtcni",
+      "text_sha256": "b8c233c8ae4b72f42434f8c8bebcc589d0d2dc1c2ed990f5222de59918e65e49",
+      "status": "AI response; not automatic author endorsement",
+      "source_platform": "codex-local",
+      "source_order": null,
+      "clock_boundary": "Native UTC timestamp"
+    },
+    {
+      "step": 14,
+      "ref": "AUTHOR-RELATIVITY-ALIGNMENT-FIRST",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-05T08:00:42.744Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreigkf7zlelczfdoxkjfkbilaylpwxrbpp5bfyosile7xibxyilwste",
+      "content": "bafyreiak57k4s7ychjshh2jwd6nywdyy6svwegvfshyrr22vkms5rdjnt4",
+      "text_sha256": "b1f406d68c5c32c28668a655324bc4e10a9bc77e15c39ecbefdc7664bde4593a",
+      "status": "author proposal or question",
+      "source_platform": "codex-local",
+      "source_order": null,
+      "clock_boundary": "Native UTC timestamp"
+    },
+    {
+      "step": 15,
+      "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+      "role": "user",
+      "event_time": {
+        "value": "2026-11-05T08:02:46.694Z",
+        "format": "rfc3339",
+        "precision": "millisecond",
+        "zone_known": true,
+        "unit": null
+      },
+      "occurrence": "bafyreiafevhvpe7isws6fzumyxs4lvpzvi3zi3lrsgvfgrl3lvf7mus4m4",
+      "content": "bafyreihh24x62c7a5elowazunparlnhjx4k6uvzcvuuyctwtnz2l7sebay",
+      "text_sha256": "47ecfd635821f633e8ffd5b9fa00de843697e4cbcfdb3e411c5498322a691907",
+      "status": "author proposal or question",
+      "source_platform": "codex-local",
+      "source_order": null,
+      "clock_boundary": "Native UTC timestamp"
+    }
+  ],
+  "boundary": "A partial order of source events, not a single resolved global chronology. Gemini export order is explicit, user timestamp timezone unknown, reply timestamps absent. Codex native timestamps are UTC. Repeated request is a distinct occurrence, not a new original idea. No hidden reasoning captured."
+}

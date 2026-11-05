@@ -1,0 +1,17 @@
+{
+  "status": "pass",
+  "edition": "18-relativity-alignment",
+  "reversible_edits": 14,
+  "source_roundtrips": 15,
+  "native_source_roundtrips": 5,
+  "markdown_source_roundtrips": 10,
+  "exact_author_spans_verified": 16,
+  "chapters": 33,
+  "headings": 246,
+  "citation_occurrences": 102,
+  "new_external_sources": 5,
+  "unchanged_chapter_pairs": 29,
+  "chinese_sha256": "f7436481bd3342b3b00d16db7a671ca65acb7915328d3dd23808f890332d1dac",
+  "english_sha256": "b9705c56ff28c4bba7db576098ee40f6495106ccac79e83915240635d892ffc0",
+  "boundary": "Checks prove source/replay/structural properties; semantic review is editorial, not proof of the theory or author approval."
+}

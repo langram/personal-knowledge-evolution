@@ -1,0 +1,1854 @@
+{
+  "schema": "ra/passage-manifest@1",
+  "coordinate": "unicode-scalar-half-open",
+  "minimum_exact_span_characters": 24,
+  "passages": [
+    {
+      "id": "book-title-001",
+      "edit": "book-title",
+      "document_span": [
+        0,
+        15
+      ],
+      "sha256": "e487673ac0e68e394e0e61e44f6ae7655283728c24c145aa1741dcc61e6e536f",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "title-purpose-001",
+      "edit": "title-purpose",
+      "document_span": [
+        192,
+        224
+      ],
+      "sha256": "1a790ad5ee512906074a4f433b0b203683652afa3701bb625b0cc36f0934e3ad",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "title-purpose-002",
+      "edit": "title-purpose",
+      "document_span": [
+        226,
+        457
+      ],
+      "sha256": "b1b8d49ed4a29732355989ca5766a370db7a68b84bd7683a97fdbd1297e4d4c9",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "title-reference-001",
+      "edit": "title-reference",
+      "document_span": [
+        1306,
+        1329
+      ],
+      "sha256": "7f4d3f43d35c7a784bf5f783fdaefbb21b57684e1245374de8d635167bb95eb6",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "title-foundation-001",
+      "edit": "title-foundation",
+      "document_span": [
+        1640,
+        1678
+      ],
+      "sha256": "d095c6897d8fe36149847f3cd419e3571cc0ac6310168e17a150478682519227",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-001",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        26173,
+        26195
+      ],
+      "sha256": "102a851aa81a2b60afbf8f2282a16bf8e8d25eb9cb7f9f235ae906adbf3c0687",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-002",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        26197,
+        26212
+      ],
+      "sha256": "2232eb291bd8442d08c8f523402d4322a967eb39e6758429a56a2369a0e891aa",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-003",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        26214,
+        26335
+      ],
+      "sha256": "0b7c74c1acb73040e3f18438a7fa5a9e95902e3a188e494e7768633b6af6aa0c",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-004",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        26337,
+        26470
+      ],
+      "sha256": "dfab84fcf00e5d30c438c41b085cd1a93e4d2e5d5af5eec0de3776d46a9c9bb4",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-005",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        26472,
+        26728
+      ],
+      "sha256": "da6fb67554d46d21451310c532ebd5baff9829e53104891e317dd88e95185faf",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-006",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        26730,
+        26808
+      ],
+      "sha256": "d9b062b942b260b8f22d780c77de2b7e835d5df23aa537802c3eeba979a784dd",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-007",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        26810,
+        26971
+      ],
+      "sha256": "362f656947d4fac5a889e0480e54bd485d0f453c5574a8c70a29b6727dc4893f",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-008",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        26973,
+        26991
+      ],
+      "sha256": "3b7b86b05a8984eca52584597f306629e600ffb242423019c5156b39bd77f719",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-009",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        26993,
+        27133
+      ],
+      "sha256": "9c5721c2aed712fef3e6ab807a60edc38532f086f859263a912976fbce3165e1",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            662,
+            710
+          ],
+          "paragraph_span": [
+            27,
+            75
+          ],
+          "text": "，而不是有什么上帝创造的独立于宇宙演化规则之外的所谓意识灵魂之类超自然因素影响的额外规则和元素。"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-010",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        27135,
+        27264
+      ],
+      "sha256": "f88f600e097149c946c67b539cc97fadd1b4d161f8cae29f75c5857fcf334b9f",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-011",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        27266,
+        27426
+      ],
+      "sha256": "47df421b83830749447fa9f62579028705a5397f17cccbaa2258534422595174",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            728,
+            785
+          ],
+          "paragraph_span": [
+            25,
+            82
+          ],
+          "text": "牛顿体系之前的自然哲学的状态，急需底层基本概念和数学原理层面的统一底座。而且这个底座应该是自然科学底座的自然延伸。"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-012",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        27428,
+        27548
+      ],
+      "sha256": "7b800e1e7412b9647122871d62a75540f2d0bcb53b0fd85da1f5c063e99dc3f4",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-013",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        27550,
+        27685
+      ],
+      "sha256": "c0312f0aa1faf8571cdc997359e0d0fe0ed0246745d847d40d6b08c30be4b4a6",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-014",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        27687,
+        27704
+      ],
+      "sha256": "456506d6437d19e880a820ac51acbb0947cdf8f6f76b2ec81d7d6f4e087d4531",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-015",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        27706,
+        27826
+      ],
+      "sha256": "083cb00c32fc13029f51058b62663f48e58709f11da807693d6fbe84f14e8816",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-016",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        27828,
+        27939
+      ],
+      "sha256": "99697ae40e06f23da6346bc68347eba1cc921056fbb32efb48b1f2c9f8bc42e7",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-017",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        27941,
+        28203
+      ],
+      "sha256": "791bc5cbf9404d68c2d49059505d7b2e994d2d7a1642259d0bdb1d2a66d11e42",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-018",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        28205,
+        28366
+      ],
+      "sha256": "df6ef48f667d980d69eec91ba6a40f913fe5f195179fa8b963bde6c5e04f0369",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-019",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        28368,
+        28388
+      ],
+      "sha256": "8dcf96af3f6c89c2f2187a70b21b2a3bc97db8f9f2126065ead9dab1fed4f642",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-020",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        28390,
+        28521
+      ],
+      "sha256": "3b80e2fb021dc34efa4e979b153c90c4ecbe8ceb1f5ca8346d91779b1a9a862f",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-021",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        28523,
+        28680
+      ],
+      "sha256": "3689cf4e94760ac3c12bafd80abeab92b3c8cf9946a7f126f4cbccb7c07dafde",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-022",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        28682,
+        28910
+      ],
+      "sha256": "e48323000c2aafdeed83165012290b413f3f12649c85e9afb14efd32474ba91d",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "GEMINI-05-AUTHOR",
+          "source_span": [
+            99,
+            130
+          ],
+          "paragraph_span": [
+            30,
+            61
+          ],
+          "text": "，那么基于这个认知空间的语言和行动，就像物理时空中的运动一样，"
+        },
+        {
+          "ref": "GEMINI-05-AUTHOR",
+          "source_span": [
+            170,
+            220
+          ],
+          "paragraph_span": [
+            144,
+            194
+          ],
+          "text": "这些不同参照系中的人类个体之间的互动行为在文明和社会层级这个更高的参照系中会形成更复杂的结构和性质。"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-023",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        28912,
+        29064
+      ],
+      "sha256": "43ba3ba6d5accd8d466b033218c3a39d4118fa382ed928e31cfac1b6d010e4d2",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-024",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        29066,
+        29086
+      ],
+      "sha256": "76c6d2bdab4a72deaf334a27dd6bff2fcb7e6f373a3870cd1b718f1a5b932a5f",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-025",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        29088,
+        29118
+      ],
+      "sha256": "f4226283152d60ddeaea8c2b88b24db852e6a58cbeabde9f78f7beb6c81313bc",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-026",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        29120,
+        29235
+      ],
+      "sha256": "9bd477d84250319c44e754e0e3eadf4500be63689c014ac50c824e1b7253f488",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-027",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        29237,
+        29345
+      ],
+      "sha256": "2ddfedc800122f2ae7ac043445d662cc6c814c342ce7e066f374c52d71721034",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-028",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        29347,
+        29478
+      ],
+      "sha256": "10030aab74e4430d27cd621990e9c3e37633966fc0f6e10ebec9d4de0fc29093",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-029",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        29480,
+        29596
+      ],
+      "sha256": "ed78e72ad482ed9ec5d5774b302638313d959ac3c53b84a99d40bbf4664ba2af",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-030",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        29598,
+        29619
+      ],
+      "sha256": "34d134fe17492b4c0b1fca4b9e8bad01b6c77e9b45e7eea9f874a7b5202c3bda",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-031",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        29621,
+        29727
+      ],
+      "sha256": "35107227ba203e76f5cafe64af6a2721d16ddad2cccc6f8d128ef5cedfda3076",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-032",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        29729,
+        29923
+      ],
+      "sha256": "365e9391a010fa1adf43a86453e66bcf109ada92d0cd919019c501995f0cb342",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            997,
+            1031
+          ],
+          "paragraph_span": [
+            25,
+            59
+          ],
+          "text": "妖魔化自然界的对象，比如温柔的风，柔顺的小草，神圣的光，恶魔般的黑暗"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-033",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        29925,
+        30061
+      ],
+      "sha256": "0f038c020a689fc01cf09ba2aeed00a815c4cbd67cb7537d69f9d2e1c8124104",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-034",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        30063,
+        30221
+      ],
+      "sha256": "54f890b9fbc375d4e196659e021eb245f2bf7f6f06fd2f1af22fda2cbbdc3336",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-035",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        30223,
+        30243
+      ],
+      "sha256": "139141d4fca1a71c1d9550fcb5d4043c05391880956954c4643009d4e9aafca5",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-036",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        30245,
+        30356
+      ],
+      "sha256": "02e8f4fcf4759389b873d1971bfdf603793f13a4de223f21b649fc90c90924d2",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-037",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        30358,
+        30807
+      ],
+      "sha256": "83f4658e1e7d174df18e3090e7b4a1d41e7ac9648a2a48fea6dc5d0102f2d836",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-038",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        30809,
+        30949
+      ],
+      "sha256": "d9dc6cebbbb6eca3cb5ee2cec7dffd4d0c4a3a3961b8fcf6bf286c1bba753775",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-039",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        30951,
+        31124
+      ],
+      "sha256": "3ec9cc30274474a500bb7e56fbc26560a334f689067c9c8b3364e4647356e470",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-040",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        31126,
+        31235
+      ],
+      "sha256": "0cb6640dc271782dd59301ccada80df3fd56fc995bdf4c9ce4b69fd884ee23de",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-041",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        31237,
+        31253
+      ],
+      "sha256": "bba17d62c950f6377e851f089b7b9a0fc7f52deadebb8afbf3fc1a6618e6b30d",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-042",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        31255,
+        31390
+      ],
+      "sha256": "39124b7543e544f5edbb6459ee7e508182e628bad78d7ef3d9fa29c0289e0dd5",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-043",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        31392,
+        31490
+      ],
+      "sha256": "eaf876e6428b2842cf8119feaec38da1a40c8beb57c80ea194eb4e4a49831296",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "cognitive-reference-frames-044",
+      "edit": "cognitive-reference-frames",
+      "document_span": [
+        31492,
+        31659
+      ],
+      "sha256": "f250bafc6fbbffe7252397c515958f51b03cd9f796a4ae67d560ecd59a906aaf",
+      "source_refs": [
+        "GEMINI-01-AUTHOR",
+        "GEMINI-02-AUTHOR",
+        "GEMINI-03-AUTHOR",
+        "GEMINI-04-AUTHOR",
+        "GEMINI-05-AUTHOR",
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-001",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        132750,
+        132767
+      ],
+      "sha256": "860693494b69c910d0a5def15be961b43822c160136a2baad459ce8e339daee4",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-002",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        132769,
+        132876
+      ],
+      "sha256": "afa3d68943f16955c73889b5d8d796f3f50a9517739848929d303df6942bcd8a",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-003",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        132878,
+        133117
+      ],
+      "sha256": "85cf8d9a8780eb466a248f3c255f3be334cf91beec0f9edf1ae6c972d02f5e90",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            1224,
+            1249
+          ],
+          "paragraph_span": [
+            0,
+            25
+          ],
+          "text": "人工智能与大模型的对齐（AI Alignment）"
+        },
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            1255,
+            1289
+          ],
+          "paragraph_span": [
+            33,
+            67
+          ],
+          "text": "人工智能系统的输出、行为与人类的价值观、意图及社会规范保持一致的过程"
+        },
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            1291,
+            1322
+          ],
+          "paragraph_span": [
+            87,
+            118
+          ],
+          "text": "让模型从“只会续写文字的基座”变成“有用、诚实、无害的助手”。"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-004",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        133119,
+        133311
+      ],
+      "sha256": "63f19da56350c128d1ac82b497eb6cf53b6cc2ea82e9756b5ed895a13050f2fe",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            1351,
+            1376
+          ],
+          "paragraph_span": [
+            27,
+            52
+          ],
+          "text": "不同阶层的人们，其价值观、意图、政治规则和社会规范"
+        },
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            1404,
+            1431
+          ],
+          "paragraph_span": [
+            73,
+            100
+          ],
+          "text": "在人类社会博弈游戏中，每个具有创造和控制AI能力的玩家"
+        },
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            1456,
+            1523
+          ],
+          "paragraph_span": [
+            125,
+            192
+          ],
+          "text": "所研发和掌握的那个对自己“有用、诚实、无害的助手”，在这个游戏中，都有可能成为其他对手玩家眼中，对自己“可怕和有害的”游戏对手的帮凶。"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-005",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        133313,
+        133453
+      ],
+      "sha256": "9fea24c2dddc409c34cf2f4f66cfdd5b5e0591e61d9145299257313add4f43dc",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-006",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        133455,
+        133567
+      ],
+      "sha256": "b480906dcae07bf33acb41f3a7e7a293a1e5b01f22545af264a492858d3aea38",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-007",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        133569,
+        133593
+      ],
+      "sha256": "f8266ff949d73b430928c812b0c3d159b7abc469376c76cc0796c8d0abddbae2",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-008",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        133595,
+        133692
+      ],
+      "sha256": "cde1b962a62a07c09ad534f3481c1ad056702a9d81a7806b5f9d9d04c59f6bd5",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-009",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        133694,
+        133810
+      ],
+      "sha256": "e83ec070c0e586a58b481f3457996adb5f21ad7dfb8b83c533ea086f341e7256",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-010",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        133812,
+        133924
+      ],
+      "sha256": "f9c58109d103f74061ce742e10a50c875591389d3e932c99ba7f78d0a58cff26",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-011",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        133926,
+        134065
+      ],
+      "sha256": "edf9f1e118cb24a797a9b63cc37179d7c273a3b6fdabaafa68cdd24e800892f7",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-012",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        134067,
+        134264
+      ],
+      "sha256": "3131670c37ceb3cd54895f903561d423485eebb4ecd1c859211f67edec5bd86f",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            1830,
+            1864
+          ],
+          "paragraph_span": [
+            63,
+            97
+          ],
+          "text": "在没有什么主观的强烈恶意的情况下，随便一个小念头，或者一点点小误会，"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-013",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        134266,
+        134385
+      ],
+      "sha256": "2ad6fe9cb187b0628a9916e78357002a2c1f5cc2e1b392e94009bfaed1cc57b8",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-014",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        134387,
+        134403
+      ],
+      "sha256": "71cde8d03d50d94471dd6cf812379ec9fca006e998b4a7dbfd05e0ac62ddeb9b",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-015",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        134405,
+        134536
+      ],
+      "sha256": "396999a17a73c5f4a2bcb5f227a5c6b377bc4e2998327c1bf79f838293e552cb",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            2240,
+            2279
+          ],
+          "paragraph_span": [
+            0,
+            39
+          ],
+          "text": "之前举的那个小孩挥舞链子锤的例子，在上面的关于对齐的演绎中，有了具体可能的场景"
+        },
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            2290,
+            2354
+          ],
+          "paragraph_span": [
+            63,
+            127
+          ],
+          "text": "就像一个具有左右两个大脑的智能生物，左右双手各挥一个链子锤，但是左右大脑之间缺乏有效的对齐机制，导致其挥舞链子锤的控制，无法有效"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-016",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        134538,
+        134653
+      ],
+      "sha256": "633f97b68c3185c06bbf634662b9f730db5cfe2e9f4bd664209aa6b3a4c23c37",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            2363,
+            2389
+          ],
+          "paragraph_span": [
+            89,
+            115
+          ],
+          "text": "因为两个锤子之间的碰撞和缠绕，导致武器失控伤及自己。"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-017",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        134655,
+        134769
+      ],
+      "sha256": "d7f7a4175557a42573da13a14a06b6d95b7e6d5c8624ad28d1908ba519bef14a",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-018",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        134771,
+        134887
+      ],
+      "sha256": "85721f2b809bbe32018b2e67d79d7c90fe282817c62fc5ca8ef8c3b01e064448",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-019",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        134889,
+        134907
+      ],
+      "sha256": "4fb285a056f157f331220a9657d69a91cd6c8a555e92bbbfc3e559b33eac10f1",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-020",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        134909,
+        135047
+      ],
+      "sha256": "e9b256c9ceab29908b6e0972f1081a4e5d5fc4eab6c297a10823d148a1455053",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [
+        {
+          "ref": "AUTHOR-RELATIVITY-ALIGNMENT",
+          "source_span": [
+            1945,
+            2008
+          ],
+          "paragraph_span": [
+            19,
+            82
+          ],
+          "text": "作为一个整体，将AI视为这个博弈游戏中的另一个对手，担心AI一旦具有了自我意识，就会从人类的助手，变成奴役甚至毁灭人类的暴君。"
+        }
+      ],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-021",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        135049,
+        135148
+      ],
+      "sha256": "50cd3a40003e362327c9355518b42abb3ff5ce0026f2e71c8a3877b80a9658ce",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-022",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        135150,
+        135296
+      ],
+      "sha256": "ccef9efac53178e15a5bc5c68ffb22b3f4d6212679acd48cf9481b0dce0c48a1",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-023",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        135298,
+        135473
+      ],
+      "sha256": "f49ef8b86b2c923d2c9496b7734a18a84ea75cdff4ef61c57047f57a08de56c7",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-024",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        135475,
+        135616
+      ],
+      "sha256": "2cb9b5927479c68a19eaf147b60b68b43b39d5da0bfa16f2453b84404c5df625",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-025",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        135618,
+        135639
+      ],
+      "sha256": "b98e17678c54b17b86914fc03df6db9c1c82d84ae772649b056eba7d1c57caf3",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-026",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        135641,
+        135705
+      ],
+      "sha256": "bb8c3a9b0d0469b7e264372dd9050f570c26fa79ce230c10c60961a8e3317088",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-027",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        135707,
+        135827
+      ],
+      "sha256": "dfbf8a817d462bf5881752d5b3268f3bdb7fdc2b2f3c23aebe3ddcabea657909",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-028",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        135829,
+        135925
+      ],
+      "sha256": "3f708c6fe9e4d51e8859e480230ff5eefad3f6999b431c67bfd6cf4700b3b14a",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-029",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        135927,
+        136007
+      ],
+      "sha256": "8adf0cd4f2ed20e7b36f68c1972fe3bc208276c6baee06fbca9777dfd5da750c",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-030",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        136009,
+        136154
+      ],
+      "sha256": "537c39698cf003e7088098b000538dae0f4605760a2beeab8be532ffc83d4261",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-031",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        136156,
+        136278
+      ],
+      "sha256": "2ec5890840a93dc8e2af69a6677735fac8c9adf7d748009fb58d5f40f37fa472",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-032",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        136280,
+        136424
+      ],
+      "sha256": "b2674f09957d461fe5721c61e8ccd2bf3809d34b8faa5757de076753ab0542c9",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-033",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        136426,
+        136545
+      ],
+      "sha256": "64e1b41098468173f96655c447919173a5cc008dbaac41bed0b1bac39ed396c8",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-034",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        136547,
+        136568
+      ],
+      "sha256": "a299560dceabde7928ac219fa365cf44cf8825eafabad77249da6c7497dee92c",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-035",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        136570,
+        136632
+      ],
+      "sha256": "5ab8553e0bb9bbcfc277217129e1ff0403faf7e16848fc6732427b9c6db7f847",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-036",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        136634,
+        136805
+      ],
+      "sha256": "37419f4e51cb7580d1dd3887b3273a263c00b28e1313d7f9105d7496edec880f",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-037",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        136807,
+        136955
+      ],
+      "sha256": "8a5a9b0a8da7d3f80918b58343c1f22efe6922ed4b96a40044fed63d00184bb2",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "multilevel-alignment-038",
+      "edit": "multilevel-alignment",
+      "document_span": [
+        136957,
+        137127
+      ],
+      "sha256": "b4bdf3843f5c048efd379a0074b4561d4d87db9cb846b575849a0a4075308e29",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "relativity-alignment-reflection-001",
+      "edit": "relativity-alignment-reflection",
+      "document_span": [
+        202339,
+        202361
+      ],
+      "sha256": "6c91bf6229451465302230f110e51bf302e804a91959012b72151ff587fea740",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "relativity-alignment-reflection-002",
+      "edit": "relativity-alignment-reflection",
+      "document_span": [
+        202363,
+        202494
+      ],
+      "sha256": "229babb9991522ff9364a0454f76c5e14628946f8acd56e3efa599f7162ab7a0",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "relativity-alignment-reflection-003",
+      "edit": "relativity-alignment-reflection",
+      "document_span": [
+        202496,
+        202661
+      ],
+      "sha256": "f00b07abd01027b73c1889872e614447264c06ad9aa4729e1d9be5d1614c146c",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "relativity-alignment-reflection-004",
+      "edit": "relativity-alignment-reflection",
+      "document_span": [
+        202663,
+        202798
+      ],
+      "sha256": "14dfd0238888acae0af502d2ced0f016aa5a548f7824198fe1ca40d0aee4c9d9",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "relativity-alignment-reflection-005",
+      "edit": "relativity-alignment-reflection",
+      "document_span": [
+        202800,
+        202825
+      ],
+      "sha256": "3985b41e511554fba99c929717dc525e10695d6f8314afa3f662899a0f4e4ef4",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "relativity-alignment-reflection-006",
+      "edit": "relativity-alignment-reflection",
+      "document_span": [
+        202827,
+        202950
+      ],
+      "sha256": "7c067d935594f2020f1fdb3e6ad5406ec114a24659e0eddb6129e2b978b43a15",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "relativity-alignment-reflection-007",
+      "edit": "relativity-alignment-reflection",
+      "document_span": [
+        202952,
+        203101
+      ],
+      "sha256": "0ce08a27f408893460d12331084c3ccb2be5176e9634dcd0173f397c74ca4c69",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    },
+    {
+      "id": "relativity-alignment-reflection-008",
+      "edit": "relativity-alignment-reflection",
+      "document_span": [
+        203103,
+        203227
+      ],
+      "sha256": "c58cc13a84aa1a4c287a726810c06cc6572e6289f7282e37eeeec531c6dcb35a",
+      "source_refs": [
+        "AUTHOR-RELATIVITY-ALIGNMENT"
+      ],
+      "exact_author_spans": [],
+      "attribution": "Mixed author-led adaptation and editorial explanation; source association does not attribute every sentence to the author.",
+      "author_wording_approved": false
+    }
+  ]
+}

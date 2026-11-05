@@ -1,0 +1,21 @@
+{
+  "edition": "18-relativity-alignment",
+  "chinese_cjk_characters": 172832,
+  "previous_chinese_cjk_characters": 163569,
+  "english_whitespace_words": 76323,
+  "previous_english_whitespace_words": 71143,
+  "chinese_sha256": "f7436481bd3342b3b00d16db7a671ca65acb7915328d3dd23808f890332d1dac",
+  "english_sha256": "b9705c56ff28c4bba7db576098ee40f6495106ccac79e83915240635d892ffc0",
+  "chapters": 33,
+  "headings": 246,
+  "external_citation_occurrences": 102,
+  "revisions_by_language": {
+    "zh": 7,
+    "en": 7
+  },
+  "unchanged_chapter_pairs": 29,
+  "new_visible_events": 15,
+  "author_messages": 8,
+  "passages_with_exact_author_spans": 10,
+  "exact_author_span_boundary": "Exact matches identify preserved wording; source association is not author approval of editorial elaboration."
+}

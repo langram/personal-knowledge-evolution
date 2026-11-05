@@ -195,5 +195,30 @@
     "landing_page": "book/readme.md",
     "previous_edition": "16-agi-institutions",
     "revision_manifest": "archive/dossiers/2026-11-02-cooperative-superintelligence/revision-manifest.json"
+  },
+  {
+    "edition": "18-relativity-alignment",
+    "title": "相对性、认知参考系与多层级对齐",
+    "book_title_zh": "新原理：社会科学的数学原理",
+    "book_title_en": "Nova Principia: Mathematical Principles of Social Science",
+    "file": "archive/dossiers/2026-11-05-relativity-alignment/01-new-principles.zh.md",
+    "sha256": "f7436481bd3342b3b00d16db7a671ca65acb7915328d3dd23808f890332d1dac",
+    "cjk_characters": 172832,
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "translations": {
+      "en": {
+        "file": "archive/dossiers/2026-11-05-relativity-alignment/02-new-principles.en.md",
+        "sha256": "b9705c56ff28c4bba7db576098ee40f6495106ccac79e83915240635d892ffc0",
+        "whitespace_words": 76323,
+        "derived_from_sha256": "f7436481bd3342b3b00d16db7a671ca65acb7915328d3dd23808f890332d1dac",
+        "method": "idiomatic adaptation; unchanged chapters inherited from edition 17"
+      }
+    },
+    "landing_page": "book/readme.md",
+    "previous_edition": "17-cooperative-superintelligence",
+    "revision_manifest": "archive/dossiers/2026-11-05-relativity-alignment/revision-manifest.json"
   }
 ]

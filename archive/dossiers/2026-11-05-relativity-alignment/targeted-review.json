@@ -1,0 +1,40 @@
+{
+  "schema": "ra/targeted-review@1",
+  "edition": "18-relativity-alignment",
+  "baseline_edition": "17-cooperative-superintelligence",
+  "baseline_sha256": {
+    "zh": "e6211eff196c2aae1fdd1402c58b2517acf090d13a41b6f57b15551443f8c8ac",
+    "en": "dd9fe6922e73fd54e9adb4657e44c32dfb888966a9579e5f4650a290c32cdb95"
+  },
+  "reviewed_chapters": [
+    1,
+    7,
+    25,
+    33
+  ],
+  "baseline_context_chapters": [
+    1,
+    4,
+    6,
+    16,
+    18,
+    24,
+    32
+  ],
+  "coverage": {
+    "semantic": "New bilingual material and relevant surrounding arguments; chapter 7 is new, former chapter 24 becomes 25 and appendix becomes 33.",
+    "structural": "33 chapter pairs; aligned headings, citations and equations; reversible edits and exact source recovery.",
+    "inherited": "29 chapter pairs remain byte-identical. No new full-book semantic reread is claimed.",
+    "external_facts": "Five scoped sources; IPCC verified through official indexed statement, direct fetch blocked with HTTP 403."
+  },
+  "findings": [
+    "Changing representations is distinct from changing facts, conditions or values.",
+    "Semantic embeddings are partial models, neither first mathematical cognition nor complete consciousness.",
+    "Social and natural science share a proposed methodological foundation; mathematical social science already exists.",
+    "A fixed point needs a defined self-map; existence, stability, legitimacy and changing-environment tracking are separate.",
+    "Local alignment can impose external costs; capability imbalance and confrontation are conditional risk pathways.",
+    "Human institutional coordination supports but does not replace technical AI alignment.",
+    "Ecological constraints do not imply a single planetary or cosmic will."
+  ],
+  "author_approval": "No author acceptance of editorial qualifications, examples, notation or English wording is fabricated."
+}

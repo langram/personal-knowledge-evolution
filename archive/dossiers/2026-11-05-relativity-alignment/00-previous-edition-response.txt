@@ -1,0 +1,16 @@
+已完成**第十七版**。第16章新增“超级智能为什么应当选择说服，而不是强迫”，中英文、知识库和 GitHub 均已同步。
+
+保留了你对理性论证、实验证据、自愿试点的强调，以及结尾的讽刺语气；“必然不会选错”写成有条件的期待，与前文对能力和目标的区分保持一致。完整原话与编辑补充分别归档。
+
+[新增中文](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-02-cooperative-superintelligence/06-additions.zh.md) · [English](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-02-cooperative-superintelligence/06-additions.en.md) · [提交记录](https://github.com/langram/personal-knowledge-evolution/commit/5a6850fd2980c0ce246bd4e50a28823da00d0f7b)
+
+校验和接口测试通过，GitHub 公开版本已回读确认。
+
+<oai-mem-citation>
+<citation_entries>
+MEMORY.md:159-162|note=[Preserve attribution and verified bilingual publication workflow]
+</citation_entries>
+<rollout_ids>
+01a16c8a-f6e1-7580-b378-b6e49f0be965
+</rollout_ids>
+</oai-mem-citation>

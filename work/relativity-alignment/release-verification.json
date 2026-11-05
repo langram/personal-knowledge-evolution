@@ -1,0 +1,32 @@
+{
+  "status": "pass",
+  "text": {
+    "status": "pass",
+    "edition": "18-relativity-alignment",
+    "reversible_edits": 14,
+    "source_roundtrips": 15,
+    "native_source_roundtrips": 5,
+    "markdown_source_roundtrips": 10,
+    "exact_author_spans_verified": 16,
+    "chapters": 33,
+    "headings": 246,
+    "citation_occurrences": 102,
+    "new_external_sources": 5,
+    "unchanged_chapter_pairs": 29,
+    "chinese_sha256": "f7436481bd3342b3b00d16db7a671ca65acb7915328d3dd23808f890332d1dac",
+    "english_sha256": "b9705c56ff28c4bba7db576098ee40f6495106ccac79e83915240635d892ffc0",
+    "boundary": "Checks prove source/replay/structural properties; semantic review is editorial, not proof of the theory or author approval."
+  },
+  "editions": 18,
+  "api_source_roundtrips": 15,
+  "translation_relationships": 33,
+  "public_events": 158342,
+  "public_objects": 359799,
+  "local_links_checked": 133,
+  "historical_corpus_rows_byte_preserved": 181982,
+  "added_events": 15,
+  "added_public_objects": 172,
+  "protected_research_branch": "4127d3f9ec4cfb7a61cbb2ea195cd6d64faef110",
+  "baseline_commit": "5a6850fd2980c0ce246bd4e50a28823da00d0f7b",
+  "boundary": "New sources and bounded edit provenance verified; unchanged historical claims not re-researched; checks do not establish social-system effectiveness."
+}

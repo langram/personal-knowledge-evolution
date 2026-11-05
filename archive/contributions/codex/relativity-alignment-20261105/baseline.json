@@ -1,0 +1,25 @@
+{
+  "pointer": {
+    "report": "report-20261102-cooperative-superintelligence-v1.json",
+    "snapshot": "bafyreichijee5r4zjdemz6yzupxlsetalf7e2ja27hoyoxkqieox3l2gxq",
+    "database": "contributions\\codex\\catalog\\.private\\20261102-cooperative-superintelligence-v1\\catalog.sqlite"
+  },
+  "document": "bafyreihnmq7hzhngnj3qg3ielosoc726lbni6zbvja5iv3m4hlrhmakqli",
+  "english_document": "bafyreie27auvzxuywp64hh6ockb6x4sp5voeu24tbqvlvbe2dscywmx5xa",
+  "dossier_root": "bafyreiamffy2tqhmtzfpviwjtn3yq27kfciv4633vgmxqjaadtx24dlnxu",
+  "concepts": [
+    "bafyreiha5cbrieku75tfg7zacy4osjku4fmsyfotncmzjzj5jv4ktvkkgy",
+    "bafyreidcnt3tbxohfdfvagolvtwavecqeymjz7ifqfeiaeeuwmlh5blgqu",
+    "bafyreiep56mem4zv6x6hecoymxeexdabrocukkmwfb2m7nebrlntewzyuu",
+    "bafyreihiocaqyshajqhv4xjczfwui5f5xz4zltknqyukn2py5xorpazvp4",
+    "bafyreihi4tag5nyhskzzngx7475iw2dfooijw32boqid2xwypzex7fopky",
+    "bafyreif4k5yh6nibt4zcurnxtwzmdvuf4gu6qxczxz6wgj2j2fn74cwpyq"
+  ],
+  "manuscript": "dossiers\\2026-11-02-cooperative-superintelligence\\01-new-principles.zh.md",
+  "english_manuscript": "dossiers\\2026-11-02-cooperative-superintelligence\\02-new-principles.en.md",
+  "sha256": "e6211eff196c2aae1fdd1402c58b2517acf090d13a41b6f57b15551443f8c8ac",
+  "english_sha256": "dd9fe6922e73fd54e9adb4657e44c32dfb888966a9579e5f4650a290c32cdb95",
+  "base_commit": "5a6850fd2980c0ce246bd4e50a28823da00d0f7b",
+  "protected_research_branch": "4127d3f9ec4cfb7a61cbb2ea195cd6d64faef110",
+  "prior_event_count": 212783
+}

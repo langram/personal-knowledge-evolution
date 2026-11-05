@@ -21,6 +21,7 @@
 |制度与技术落差、生活体验及全书衔接修订|159,417|[中文](../archive/dossiers/2026-11-01-institutions-coherence/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-01-institutions-coherence/02-new-principles.en.md)|
 |超级智能、老大哥与制度想象的边界|162,398|[中文](../archive/dossiers/2026-11-02-agi-institutions/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-02-agi-institutions/02-new-principles.en.md)|
 |理性说服、自愿试点与超级智能的选择|163,569|[中文](../archive/dossiers/2026-11-02-cooperative-superintelligence/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-02-cooperative-superintelligence/02-new-principles.en.md)|
+|相对性、认知参考系与多层级对齐|172,832|[中文](../archive/dossiers/2026-11-05-relativity-alignment/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-05-relativity-alignment/02-new-principles.en.md)|
 
 更早的[整体框架与起步方案](../archive/dossiers/2026-10-25-seed/README.md)保存实践路线、宣传文本和创作计划。
 
@@ -51,3 +52,5 @@
 2026年11月2日第十六版补充超级智能、信息合作与制度想象的讨论，中英文同步，作者原话与编辑限定分别保存。[修改、来源与局部复核记录](../archive/dossiers/2026-11-02-agi-institutions/04-editorial-notes.md)。
 
 2026年11月2日第十七版补充理性说服、可靠证据、自愿试点与文明整体成本的讨论，中英文同步，作者原话与编辑限定分别保存。[修改、来源与局部复核记录](../archive/dossiers/2026-11-02-cooperative-superintelligence/04-editorial-notes.md)。
+
+2026年11月5日第十八版采用《新原理：社会科学的数学原理》与 Nova Principia 新标题，增加认知参考系、多层级对齐与相应自我反思；Gemini原始导出、作者新论述及编辑补充分别保存。[修改、来源与局部复核记录](../archive/dossiers/2026-11-05-relativity-alignment/04-editorial-notes.md)。

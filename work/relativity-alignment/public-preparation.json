@@ -1,0 +1,266 @@
+{
+  "status": "prepared",
+  "update": {
+    "edition": "18-relativity-alignment",
+    "source_snapshot": "bafyreicb3q3s3hudgox3s4glfd5wggiq6ztjmikx46nn7qsyply7uq3k2u",
+    "window_start": "2026-11-02T01:46:51.937Z",
+    "window_end": "2026-11-05T08:02:46.694Z",
+    "added_events": 15,
+    "window_scope": "UTC window covers native Codex events only; attached Gemini export has unknown timezone and missing reply times.",
+    "added_user_messages": 8,
+    "added_assistant_final_answers": 2,
+    "added_gemini_export_replies": 5,
+    "added_by_platform": {
+      "gemini": 10,
+      "codex-local": 5
+    },
+    "added_public_objects": 172,
+    "added_editorial_objects": 141,
+    "new_original_blocks_verified": 252,
+    "previous_link_targets_verified": 100,
+    "recorded_at": "2026-11-05T08:39:46.921825+00:00"
+  },
+  "events": [
+    {
+      "cid": "bafyreiguynk5b37fcoizsskakq4c3cgc74iikjeb2kc2tzkuh6cjpdc7mm",
+      "original_occurrence": "bafyreiabti7wrb235vzofaog3k3eq7jtinkymvjvnj6jbz4er2kjml7fci",
+      "source": "bafyreiekmqzcr74setb5xdmfnw3hedbhl7vot2kygopjrguw4dxcjb4p3a",
+      "platform": "gemini",
+      "thread": "704d4de24bdcab7e",
+      "role": "user",
+      "actor": "human",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": "2026-11-05 01:25:29",
+      "time_format": "export-local",
+      "content": [
+        "bafyreiawvu5gvxv2g2upikk7aky2mbbg75id6h43bulyd6xxdkzucgf6jm"
+      ]
+    },
+    {
+      "cid": "bafyreic477gqcpfoqbk2gbywzp4vomvotfsouryhfw6gm3aau6lgh22ati",
+      "original_occurrence": "bafyreihn43mjvvoblsdhwm5b4ml5mdu4qytae3pyv4y5duwzso3vvveew4",
+      "source": "bafyreiekmqzcr74setb5xdmfnw3hedbhl7vot2kygopjrguw4dxcjb4p3a",
+      "platform": "gemini",
+      "thread": "704d4de24bdcab7e",
+      "role": "assistant",
+      "actor": "ai",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": null,
+      "time_format": "missing",
+      "content": [
+        "bafyreibuxx4nolkrogqmlvpa5ii7ttlntqvnwaxhnucugrmbewvwuqg57q"
+      ]
+    },
+    {
+      "cid": "bafyreia57h3rdpbti7k367kjrh5jrn7rs2mvk6gniq6nevshuq3oavyo2y",
+      "original_occurrence": "bafyreibnaiqfrwmvozxd77lwg5gmkv5vgnqqewni3au2n57trg2i3w55nq",
+      "source": "bafyreiekmqzcr74setb5xdmfnw3hedbhl7vot2kygopjrguw4dxcjb4p3a",
+      "platform": "gemini",
+      "thread": "704d4de24bdcab7e",
+      "role": "user",
+      "actor": "human",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": "2026-11-05 01:29:40",
+      "time_format": "export-local",
+      "content": [
+        "bafyreig3fzjw4vdakx3ofr5temhysuneie5ymysp2pwzau5itpmkjhiecq"
+      ]
+    },
+    {
+      "cid": "bafyreifei4idvb6wabacmb7legbzw2i2s4x4ksum63rgs353g33lcm3r2q",
+      "original_occurrence": "bafyreieqiyrwwfugix46xlsrn7phtqbehu3wxbbfntvogxiov4gdcdiwt4",
+      "source": "bafyreiekmqzcr74setb5xdmfnw3hedbhl7vot2kygopjrguw4dxcjb4p3a",
+      "platform": "gemini",
+      "thread": "704d4de24bdcab7e",
+      "role": "assistant",
+      "actor": "ai",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": null,
+      "time_format": "missing",
+      "content": [
+        "bafyreif2my7fjgpd56wkqrjrqzkutpgc6usipbcmgkqnbsk5vp5iybxbqm"
+      ]
+    },
+    {
+      "cid": "bafyreidrvvk2kzog7a3etisrccfqdutq3k4aud5zcdx3r5uiqvphr6jwhu",
+      "original_occurrence": "bafyreiaqxnd26zxsg34k2d4qelcvitukfiyvzc5n5uuk5f7qj2zj3uqo2a",
+      "source": "bafyreiekmqzcr74setb5xdmfnw3hedbhl7vot2kygopjrguw4dxcjb4p3a",
+      "platform": "gemini",
+      "thread": "704d4de24bdcab7e",
+      "role": "user",
+      "actor": "human",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": "2026-11-05 01:31:38",
+      "time_format": "export-local",
+      "content": [
+        "bafyreifmtqo6vu26yqgkka6ed7xcrojdfipi5ukgiiunm7ixgjor54zgda"
+      ]
+    },
+    {
+      "cid": "bafyreigqkehlxz3teqqppq55ub6yyerrjcir2zhbqozsk4cb2zjntxls6a",
+      "original_occurrence": "bafyreihzuacop43rjtpofztr5vqbjgtnbbodhooyufkyrhlq3fumgvuy4u",
+      "source": "bafyreiekmqzcr74setb5xdmfnw3hedbhl7vot2kygopjrguw4dxcjb4p3a",
+      "platform": "gemini",
+      "thread": "704d4de24bdcab7e",
+      "role": "assistant",
+      "actor": "ai",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": null,
+      "time_format": "missing",
+      "content": [
+        "bafyreictky6gfdot5tvodakyw33ewddcar3s3c2q6cypx2fw7gawzmz34y"
+      ]
+    },
+    {
+      "cid": "bafyreigfkwbsirhoo25w62p2e7tjsrimms5l3xhjiswdj6ccquo7j6c3by",
+      "original_occurrence": "bafyreicbtrsnq7f2gy3mli2biggzmbae3odta4cgm7bid2vbyn2w25hiha",
+      "source": "bafyreiekmqzcr74setb5xdmfnw3hedbhl7vot2kygopjrguw4dxcjb4p3a",
+      "platform": "gemini",
+      "thread": "704d4de24bdcab7e",
+      "role": "user",
+      "actor": "human",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": "2026-11-05 01:40:09",
+      "time_format": "export-local",
+      "content": [
+        "bafyreihoczc6wlks3rjrdtu4skgdg5ykcqb2i2tzrkr3i64ny4swb5lcli"
+      ]
+    },
+    {
+      "cid": "bafyreifjmk7a4wus4vaalyj3vgc7vog3w6tmsj6btckiookbx6d7epr26y",
+      "original_occurrence": "bafyreihgq5fyotikldhepiipszexetmqfyjjm7sm6aaic5k6mdnr5onqoi",
+      "source": "bafyreiekmqzcr74setb5xdmfnw3hedbhl7vot2kygopjrguw4dxcjb4p3a",
+      "platform": "gemini",
+      "thread": "704d4de24bdcab7e",
+      "role": "assistant",
+      "actor": "ai",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": null,
+      "time_format": "missing",
+      "content": [
+        "bafyreihashbd3tu5u4wud4eihbs22kdkvuifiv2ttjxm72rpmwbpg2mt7i"
+      ]
+    },
+    {
+      "cid": "bafyreieh6bhwpvlnf7tyl5siiyfsvcyge5xtb7cggmbyjirqfet4ul2she",
+      "original_occurrence": "bafyreiceucljixqlvcsprst6chuqxqoz7rdo6crxhjnyzrdmqcszihroea",
+      "source": "bafyreiekmqzcr74setb5xdmfnw3hedbhl7vot2kygopjrguw4dxcjb4p3a",
+      "platform": "gemini",
+      "thread": "704d4de24bdcab7e",
+      "role": "user",
+      "actor": "human",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": "2026-11-05 01:56:34",
+      "time_format": "export-local",
+      "content": [
+        "bafyreidm3kfsq3455i5py5zvirftz5hnuhn73jgt5rezqwssy3aoemjsry"
+      ]
+    },
+    {
+      "cid": "bafyreiaj5w4ibysynfx7gznhkcvdebymrdz3qzdbywcscqjblrb6nrmi34",
+      "original_occurrence": "bafyreicya5gn6xuzcqj74lzjdukt7nt7tapykr3droxcrtaf45vt36z2me",
+      "source": "bafyreiekmqzcr74setb5xdmfnw3hedbhl7vot2kygopjrguw4dxcjb4p3a",
+      "platform": "gemini",
+      "thread": "704d4de24bdcab7e",
+      "role": "assistant",
+      "actor": "ai",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": null,
+      "time_format": "missing",
+      "content": [
+        "bafyreibkzdb3ckb6hytf2bdy5ov5i3gzalsgwjqrfdtwwbihjnxslethia"
+      ]
+    },
+    {
+      "cid": "bafyreidmvdhna6maknnfcqsarskkldhr2m3j53k45ntm7llo4rnyjxlcq4",
+      "original_occurrence": "bafyreigzb6httnmtba76fvjwtyh2fbufy7spvueemtfyclt7ownshzwbuy",
+      "source": "bafyreid25ahzpiipch4uuczhmsws3eg53jkkxyswffdzd5kit2umkigesu",
+      "platform": "codex-local",
+      "thread": "01a16c8a-f6e1-7580-b378-b6e49f0be965",
+      "role": "assistant",
+      "actor": "ai",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": "2026-11-02T01:46:51.937Z",
+      "time_format": "rfc3339",
+      "content": [
+        "bafyreifs2yjpiik5zynyq6b5iyzs5aq3o3eokropihte4ocz6roynkcwha"
+      ]
+    },
+    {
+      "cid": "bafyreie5xmjucltqeszmxr2qfhm4n3reh2ythyamyor35qcdzza35liggu",
+      "original_occurrence": "bafyreiamsxsjxpsd7t6a7rpkkgstgzvjpbfqb3oodntssi5pqohid43ok4",
+      "source": "bafyreid25ahzpiipch4uuczhmsws3eg53jkkxyswffdzd5kit2umkigesu",
+      "platform": "codex-local",
+      "thread": "01a16c8a-f6e1-7580-b378-b6e49f0be965",
+      "role": "user",
+      "actor": "human",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": "2026-11-02T02:28:14.544Z",
+      "time_format": "rfc3339",
+      "content": [
+        "bafyreihovm66jhs6ywnjd3662dmg7ttnpok5ih2u2vgxw7n24jpatxfhk4"
+      ]
+    },
+    {
+      "cid": "bafyreiegqqqgucqw5nifiehtqe4ajzm73uypxxcvnf7x23hhgou6qxzahy",
+      "original_occurrence": "bafyreieig2qvbyionyw52yj47v73zc4754n4wz4xg6ydlz3fp6uuh7vglq",
+      "source": "bafyreid25ahzpiipch4uuczhmsws3eg53jkkxyswffdzd5kit2umkigesu",
+      "platform": "codex-local",
+      "thread": "01a16c8a-f6e1-7580-b378-b6e49f0be965",
+      "role": "assistant",
+      "actor": "ai",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": "2026-11-02T02:28:28.048Z",
+      "time_format": "rfc3339",
+      "content": [
+        "bafyreib5zbdi3sl4gx5j54ykxu3vryhchfgljh53chdn7ht22cq6sqtcni"
+      ]
+    },
+    {
+      "cid": "bafyreif4wkqjht3zd4g2m5xgwlyqzloiehme4at6kkz7v3qjjm77ohg24i",
+      "original_occurrence": "bafyreigkf7zlelczfdoxkjfkbilaylpwxrbpp5bfyosile7xibxyilwste",
+      "source": "bafyreid25ahzpiipch4uuczhmsws3eg53jkkxyswffdzd5kit2umkigesu",
+      "platform": "codex-local",
+      "thread": "01a16c8a-f6e1-7580-b378-b6e49f0be965",
+      "role": "user",
+      "actor": "human",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": "2026-11-05T08:00:42.744Z",
+      "time_format": "rfc3339",
+      "content": [
+        "bafyreiak57k4s7ychjshh2jwd6nywdyy6svwegvfshyrr22vkms5rdjnt4"
+      ]
+    },
+    {
+      "cid": "bafyreieru5jprgxcioi6r3qwa5mlq6anjtamggioripqxn5wyrnw27kalu",
+      "original_occurrence": "bafyreiafevhvpe7isws6fzumyxs4lvpzvi3zi3lrsgvfgrl3lvf7mus4m4",
+      "source": "bafyreid25ahzpiipch4uuczhmsws3eg53jkkxyswffdzd5kit2umkigesu",
+      "platform": "codex-local",
+      "thread": "01a16c8a-f6e1-7580-b378-b6e49f0be965",
+      "role": "user",
+      "actor": "human",
+      "process": "main",
+      "record_kind": "conversation",
+      "time": "2026-11-05T08:02:46.694Z",
+      "time_format": "rfc3339",
+      "content": [
+        "bafyreihh24x62c7a5elowazunparlnhjx4k6uvzcvuuyctwtnz2l7sebay"
+      ]
+    }
+  ],
+  "editions": 18
+}
