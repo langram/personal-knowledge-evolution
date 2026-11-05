@@ -1,7 +1,7 @@
 {
   "schema": "pkst-public/files@1",
-  "recorded_at": "2026-11-05T08:43:07.612302+00:00",
-  "merkle_root": "b707323d377a59e5063e86dd48cfb888cc69d295624fae5e7fa215a887915e6e",
+  "recorded_at": "2026-11-05T15:54:43.471139+00:00",
+  "merkle_root": "e1fc708e3d1cf57d9755b6eae94a3dfabf8bda5fa21d81e9d2bee6c6874fcfb8",
   "files": [
     {
       "path": ".gitattributes",
@@ -15,8 +15,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 8848,
-      "sha256": "bf1ec5d816c800af217d49e8ecff1702e83fe73de1768998da1dab2f1857e28a"
+      "bytes": 10026,
+      "sha256": "fc23113d06dbd963564e7566944df28940a0f491cc5a7b9dedea161d63d8129f"
     },
     {
       "path": "archive/README.md",
@@ -3479,6 +3479,36 @@
       "sha256": "f5876d7930d54195cc89e0eb1d4411249653935b25265f611fc59168bbdb93a2"
     },
     {
+      "path": "archive/dossiers/2026-11-05-author-voice-rewrite/00-author-request.txt",
+      "bytes": 1197,
+      "sha256": "27f6472aa59b74c46260ca10d693a3d2858f295b03becbd2d07bb1f9b20f633a"
+    },
+    {
+      "path": "archive/dossiers/2026-11-05-author-voice-rewrite/01-new-principles.zh.md",
+      "bytes": 303795,
+      "sha256": "57bdf47fe6493cd709217dde0844a271b193d26640c545c7b12b821d264252d4"
+    },
+    {
+      "path": "archive/dossiers/2026-11-05-author-voice-rewrite/02-new-principles.en.md",
+      "bytes": 388538,
+      "sha256": "caf9779c9ed5e59597aa8d1da907a778dcdfd4523fd62a7bf48961ac147d71d7"
+    },
+    {
+      "path": "archive/dossiers/2026-11-05-author-voice-rewrite/03-outline.md",
+      "bytes": 2016,
+      "sha256": "275f1f2f1324d75cfadb303a8877f7b4f1f680b2d928243c4aac348a209910f9"
+    },
+    {
+      "path": "archive/dossiers/2026-11-05-author-voice-rewrite/04-editorial-notes.md",
+      "bytes": 6034,
+      "sha256": "9267a03024d38ad39915e3118548a1398893bf8a2296975fddeaf7876582c815"
+    },
+    {
+      "path": "archive/dossiers/2026-11-05-author-voice-rewrite/05-chapter-map.md",
+      "bytes": 2807,
+      "sha256": "c43f81183c4670824cd886ac935e0caf71e8d27e5ceb3c50fbd0b45feb94df32"
+    },
+    {
       "path": "archive/dossiers/2026-11-05-relativity-alignment/00-author-relativity-alignment-first.txt",
       "bytes": 6282,
       "sha256": "b1f406d68c5c32c28668a655324bc4e10a9bc77e15c39ecbefdc7664bde4593a"
@@ -3860,8 +3890,8 @@
     },
     {
       "path": "book/readme.md",
-      "bytes": 4877,
-      "sha256": "d0d873056eb19db1f8cc679fab2086983ff4c42c238c6aa477fafda2d4d04cdd"
+      "bytes": 6296,
+      "sha256": "7b3f19f1d8356581746ae9e43f14db4d06c4fbe6ffc04d7ae5dbce72494f4b58"
     },
     {
       "path": "corpus/editorial-index.json",
@@ -6440,13 +6470,13 @@
     },
     {
       "path": "history/README.md",
-      "bytes": 9100,
-      "sha256": "4faff44b3288182a2266900c1fa093e2a5fa76ab267cf5e6e9362e2b2ed73a44"
+      "bytes": 9951,
+      "sha256": "8e713acb8359698887b44df86f57d4e5fe12ca4bd005485126e8315cc17a9c46"
     },
     {
       "path": "history/editions.json",
-      "bytes": 9533,
-      "sha256": "5b8f1805d20d9fc6a6136fba35be26beea03eb64d5fb037b4be72815c28ede89"
+      "bytes": 11178,
+      "sha256": "8e34f02fecbfd9db83ab60551456f71803899c13aa959d82e7216735c1551813"
     },
     {
       "path": "pkst_public/__init__.py",
@@ -6982,6 +7012,271 @@
       "path": "work/audit_codex_ids.py",
       "bytes": 1802,
       "sha256": "78ab823d280c7e0cba0c7eb2ce54bd43783da70777f28914cf536721f5f998a6"
+    },
+    {
+      "path": "work/author-voice-rewrite/assemble.py",
+      "bytes": 1885,
+      "sha256": "82c1c5c4b04c94beae401be44cb7fdcd923501364c560da219e770cd773a96e1"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/00-preface.md",
+      "bytes": 9477,
+      "sha256": "ebe81d6e94ddd88082791608859948b85f8db63cce685a5afb5be83c09f4c11d"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/01.md",
+      "bytes": 10668,
+      "sha256": "dbae8e0768d8debb13e628c38bd15bbab3cc64b4fda9f4789a38b95d51801969"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/02.md",
+      "bytes": 17091,
+      "sha256": "cae72add8818d82d0287b42d4f3ea430494135b8bd36e6b38b176e45c235cd1f"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/03.md",
+      "bytes": 17657,
+      "sha256": "5843b010e22e5de51f7b80022def0a3d81ce41e4ef3d5cdb3e0ab668c34d6121"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/04.md",
+      "bytes": 15212,
+      "sha256": "6acd956db36d40ebd895ebfe21c0beb4742f959ef806d29f0d49a8857a692272"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/05.md",
+      "bytes": 12857,
+      "sha256": "ebdb4724a247035ef56988c04f8d7ff3719983a413b54296281370d09e385391"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/06.md",
+      "bytes": 21607,
+      "sha256": "aee9570d7d8570f67fb5f377e64ee7433a5b40457a8e7c1db00e9cf2ed49f4e6"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/07.md",
+      "bytes": 20708,
+      "sha256": "72dad645d6b8327872aa75565e661a913fa35a21541696f5178f6ecaf4e6f7db"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/08.md",
+      "bytes": 19049,
+      "sha256": "0689fe8b89f3aa83f53793c6697eabbba17797b035ee50828c3f4c6d6b352e85"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/09.md",
+      "bytes": 21943,
+      "sha256": "58b31a15a27322e845881220a218d9fe26f6e5f72c26ae5e583ec154f00f9cb8"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/10.md",
+      "bytes": 23927,
+      "sha256": "048993d508949c286682ab627689c9a1eea7380bf6531865d5ca2acef1f0f4bf"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/11.md",
+      "bytes": 23436,
+      "sha256": "6fd40d7174fcd2a19d5b4981f2f80efaf87f16ab56afd5bd98a626e354e89e7e"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/12.md",
+      "bytes": 28091,
+      "sha256": "8a2c7ab2990749a629a19c11c74bb04a228464805db55d44814d688518e32391"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/13.md",
+      "bytes": 16238,
+      "sha256": "457a1fe7b586751f74c9057e250a69eef668cad4e3170bfa8dfc67d8641275a9"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/14.md",
+      "bytes": 16907,
+      "sha256": "9255a87d858da1e60c3e793091070b58bc5511317f7a446ba6e0a406d37be2bf"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/15.md",
+      "bytes": 20974,
+      "sha256": "fd0a2133685b29c6e155852f51aaa73062b8fcd8ef43588a05991ba2b032da1f"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/16.md",
+      "bytes": 9907,
+      "sha256": "8c859c45fba4c5575d10b89f3f48399597f054849ebca67d1a75bebf34c53238"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/17.md",
+      "bytes": 9891,
+      "sha256": "d093904bbbb9fdf58e6658f0809c2a0fedfe76ef7387a4d17b7c2862aae11c8a"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/18.md",
+      "bytes": 15575,
+      "sha256": "2888d213c649776021fc765ce4dfc001677ca4a1972ebf7f9431378671c36d12"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/19.md",
+      "bytes": 12472,
+      "sha256": "ca2a21ca39553a36b6ba2ef0b39781ddb3927f6743f65c33ac4f265c47cc794d"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/20.md",
+      "bytes": 9848,
+      "sha256": "006cf256cfd8a67b4be87f202280dfdcc986905ee64c428c76e69a7087f3a47d"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/21.md",
+      "bytes": 11837,
+      "sha256": "add8ab6efb158f47ae63f9efb75421049c2dc35b4a10f7bc0815c82e5baa8582"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/22.md",
+      "bytes": 12034,
+      "sha256": "63bee29d33a633e99c694e91f15fbbfa9fbae99925a9d86c4c1892c6bd2d22a0"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/23-postscript.md",
+      "bytes": 3090,
+      "sha256": "d00694613ecef980cd7af00ff115ef09bf56609494edc8f931e038e84dc996ba"
+    },
+    {
+      "path": "work/author-voice-rewrite/en/24-appendix.md",
+      "bytes": 8018,
+      "sha256": "5cd4b6cee5d29df9aebe1db13bf5749c855b568b4636319745b5fe9c13c0a054"
+    },
+    {
+      "path": "work/author-voice-rewrite/outline.md",
+      "bytes": 2016,
+      "sha256": "275f1f2f1324d75cfadb303a8877f7b4f1f680b2d928243c4aac348a209910f9"
+    },
+    {
+      "path": "work/author-voice-rewrite/refresh_manifest.py",
+      "bytes": 2015,
+      "sha256": "f024194fc81ffaddf9b241c148e68948623e200b1f72141d5616fccda3b8613b"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/00-preface.md",
+      "bytes": 7515,
+      "sha256": "26bd5952641d721cb17e3561142f1c9f7e6f2bbeb2072ce93b07601f098ca411"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/01.md",
+      "bytes": 8295,
+      "sha256": "0f9ade6888dd137faf7c6baa58e1e3ae11e894c4deb0ae3c91e5a25b53dfac76"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/02.md",
+      "bytes": 13318,
+      "sha256": "1468b33c6e374fdc965aaa8afcbc0311821731670b8753e165a60a7b11554959"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/03.md",
+      "bytes": 13336,
+      "sha256": "ad1a4e789bd197b98acf0e39b341ce5cd15dac90544825362403ded572fded10"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/04.md",
+      "bytes": 12196,
+      "sha256": "d1108ef8fcb2dd28f1488664c7cc0ef07c21567ba78ca5d249251fc4acd83b81"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/05.md",
+      "bytes": 10246,
+      "sha256": "547c4bc65eaef406c1353ae0a059ea3bdb39b942a755c730ba03253c35414f58"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/06.md",
+      "bytes": 16556,
+      "sha256": "c0bf98a89671a1a191531d3512231f964e5b814204f526d2b169b222291beb7b"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/07.md",
+      "bytes": 15892,
+      "sha256": "8ff1ca2ded1754b59f94f8ab95c64048387bbb75f5c22896e73be8b0980d5570"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/08.md",
+      "bytes": 14940,
+      "sha256": "c774884f80b5fc3fd32010ea14142f14aaf021af115021446586e5c226ec7b51"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/09.md",
+      "bytes": 16696,
+      "sha256": "71e3568f6e579e52b8228bbd69592621372371cbc0699909fe91ee7450238337"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/10.md",
+      "bytes": 18902,
+      "sha256": "94e370b0fccc2ad3a86c57fcda42fabd2bb18be71e824e4bbee1c622550a8ba6"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/11.md",
+      "bytes": 18162,
+      "sha256": "01fce065867d973dce95aba5c346c1beb0ad8c35b7751b68ce6e45893f697781"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/12.md",
+      "bytes": 22123,
+      "sha256": "0b9a246f06c0eaf74cd9ec7794057b2c57fb091f7371a896dfe9fccbf633f10e"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/13.md",
+      "bytes": 12853,
+      "sha256": "b042fba522cfe7cc504632e1f8781c0232a8a05aace7bc4825e5dc63bc9f1164"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/14.md",
+      "bytes": 13163,
+      "sha256": "8b7d2209b7f095e7fa646642244786bc1456d8716c52f2daf8a8e32b16c7f923"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/15.md",
+      "bytes": 16366,
+      "sha256": "02c83c6dccee95de6e637413d85739ea61200938ff8de02384620fa7bad0cc9e"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/16.md",
+      "bytes": 7559,
+      "sha256": "07ba886d7ff2c9f49c26ac1ce47566c5653d4267041001b639180b7a51be145c"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/17.md",
+      "bytes": 7860,
+      "sha256": "b891aaf22fa11e0b54ba05776a9e53d8613cc68261265a4dfa39f8ac7e25e57c"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/18.md",
+      "bytes": 12528,
+      "sha256": "c7101ff5a08341322237df10b024b17a5101d7b062b8862017d6b38806e195e4"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/19.md",
+      "bytes": 9751,
+      "sha256": "4a481328a99717b618f0ccf025a043ea1fdf132225a01d9aa1300df8749c7cbb"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/20.md",
+      "bytes": 7913,
+      "sha256": "ef56f62ab05c176bdfb0c67bee7a786dc110435c16768038428a47e87492d9b2"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/21.md",
+      "bytes": 9186,
+      "sha256": "7e6ba68761c28dfbd8024272bcea80a1b905111733af7cdf6fcba575eb4ffa6f"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/22.md",
+      "bytes": 9547,
+      "sha256": "66cf6b0fa84a724b06c20b5a57f71702b49902a9edf5ef64fcf3ca62b8a8405d"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/23-postscript.md",
+      "bytes": 2530,
+      "sha256": "d717f6e81ab06440b4c1f77512119b273fdc111d794c464fde5ee1d73cbf2a47"
+    },
+    {
+      "path": "work/author-voice-rewrite/zh/24-appendix.md",
+      "bytes": 6338,
+      "sha256": "195d74e8bf04e4597efb764877d4fb6cb589a28fc4d1d84b17f9468b601fcba5"
     },
     {
       "path": "work/book-bilingual/archive_edition.py",

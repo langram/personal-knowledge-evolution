@@ -22,6 +22,7 @@
 - [从学生的灵感到基层的创造](archive/dossiers/2026-10-26-shared-credit/05-section-ten.md)
 - [现存版本与修改过程](history/README.md)
 - [本轮相对性与对齐论述、原话与中英对照记录](archive/dossiers/2026-11-05-relativity-alignment/04-editorial-notes.md)
+- [第十九版全文重写：中文](book/v19.md) · [English](book/v19.en.md) · [本版说明](archive/dossiers/2026-11-05-author-voice-rewrite/04-editorial-notes.md) · [新旧章节对照](archive/dossiers/2026-11-05-author-voice-rewrite/05-chapter-map.md)
 
 ## 运行访问接口
 
@@ -85,3 +86,5 @@ python -m pkst_public serve
 2026年11月2日第十七版补充超级智能选择和平说服与自愿试点的论述，明确文明整体成本和目标条件，保留作者的乐观立场与讽刺表达。作者原话、编辑限定、英文派生和思想演化分别保存，详见[本版修改记录](archive/dossiers/2026-11-02-cooperative-superintelligence/04-editorial-notes.md)。
 
 2026年11月5日第十八版采用新书名《新原理：社会科学的数学原理》（Nova Principia），补入认知参考系、多层级对齐和自我反思。作者原话、Gemini回复、编辑限定与思想演化分别保存，详见[本版修改记录](archive/dossiers/2026-11-05-relativity-alignment/04-editorial-notes.md)。
+
+2026年11月5日第十九版按作者要求，以知识库中作者本人的发言为内容依据，按理论的层次重新设计为五部分二十二章，逐章重写中文全文并完整翻译英文版，另存为 `book/v19.md` 与 `book/v19.en.md`，`book/current.md` 保持第十八版以便对比；删除此前编辑补写的限定与反思，保留作者的推理链、比喻与锋利表达。各章末的问答只采用作者在讨论中实际回应过的质疑。同日依据 Codex 的评审意见（仓库外材料 `work/v19-review/review.zh.md`）作第一次修订：删去正态分布断言，改以规则意义上的平等论证；对齐的不动点刻画与文明层级的 QKV 对应明确留白；订正若干数学定义、哈希与开源的关系、史实与统计口径。全书约 91,763 汉字。详见[本版说明](archive/dossiers/2026-11-05-author-voice-rewrite/04-editorial-notes.md)。

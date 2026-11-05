@@ -220,5 +220,38 @@
     "landing_page": "book/readme.md",
     "previous_edition": "17-cooperative-superintelligence",
     "revision_manifest": "archive/dossiers/2026-11-05-relativity-alignment/revision-manifest.json"
+  },
+  {
+    "edition": "19-author-voice-rewrite",
+    "title": "按作者原意与文风的全文重写",
+    "book_title_zh": "新原理：社会科学的数学原理",
+    "book_title_en": "Nova Principia: Mathematical Principles of Social Science",
+    "file": "archive/dossiers/2026-11-05-author-voice-rewrite/01-new-principles.zh.md",
+    "sha256": "57bdf47fe6493cd709217dde0844a271b193d26640c545c7b12b821d264252d4",
+    "cjk_characters": 91763,
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "translations": {
+      "en": {
+        "file": "archive/dossiers/2026-11-05-author-voice-rewrite/02-new-principles.en.md",
+        "sha256": "caf9779c9ed5e59597aa8d1da907a778dcdfd4523fd62a7bf48961ac147d71d7",
+        "whitespace_words": 61403,
+        "derived_from_sha256": "57bdf47fe6493cd709217dde0844a271b193d26640c545c7b12b821d264252d4",
+        "method": "complete translation of the rewritten Chinese text, chapter and section structure identical"
+      }
+    },
+    "landing_page": "book/readme.md",
+    "previous_edition": "18-relativity-alignment",
+    "editorial_notes": "archive/dossiers/2026-11-05-author-voice-rewrite/04-editorial-notes.md",
+    "chapter_map": "archive/dossiers/2026-11-05-author-voice-rewrite/05-chapter-map.md",
+    "revisions": [
+      {
+        "date": "2026-11-05",
+        "note": "评审后第一次修订：删去正态分布断言，改以规则意义上的平等论证；对齐不动点与文明层级QKV留白；订正数学定义、哈希与开源关系、史实与统计口径；中英文同步。",
+        "review": "work/v19-review/review.zh.md (outside the public repository)"
+      }
+    ]
   }
 ]
