@@ -226,9 +226,11 @@
     "title": "按作者原意与文风的全文重写",
     "book_title_zh": "新原理：社会科学的数学原理",
     "book_title_en": "Nova Principia: Mathematical Principles of Social Science",
+    "subtitle_zh": "从物理相对论到社会相对论",
+    "subtitle_en": "Relativity, From Physical to Social Theory",
     "file": "archive/dossiers/2026-11-05-author-voice-rewrite/01-new-principles.zh.md",
-    "sha256": "57bdf47fe6493cd709217dde0844a271b193d26640c545c7b12b821d264252d4",
-    "cjk_characters": 91763,
+    "sha256": "24ce49b55a3f1ae631b8c635dc6acd08f25e7d06a9125f866765211c1a5f397a",
+    "cjk_characters": 93042,
     "languages": [
       "zh",
       "en"
@@ -236,9 +238,9 @@
     "translations": {
       "en": {
         "file": "archive/dossiers/2026-11-05-author-voice-rewrite/02-new-principles.en.md",
-        "sha256": "caf9779c9ed5e59597aa8d1da907a778dcdfd4523fd62a7bf48961ac147d71d7",
-        "whitespace_words": 61403,
-        "derived_from_sha256": "57bdf47fe6493cd709217dde0844a271b193d26640c545c7b12b821d264252d4",
+        "sha256": "e329008e1f88a12fa76078bc3137cbd79d44c724b6745e7e285e3cc379ed665f",
+        "whitespace_words": 62260,
+        "derived_from_sha256": "24ce49b55a3f1ae631b8c635dc6acd08f25e7d06a9125f866765211c1a5f397a",
         "method": "complete translation of the rewritten Chinese text, chapter and section structure identical"
       }
     },
@@ -251,6 +253,10 @@
         "date": "2026-11-05",
         "note": "评审后第一次修订：删去正态分布断言，改以规则意义上的平等论证；对齐不动点与文明层级QKV留白；订正数学定义、哈希与开源关系、史实与统计口径；中英文同步。",
         "review": "work/v19-review/review.zh.md (outside the public repository)"
+      },
+      {
+        "date": "2026-11-06",
+        "note": "加副标题“从物理相对论到社会相对论”；前言新增副标题的两个理由和“为什么是现在”的第三条紧迫理由（技术加速与制度停滞的结构性矛盾）；中英文同步。"
       }
     ]
   }

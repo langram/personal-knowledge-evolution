@@ -1,7 +1,7 @@
 {
   "schema": "pkst-public/files@1",
-  "recorded_at": "2026-11-05T15:54:43.471139+00:00",
-  "merkle_root": "e1fc708e3d1cf57d9755b6eae94a3dfabf8bda5fa21d81e9d2bee6c6874fcfb8",
+  "recorded_at": "2026-11-06T02:11:00.658382+00:00",
+  "merkle_root": "041fd34404509a89f98ff4e01aaabe84fd74ad5b5005633f43cbe7aa2f863aa2",
   "files": [
     {
       "path": ".gitattributes",
@@ -16,7 +16,7 @@
     {
       "path": "README.md",
       "bytes": 10026,
-      "sha256": "fc23113d06dbd963564e7566944df28940a0f491cc5a7b9dedea161d63d8129f"
+      "sha256": "f251178f3fb50594ff1e20f410f9136f8173c0d632431a8c858a07a00e7d882a"
     },
     {
       "path": "archive/README.md",
@@ -3485,13 +3485,13 @@
     },
     {
       "path": "archive/dossiers/2026-11-05-author-voice-rewrite/01-new-principles.zh.md",
-      "bytes": 303795,
-      "sha256": "57bdf47fe6493cd709217dde0844a271b193d26640c545c7b12b821d264252d4"
+      "bytes": 308100,
+      "sha256": "24ce49b55a3f1ae631b8c635dc6acd08f25e7d06a9125f866765211c1a5f397a"
     },
     {
       "path": "archive/dossiers/2026-11-05-author-voice-rewrite/02-new-principles.en.md",
-      "bytes": 388538,
-      "sha256": "caf9779c9ed5e59597aa8d1da907a778dcdfd4523fd62a7bf48961ac147d71d7"
+      "bytes": 393736,
+      "sha256": "e329008e1f88a12fa76078bc3137cbd79d44c724b6745e7e285e3cc379ed665f"
     },
     {
       "path": "archive/dossiers/2026-11-05-author-voice-rewrite/03-outline.md",
@@ -3500,8 +3500,8 @@
     },
     {
       "path": "archive/dossiers/2026-11-05-author-voice-rewrite/04-editorial-notes.md",
-      "bytes": 6034,
-      "sha256": "9267a03024d38ad39915e3118548a1398893bf8a2296975fddeaf7876582c815"
+      "bytes": 7151,
+      "sha256": "b94fd485ae7ee6de1f148a8d95e917a3aa005da4811d246ebcb6c1614a865f09"
     },
     {
       "path": "archive/dossiers/2026-11-05-author-voice-rewrite/05-chapter-map.md",
@@ -3890,8 +3890,8 @@
     },
     {
       "path": "book/readme.md",
-      "bytes": 6296,
-      "sha256": "7b3f19f1d8356581746ae9e43f14db4d06c4fbe6ffc04d7ae5dbce72494f4b58"
+      "bytes": 6427,
+      "sha256": "b6695d25b59fe3c6267affbc8acd74c10e7f052eb0491cb8d4e783ef088fa6f5"
     },
     {
       "path": "corpus/editorial-index.json",
@@ -6470,13 +6470,13 @@
     },
     {
       "path": "history/README.md",
-      "bytes": 9951,
-      "sha256": "8e713acb8359698887b44df86f57d4e5fe12ca4bd005485126e8315cc17a9c46"
+      "bytes": 9957,
+      "sha256": "8842f64da84dba290476cdf51a191f3478c77519c616455d57c5ec04c575e17c"
     },
     {
       "path": "history/editions.json",
-      "bytes": 11178,
-      "sha256": "8e34f02fecbfd9db83ab60551456f71803899c13aa959d82e7216735c1551813"
+      "bytes": 11583,
+      "sha256": "1fbda5b19d7fe8c390a210e86105db98664088731121d8ae27430c08be7fde32"
     },
     {
       "path": "pkst_public/__init__.py",
@@ -7020,8 +7020,8 @@
     },
     {
       "path": "work/author-voice-rewrite/en/00-preface.md",
-      "bytes": 9477,
-      "sha256": "ebe81d6e94ddd88082791608859948b85f8db63cce685a5afb5be83c09f4c11d"
+      "bytes": 14675,
+      "sha256": "df1e67dac02983666ff76910212f80caaa71a21ab91025d4acf7baac00bcb2aa"
     },
     {
       "path": "work/author-voice-rewrite/en/01.md",
@@ -7155,8 +7155,8 @@
     },
     {
       "path": "work/author-voice-rewrite/zh/00-preface.md",
-      "bytes": 7515,
-      "sha256": "26bd5952641d721cb17e3561142f1c9f7e6f2bbeb2072ce93b07601f098ca411"
+      "bytes": 11820,
+      "sha256": "b29fd48a35905d0c26d3743f8a452f7f6750369380c79bee8b230e9890d5def0"
     },
     {
       "path": "work/author-voice-rewrite/zh/01.md",

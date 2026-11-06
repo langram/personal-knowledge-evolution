@@ -22,7 +22,7 @@
 |超级智能、老大哥与制度想象的边界|162,398|[中文](../archive/dossiers/2026-11-02-agi-institutions/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-02-agi-institutions/02-new-principles.en.md)|
 |理性说服、自愿试点与超级智能的选择|163,569|[中文](../archive/dossiers/2026-11-02-cooperative-superintelligence/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-02-cooperative-superintelligence/02-new-principles.en.md)|
 |相对性、认知参考系与多层级对齐|172,832|[中文](../archive/dossiers/2026-11-05-relativity-alignment/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-05-relativity-alignment/02-new-principles.en.md)|
-|按作者原意与文风的全文重写（评审后第一次修订）|91,763|[中文](../archive/dossiers/2026-11-05-author-voice-rewrite/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-05-author-voice-rewrite/02-new-principles.en.md)|
+|按作者原意与文风的全文重写（评审后修订，加副标题）|93,042|[中文](../archive/dossiers/2026-11-05-author-voice-rewrite/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-05-author-voice-rewrite/02-new-principles.en.md)|
 
 更早的[整体框架与起步方案](../archive/dossiers/2026-10-25-seed/README.md)保存实践路线、宣传文本和创作计划。
 
