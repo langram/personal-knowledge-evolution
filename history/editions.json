@@ -273,5 +273,56 @@
         "note": "按作者要求删去前言中关于写作抱负与自信心理的一段，只保留标题用于吸引注意的理由；中英文同步。"
       }
     ]
+  },
+  {
+    "edition": "20-focused-edition",
+    "title": "精简聚焦版：以有共识的数学和科学理论为底座",
+    "book_title_zh": "新原理：社会科学的数学原理",
+    "book_title_en": "Nova Principia: Mathematical Principles of Social Science",
+    "subtitle_zh": "从物理相对论到社会相对论",
+    "subtitle_en": "Relativity, From Physical to Social Theory",
+    "file": "archive/dossiers/2026-11-10-focused-edition/01-new-principles.zh.md",
+    "sha256": "59395c6885847ceff6c9c638329c160fc08f8e4b0574d93d9823dc92e98c439d",
+    "cjk_characters": 46612,
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "translations": {
+      "en": {
+        "file": "archive/dossiers/2026-11-10-focused-edition/02-new-principles.en.md",
+        "sha256": "08390cad3166b774e6cd3a8d7111d1d2248d09cf31327ba16b7faae4834272b2",
+        "whitespace_words": 32114,
+        "derived_from_sha256": "59395c6885847ceff6c9c638329c160fc08f8e4b0574d93d9823dc92e98c439d",
+        "method": "translated from the Chinese text of this edition, reusing the edition 19 English wherever the Chinese sentence is unchanged; chapter and section structure identical"
+      }
+    },
+    "published_as": {
+      "zh": "book/v20.md",
+      "en": "book/v20.en.md"
+    },
+    "extensions": {
+      "title_zh": "扩展篇：实验性假说与设想",
+      "title_en": "Extensions: Experimental Hypotheses and Ideas",
+      "zh": {
+        "file": "archive/dossiers/2026-11-10-focused-edition/06-brainstorm.zh.md",
+        "published_as": "book/v20-brainstorm.md",
+        "sha256": "0bc04e4492e5567251da90b64d84a82a5ac73b4a015c9f476849e893e7d6a4f2",
+        "cjk_characters": 35074
+      },
+      "en": {
+        "file": "archive/dossiers/2026-11-10-focused-edition/07-brainstorm.en.md",
+        "published_as": "book/v20-brainstorm.en.md",
+        "sha256": "e86ef6aab3e410813c53cb232f7a722b43d104d49cc7f0ab889cddf5620fd72e",
+        "whitespace_words": 23373
+      },
+      "note": "edition 19 sections not carried into edition 20, kept in their edition 19 wording"
+    },
+    "landing_page": "book/readme.md",
+    "previous_edition": "19-author-voice-rewrite",
+    "author_request": "archive/dossiers/2026-11-10-focused-edition/00-author-request.txt",
+    "outline": "archive/dossiers/2026-11-10-focused-edition/03-outline.md",
+    "editorial_notes": "archive/dossiers/2026-11-10-focused-edition/04-editorial-notes.md",
+    "chapter_map": "archive/dossiers/2026-11-10-focused-edition/05-chapter-map.md"
   }
 ]

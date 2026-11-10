@@ -23,6 +23,7 @@
 - [现存版本与修改过程](history/README.md)
 - [本轮相对性与对齐论述、原话与中英对照记录](archive/dossiers/2026-11-05-relativity-alignment/04-editorial-notes.md)
 - [第十九版全文重写：中文](book/v19.md) · [English](book/v19.en.md) · [本版说明](archive/dossiers/2026-11-05-author-voice-rewrite/04-editorial-notes.md) · [新旧章节对照](archive/dossiers/2026-11-05-author-voice-rewrite/05-chapter-map.md)
+- [第二十版精简聚焦版：中文](book/v20.md) · [English](book/v20.en.md) · [扩展篇](book/v20-brainstorm.md) · [Extensions](book/v20-brainstorm.en.md) · [本版说明](archive/dossiers/2026-11-10-focused-edition/04-editorial-notes.md) · [新旧章节对照](archive/dossiers/2026-11-10-focused-edition/05-chapter-map.md)
 
 ## 运行访问接口
 
@@ -88,3 +89,5 @@ python -m pkst_public serve
 2026年11月5日第十八版采用新书名《新原理：社会科学的数学原理》（Nova Principia），补入认知参考系、多层级对齐和自我反思。作者原话、Gemini回复、编辑限定与思想演化分别保存，详见[本版修改记录](archive/dossiers/2026-11-05-relativity-alignment/04-editorial-notes.md)。
 
 2026年11月5日第十九版按作者要求，以知识库中作者本人的发言为内容依据，按理论的层次重新设计为五部分二十二章，逐章重写中文全文并完整翻译英文版，另存为 `book/v19.md` 与 `book/v19.en.md`，`book/current.md` 保持第十八版以便对比；删除此前编辑补写的限定与反思，保留作者的推理链、比喻与锋利表达。各章末的问答只采用作者在讨论中实际回应过的质疑。同日依据 Codex 的评审意见（仓库外材料 `work/v19-review/review.zh.md`）作第一次修订：删去正态分布断言，改以规则意义上的平等论证；对齐的不动点刻画与文明层级的 QKV 对应明确留白；订正若干数学定义、哈希与开源的关系、史实与统计口径。全书约 96,262 汉字。详见[本版说明](archive/dossiers/2026-11-05-author-voice-rewrite/04-editorial-notes.md)。
+
+2026年11月10日第二十版按作者要求精简重组：去掉与主线无关和重复的论述，把范畴论、对偶体等缺乏广泛共识的假说移出，论证改以有广泛共识的数学和科学理论为底座，按原理、构造、底座、道路四个部分十四章组织，中英文同步，另存为 `book/v20.md` 与 `book/v20.en.md`。移出的内容按第十九版原文收入 `book/v20-brainstorm.md`（扩展篇：实验性假说与设想）及其英文版。全书约 46,612 汉字。`book/current.md` 仍为第十八版，`book/v19.md` 仍为第十九版。详见[本版说明](archive/dossiers/2026-11-10-focused-edition/04-editorial-notes.md)。

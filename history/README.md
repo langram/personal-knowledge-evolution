@@ -23,6 +23,7 @@
 |理性说服、自愿试点与超级智能的选择|163,569|[中文](../archive/dossiers/2026-11-02-cooperative-superintelligence/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-02-cooperative-superintelligence/02-new-principles.en.md)|
 |相对性、认知参考系与多层级对齐|172,832|[中文](../archive/dossiers/2026-11-05-relativity-alignment/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-05-relativity-alignment/02-new-principles.en.md)|
 |按作者原意与文风的全文重写（评审后修订，加副标题、大文明模型与苦涩的教训）|96,262|[中文](../archive/dossiers/2026-11-05-author-voice-rewrite/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-05-author-voice-rewrite/02-new-principles.en.md)|
+|精简聚焦版：以有共识的数学和科学理论为底座|46,612|[中文](../archive/dossiers/2026-11-10-focused-edition/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-10-focused-edition/02-new-principles.en.md)|
 
 更早的[整体框架与起步方案](../archive/dossiers/2026-10-25-seed/README.md)保存实践路线、宣传文本和创作计划。
 
@@ -57,3 +58,5 @@
 2026年11月5日第十八版采用《新原理：社会科学的数学原理》与 Nova Principia 新标题，增加认知参考系、多层级对齐与相应自我反思；Gemini原始导出、作者新论述及编辑补充分别保存。[修改、来源与局部复核记录](../archive/dossiers/2026-11-05-relativity-alignment/04-editorial-notes.md)。
 
 2026年11月5日第十九版按作者要求全文重写：只以作者本人的发言为内容依据，按原理、社会的构造、信息科学的底座、文明、道路五个部分二十二章重新组织，删除编辑补写的限定与反思，中英文同步；全文另存为 [book/v19.md](../book/v19.md) 与 [book/v19.en.md](../book/v19.en.md)，`book/current.md` 保持第十八版以便对比。[本版说明](../archive/dossiers/2026-11-05-author-voice-rewrite/04-editorial-notes.md) · [新旧章节对照](../archive/dossiers/2026-11-05-author-voice-rewrite/05-chapter-map.md)。
+
+2026年11月10日第二十版按作者要求精简重组：论证收拢到有广泛共识的数学和科学理论之上，四个部分十四章，中英文同步；全文另存为 [book/v20.md](../book/v20.md) 与 [book/v20.en.md](../book/v20.en.md)。范畴论、对偶体等假说和较远的设想，按第十九版原文收入[扩展篇](../book/v20-brainstorm.md)（[English](../book/v20-brainstorm.en.md)）。`book/current.md` 仍为第十八版，`book/v19.md` 仍为第十九版。

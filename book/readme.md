@@ -40,3 +40,11 @@ Original statements, AI responses, editorial additions, and recorded author revi
 第十九版以作者本人的发言为内容依据，按原理、社会的构造、信息科学的底座、文明、道路五个部分二十二章重新组织并逐章重写，中文约 96,000 汉字，英文为同一结构的完整译本；已按评审意见作第一次修订。上方 current 文件保持第十八版，供对比。  
 Edition 19 is written from the author's own statements, reorganized into five parts and twenty-two chapters (principles, the construction of society, the information-science foundation, civilization, the path) and rewritten chapter by chapter; about 96,000 Chinese characters, with a complete English edition of identical structure, revised once after editorial review. The current files above remain edition 18 for comparison.
 
+**第二十版（精简聚焦版）/ Edition 20 (focused edition)**
+
+- [第二十版中文全文](https://github.com/langram/personal-knowledge-evolution/blob/main/book/v20.md) · [Edition 20, full English edition](https://github.com/langram/personal-knowledge-evolution/blob/main/book/v20.en.md)
+- [扩展篇：实验性假说与设想](https://github.com/langram/personal-knowledge-evolution/blob/main/book/v20-brainstorm.md) · [Extensions: Experimental Hypotheses and Ideas](https://github.com/langram/personal-knowledge-evolution/blob/main/book/v20-brainstorm.en.md)
+- [本版说明 / Edition notes](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-10-focused-edition/04-editorial-notes.md) · [新旧章节对照 / Chapter map](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-10-focused-edition/05-chapter-map.md)
+
+第二十版把论证收拢到有广泛共识的数学和科学理论之上，按原理、构造、底座、道路四个部分十四章重组，中文约 46,600 汉字，约为第十九版的一半。范畴论、对偶体等缺乏广泛共识的假说，以及离主线较远的工程和文明设想，按第十九版原文收入扩展篇，不作为本版论证的前提。
+Edition 20 gathers the argument onto mathematical and scientific theory with broad consensus, reorganized into four parts and fourteen chapters (principles, construction, foundation, the path); about 32,100 English words, roughly half the length of edition 19. Hypotheses that lack broad consensus, such as the category-theoretic dualoid, and ideas further from the main line are kept, in their edition 19 wording, in a separate extensions document that the argument of this edition does not depend on.
