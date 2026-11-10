@@ -1,7 +1,7 @@
 {
   "schema": "pkst-public/files@1",
-  "recorded_at": "2026-11-06T02:11:00.658382+00:00",
-  "merkle_root": "041fd34404509a89f98ff4e01aaabe84fd74ad5b5005633f43cbe7aa2f863aa2",
+  "recorded_at": "2026-11-10T15:06:04.363605+00:00",
+  "merkle_root": "e603ab88388e1e1604ecf9357ada67f71c2a6c0a373cb97a50488c46f3d28d3a",
   "files": [
     {
       "path": ".gitattributes",
@@ -16,7 +16,7 @@
     {
       "path": "README.md",
       "bytes": 10026,
-      "sha256": "f251178f3fb50594ff1e20f410f9136f8173c0d632431a8c858a07a00e7d882a"
+      "sha256": "62cc1be886fd11bfea296d80b3e721b68b419dc846e3c2126b6a59190169fdfb"
     },
     {
       "path": "archive/README.md",
@@ -3479,19 +3479,29 @@
       "sha256": "f5876d7930d54195cc89e0eb1d4411249653935b25265f611fc59168bbdb93a2"
     },
     {
+      "path": "archive/dossiers/2026-11-05-author-voice-rewrite/00-author-civilization-model-2026-11-10.txt",
+      "bytes": 5511,
+      "sha256": "f4bedf2ee22464b21816b280f3d6b528a0da490bde27602da174a5012907d6e8"
+    },
+    {
       "path": "archive/dossiers/2026-11-05-author-voice-rewrite/00-author-request.txt",
       "bytes": 1197,
       "sha256": "27f6472aa59b74c46260ca10d693a3d2858f295b03becbd2d07bb1f9b20f633a"
     },
     {
+      "path": "archive/dossiers/2026-11-05-author-voice-rewrite/00-author-torch-and-bitter-lesson-2026-11-10.txt",
+      "bytes": 2411,
+      "sha256": "f1663baafa7a3a9dc61d5c26ed4ab0009e4307f403a7933942422df7069bc64f"
+    },
+    {
       "path": "archive/dossiers/2026-11-05-author-voice-rewrite/01-new-principles.zh.md",
-      "bytes": 308100,
-      "sha256": "24ce49b55a3f1ae631b8c635dc6acd08f25e7d06a9125f866765211c1a5f397a"
+      "bytes": 318724,
+      "sha256": "93401791d269356aabaa2bbfb5f63307a76ee340857a3ed7c8871afc880f2bc5"
     },
     {
       "path": "archive/dossiers/2026-11-05-author-voice-rewrite/02-new-principles.en.md",
-      "bytes": 393736,
-      "sha256": "e329008e1f88a12fa76078bc3137cbd79d44c724b6745e7e285e3cc379ed665f"
+      "bytes": 407173,
+      "sha256": "3f2820814e2ffc723bdc3ff19bfcdafd52eea2496f228de2fbdb8e3980f0d6ad"
     },
     {
       "path": "archive/dossiers/2026-11-05-author-voice-rewrite/03-outline.md",
@@ -3500,8 +3510,8 @@
     },
     {
       "path": "archive/dossiers/2026-11-05-author-voice-rewrite/04-editorial-notes.md",
-      "bytes": 7151,
-      "sha256": "b94fd485ae7ee6de1f148a8d95e917a3aa005da4811d246ebcb6c1614a865f09"
+      "bytes": 10233,
+      "sha256": "81ac0ca8e25155fe7b0e5698b9a20a1e339c9aed20e16e24d66f04ad11846bc2"
     },
     {
       "path": "archive/dossiers/2026-11-05-author-voice-rewrite/05-chapter-map.md",
@@ -3891,7 +3901,7 @@
     {
       "path": "book/readme.md",
       "bytes": 6427,
-      "sha256": "b6695d25b59fe3c6267affbc8acd74c10e7f052eb0491cb8d4e783ef088fa6f5"
+      "sha256": "3dd6efc0213cccff3750f45bae768d28d3756787d817d3221a1da956e5df5c06"
     },
     {
       "path": "corpus/editorial-index.json",
@@ -6470,13 +6480,13 @@
     },
     {
       "path": "history/README.md",
-      "bytes": 9957,
-      "sha256": "8842f64da84dba290476cdf51a191f3478c77519c616455d57c5ec04c575e17c"
+      "bytes": 9993,
+      "sha256": "15c2935d797145caf1e9e95518696c1ffc482048b1a87d5d063ab02628ac121b"
     },
     {
       "path": "history/editions.json",
-      "bytes": 11583,
-      "sha256": "1fbda5b19d7fe8c390a210e86105db98664088731121d8ae27430c08be7fde32"
+      "bytes": 12559,
+      "sha256": "0f7cbb4aa59ac9fbff052569082d7a2237881b24fa3241e8240877349d27dffa"
     },
     {
       "path": "pkst_public/__init__.py",
@@ -7020,8 +7030,8 @@
     },
     {
       "path": "work/author-voice-rewrite/en/00-preface.md",
-      "bytes": 14675,
-      "sha256": "df1e67dac02983666ff76910212f80caaa71a21ab91025d4acf7baac00bcb2aa"
+      "bytes": 16747,
+      "sha256": "5eeb0e5bd8d05a9aef60c8cc53f74ae62bd4bd2f98748fb696c087d68e3e3c55"
     },
     {
       "path": "work/author-voice-rewrite/en/01.md",
@@ -7095,8 +7105,8 @@
     },
     {
       "path": "work/author-voice-rewrite/en/15.md",
-      "bytes": 20974,
-      "sha256": "fd0a2133685b29c6e155852f51aaa73062b8fcd8ef43588a05991ba2b032da1f"
+      "bytes": 28344,
+      "sha256": "4b4de343f2e17f9fb0a0bf24ca101b56fe1168ef70ba66a55e6f1c5749e4fd48"
     },
     {
       "path": "work/author-voice-rewrite/en/16.md",
@@ -7135,13 +7145,13 @@
     },
     {
       "path": "work/author-voice-rewrite/en/23-postscript.md",
-      "bytes": 3090,
-      "sha256": "d00694613ecef980cd7af00ff115ef09bf56609494edc8f931e038e84dc996ba"
+      "bytes": 6742,
+      "sha256": "a783719f8e8ee609f7584004f3a3deed4fa293bbe2301aeea0e4bfbc07dd0d07"
     },
     {
       "path": "work/author-voice-rewrite/en/24-appendix.md",
-      "bytes": 8018,
-      "sha256": "5cd4b6cee5d29df9aebe1db13bf5749c855b568b4636319745b5fe9c13c0a054"
+      "bytes": 8361,
+      "sha256": "ad7c2515684532adea143d0c1e58aea17fdab8f122aa85043879a426b33f2938"
     },
     {
       "path": "work/author-voice-rewrite/outline.md",
@@ -7155,8 +7165,8 @@
     },
     {
       "path": "work/author-voice-rewrite/zh/00-preface.md",
-      "bytes": 11820,
-      "sha256": "b29fd48a35905d0c26d3743f8a452f7f6750369380c79bee8b230e9890d5def0"
+      "bytes": 13353,
+      "sha256": "0e688e9694ab6fcd75e15f77ba5880f24bb0242c9389694496b752a05f931416"
     },
     {
       "path": "work/author-voice-rewrite/zh/01.md",
@@ -7230,8 +7240,8 @@
     },
     {
       "path": "work/author-voice-rewrite/zh/15.md",
-      "bytes": 16366,
-      "sha256": "02c83c6dccee95de6e637413d85739ea61200938ff8de02384620fa7bad0cc9e"
+      "bytes": 22323,
+      "sha256": "315b387dfe97917bce17f86e265aefcad9e9f7de23527e572f2b8f748d9ced55"
     },
     {
       "path": "work/author-voice-rewrite/zh/16.md",
@@ -7270,13 +7280,13 @@
     },
     {
       "path": "work/author-voice-rewrite/zh/23-postscript.md",
-      "bytes": 2530,
-      "sha256": "d717f6e81ab06440b4c1f77512119b273fdc111d794c464fde5ee1d73cbf2a47"
+      "bytes": 5403,
+      "sha256": "ab374290a1dbaf19c9837490492f49e05b8e0be285ce58ebe9c3ac155f6bbe9f"
     },
     {
       "path": "work/author-voice-rewrite/zh/24-appendix.md",
-      "bytes": 6338,
-      "sha256": "195d74e8bf04e4597efb764877d4fb6cb589a28fc4d1d84b17f9468b601fcba5"
+      "bytes": 6599,
+      "sha256": "1bd881802d887472b9963e423671e09352b952866d65886d78999becd9c2c19c"
     },
     {
       "path": "work/book-bilingual/archive_edition.py",

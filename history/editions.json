@@ -229,8 +229,8 @@
     "subtitle_zh": "从物理相对论到社会相对论",
     "subtitle_en": "Relativity, From Physical to Social Theory",
     "file": "archive/dossiers/2026-11-05-author-voice-rewrite/01-new-principles.zh.md",
-    "sha256": "24ce49b55a3f1ae631b8c635dc6acd08f25e7d06a9125f866765211c1a5f397a",
-    "cjk_characters": 93042,
+    "sha256": "93401791d269356aabaa2bbfb5f63307a76ee340857a3ed7c8871afc880f2bc5",
+    "cjk_characters": 96262,
     "languages": [
       "zh",
       "en"
@@ -238,9 +238,9 @@
     "translations": {
       "en": {
         "file": "archive/dossiers/2026-11-05-author-voice-rewrite/02-new-principles.en.md",
-        "sha256": "e329008e1f88a12fa76078bc3137cbd79d44c724b6745e7e285e3cc379ed665f",
-        "whitespace_words": 62260,
-        "derived_from_sha256": "24ce49b55a3f1ae631b8c635dc6acd08f25e7d06a9125f866765211c1a5f397a",
+        "sha256": "3f2820814e2ffc723bdc3ff19bfcdafd52eea2496f228de2fbdb8e3980f0d6ad",
+        "whitespace_words": 64405,
+        "derived_from_sha256": "93401791d269356aabaa2bbfb5f63307a76ee340857a3ed7c8871afc880f2bc5",
         "method": "complete translation of the rewritten Chinese text, chapter and section structure identical"
       }
     },
@@ -257,6 +257,20 @@
       {
         "date": "2026-11-06",
         "note": "加副标题“从物理相对论到社会相对论”；前言新增副标题的两个理由和“为什么是现在”的第三条紧迫理由（技术加速与制度停滞的结构性矛盾）；中英文同步。"
+      },
+      {
+        "date": "2026-11-10",
+        "note": "第十五章新增三节：训练与推理不能分离、大文明模型、从算力到社会力学；依据作者 2026-11-10 的原话整理；前言与附录相应补充；中英文同步。",
+        "author_statement": "archive/dossiers/2026-11-05-author-voice-rewrite/00-author-civilization-model-2026-11-10.txt"
+      },
+      {
+        "date": "2026-11-10",
+        "note": "前言末段改为火把的定位并加入文明制度层面的“苦涩的教训”；后记重申定位、展开苦涩的教训与尽快共同构造大文明模型的主张；中英文同步。",
+        "author_statement": "archive/dossiers/2026-11-05-author-voice-rewrite/00-author-torch-and-bitter-lesson-2026-11-10.txt"
+      },
+      {
+        "date": "2026-11-10",
+        "note": "按作者要求删去前言中关于写作抱负与自信心理的一段，只保留标题用于吸引注意的理由；中英文同步。"
       }
     ]
   }

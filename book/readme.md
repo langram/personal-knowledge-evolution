@@ -37,6 +37,6 @@ Original statements, AI responses, editorial additions, and recorded author revi
 - 第十九版副标题：从物理相对论到社会相对论 / Edition 19 subtitle: *Relativity, From Physical to Social Theory*
 - [本版说明 / Edition notes](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-05-author-voice-rewrite/04-editorial-notes.md) · [新旧章节对照 / Chapter map](https://github.com/langram/personal-knowledge-evolution/blob/main/archive/dossiers/2026-11-05-author-voice-rewrite/05-chapter-map.md)
 
-第十九版以作者本人的发言为内容依据，按原理、社会的构造、信息科学的底座、文明、道路五个部分二十二章重新组织并逐章重写，中文约 93,000 汉字，英文为同一结构的完整译本；已按评审意见作第一次修订。上方 current 文件保持第十八版，供对比。  
-Edition 19 is written from the author's own statements, reorganized into five parts and twenty-two chapters (principles, the construction of society, the information-science foundation, civilization, the path) and rewritten chapter by chapter; about 93,000 Chinese characters, with a complete English edition of identical structure, revised once after editorial review. The current files above remain edition 18 for comparison.
+第十九版以作者本人的发言为内容依据，按原理、社会的构造、信息科学的底座、文明、道路五个部分二十二章重新组织并逐章重写，中文约 96,000 汉字，英文为同一结构的完整译本；已按评审意见作第一次修订。上方 current 文件保持第十八版，供对比。  
+Edition 19 is written from the author's own statements, reorganized into five parts and twenty-two chapters (principles, the construction of society, the information-science foundation, civilization, the path) and rewritten chapter by chapter; about 96,000 Chinese characters, with a complete English edition of identical structure, revised once after editorial review. The current files above remain edition 18 for comparison.
 

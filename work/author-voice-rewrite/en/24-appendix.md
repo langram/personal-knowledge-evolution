@@ -50,6 +50,7 @@ The following, taking current and foreseeable computer and AI capabilities as th
 - The performance of the dynamic-weight social neural network in real social decisions. It needs to run first in domains where feedback is fast enough, and accumulate records first in domains where feedback is slow. Two people, one task, one record is its minimal test scenario.
 - That the new mechanism produces no new domination as it expands. This requires observing both internal equality and the absence of outward domination at every step of the expansion, rather than deducing it from the mechanism's definition.
 - Whether the economic model and organizational form can stand on their own once the technology is running. Gains in efficiency do not automatically become fair distribution; the rules of distribution must develop in step with the technical prototype.
+- The Large Civilization Model and social mechanics. Each of its units is itself a high-dimensional semantic model, and its demand for computing power is several orders of magnitude above today's large models; its training material can only accumulate once the social neural network is running. This is a direction, not a capability of today.
 - Whether the results of the virtual laboratory can transfer to reality. Its role is to screen out plainly unworkable proposals and screen in those worth piloting at small scale in reality, not to replace real-world testing.
 
 ### How to let a scientific prophecy be corrected by reality
