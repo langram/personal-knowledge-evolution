@@ -23,7 +23,7 @@
 |理性说服、自愿试点与超级智能的选择|163,569|[中文](../archive/dossiers/2026-11-02-cooperative-superintelligence/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-02-cooperative-superintelligence/02-new-principles.en.md)|
 |相对性、认知参考系与多层级对齐|172,832|[中文](../archive/dossiers/2026-11-05-relativity-alignment/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-05-relativity-alignment/02-new-principles.en.md)|
 |按作者原意与文风的全文重写（评审后修订，加副标题、大文明模型与苦涩的教训）|96,262|[中文](../archive/dossiers/2026-11-05-author-voice-rewrite/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-05-author-voice-rewrite/02-new-principles.en.md)|
-|精简聚焦版：以有共识的数学和科学理论为底座|46,612|[中文](../archive/dossiers/2026-11-10-focused-edition/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-10-focused-edition/02-new-principles.en.md)|
+|精简聚焦版：以有共识的数学和科学理论为底座|47,309|[中文](../archive/dossiers/2026-11-10-focused-edition/01-new-principles.zh.md) · [English](../archive/dossiers/2026-11-10-focused-edition/02-new-principles.en.md)|
 
 更早的[整体框架与起步方案](../archive/dossiers/2026-10-25-seed/README.md)保存实践路线、宣传文本和创作计划。
 

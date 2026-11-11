@@ -26,7 +26,7 @@ The following rest on the grounds above and on complete chains of reasoning. The
 - The two chain reactions, the five meta-rules; the root of privacy and security problems is inequality of power.
 - The division into two kinds of resources; power-law distribution arising from the compounding of unequal games; equality in the sense of the rules. Whether an institution is reasonable does not rest on any particular distribution of ability holding.
 - The social neural network of dynamic weights, weights attaching to problems and expiring, and the equality of basic rights kept separate from the dynamics of influence.
-- The training and inference of a civilizational entity cannot be separated; the direction of the Large Civilization Model and social mechanics.
+- The training and inference of a civilizational body cannot be separated; every person's evaluations and decisions are the labels on the data; artificial general intelligence is the whole civilizational body, not any one model; the direction of the Large Civilization Model and social mechanics.
 - The three layers of alignment, and the first layer determining the other two.
 - No right of inheritance over personal resources. This one is my own opinion about a future institution, not a conclusion derived from the principles that precede it.
 

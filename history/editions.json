@@ -282,8 +282,8 @@
     "subtitle_zh": "从物理相对论到社会相对论",
     "subtitle_en": "Relativity, From Physical to Social Theory",
     "file": "archive/dossiers/2026-11-10-focused-edition/01-new-principles.zh.md",
-    "sha256": "59395c6885847ceff6c9c638329c160fc08f8e4b0574d93d9823dc92e98c439d",
-    "cjk_characters": 46612,
+    "sha256": "c7c1490f3f772834601553cb26de28222a27aed8ec3e51847cc2e643e812d9ff",
+    "cjk_characters": 47309,
     "languages": [
       "zh",
       "en"
@@ -291,9 +291,9 @@
     "translations": {
       "en": {
         "file": "archive/dossiers/2026-11-10-focused-edition/02-new-principles.en.md",
-        "sha256": "08390cad3166b774e6cd3a8d7111d1d2248d09cf31327ba16b7faae4834272b2",
-        "whitespace_words": 32114,
-        "derived_from_sha256": "59395c6885847ceff6c9c638329c160fc08f8e4b0574d93d9823dc92e98c439d",
+        "sha256": "3e20c170d3928e295490f71f4f0c7b7e6fe66f743ee93a20f601536305db7a27",
+        "whitespace_words": 32578,
+        "derived_from_sha256": "c7c1490f3f772834601553cb26de28222a27aed8ec3e51847cc2e643e812d9ff",
         "method": "translated from the Chinese text of this edition, reusing the edition 19 English wherever the Chinese sentence is unchanged; chapter and section structure identical"
       }
     },
@@ -323,6 +323,13 @@
     "author_request": "archive/dossiers/2026-11-10-focused-edition/00-author-request.txt",
     "outline": "archive/dossiers/2026-11-10-focused-edition/03-outline.md",
     "editorial_notes": "archive/dossiers/2026-11-10-focused-edition/04-editorial-notes.md",
-    "chapter_map": "archive/dossiers/2026-11-10-focused-edition/05-chapter-map.md"
+    "chapter_map": "archive/dossiers/2026-11-10-focused-edition/05-chapter-map.md",
+    "revisions": [
+      {
+        "date": "2026-11-11",
+        "note": "第八章新增两节：数据与标注（每个人的评价和决策就是数据的标注）、通用人工智能是整个文明体而不是某一个模型；第七章加一句预告，附录推论相应补充；依据作者 2026-11-11 的原话整理；中英文同步。",
+        "author_statement": "archive/dossiers/2026-11-10-focused-edition/00-author-labeling-and-agi-2026-11-11.txt"
+      }
+    ]
   }
 ]
