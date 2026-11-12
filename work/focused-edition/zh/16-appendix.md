@@ -14,6 +14,8 @@
 - 概率与网络：按比例增长和"富者愈富"的过程产生长尾和幂律分布。
 - 机器学习：按历史表现加权汇总多个判断者的在线学习算法及其保证；注意力机制；没有标准答案时靠自我对弈和反馈训练的方法；"苦涩的教训"所总结的历史。
 - 预测研究：统计模型与专家个人判断的比较，按记录加权的群体预测。
+- 社会选择与集体判断：规则的匿名性；陪审团定理，以及按准确率的对数几率加权的最优汇总；个人决定权与帕累托标准不能兼容的定理；度量行动者可达未来的赋能度与可行能力。
+- 科学史：温度的测量先于热力学，温度的定义是在测量中逐步修正出来的。
 - 软件工程：密码学哈希，默克尔树与内容寻址，数字签名，版本管理。
 
 ### 推论：本书所做的推广和设计
@@ -27,6 +29,7 @@
 - 两类资源的划分；幂律分配来自不对等博弈的复利；规则意义上的平等。制度是否合理，不以某一种能力分布成立为前提。
 - 动态权重的社会神经网络，权重附着于问题并且过期，基本权利的平等与影响力的动态分开。
 - 文明体的训练与推理不能分离；每个人的评价和决策就是数据的标注；通用人工智能是整个文明体而不是某一个模型；大文明模型与社会力学的方向。
+- 自由、平等、民主作为三种数学对象：一个量，一条对称性，一个汇总算子。它们的具体形式只是初始值，要在分叉运行和比较中修正；规则地位相同、可以退出和分叉、每个人的判断都进入，这三条元规则是迭代本身可信的前提。
 - 对齐的三个层次，以及第一层决定其余两层。
 - 个人资源没有继承权。这一条是我对未来制度的个人意见，不是从前面的原理推出来的结论。
 
@@ -47,6 +50,7 @@
 - 新机制在扩张过程中不产生新的支配。这需要在扩张的每一步同时检查内部的平等和对外不形成支配，而不是从机制的定义推出来。
 - 技术运行起来之后，分配规则和组织形式能否独立成立。效率的提升不会自动变成公平的分配。
 - 大文明模型与社会力学。它的每一个单元本身就是一个高维语义模型，算力要求比今天的大模型高出几个数量级；它的训练素材要靠社会神经网络运行起来才能积累。这是方向，不是今天的能力。
+- 自由、平等、民主的那组具体对应。可达未来怎样计算，权重怎样取，都还只是初始值，要靠自由区的分叉运行和比较来修正。
 - 虚拟实验室的结果能否迁移到现实。它的作用是筛选，不是替代现实的检验。
 
 ### 扩展篇
@@ -60,21 +64,30 @@
 ### 参考
 
 - Newton, I. (1687). *Philosophiæ Naturalis Principia Mathematica*.
+- Condorcet, N. de (1785). *Essai sur l'application de l'analyse à la probabilité des décisions rendues à la pluralité des voix*.
+- Marx, K., & Engels, F. (1848). *Manifest der Kommunistischen Partei*.
+- Lincoln, A. (1863). Gettysburg Address.
 - Einstein, A. (1905). Zur Elektrodynamik bewegter Körper. *Annalen der Physik*.
 - Noether, E. (1918). Invariante Variationsprobleme.
 - Nash, J. (1950). Equilibrium points in n-person games. *PNAS*.
+- May, K. (1952). A set of independent necessary and sufficient conditions for simple majority decision. *Econometrica*.
 - Meehl, P. (1954). *Clinical versus Statistical Prediction*.
 - Simon, H. (1955). On a class of skew distribution functions. *Biometrika*.
 - Lewis, D. (1969). *Convention*.
+- Sen, A. (1970). The impossibility of a Paretian liberal. *Journal of Political Economy*.
 - Anderson, P. W. (1972). More is different. *Science*.
 - Maynard Smith, J., & Price, G. (1973). The logic of animal conflict. *Nature*.
 - Aumann, R. (1976). Agreeing to disagree. *Annals of Statistics*.
 - Nicolis, G., & Prigogine, I. (1977). *Self-Organization in Nonequilibrium Systems*.
 - Jervis, R. (1978). Cooperation under the security dilemma. *World Politics*.
+- Nitzan, S., & Paroush, J. (1982). Optimal decision rules in uncertain dichotomous choice situations. *International Economic Review*.
 - Axelrod, R. (1984). *The Evolution of Cooperation*.
 - Merkle, R. (1987). A digital signature based on a conventional encryption function. *CRYPTO '87*.
 - Littlestone, N., & Warmuth, M. (1994). The weighted majority algorithm. *Information and Computation*.
 - Barabási, A.-L., & Albert, R. (1999). Emergence of scaling in random networks. *Science*.
+- Sen, A. (1999). *Development as Freedom*.
+- Chang, H. (2004). *Inventing Temperature: Measurement and Scientific Progress*.
+- Klyubin, A., Polani, D., & Nehaniv, C. (2005). Empowerment: A universal agent-centric measure of control. *IEEE Congress on Evolutionary Computation*.
 - Tetlock, P. (2005). *Expert Political Judgment*.
 - Saez, E., & Zucman, G. (2016). Wealth inequality in the United States since 1913. *Quarterly Journal of Economics*.
 - Vaswani, A., et al. (2017). Attention is all you need. *NeurIPS*.

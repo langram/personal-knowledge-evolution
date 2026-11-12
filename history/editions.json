@@ -282,8 +282,8 @@
     "subtitle_zh": "从物理相对论到社会相对论",
     "subtitle_en": "Relativity, From Physical to Social Theory",
     "file": "archive/dossiers/2026-11-10-focused-edition/01-new-principles.zh.md",
-    "sha256": "c7c1490f3f772834601553cb26de28222a27aed8ec3e51847cc2e643e812d9ff",
-    "cjk_characters": 47309,
+    "sha256": "81e52ab011f998d3735283de0ce9db1a89c9d73c0fd092fcbdd4e18f761db5ed",
+    "cjk_characters": 50765,
     "languages": [
       "zh",
       "en"
@@ -291,9 +291,9 @@
     "translations": {
       "en": {
         "file": "archive/dossiers/2026-11-10-focused-edition/02-new-principles.en.md",
-        "sha256": "3e20c170d3928e295490f71f4f0c7b7e6fe66f743ee93a20f601536305db7a27",
-        "whitespace_words": 32578,
-        "derived_from_sha256": "c7c1490f3f772834601553cb26de28222a27aed8ec3e51847cc2e643e812d9ff",
+        "sha256": "2dfd957046f315dd7beb0fedf65ed829226670ab0aa3ac6fbab2f60c65b63a6b",
+        "whitespace_words": 35148,
+        "derived_from_sha256": "81e52ab011f998d3735283de0ce9db1a89c9d73c0fd092fcbdd4e18f761db5ed",
         "method": "translated from the Chinese text of this edition, reusing the edition 19 English wherever the Chinese sentence is unchanged; chapter and section structure identical"
       }
     },
@@ -329,6 +329,17 @@
         "date": "2026-11-11",
         "note": "第八章新增两节：数据与标注（每个人的评价和决策就是数据的标注）、通用人工智能是整个文明体而不是某一个模型；第七章加一句预告，附录推论相应补充；依据作者 2026-11-11 的原话整理；中英文同步。",
         "author_statement": "archive/dossiers/2026-11-10-focused-edition/00-author-labeling-and-agi-2026-11-11.txt"
+      },
+      {
+        "date": "2026-11-12",
+        "note": "第八章新增两节：自由、平等与民主从口号到可计算的模型（一个量、一条对称性、一个汇总算子）；初始值不必正确而修正的信号必须在，以及三条元规则。后记加入作者的两段话：告别靠领袖和先贤设计规则的治理；自由主义与马克思主义的分歧在新体制中融合，并把葛底斯堡演说与《共产党宣言》的两句话连成一句。附录相应补充，参考新增九条；依据作者 2026-11-12 的原话和讨论整理；中英文同步。",
+        "author_statement": "archive/dossiers/2026-11-10-focused-edition/00-author-computable-concepts-2026-11-12.txt",
+        "discussion": "archive/dossiers/2026-11-10-focused-edition/00-discussion-claude-replies-2026-11-12.txt"
+      },
+      {
+        "date": "2026-11-12",
+        "note": "前言改写：改题为“残酷的教训”，以萨顿的“苦涩的教训”开篇并推广到文明制度，由此提出元方法及其原理两个问题，再由主标题和副标题回答；技术与制度的落差并入副标题的第二个理由。以作者直接改写的前言为底稿，按评估意见订正逻辑和语句，编辑所加的句子在编辑说明中逐条列出；中英文同步。",
+        "author_statement": "archive/dossiers/2026-11-10-focused-edition/00-author-preface-draft-2026-11-12.txt"
       }
     ]
   }

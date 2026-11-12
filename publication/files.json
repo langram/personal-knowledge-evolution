@@ -1,7 +1,7 @@
 {
   "schema": "pkst-public/files@1",
-  "recorded_at": "2026-11-11T13:48:27.191715+00:00",
-  "merkle_root": "2afe36868ea7dc8b471cbf277e9a681cbaaf17ad37486211e9f9837e94a52a4a",
+  "recorded_at": "2026-11-12T10:30:08.015514+00:00",
+  "merkle_root": "ab2acd12674be911459675444205c08d5d0c4ac1649d5e19a330b6650327a3de",
   "files": [
     {
       "path": ".gitattributes",
@@ -16,7 +16,7 @@
     {
       "path": "README.md",
       "bytes": 11040,
-      "sha256": "e75a4cf78da3af17d23ad3dccdce225bbceb636fe91528a5355ce4c2d2f8d915"
+      "sha256": "9eea868553470ecc149735a906724aa5372c5fbb30a4e3f21ad131467ba01b7d"
     },
     {
       "path": "archive/README.md",
@@ -3709,9 +3709,19 @@
       "sha256": "95d2702d8cba7ddb7872aba75553fe289b61d11c1a810c6dd5b52d7cc2e49577"
     },
     {
+      "path": "archive/dossiers/2026-11-10-focused-edition/00-author-computable-concepts-2026-11-12.txt",
+      "bytes": 2605,
+      "sha256": "3ba3f68111c31deb0f0b15b7d8140662352caf1e4c3ad6202731d52eefb74ad6"
+    },
+    {
       "path": "archive/dossiers/2026-11-10-focused-edition/00-author-labeling-and-agi-2026-11-11.txt",
       "bytes": 2823,
       "sha256": "8b26faffed2a1a79f4bb8e229c03e6408cfbd999c0c2a930d14281027a7dd73e"
+    },
+    {
+      "path": "archive/dossiers/2026-11-10-focused-edition/00-author-preface-draft-2026-11-12.txt",
+      "bytes": 12212,
+      "sha256": "c37fd9d73c5f9405815dd9070b87567567f92e9fd92ce668dd0ad024261b5599"
     },
     {
       "path": "archive/dossiers/2026-11-10-focused-edition/00-author-request.txt",
@@ -3719,24 +3729,29 @@
       "sha256": "4f9e991c70a406596e73580316c00876038a0d4ebecff32ac65a1b33e773dd3c"
     },
     {
+      "path": "archive/dossiers/2026-11-10-focused-edition/00-discussion-claude-replies-2026-11-12.txt",
+      "bytes": 6287,
+      "sha256": "414120fd87762ca48c5ed04f810114699b48087f951a2e71b63fe9493dad4b0c"
+    },
+    {
       "path": "archive/dossiers/2026-11-10-focused-edition/01-new-principles.zh.md",
-      "bytes": 159004,
-      "sha256": "c7c1490f3f772834601553cb26de28222a27aed8ec3e51847cc2e643e812d9ff"
+      "bytes": 171349,
+      "sha256": "81e52ab011f998d3735283de0ce9db1a89c9d73c0fd092fcbdd4e18f761db5ed"
     },
     {
       "path": "archive/dossiers/2026-11-10-focused-edition/02-new-principles.en.md",
-      "bytes": 203351,
-      "sha256": "3e20c170d3928e295490f71f4f0c7b7e6fe66f743ee93a20f601536305db7a27"
+      "bytes": 219335,
+      "sha256": "2dfd957046f315dd7beb0fedf65ed829226670ab0aa3ac6fbab2f60c65b63a6b"
     },
     {
       "path": "archive/dossiers/2026-11-10-focused-edition/03-outline.md",
-      "bytes": 3954,
-      "sha256": "373eb794304c68ba8013ef65d23c18a595fb8818cad9605cc701f091b10ddd89"
+      "bytes": 4193,
+      "sha256": "f3f91244854140783329786b612c24fa26a342db6a8abe8d98a1cff48740d24d"
     },
     {
       "path": "archive/dossiers/2026-11-10-focused-edition/04-editorial-notes.md",
-      "bytes": 7480,
-      "sha256": "42a11143baf59f84d1292552974b9eb46fab69765ac6d7b351a60a71bed39743"
+      "bytes": 16156,
+      "sha256": "d9953372b9efe87f461eb5d7e1008903978c2d588506b035f0a639d9a37c87dc"
     },
     {
       "path": "archive/dossiers/2026-11-10-focused-edition/05-chapter-map.md",
@@ -3946,7 +3961,7 @@
     {
       "path": "book/readme.md",
       "bytes": 8211,
-      "sha256": "ceb335544c99df4f8ca79ce9533a1834e80980da834165538c18c3d313ad2820"
+      "sha256": "4296eec1d06155f6404043d0808c434165f777fc8cf6d0d4ceba3561d03c123a"
     },
     {
       "path": "book/v19.en.md",
@@ -3970,13 +3985,13 @@
     },
     {
       "path": "book/v20.en.md",
-      "bytes": 203351,
-      "sha256": "3e20c170d3928e295490f71f4f0c7b7e6fe66f743ee93a20f601536305db7a27"
+      "bytes": 219335,
+      "sha256": "2dfd957046f315dd7beb0fedf65ed829226670ab0aa3ac6fbab2f60c65b63a6b"
     },
     {
       "path": "book/v20.md",
-      "bytes": 159004,
-      "sha256": "c7c1490f3f772834601553cb26de28222a27aed8ec3e51847cc2e643e812d9ff"
+      "bytes": 171349,
+      "sha256": "81e52ab011f998d3735283de0ce9db1a89c9d73c0fd092fcbdd4e18f761db5ed"
     },
     {
       "path": "corpus/editorial-index.json",
@@ -6556,12 +6571,12 @@
     {
       "path": "history/README.md",
       "bytes": 10724,
-      "sha256": "e4a89a6f15000b19ffd3c7812da15f491d743c5ad71d616ceed76c8eebde0a9f"
+      "sha256": "b218bdfe5412834bf08e9a93bee46c32f0581d7fcce7803b6c4db400ce3b35c3"
     },
     {
       "path": "history/editions.json",
-      "bytes": 15541,
-      "sha256": "cfc6f3fbc441f98fe95026ac2d78a618764bb5f661dcd8ec9b8b3ee3b6c8be98"
+      "bytes": 16971,
+      "sha256": "b4d895d7b94cbaecea2b296cd92a25d9e8aa2ed162436c07214308884627d1fc"
     },
     {
       "path": "pkst_public/__init__.py",
@@ -8610,8 +8625,8 @@
     },
     {
       "path": "work/focused-edition/en/00-preface.md",
-      "bytes": 14848,
-      "sha256": "86d16110170d3544c9f1abd8576be79e34b3345b017ef0017f49fb2e70a47ced"
+      "bytes": 17909,
+      "sha256": "cefe471d885b02532d9dc9a96c09151d6a3bc05690d60025edfa773edb3ca461"
     },
     {
       "path": "work/focused-edition/en/01.md",
@@ -8650,8 +8665,8 @@
     },
     {
       "path": "work/focused-edition/en/08.md",
-      "bytes": 15882,
-      "sha256": "bd43f36ff04c6bfede4057bdc241322c5c5b4f7459c56b23bf87eb6e50fd7e7c"
+      "bytes": 24898,
+      "sha256": "f0fac4279efe9cb0a7e7dac1c910e292a678abae162fcdd61a28d8a3f4dfe9f9"
     },
     {
       "path": "work/focused-edition/en/09.md",
@@ -8685,18 +8700,18 @@
     },
     {
       "path": "work/focused-edition/en/15-postscript.md",
-      "bytes": 5616,
-      "sha256": "83f3726b1d4d80966b520806f1fc977eee8814148eb32a7dc547cb9a4c687ad4"
+      "bytes": 7515,
+      "sha256": "9adea2c3b391d5825bbd0f5814daecc97d3c54675dd7287d4eee12814d2172b0"
     },
     {
       "path": "work/focused-edition/en/16-appendix.md",
-      "bytes": 9458,
-      "sha256": "b0def2ee9f6830e9e722a1bfb6e13828dfa3b9669a709e3f408f48efdf6b7dfc"
+      "bytes": 11466,
+      "sha256": "3b80fdf76eefacdab3ee396d9cc818939f17ba106f4c059cd4642cdf71738ea8"
     },
     {
       "path": "work/focused-edition/outline.md",
-      "bytes": 3954,
-      "sha256": "373eb794304c68ba8013ef65d23c18a595fb8818cad9605cc701f091b10ddd89"
+      "bytes": 4193,
+      "sha256": "f3f91244854140783329786b612c24fa26a342db6a8abe8d98a1cff48740d24d"
     },
     {
       "path": "work/focused-edition/refresh_manifest.py",
@@ -8705,8 +8720,8 @@
     },
     {
       "path": "work/focused-edition/zh/00-preface.md",
-      "bytes": 11762,
-      "sha256": "17aa6ecd7339728db73e5f0243aae0091f9965c3d9397266732ba5b0a816f004"
+      "bytes": 13992,
+      "sha256": "841bfe2d6e13665ccf736e30497680aea7edb12ca55ad3271863d4e891fa4dbd"
     },
     {
       "path": "work/focused-edition/zh/01.md",
@@ -8745,8 +8760,8 @@
     },
     {
       "path": "work/focused-edition/zh/08.md",
-      "bytes": 12619,
-      "sha256": "3a9f11dd2c3774deff517b4e70365ade9cb612d8cf01c2a6f811a6f4814b71c6"
+      "bytes": 19461,
+      "sha256": "6741da82f8e6de05d9b81b6c26692748cb7d0dd4469e0ebbf0e764399c80bb10"
     },
     {
       "path": "work/focused-edition/zh/09.md",
@@ -8780,13 +8795,13 @@
     },
     {
       "path": "work/focused-edition/zh/15-postscript.md",
-      "bytes": 4466,
-      "sha256": "5fdc3b989714438c92b2085c7a0f80290e7f17f3c6bbe7e77f2f7ea8a5d05fe7"
+      "bytes": 6038,
+      "sha256": "94404aa4f931dd1ae0f3567ed13e3c6b75796defcc066511b04de8e41985fe7c"
     },
     {
       "path": "work/focused-edition/zh/16-appendix.md",
-      "bytes": 7629,
-      "sha256": "bb6a054c6b8ac525356587d42781167c22c0814c8e7be9bdabfbd428ba1c472c"
+      "bytes": 9330,
+      "sha256": "43ddbd13075aa9ca02855cee38e5c18f7080b85324d03a8becdb0de81f49a15e"
     },
     {
       "path": "work/freeze_consensus.py",

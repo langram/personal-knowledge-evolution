@@ -14,6 +14,8 @@ The following are not discoveries of this book; this book only uses them.
 - Probability and networks: processes of proportional growth and "the rich get richer" produce long tails and power-law distributions.
 - Machine learning: online learning algorithms that aggregate multiple judges weighted by their past performance, and their guarantees; the attention mechanism; methods of training through self-play and feedback when there is no standard answer; the history summed up by the "bitter lesson".
 - Forecasting research: the comparison of statistical models with the personal judgment of experts, and group forecasts weighted by track record.
+- Social choice and collective judgment: the anonymity of rules; the jury theorem, and the optimal aggregation weighted by the log-odds of accuracy; the theorem that individual rights of decision and the Pareto standard cannot be reconciled; empowerment and capability as measures of an agent's reachable future.
+- History of science: the measurement of temperature came before thermodynamics, and the definition of temperature was corrected step by step in the course of measuring.
 - Software engineering: cryptographic hashes, Merkle trees and content addressing, digital signatures, version control.
 
 ### Inferences: the generalizations and designs this book makes
@@ -27,6 +29,7 @@ The following rest on the grounds above and on complete chains of reasoning. The
 - The division into two kinds of resources; power-law distribution arising from the compounding of unequal games; equality in the sense of the rules. Whether an institution is reasonable does not rest on any particular distribution of ability holding.
 - The social neural network of dynamic weights, weights attaching to problems and expiring, and the equality of basic rights kept separate from the dynamics of influence.
 - The training and inference of a civilizational body cannot be separated; every person's evaluations and decisions are the labels on the data; artificial general intelligence is the whole civilizational body, not any one model; the direction of the Large Civilization Model and social mechanics.
+- Freedom, equality and democracy as three types of mathematical object: a quantity, a symmetry, an aggregation operator. Their specific forms are only initial values, to be corrected by running forks and comparing them; the same standing under the rules, the ability to exit and fork, and every person's judgment entering, these three meta-rules are the precondition for the iteration itself to be trustworthy.
 - The three layers of alignment, and the first layer determining the other two.
 - No right of inheritance over personal resources. This one is my own opinion about a future institution, not a conclusion derived from the principles that precede it.
 
@@ -47,6 +50,7 @@ The following, taking current and foreseeable computer and AI capabilities as th
 - That the new mechanism produces no new domination as it expands. This requires checking both internal equality and the absence of outward domination at every step of the expansion, rather than deducing it from the mechanism's definition.
 - Whether the rules of distribution and the organizational form can stand on their own once the technology is running. Gains in efficiency do not automatically become fair distribution.
 - The Large Civilization Model and social mechanics. Each of its units is itself a high-dimensional semantic model, and its demand for computing power is several orders of magnitude above today's large models; its training material can only accumulate once the social neural network is running. This is a direction, not a capability of today.
+- The specific correspondences given for freedom, equality and democracy. How the reachable future is computed and how the weights are set are still only initial values, to be corrected by running forks in free zones and comparing them.
 - Whether the results of the virtual laboratory can transfer to reality. Its role is to screen, not to replace real-world testing.
 
 ### Extensions
@@ -60,21 +64,30 @@ This book hopes to be a scientific prophecy capable of fulfilling itself on its 
 ### References
 
 - Newton, I. (1687). *Philosophiæ Naturalis Principia Mathematica*.
+- Condorcet, N. de (1785). *Essai sur l'application de l'analyse à la probabilité des décisions rendues à la pluralité des voix*.
+- Marx, K., & Engels, F. (1848). *Manifest der Kommunistischen Partei*.
+- Lincoln, A. (1863). Gettysburg Address.
 - Einstein, A. (1905). Zur Elektrodynamik bewegter Körper. *Annalen der Physik*.
 - Noether, E. (1918). Invariante Variationsprobleme.
 - Nash, J. (1950). Equilibrium points in n-person games. *PNAS*.
+- May, K. (1952). A set of independent necessary and sufficient conditions for simple majority decision. *Econometrica*.
 - Meehl, P. (1954). *Clinical versus Statistical Prediction*.
 - Simon, H. (1955). On a class of skew distribution functions. *Biometrika*.
 - Lewis, D. (1969). *Convention*.
+- Sen, A. (1970). The impossibility of a Paretian liberal. *Journal of Political Economy*.
 - Anderson, P. W. (1972). More is different. *Science*.
 - Maynard Smith, J., & Price, G. (1973). The logic of animal conflict. *Nature*.
 - Aumann, R. (1976). Agreeing to disagree. *Annals of Statistics*.
 - Nicolis, G., & Prigogine, I. (1977). *Self-Organization in Nonequilibrium Systems*.
 - Jervis, R. (1978). Cooperation under the security dilemma. *World Politics*.
+- Nitzan, S., & Paroush, J. (1982). Optimal decision rules in uncertain dichotomous choice situations. *International Economic Review*.
 - Axelrod, R. (1984). *The Evolution of Cooperation*.
 - Merkle, R. (1987). A digital signature based on a conventional encryption function. *CRYPTO '87*.
 - Littlestone, N., & Warmuth, M. (1994). The weighted majority algorithm. *Information and Computation*.
 - Barabási, A.-L., & Albert, R. (1999). Emergence of scaling in random networks. *Science*.
+- Sen, A. (1999). *Development as Freedom*.
+- Chang, H. (2004). *Inventing Temperature: Measurement and Scientific Progress*.
+- Klyubin, A., Polani, D., & Nehaniv, C. (2005). Empowerment: A universal agent-centric measure of control. *IEEE Congress on Evolutionary Computation*.
 - Tetlock, P. (2005). *Expert Political Judgment*.
 - Saez, E., & Zucman, G. (2016). Wealth inequality in the United States since 1913. *Quarterly Journal of Economics*.
 - Vaswani, A., et al. (2017). Attention is all you need. *NeurIPS*.
